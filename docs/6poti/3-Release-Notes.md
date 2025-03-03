@@ -31,7 +31,7 @@ description: Release Notes
 2. [Rafael's Shader Pack](https://www.nexusmods.com/morrowind/mods/53667)
    * 1.5f to 1.6a
 3. [Nocturnal Moths](https://www.nexusmods.com/morrowind/mods/44148)
-   * 1.2.1 to 2.0b
+   * 1.2.1 to 2.0c
 4. [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
    * 1.02b to 1.04
 5. [Beautiful Cities of Morrowind](https://www.nexusmods.com/morrowind/mods/49231)
@@ -63,6 +63,7 @@ description: Release Notes
 1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
 2. [Dagoth Ur Fleshed Out](https://www.nexusmods.com/morrowind/mods/54070)
 3. [Sign Posts Retextured](https://www.nexusmods.com/morrowind/mods/42126)
+4. [Terror of Tel Amur](https://www.nexusmods.com/morrowind/mods/53673)
    
 ## POTI 2.0 RC3 - 12/25/2024
 
