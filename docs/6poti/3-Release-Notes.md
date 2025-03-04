@@ -60,6 +60,7 @@ description: Release Notes
 45. [Attend Me](https://gitlab.com/urm-openmw-mods/attend-me/-/tree/0.49)
 46. [Friendly Autosave](https://modding-openmw.com/mods/friendly-autosave/)
 47. [Convenient Thief Tools](https://modding-openmw.com/mods/convenient-thief-tools/)
+48. [Third-Person Alt Attacks](https://gitlab.com/fallchildren/openmw-third-person-alt-attacks)
    
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
