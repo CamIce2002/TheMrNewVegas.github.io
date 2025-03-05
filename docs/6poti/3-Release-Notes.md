@@ -62,6 +62,8 @@ description: Release Notes
 47. [Convenient Thief Tools](https://modding-openmw.com/mods/convenient-thief-tools/)
 48. [Third-Person Alt Attacks](https://gitlab.com/fallchildren/openmw-third-person-alt-attacks)
 49. [Under Masser's Gaze](https://www.nexusmods.com/morrowind/mods/55445)
+50. [Iceholme Retreat](https://www.nexusmods.com/morrowind/mods/55221)
+51. [All Races and Classes Unlocked - Vanilla and Tamriel_Data - Changed Khajiit Names](https://www.nexusmods.com/morrowind/mods/54339)
    
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
@@ -128,7 +130,16 @@ description: Release Notes
     * 2.8 to 2.9
 33. [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
     * 1.7.7 to 2.1
-
+34. [Gates of Ascadia](https://www.nexusmods.com/morrowind/mods/53547)
+    * 1.1.1 to 2.0
+35. [Devilish Spines Of Madness](https://www.nexusmods.com/morrowind/mods/53423)
+    * 1.3 to 1.3.1
+36. [Devilish Rocky Red Mountain](https://www.nexusmods.com/morrowind/mods/53473)
+    * 2.2 to 2.3.3
+37. [HiRez Armors - Native Styles V2 Fixed and Optimized](https://www.nexusmods.com/morrowind/mods/47919)
+    * 2.2 to 2.3a
+38. [Nocturnal Moths](https://www.nexusmods.com/morrowind/mods/44148)
+    * 2.0b to 2.0c 
 
 **Removed**
 1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
