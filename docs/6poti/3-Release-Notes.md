@@ -64,6 +64,10 @@ description: Release Notes
 49. [Under Masser's Gaze](https://www.nexusmods.com/morrowind/mods/55445)
 50. [Iceholme Retreat](https://www.nexusmods.com/morrowind/mods/55221)
 51. [All Races and Classes Unlocked - Vanilla and Tamriel_Data - Changed Khajiit Names](https://www.nexusmods.com/morrowind/mods/54339)
+52. [More Deadly Morrowind Denizens - Creatures](https://www.nexusmods.com/morrowind/mods/48745)
+53. [Reincarnate: Races of Morrowind](https://www.nexusmods.com/morrowind/mods/52397)
+54. [Moonlight: Birthsigns of Morrowind](https://www.nexusmods.com/morrowind/mods/52456)
+55. [Realistic Imperial Forts](https://www.nexusmods.com/morrowind/mods/56112)
    
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
@@ -147,6 +151,17 @@ description: Release Notes
 3. [Sign Posts Retextured](https://www.nexusmods.com/morrowind/mods/42126)
 4. [Terror of Tel Amur](https://www.nexusmods.com/morrowind/mods/53673)
 5. [No More Indiferent Actors to Combat](https://www.nexusmods.com/morrowind/mods/54711)
+6. [Darker Imperial Forts Normal Mapped for OpenMW](https://www.nexusmods.com/morrowind/mods/54128)
+7. [Better Dunmer Strongholds](https://www.nexusmods.com/morrowind/mods/49692)
+8. [Lower First-Person Sneak Mode](https://www.nexusmods.com/morrowind/mods/43108)
+9. [Realistic Stealth](https://www.nexusmods.com/morrowind/mods/49021)
+10. [Darknut's Lighted Dwemer Towers](https://www.nexusmods.com/morrowind/mods/51358)
+11. [Markgran Forest (Maar Gan Forest)](https://www.nexusmods.com/morrowind/mods/53627)
+12. [Yet Another Guard Diversity - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/47583)
+13. [Vanilla Friendly Wearables Expansion](https://www.nexusmods.com/morrowind/mods/48683)
+14. [Moon-and-Star - A Birthsign Overhaul](https://www.nexusmods.com/morrowind/mods/55451)
+15. [Shezarrine - A Race Overhaul](https://www.nexusmods.com/morrowind/mods/55442)
+16. [Transmog Menu](https://modding-openmw.gitlab.io/s3ctors-s3cret-st4sh/transmog/)
 
 ## POTI 2.0 RC3 - 12/25/2024
 
