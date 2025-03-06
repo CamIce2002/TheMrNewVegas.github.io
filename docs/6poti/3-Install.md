@@ -11,7 +11,7 @@ description: Path of the Incarnate Installation Guide
 - A legal copy of Morrowind GOTY from Steam or GOG
 - Wabbajack **(It can be found [here](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe))**
 - Visual C++ **(It can be found [here](https://aka.ms/vs/17/release/vc_redist.x64.exe))**
-- OpenMW Development Build **(It can be found [here](https://gitlab.com/OpenMW/openmw/-/jobs/artifacts/master/raw/OpenMW_MSVC2022_64_RelWithDebInfo_master.zip?job=Windows_MSBuild_RelWithDebInfo))**
+- OpenMW .49 RC Build **(It can be found [here](https://github.com/OpenMW/openmw/releases/download/openmw-49-rc5/OpenMW-0.49.0-RC5-win64.exe)**
 - A Nexus account **(Premium recommended; drastically increases install speed)**
 :::
 
@@ -25,9 +25,9 @@ description: Path of the Incarnate Installation Guide
 
 ### 2.) Install OpenMW Development Build 
 
-- If you haven't yet, download the required OpenMW Development Build [here](https://gitlab.com/OpenMW/openmw/-/jobs/artifacts/master/raw/OpenMW_MSVC2022_64_RelWithDebInfo_master.zip?job=Windows_MSBuild_RelWithDebInfo).
+- If you haven't yet, download the required OpenMW Build [here](https://github.com/OpenMW/openmw/releases/download/openmw-49-rc5/OpenMW-0.49.0-RC5-win64.exe).
 
-- Unzip the OpenMW Development Build into the folder you would like it to be installed (I.E. C:/Games/OpenMW .49)
+- Unzip the OpenMW Build into the folder you would like it to be installed (I.E. C:/Games/OpenMW .49)
 
 - Inside the folder, launch openmw-wizard.exe and follow the steps, **unchecking "Import Bitmap Fonts Setup from Morrowind"** at the Import Settings stage. 
 
@@ -49,7 +49,7 @@ description: Path of the Incarnate Installation Guide
 
 - Launch ModOrganizer.exe from your POTI folder, navigate to the dropdown menu at the top right, select it, then select "Edit".
 
-- Set the binary path for "Path of the Incarnate" to openmw.exe, and the OpenMW Launcher to OpenMW-Launcher.exe, both of which can be found in your chosen OpenMW Development Build installation folder. 
+- Set the binary paths for "Path of the Incarnate" to openmw.exe, and the OpenMW Launcher to OpenMW-Launcher.exe, both of which can be found in your chosen OpenMW installation folder. 
 
 ### 7.) Time to Play
 
