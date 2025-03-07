@@ -68,6 +68,11 @@ description: Release Notes
 53. [Reincarnate: Races of Morrowind](https://www.nexusmods.com/morrowind/mods/52397)
 54. [Moonlight: Birthsigns of Morrowind](https://www.nexusmods.com/morrowind/mods/52456)
 55. [Realistic Imperial Forts](https://www.nexusmods.com/morrowind/mods/56112)
+56. [Tribunal Main Quest Reforged](https://www.nexusmods.com/morrowind/mods/54743)
+57. [Walkable Bamz-Amschend](https://www.nexusmods.com/morrowind/mods/54771)
+58. [The Face of Veloth](https://www.nexusmods.com/morrowind/mods/56072)
+59. [Vurt's Male Orc Heads](https://www.nexusmods.com/morrowind/mods/54209)
+60. [Sur's Depths](https://www.nexusmods.com/morrowind/mods/56134)
    
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
