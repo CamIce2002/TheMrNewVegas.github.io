@@ -93,12 +93,6 @@ const config = {
 			docId: '6poti/Home',
             label: 'Path of the Incarnate',
           },
-		  {
-			type: 'doc',
-			position: 'left',
-			docId: '7listo/Home',
-            label: 'Listonomicon',
-          },
           {to: '/blog', label: 'News', position: 'left'},
           {
             href: 'https://discord.gg/43EhRjU',
