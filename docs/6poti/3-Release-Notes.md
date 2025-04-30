@@ -81,7 +81,7 @@ description: Release Notes
 66. [Indoril and Mournhold Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56300)
 67. [Sotha Sil Expanded](https://www.nexusmods.com/morrowind/mods/42347)
 68. [Devilish Wabbajack (OpenMW 0.49)](https://www.nexusmods.com/morrowind/mods/56157)
-69. [Waters of Morrowind](https://www.nexusmods.com/morrowind/mods/50203)
+69. 
    
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
