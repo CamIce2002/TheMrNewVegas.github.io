@@ -35,7 +35,7 @@ A large problem with Morrowind, modded or not,  is that it is party to a host of
 :::caution
 ## **What is it Not?**
 - **A Modifiable List (For the Time Being):** As we iron out issues with the compiled list, we have no time to support custom additions to the list.
-- **A Vanilla/Vanilla+ Experience:** This is by no means a small or vanilla+ list+.
+- **A Vanilla/Lightweight Experience:** This is by no means a vanilla or lightweight list. 
 :::
 
 
