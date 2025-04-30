@@ -31,7 +31,6 @@ Many new player homes accompanied by quests or found hidden throughout Vvardenfe
 
 * Stability, Balance, Bug Fixes, & Performance Improvements:
 A large problem with Morrowind, modded or not,  is that it is party to a host of issues. Without boring you all with the details, I will mention again that this list was made with resources such as Modding-OpenMW and the OpenMW discord. OpenMW itself offers many improvements to stability, and mods such as Patch for Purists handle many bugs and inconsistencies.
-> Disclaimer to the Above: Performance can be subjective, the list was made on a PC with a Ryzen 5 9600x, RX 6700 XT, 32 GB RAM, and an NVMe SSD. At 1080p it stays locked at 60 FPS in 90% of areas and often went above that when uncapped. You may experience a performance hit in larger cities, such as Vivec, or Old Ebonheart in Tamriel Rebuilt. If you know what you're doing, we recommend adjusting some of your launcher and/or in-game graphical settings to alleviate those hits. 
 
 :::caution
 ## **What is it Not?**
