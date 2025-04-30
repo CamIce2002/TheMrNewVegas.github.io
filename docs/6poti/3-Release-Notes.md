@@ -81,7 +81,6 @@ description: Release Notes
 66. [Indoril and Mournhold Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56300)
 67. [Sotha Sil Expanded](https://www.nexusmods.com/morrowind/mods/42347)
 68. [Devilish Wabbajack (OpenMW 0.49)](https://www.nexusmods.com/morrowind/mods/56157)
-69. 
    
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
@@ -195,8 +194,7 @@ description: Release Notes
 56. [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
     * 2.4.0 to 2.4.1
 57. [Dynamic Music](https://www.nexusmods.com/morrowind/mods/53568)
-    * 0.13 to 0.14.1
-58. 
+    * 0.13 to 0.14.1 
 
 **Removed**
 1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
@@ -214,7 +212,13 @@ description: Release Notes
 13. [Vanilla Friendly Wearables Expansion](https://www.nexusmods.com/morrowind/mods/48683)
 14. [Moon-and-Star - A Birthsign Overhaul](https://www.nexusmods.com/morrowind/mods/55451)
 15. [Shezarrine - A Race Overhaul](https://www.nexusmods.com/morrowind/mods/55442)
-
+16. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720)
+17. [Vivec and Velothi - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46266)
+18. [Non-Euclidean Mournhold](https://www.nexusmods.com/morrowind/mods/54005)
+19. [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
+20. [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
+21. [Full Dwemer Retexture](https://www.nexusmods.com/morrowind/mods/44264)
+    
 ## POTI 2.0 RC3 - 12/25/2024
 
 Save Safe? No 
