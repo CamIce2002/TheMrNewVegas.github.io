@@ -43,7 +43,7 @@ description: Path of the Incarnate Installation Guide
 
 - Set your modlist installation location to wherever your would like it (IE: C:/Modlists/POTI) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin.
 
-### 6.) Mod Organizer 2 Setup 
+### 5.) Mod Organizer 2 Setup 
 
 - After Wabbajack installation is done, make sure in Mod Organizer that the OpenMW application directories in the dropdown menu match the locations on your system. If they do not, change them so that they do.
 
@@ -51,11 +51,11 @@ description: Path of the Incarnate Installation Guide
 
 - Set the binary paths for "Path of the Incarnate" to openmw.exe, and the OpenMW Launcher to OpenMW-Launcher.exe, both of which can be found in your chosen OpenMW installation folder. 
 
-### 7.) Time to Play
+### 6.) Time to Play
 
 - You can now select “Path of the Incarnate” from the right hand dropdown in MO2 and press play.
 
-### 8.) Updating the Modlist
+### 7.) Updating the Modlist
 
 - Updating Path of the Incarnate is about as simple as repeating steps 4.) through 6.) of the Installation Guide using the same install paths you chose before.
 
@@ -65,7 +65,7 @@ description: Path of the Incarnate Installation Guide
 - Once the update process has finished, you may place your saves back in their appropriate location.
 :::
 
-### 9.) Uninstalling the Modlist
+### 8.) Uninstalling the Modlist
 
 - To uninstall Path of the Incarnate, delete your POTI folder.
 
