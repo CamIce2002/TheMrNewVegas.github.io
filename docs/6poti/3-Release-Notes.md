@@ -81,7 +81,7 @@ description: Release Notes
 66. [Indoril and Mournhold Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56300)
 67. [Sotha Sil Expanded](https://www.nexusmods.com/morrowind/mods/42347)
 68. [Devilish Wabbajack (OpenMW 0.49)](https://www.nexusmods.com/morrowind/mods/56157)
-69. 
+69. [Waters of Morrowind](https://www.nexusmods.com/morrowind/mods/50203)
    
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
@@ -180,7 +180,7 @@ description: Release Notes
     * 1.61 to 1.62
 49. [Magical Missions Recharged](https://www.nexusmods.com/morrowind/mods/53636)
     * 2.42 to 2.43
-50. [Greymarch Dawn - Whispers of Jyggalag](https://www.nexusmods.com/morrowind/mods/53679)\
+50. [Greymarch Dawn - Whispers of Jyggalag](https://www.nexusmods.com/morrowind/mods/53679)
     * 1.1.1 to 1.2.2
 51. [Maar Gan - Town of Pilgrimage](https://www.nexusmods.com/morrowind/mods/53919)
     * 1.3 to 1.4
@@ -188,7 +188,15 @@ description: Release Notes
     * 1.5 to 1.6
 53. [Astrologian's Guild](https://www.nexusmods.com/morrowind/mods/51216)
     * 1.7.4 to 1.7.5
-54. 
+54. [OAAB Saplings](https://www.nexusmods.com/morrowind/mods/50334)
+    * 2.1.1 to 2.1.2
+55. [OAAB Data](https://www.nexusmods.com/morrowind/mods/49042)
+    * 2.4.1 to 2.5.0
+56. [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
+    * 2.4.0 to 2.4.1
+57. [Dynamic Music](https://www.nexusmods.com/morrowind/mods/53568)
+    * 0.13 to 0.14.1
+58. 
 
 **Removed**
 1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
