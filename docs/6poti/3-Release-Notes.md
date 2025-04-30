@@ -81,6 +81,8 @@ description: Release Notes
 66. [Indoril and Mournhold Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56300)
 67. [Sotha Sil Expanded](https://www.nexusmods.com/morrowind/mods/42347)
 68. [Devilish Wabbajack (OpenMW 0.49)](https://www.nexusmods.com/morrowind/mods/56157)
+69. [Keytars (OpenMW)](https://www.nexusmods.com/morrowind/mods/56323)
+70. [OMW Achievements](https://www.nexusmods.com/morrowind/mods/56298)
    
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
@@ -168,7 +170,7 @@ description: Release Notes
 43. [Gentler Racemenu](https://www.nexusmods.com/morrowind/mods/54142)
     * 1.0.4 to 1.0.5
 44. [Skyrim Style Quest Notifications Great Patch Hub](https://www.nexusmods.com/morrowind/mods/55480)
-    * 1.4 to 1.12
+    * 1.4 to 1.12.1
 45. [OAAB Integrations - OAAB Leveled Lists](https://www.nexusmods.com/morrowind/mods/49045)
     * 5.0 to 6.0
 46. [Blademeister](https://www.nexusmods.com/morrowind/mods/52740)
