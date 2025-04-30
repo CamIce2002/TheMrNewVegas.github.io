@@ -30,7 +30,7 @@ Adjustments have been made to Morrowind's combat, leveling system, and other gam
 Many new player homes accompanied by quests or found hidden throughout Vvardenfell. Wizard towers, secluded hideouts, luxurious estates, and updated existing player homes all can be found throughout the game for you to settle down and take a breather.
 
 * Stability, Balance, Bug Fixes, & Performance Improvements:
-A large problem with Morrowind, modded or not,  is that it is party to a host of issues. Without boring you all with the details, I will mention again that this list was made with resources such as Modding-OpenMW and the OpenMW discord. OpenMW itself offers many improvements to stability, and mods such as Patch for Purists handle many bugs and inconsistencies.
+A large problem with Morrowind, modded or not,  is that it is party to a host of issues. OpenMW itself offers many improvements to stability, and mods included such as Patch for Purists handle many bugs and inconsistencies.
 
 :::caution
 ## **What is it Not?**
