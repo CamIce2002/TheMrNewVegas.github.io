@@ -87,11 +87,11 @@ description: Release Notes
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
    * 1.2.4 to 1.3.0
 2. [Rafael's Shader Pack](https://www.nexusmods.com/morrowind/mods/53667)
-   * 1.5f to 1.6a
+   * 1.5f to 1.7c
 3. [Nocturnal Moths](https://www.nexusmods.com/morrowind/mods/44148)
    * 1.2.1 to 2.0c
 4. [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
-   * 1.02b to 1.04
+   * 1.02b to 1.07
 5. [Beautiful Cities of Morrowind](https://www.nexusmods.com/morrowind/mods/49231)
    * 3.2.1 to 3.2.4
 6. [Daedric Shrine Overhaul](https://www.nexusmods.com/morrowind/mods/54679)
@@ -140,24 +140,31 @@ description: Release Notes
     * 2.9.3 to 2.9.4
 29. [Akulakhan's Best Chamber](https://www.nexusmods.com/morrowind/mods/49644)
     * 1.3.4 to 1.3.6
-30. [Skywind Concept Art Arena](https://www.nexusmods.com/morrowind/mods/53907)
-    * 1.3 to 1.4
-31. [Concept Art Palace](https://www.nexusmods.com/morrowind/mods/48136)
+30. [Concept Art Palace](https://www.nexusmods.com/morrowind/mods/48136)
     * 2.4 to 2.6
-32. [Immersive Mournhold](https://www.nexusmods.com/morrowind/mods/49353)
+31. [Immersive Mournhold](https://www.nexusmods.com/morrowind/mods/49353)
     * 2.8 to 2.9
-33. [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
+32. [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
     * 1.7.7 to 2.1
-34. [Gates of Ascadia](https://www.nexusmods.com/morrowind/mods/53547)
+33. [Gates of Ascadia](https://www.nexusmods.com/morrowind/mods/53547)
     * 1.1.1 to 2.0
-35. [Devilish Spines Of Madness](https://www.nexusmods.com/morrowind/mods/53423)
+34. [Devilish Spines Of Madness](https://www.nexusmods.com/morrowind/mods/53423)
     * 1.3 to 1.3.1
-36. [Devilish Rocky Red Mountain](https://www.nexusmods.com/morrowind/mods/53473)
+35. [Devilish Rocky Red Mountain](https://www.nexusmods.com/morrowind/mods/53473)
     * 2.2 to 2.3.3
-37. [HiRez Armors - Native Styles V2 Fixed and Optimized](https://www.nexusmods.com/morrowind/mods/47919)
+36. [HiRez Armors - Native Styles V2 Fixed and Optimized](https://www.nexusmods.com/morrowind/mods/47919)
     * 2.2 to 2.3a
-38. [Nocturnal Moths](https://www.nexusmods.com/morrowind/mods/44148)
-    * 2.0b to 2.0c 
+37. [Nocturnal Moths](https://www.nexusmods.com/morrowind/mods/44148)
+    * 2.0b to 2.0c
+38. [Aether Pirate's Discovery](https://www.nexusmods.com/morrowind/mods/53320)
+    * 1.2 to 1.3
+39. [Questline - Vivec Lighthouse Keeper](https://www.nexusmods.com/morrowind/mods/52120)
+    * 1.11 to 1.2
+40. [OpenMW Animated Pickup and Shop Around](https://www.nexusmods.com/morrowind/mods/54585)
+    * 1.21a to 1.25
+41. [Playable Game of Ur](https://www.nexusmods.com/morrowind/mods/53914)
+    * 1.02 to 1.03
+42. 
 
 **Removed**
 1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
