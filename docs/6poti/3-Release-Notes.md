@@ -178,7 +178,17 @@ description: Release Notes
     * 1.3 to 1.4
 48. [Morag Tong Polished](https://www.nexusmods.com/morrowind/mods/47041)
     * 1.61 to 1.62
-49. 
+49. [Magical Missions Recharged](https://www.nexusmods.com/morrowind/mods/53636)
+    * 2.42 to 2.43
+50. [Greymarch Dawn - Whispers of Jyggalag](https://www.nexusmods.com/morrowind/mods/53679)\
+    * 1.1.1 to 1.2.2
+51. [Maar Gan - Town of Pilgrimage](https://www.nexusmods.com/morrowind/mods/53919)
+    * 1.3 to 1.4
+52. [Justice for Khartag (J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
+    * 1.5 to 1.6
+53. [Astrologian's Guild](https://www.nexusmods.com/morrowind/mods/51216)
+    * 1.7.4 to 1.7.5
+54. 
 
 **Removed**
 1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
