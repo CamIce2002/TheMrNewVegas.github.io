@@ -37,8 +37,7 @@ A large problem with Morrowind, modded or not,  is that it is party to a host of
 :::caution
 ## **What is it Not?**
 - **A Modifiable List (For the Time Being):** As we iron out issues with the compiled list, we have no time to support custom additions to the list.
-- **A Vanilla/Vanilla+ Experience:** This is by no means a small or vanilla+ list+.
-:::
+- **A Vanilla/Vanilla+ Experience:** This is by no means a small or vanilla+ list+.:::
 
 ## **What is OpenMW?**
 OpenMW is a free and open-source game engine recreation that reimplements the one powering Bethesda Softworks' 2002 open-world role-playing game The Elder Scrolls III: Morrowind. For more info please visit the [OpenMW Website](https://openmw.org/en/)
