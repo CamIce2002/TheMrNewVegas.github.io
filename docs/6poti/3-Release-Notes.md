@@ -30,7 +30,7 @@ description: Release Notes
 15. [Take Cover (OpenMW)](https://www.nexusmods.com/morrowind/mods/54976)
 16. [UnderCity](https://www.nexusmods.com/morrowind/mods/54773)
 17. [Waters of Morrowind](https://www.nexusmods.com/morrowind/mods/50203)
-18. [Walkable Sotha Sil](https://www.nexusmods.com/morrowind/mods/55560)
+18. [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
 19. [Vampire Masquerade - A Detailed Overhaul](https://www.nexusmods.com/morrowind/mods/56101)
 20. [Barristers Guild - Old Ebonheart Questline](https://www.nexusmods.com/morrowind/mods/55995)
 21. [Clayby's Cream Cheese and Cherry Cake](https://www.nexusmods.com/morrowind/mods/55915)
@@ -71,8 +71,17 @@ description: Release Notes
 56. [Tribunal Main Quest Reforged](https://www.nexusmods.com/morrowind/mods/54743)
 57. [Walkable Bamz-Amschend](https://www.nexusmods.com/morrowind/mods/54771)
 58. [The Face of Veloth](https://www.nexusmods.com/morrowind/mods/56072)
-59. [Vurt's Male Orc Heads](https://www.nexusmods.com/morrowind/mods/54209)
+59. [Vurt's Vanilla Orc Heads](https://www.nexusmods.com/morrowind/mods/54209)
 60. [Sur's Depths](https://www.nexusmods.com/morrowind/mods/56134)
+61. [The Wake of Hanin - Ibar-Dad Overhaul](https://www.nexusmods.com/morrowind/mods/56206)
+62. [Vurt's Animated BC Trees](https://www.nexusmods.com/morrowind/mods/56332)
+63. [Vurt's Animated Ascadian Isles Trees](https://www.nexusmods.com/morrowind/mods/56334)
+64. [Velothi Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56235)
+65. [Dwemer Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56398)
+66. [Indoril and Mournhold Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56300)
+67. [Sotha Sil Expanded](https://www.nexusmods.com/morrowind/mods/42347)
+68. [Devilish Wabbajack (OpenMW 0.49)](https://www.nexusmods.com/morrowind/mods/56157)
+69. 
    
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
@@ -166,7 +175,6 @@ description: Release Notes
 13. [Vanilla Friendly Wearables Expansion](https://www.nexusmods.com/morrowind/mods/48683)
 14. [Moon-and-Star - A Birthsign Overhaul](https://www.nexusmods.com/morrowind/mods/55451)
 15. [Shezarrine - A Race Overhaul](https://www.nexusmods.com/morrowind/mods/55442)
-16. [Transmog Menu](https://modding-openmw.gitlab.io/s3ctors-s3cret-st4sh/transmog/)
 
 ## POTI 2.0 RC3 - 12/25/2024
 
