@@ -105,7 +105,7 @@ description: Release Notes
 11. [Stormrider Ship - Expanded Lands](https://www.nexusmods.com/morrowind/mods/53736)
     * 1.2 to 1.4
 12. [OpenMW Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/54148)
-    * 1.26 to 1.28
+    * 1.26 to 1.33a
 13. [Detect All Keys](https://www.nexusmods.com/morrowind/mods/52778)
     * 1.0.2 to 2.0
 14. [The Northern Strongholds](https://www.nexusmods.com/morrowind/mods/53171)
@@ -123,9 +123,9 @@ description: Release Notes
 20. [Lore Accurate Artifacts](https://www.nexusmods.com/morrowind/mods/54470)
     * 1.1.1 to 1.2
 21. [Dras the Dunmer Legionnaire](https://www.nexusmods.com/morrowind/mods/51446)
-    * 3.1.5 to 3.1.6b
+    * 3.1.5 to 3.2
 22. [Indoril Mansion](https://www.nexusmods.com/morrowind/mods/53022)
-    * 1.3 to 1.4
+    * 1.3 to 1.5
 23. [Of Melodies and Moonlight - A Sadrith Mora Artist](https://www.nexusmods.com/morrowind/mods/53307)
     * 5.7 to 5.8
 24. [Forgotten Wastes](https://www.nexusmods.com/morrowind/mods/54162)
@@ -164,7 +164,21 @@ description: Release Notes
     * 1.21a to 1.25
 41. [Playable Game of Ur](https://www.nexusmods.com/morrowind/mods/53914)
     * 1.02 to 1.03
-42. 
+42. [The Wizard's Affair](https://www.nexusmods.com/morrowind/mods/52349)
+    * 1.0.1 to 1.1
+43. [Gentler Racemenu](https://www.nexusmods.com/morrowind/mods/54142)
+    * 1.0.4 to 1.0.5
+44. [Skyrim Style Quest Notifications Great Patch Hub](https://www.nexusmods.com/morrowind/mods/55480)
+    * 1.4 to 1.12
+45. [OAAB Integrations - OAAB Leveled Lists](https://www.nexusmods.com/morrowind/mods/49045)
+    * 5.0 to 6.0
+46. [Blademeister](https://www.nexusmods.com/morrowind/mods/52740)
+    * 1.5 to 1.6
+47. [Draggle-Tail Shack](https://www.nexusmods.com/morrowind/mods/53305)
+    * 1.3 to 1.4
+48. [Morag Tong Polished](https://www.nexusmods.com/morrowind/mods/47041)
+    * 1.61 to 1.62
+49. 
 
 **Removed**
 1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
