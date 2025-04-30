@@ -12,7 +12,12 @@ description: Path of the Incarnate
 ## **Join our [Discord](https://discord.gg/43EhRjU)**
 
 ## **What is Path of the Incarnate?**
-Path of the Incarnate is an original mod list for OpenMW, aiming to offer a fresh, stable, and immersive Morrowind experience. This is all accomplished while preserving the alien charm the vanilla game exuded. From new quests, landmass overhauls & additions, hundreds of new items & NPCs, enhanced combat & leveling, graphical improvements, and much more, you'll be able to experience this Bethesda classic with 20+ years of community love, all in an easy-to-install package.
+Path of the Incarnate is a Wabbajack mod list for OpenMW. It's designed to offer a fresh, stable, and immersive experience for new and old players alike, without polishing off the alien charm that many fans of Morrowind have come to love. From new quests, landmass overhauls & additions, hundreds of new items & NPCs, adjustments to combat & leveling, graphical overhauls, and much more, you'll be able to experience this Bethesda classic with 20+ years of community love, all in an easy-to-install package.
+
+* Graphical Changes
+A large majority of the landscapes, visual effects, world objects, weapons, armor, and anything else you can think of have been completely changed in some form. Whether upscaled, added to, or retextured entirely, you can experience the visuals of Morrowind in a new light.
+
+
 :::caution
 ## **What is it Not?**
 - **A Modifiable List (For the Time Being):** As we iron out issues with the compiled list, we have no time to support custom additions to the list.
