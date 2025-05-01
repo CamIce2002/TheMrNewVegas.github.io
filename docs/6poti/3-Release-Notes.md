@@ -220,6 +220,7 @@ description: Release Notes
 19. [Remiros' Ascadian Isles Trees 2](https://www.nexusmods.com/morrowind/mods/45779)
 20. [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
 21. [Full Dwemer Retexture](https://www.nexusmods.com/morrowind/mods/44264)
+22. [Alteration Movement](https://www.nexusmods.com/morrowind/mods/53313)
     
 ## POTI 2.0 RC3 - 12/25/2024
 
