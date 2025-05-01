@@ -83,12 +83,18 @@ description: Release Notes
 68. [Devilish Wabbajack (OpenMW 0.49)](https://www.nexusmods.com/morrowind/mods/56157)
 69. [Keytars (OpenMW)](https://www.nexusmods.com/morrowind/mods/56323)
 70. [OMW Achievements](https://www.nexusmods.com/morrowind/mods/56298)
+71. [Endgame Medium Armor Rebalance](https://www.nexusmods.com/morrowind/mods/53758)
+72. [Songbook of the North](https://www.nexusmods.com/morrowind/mods/46936)
+73. [Songbook of the North - Dynamic Music](https://www.nexusmods.com/morrowind/mods/53635)
+74. [Vurt's Animated Solstheim Trees](https://www.nexusmods.com/morrowind/mods/56442)
+75. [Hlaalu Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56451)
+76. [Tamriel Rebuilt - Official Soundtrack](https://www.nexusmods.com/morrowind/mods/47254)
    
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
    * 1.2.4 to 1.3.0
 2. [Rafael's Shader Pack](https://www.nexusmods.com/morrowind/mods/53667)
-   * 1.5f to 1.7c
+   * 1.5f to 1.7d
 3. [Nocturnal Moths](https://www.nexusmods.com/morrowind/mods/44148)
    * 1.2.1 to 2.0c
 4. [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
@@ -196,7 +202,13 @@ description: Release Notes
 56. [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
     * 2.4.0 to 2.4.1
 57. [Dynamic Music](https://www.nexusmods.com/morrowind/mods/53568)
-    * 0.13 to 0.14.1 
+    * 0.13 to 0.14.1
+58. [Caldera Priory and the Depths of Blood and Bone](https://www.nexusmods.com/morrowind/mods/52898)
+    * 2.1 to 2.2
+59. [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)
+    * 11.0 to 25.05
+60. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
+    * 24.12 to 25.05
 
 **Removed**
 1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
@@ -221,6 +233,8 @@ description: Release Notes
 20. [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
 21. [Full Dwemer Retexture](https://www.nexusmods.com/morrowind/mods/44264)
 22. [Alteration Movement](https://www.nexusmods.com/morrowind/mods/53313)
+23. [Vurt's Solstheim Tree Replacer II](https://www.nexusmods.com/morrowind/mods/37856)
+24. [Hlaalu - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46246)
     
 ## POTI 2.0 RC3 - 12/25/2024
 
