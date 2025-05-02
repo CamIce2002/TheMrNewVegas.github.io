@@ -211,6 +211,10 @@ description: Release Notes
     * 24.12 to 25.05
 61. [Django's Dialogue - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/52121)
     * 1.4 to 1.5
+62. [Weapons Expansion Project - Cleaned and Capitalized](https://www.nexusmods.com/morrowind/mods/53869)
+    * 2.0 to 2.0.2
+63. [Diverse Khajiit - New and Improved](https://www.nexusmods.com/morrowind/mods/48832)
+    * 2.1 to 2.2
 
 **Removed**
 1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
