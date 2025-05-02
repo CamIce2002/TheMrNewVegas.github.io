@@ -126,7 +126,7 @@ description: Release Notes
 18. [Holidays Across Tamriel - Morrowind Mainland](https://www.nexusmods.com/morrowind/mods/55249)
     * 1.1.0 to 1.1.1
 19. [ReAnimation V2 - Rogue - First-Person Animation Pack](https://www.nexusmods.com/morrowind/mods/52596)
-    * 2.4 to 2.5
+    * 2.4 to 2.5.2
 20. [Lore Accurate Artifacts](https://www.nexusmods.com/morrowind/mods/54470)
     * 1.1.1 to 1.2
 21. [Dras the Dunmer Legionnaire](https://www.nexusmods.com/morrowind/mods/51446)
