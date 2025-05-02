@@ -209,6 +209,8 @@ description: Release Notes
     * 11.0 to 25.05
 60. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
     * 24.12 to 25.05
+61. [Django's Dialogue - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/52121)
+    * 1.4 to 1.5
 
 **Removed**
 1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
