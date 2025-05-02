@@ -236,6 +236,7 @@ description: Release Notes
 23. [Vurt's Solstheim Tree Replacer II](https://www.nexusmods.com/morrowind/mods/37856)
 24. [Hlaalu - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46246)
 25. [Fixed Dwemer Doors Direction](https://www.nexusmods.com/morrowind/mods/54485)
+26. [Weapon Refinement Lua](https://www.nexusmods.com/morrowind/mods/54712)
     
 ## POTI 2.0 RC3 - 12/25/2024
 
