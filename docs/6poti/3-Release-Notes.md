@@ -89,6 +89,7 @@ description: Release Notes
 74. [Vurt's Animated Solstheim Trees](https://www.nexusmods.com/morrowind/mods/56442)
 75. [Hlaalu Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56451)
 76. [Tamriel Rebuilt - Official Soundtrack](https://www.nexusmods.com/morrowind/mods/47254)
+77. [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/46066)
    
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
