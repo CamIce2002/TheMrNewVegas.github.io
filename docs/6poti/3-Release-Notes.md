@@ -244,6 +244,8 @@ description: Release Notes
 24. [Hlaalu - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46246)
 25. [Fixed Dwemer Doors Direction](https://www.nexusmods.com/morrowind/mods/54485)
 26. [Weapon Refinement Lua](https://www.nexusmods.com/morrowind/mods/54712)
+27. [Protective Guards (OpenMW)](https://www.nexusmods.com/morrowind/mods/46992)
+28. [Protective Guards - Factions and NPCs Protections (OpenMW)](https://www.nexusmods.com/morrowind/mods/54858)
     
 ## POTI 2.0 RC3 - 12/25/2024
 
