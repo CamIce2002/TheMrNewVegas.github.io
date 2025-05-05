@@ -90,6 +90,7 @@ description: Release Notes
 75. [Hlaalu Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56451)
 76. [Tamriel Rebuilt - Official Soundtrack](https://www.nexusmods.com/morrowind/mods/47254)
 77. [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/46066)
+78. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
    
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
@@ -111,7 +112,7 @@ description: Release Notes
 10. [Morrowind Redux](https://www.nexusmods.com/morrowind/mods/54060)
     * 2.2.1 to 2.2.2
 11. [Stormrider Ship - Expanded Lands](https://www.nexusmods.com/morrowind/mods/53736)
-    * 1.2 to 1.4
+    * 1.2 to 1.5
 12. [OpenMW Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/54148)
     * 1.26 to 1.33a
 13. [Detect All Keys](https://www.nexusmods.com/morrowind/mods/52778)
@@ -216,6 +217,10 @@ description: Release Notes
     * 2.0 to 2.0.2
 63. [Diverse Khajiit - New and Improved](https://www.nexusmods.com/morrowind/mods/48832)
     * 2.1 to 2.2
+64. [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219)
+    * 13.2 to 14.0
+65. [Some OpenMW Post Process Shaders](https://www.nexusmods.com/morrowind/mods/53747)
+    * 1.3 to 1.4
 
 **Removed**
 1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
