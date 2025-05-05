@@ -10,7 +10,7 @@ description: Release Notes
 
 ## Releases (Newest to Oldest)  
 
-## POTI 2.0 RC4 - TBR
+## POTI 2.0 RC4 - 05/05/2025
 
 **Added**
 1. [Unholy Trinity - Dagoth Ur - Vemynal - Ordrosal Remade](https://www.nexusmods.com/morrowind/mods/55564)
@@ -221,6 +221,10 @@ description: Release Notes
     * 13.2 to 14.0
 65. [Some OpenMW Post Process Shaders](https://www.nexusmods.com/morrowind/mods/53747)
     * 1.3 to 1.4
+66. [Project Cyrodiil](https://www.nexusmods.com/morrowind/mods/44922)
+    * 24.12a to 25.05
+67. [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921)
+    * 24.12b to 25.05
 
 **Removed**
 1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
@@ -251,6 +255,7 @@ description: Release Notes
 26. [Weapon Refinement Lua](https://www.nexusmods.com/morrowind/mods/54712)
 27. [Protective Guards (OpenMW)](https://www.nexusmods.com/morrowind/mods/46992)
 28. [Protective Guards - Factions and NPCs Protections (OpenMW)](https://www.nexusmods.com/morrowind/mods/54858)
+29. [Light Hotkey](https://www.nexusmods.com/morrowind/mods/51981)
     
 ## POTI 2.0 RC3 - 12/25/2024
 
