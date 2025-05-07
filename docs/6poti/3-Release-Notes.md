@@ -18,8 +18,8 @@ Save Safe? No
 1. [Unholy Trinity - Dagoth Ur - Vemynal - Ordrosal Remade](https://www.nexusmods.com/morrowind/mods/55564)
 2. [Project Cyrodiil - SSQN Patch](https://www.nexusmods.com/morrowind/mods/55688)
 3. [From the Flaming Realm](https://www.nexusmods.com/morrowind/mods/54696)
-4. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957)
-5. [Near Vanilla Road Sign Replacer - Updated](https://www.nexusmods.com/morrowind/mods/55651)
+4. [Signposts Replacer for Tamriel Rebuilt and Vvardenfell](https://www.nexusmods.com/morrowind/mods/55496)
+5. [Signposts Replacer for Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/55656)
 6. [Diverse Blood for Tamriel Rebuilt and Project Tamriel](https://www.nexusmods.com/morrowind/mods/55687)
 7. [Logs on Fire - Skyrim](https://www.nexusmods.com/morrowind/mods/55665)
 8. [Project Cyrodiil - SSQN Patch](https://www.nexusmods.com/morrowind/mods/55688)
@@ -93,6 +93,7 @@ Save Safe? No
 76. [Tamriel Rebuilt - Official Soundtrack](https://www.nexusmods.com/morrowind/mods/47254)
 77. [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/46066)
 78. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
+79. [Signposts Replacer for Project Cyrodiil Abecean Shores](https://www.nexusmods.com/morrowind/mods/55648)
    
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
