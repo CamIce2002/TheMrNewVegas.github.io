@@ -12,6 +12,8 @@ description: Release Notes
 
 ## POTI 2.0 RC4 - 05/05/2025
 
+Save Safe? No
+
 **Added**
 1. [Unholy Trinity - Dagoth Ur - Vemynal - Ordrosal Remade](https://www.nexusmods.com/morrowind/mods/55564)
 2. [Project Cyrodiil - SSQN Patch](https://www.nexusmods.com/morrowind/mods/55688)
