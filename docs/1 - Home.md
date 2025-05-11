@@ -22,11 +22,11 @@ This wiki encompasses the information regarding all modlists developed by member
 - Co-Founder of the Original BYC Staff Team, author of [Ordo Hereticus](https://www.nexusmods.com/games/warhammer40kdarktide/collections/rzdfo4) for Warhammer 40K: Darktide, and head of all server operations involving community management, staff member onboarding, user help, wiki management, and much more.
 
 ![ClayWeb](https://github.com/user-attachments/assets/682fa134-b283-4785-a612-26d5cb631b1a)
-### **Assistant to the Community Manager:** Clayby 
+### **Assistant to the Community Manager:** [Clayby](https://ko-fi.com/clayby) 
 - Founding Member of BYC Staff and assistant to the community manager. Author of [Path of the Incarnate](https://www.modlists.net/docs/6poti/Home) and helps to fill in roles/duties of Community Management where needed
 
 ![OatRexWeb](https://github.com/user-attachments/assets/31c0fc6c-33eb-4ca7-9144-f4ce5a57868f)
-### **Helper:** Oat
+### **Helper:** [Oat](https://ko-fi.com/boneyard)
 - Founding memeber of BYC Staff with a shifted focus from user-list assistance to server development and management. 
 
 ## __Development Team__
@@ -36,11 +36,11 @@ This wiki encompasses the information regarding all modlists developed by member
 - Founding Member of BYC Staff and head of list development in addition to development team tasks and operations. Author of [Halls of Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/105520) for Skyrim Special Edition in addition to [Year of the Blight](https://www.modlists.net/docs/category/year-of-the-blight) for Dragon Age: Origins.
 
 ![MT4LWeb](https://github.com/user-attachments/assets/738b75cc-4d53-4ccf-8485-86e682019d30)
-### **Developer:** McTiddies4Lunch
+### **Developer:** [McTiddies4Lunch](https://ko-fi.com/boneyard)
 - Co-Founder of the Original BYC Staff Team and author of lists such as Nostalgia for Fallout New Vegas and the Unreleased Lost Runes for Skyrim Special Edition.
 
 ![forgeweb](https://github.com/user-attachments/assets/ae5c9ca4-5c41-43fc-988f-ec128b6259f9)
-### **Developer:** Forge
+### **Developer:** [Forge](https://ko-fi.com/boneyard)
 - Originally a developer for late stage Capital Punishment whose focus has shifted to general development assistance with all lists and titles from BYC.
 
 
