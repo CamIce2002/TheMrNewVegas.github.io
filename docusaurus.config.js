@@ -119,16 +119,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Subreddit',
-                href: 'https://www.reddit.com/r/boneyardcreations/',
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@boneyardcreations',
               },
               {
                 label: 'Discord',
                 href: 'https://discord.gg/43EhRjU',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/BYCMods',
+                label: 'Subreddit',
+                href: 'https://www.reddit.com/r/boneyardcreations/',
               },
             ],
           },
