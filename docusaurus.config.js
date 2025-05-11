@@ -43,9 +43,6 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
         },
-        blog: {
-          showReadingTime: true,
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -93,7 +90,6 @@ const config = {
 			docId: '6poti/Home',
             label: 'Path of the Incarnate',
           },
-          {to: '/blog', label: 'News', position: 'left'},
           {
             href: 'https://discord.gg/43EhRjU',
             label: 'Discord',
@@ -133,10 +129,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'News',
-                to: '/blog',
-              },
             ],
           },
         ],
