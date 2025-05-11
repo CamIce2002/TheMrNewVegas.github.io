@@ -75,12 +75,6 @@ const config = {
 		  {
 			type: 'doc',
 			position: 'left',
-			docId: 'docs/Home',
-            label: 'Home',
-          },
-		  {
-			type: 'doc',
-			position: 'left',
 			docId: '4hos/Home',
             label: 'Halls of Sovngarde',
           },
@@ -95,6 +89,12 @@ const config = {
 			position: 'left',
 			docId: '6poti/Home',
             label: 'Path of the Incarnate',
+          },
+		  {
+			type: 'doc',
+			position: 'left',
+			docId: '8-YOTB/Home',
+            label: 'Year of the Blight',
           },
           {
             href: 'https://discord.gg/43EhRjU',
