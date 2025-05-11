@@ -7,23 +7,16 @@ sidebar_position: 1
 
 ![bannerl2rv2](https://user-images.githubusercontent.com/112358568/227137823-9d40c675-4193-4547-a7f5-e4dc66423c50.png)
 
-This wiki encompasses the information regarding all modlists developed by members of the Boneyard Creations Staff Team. Our original list, Capital Punishment, has received much criticism and praise, both fair and unfair. From it all, we have taken both the fair criticism and praise to heart and have improved upon our previous attempts. Over months of trial, error, and learning, we have made Capital Punishment into something we are proud of and that we feel is a stable and new experience for the budding masochist and new player alike. With this newfound knowledge, we have decided to branch into different titles, using our combined strengths to try and make the most enjoyable modified gameplay experiences possible.
-
-This does not go without saying that none of this would be possible without the volunteers who have spent countless hours working on open source mods, readable guides/materials, and more for these games we love. The credit should always be given to them first and foremost and I hope that you all take the time to endorse a few of your favorites, leave an encouraging comment, or show them love in some other form if you install one of our lists.
-
-## **Latest Development Stream**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DgcT8Fm_gtc" title="1.5 Release Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+This wiki encompasses the information regarding all modlists developed by members of the Boneyard Creations Staff Team. From our original list, Capital Punishment, to our currently active lists such as Halls of Sovngarde, we truly hope you enjoy each experience we have hand crafted for you! Additionally, none of this would be possible without the volunteers who have spent countless hours working on open source mods, readable guides/materials, and more for these games we love. The credit should always be given to them first and foremost and I hope that you all take the time to endorse a few of your favorites, leave an encouraging comment, or show them love in some other form when you install any list.
 
 ## **The Boneyard Creations Staff**
 
+![MNVWeb](https://github.com/user-attachments/assets/296fdde3-b4f6-4515-b414-d2af7ca454ac)
 ### **Community & Development Lead:** [TheMrNewVegas](https://discord.gg/43EhRjU)
-- TheMrNewVegas (myself) is the original founding member and lead for Boneyard Creations Team. He is also very handsome (his mom told him so no argument) and benches, like, 5 plates easy.
-
-![image](https://user-images.githubusercontent.com/112358568/223336503-5c2b0a35-ef85-4505-a47a-1d8763a514db.png)
+- Founder of Boneyard Creations & original creator of the Vortex list "FNV True Vegas". This, of course, eventually turned into Capital Punishment for Tale of Two Wastelands (thankfully).
 
 ### **Community Manager**: [Bird/Lilly](https://linktr.ee/lillybird69)
-- The head of our Help team as well as one of the driving forces behind documentation, outreach, and other behind the scenes development for the community.
+- Co-Founder and head of all server operations involving community management, staff members, wiki management, and much more.
 
 ![image](https://user-images.githubusercontent.com/112358568/210427354-a304fc08-f74e-47fe-ad71-736bfa93e8e9.png)
 
