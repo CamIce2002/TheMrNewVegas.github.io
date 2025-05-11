@@ -9,34 +9,40 @@ sidebar_position: 1
 
 This wiki encompasses the information regarding all modlists developed by members of the Boneyard Creations Staff Team. From our original list, Capital Punishment, to our currently active lists such as Halls of Sovngarde, we truly hope you enjoy each experience we have hand crafted for you! Additionally, none of this would be possible without the volunteers who have spent countless hours working on open source mods, readable guides/materials, and more for these games we love. The credit should always be given to them first and foremost and I hope that you all take the time to endorse a few of your favorites, leave an encouraging comment, or show them love in some other form when you install any list.
 
-## **The Boneyard Creations Staff**
+# __**The Boneyard Creations Staff**__
 
 ![MNVWeb](https://github.com/user-attachments/assets/296fdde3-b4f6-4515-b414-d2af7ca454ac) 
 ### **Head of Staff:** [TheMrNewVegas](https://discord.gg/43EhRjU)
 - Founder of Boneyard Creations & original creator of the Vortex list "FNV True Vegas". This, of course, eventually turned into Capital Punishment for Tale of Two Wastelands (thankfully).
 
+## __Help/Community Management Team__
+
+![BirdWeb](https://github.com/user-attachments/assets/209bf9d4-aeb1-4858-8176-7fbe568bd3a9)
 ### **Community Manager**: [Bird/Lilly](https://linktr.ee/lillybird69)
-- Co-Founder and head of all server operations involving community management, staff members, wiki management, and much more.
+- Co-Founder of the Original BYC Staff Team, author of [Ordo Hereticus](https://www.nexusmods.com/games/warhammer40kdarktide/collections/rzdfo4) for Warhammer 40K: Darktide, and head of all server operations involving community management, staff member onboarding, user help, wiki management, and much more.
 
-![image](https://user-images.githubusercontent.com/112358568/210427354-a304fc08-f74e-47fe-ad71-736bfa93e8e9.png)
+![ClayWeb](https://github.com/user-attachments/assets/682fa134-b283-4785-a612-26d5cb631b1a)
+### **Assistant to the Community Manager:** Clayby 
+- Founding Member of BYC Staff and assistant to the community manager. Author of [Path of the Incarnate](https://www.modlists.net/docs/6poti/Home) and helps to fill in roles/duties of Community Management where needed
 
-### **Lead Developer:** [McTiddies4Lunch](https://linktr.ee/mctiddies)
-- The head of our Development team, Tiddies is second to TheMrNewVegas in leading developmental changes to the modpack while also delegating development tasks to other developers. In addition he is the creator of Nostalgia & the soon to come Lost Runes modlists.
+![OatRexWeb](https://github.com/user-attachments/assets/31c0fc6c-33eb-4ca7-9144-f4ce5a57868f)
+### **Helper:** Oat
+- Founding memeber of BYC Staff with a shifted focus from user-list assistance to server development and management. 
 
-![image](https://user-images.githubusercontent.com/112358568/210428921-904333d6-8ead-4a71-9762-8ee4a26bb83c.png)
+## __Development Team__
 
-### **Developer:** SexyThighs
-- One of the first members of the original staff team, Thighs has been instrumental in our bug testing and problem solving departments. Primarily functioning as QA, Sexythighs ensures all changes made to our lists are functional and that the list does not contain any game breaking issues 
+![CamWeb](https://github.com/user-attachments/assets/1ed13458-9e4a-4d67-b83e-76a06bd35404)
+### **Lead Developer:** [CamBoi](https://ko-fi.com/camboi)
+- Founding Member of BYC Staff and head of list development in addition to development team tasks and operations. Author of [Halls of Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/105520) for Skyrim Special Edition in addition to [Year of the Blight](https://www.modlists.net/docs/category/year-of-the-blight) for Dragon Age: Origins.
 
-### **Developer:** Camboi
-- Cam is the main developer and maintainer for our Xedit patch which has fixed a heap of discrepancies and bugs in the mod list. In addition, he works hand in hand with our lead developer to ensure that issues are not present with large changes to the list and has a direct hand in list development and maintenance.
+![MT4LWeb](https://github.com/user-attachments/assets/738b75cc-4d53-4ccf-8485-86e682019d30)
+### **Developer:** McTiddies4Lunch
+- Co-Founder of the Original BYC Staff Team and author of lists such as Nostalgia for Fallout New Vegas and the Unreleased Lost Runes for Skyrim Special Edition.
 
-### **Helpers:** Clayby & Oatasaurus Rex
-- These are our bread and butter. While we try to make things work properly, these are the individuals who dedicates their free time to ensuring those with any troubleshooting/in game issues can have expedient assistance and hopefully get things resolved. In addition to this, they are also essential in both the bug & general gameplay testing departments.
+![forgeweb](https://github.com/user-attachments/assets/ae5c9ca4-5c41-43fc-988f-ec128b6259f9)
+### **Developer:** Forge
+- Originally a developer for late stage Capital Punishment whose focus has shifted to general development assistance with all lists and titles from BYC.
 
-![image](https://user-images.githubusercontent.com/112358568/223551281-46fa2020-f8e8-42cb-b02a-fa468e1505a0.png)
-
-![image](https://user-images.githubusercontent.com/112358568/223551336-b2a636d9-992b-4210-9f4e-63b5787f9869.png)
 
 ## Credits
 
