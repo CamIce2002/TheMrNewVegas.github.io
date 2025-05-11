@@ -93,7 +93,7 @@ const config = {
 		  {
 			type: 'doc',
 			position: 'left',
-			docId: '8-YOTB/Home',
+			docId: '8yotb/Home',
             label: 'Year of the Blight',
           },
           {
