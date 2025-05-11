@@ -11,8 +11,7 @@ This wiki encompasses the information regarding all modlists developed by member
 
 ## **The Boneyard Creations Staff**
 
-![MNVWeb](https://github.com/user-attachments/assets/296fdde3-b4f6-4515-b414-d2af7ca454ac)
-### **Head of Staff:** [TheMrNewVegas](https://discord.gg/43EhRjU)
+### ![MNVWeb](https://github.com/user-attachments/assets/296fdde3-b4f6-4515-b414-d2af7ca454ac) **Head of Staff:** [TheMrNewVegas](https://discord.gg/43EhRjU)
 - Founder of Boneyard Creations & original creator of the Vortex list "FNV True Vegas". This, of course, eventually turned into Capital Punishment for Tale of Two Wastelands (thankfully).
 
 ### **Community Manager**: [Bird/Lilly](https://linktr.ee/lillybird69)
