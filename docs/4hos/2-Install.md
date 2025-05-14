@@ -21,7 +21,12 @@ description: Halls of Sovngarde Installation Guide
 
 ### 1.) Install a fresh copy of Skyrim SE
 
-> If a copy has already been installed the game can be uninstalled, ini's deleted in User/Documents/My Games/Skyrim Special Edition, and then reinstalled like normal through steam
+::: note
+
+If a copy has already been installed the game can be uninstalled.
+- INI should also be deleted in `User/Documents/My Games/Skyrim Special Edition`, and then reinstalled like normal through the below steps.
+
+:::
 
 ### 2.) Run the game once
 - Make sure the game has been ran at least once to the main menu to generate the required fresh ini's and update all CC content through the Creations menu
@@ -51,21 +56,34 @@ description: Halls of Sovngarde Installation Guide
 
 :::  
 
-### 6.) Open Mod Organizer 2
+## __Part 3: Post Wabbajack Install/Setting Up Mod Organizer 2__
+
+### 6.) Opening Mod Organizer 2 & Setting Directories
 - After Wabbajack installation is done, go to the modlist's folder and open Mod Organizer 2.
 - When MO2 opens, ensure that all of the application directories in the dropdown match the locations on your system.
 - This dropdown is at the top right of MO2. If the locations do not match, change them so that they do.
 
-### 7.) At the top left of MO2, go to Tools/Settings/Paths/Managed Game. Make sure that this is set to your Halls of Sovngarde folder & not your Vanilla Skyrim (IE: C:/HoS/Stock Game/SkyrimSE.exe)
+### 7.) Managing Your Game Directory
+- At the top left of MO2, go to Tools/Settings/Paths/Managed Game.
+- Make sure that this is set to your Halls of Sovngarde folder & not your Vanilla Skyrim (IE: `C:/HoS/Stock Game/SkyrimSE.exe`)
 
-> The following steps will need to be done every time the list is installed/updated
+:::note 
 
-### 8.) At the top left of MO2, click on the puzzle icon which will open up a dropdown menu for various tools. Choose Set CPU Affinity and first clear if there's anything there, then select the tool again and change the affinity
+Steps **6 & 7** will need to be done every time the list is installed/updated
 
-### 9.) You can now select “Halls of Sovngarde” from the right hand dropdown and press play
+:::
+
+### 8.) Setting CPU Affinity 
+- At the top left of MO2, click on the puzzle icon which will open up a dropdown menu for various tools.
+- Choose Set CPU Affinity and first clear if there's anything there.
+- Then select the tool again and change the affinity
+
+### 9.) Ready to Play
+- You can now select “Halls of Sovngarde” from the right hand dropdown and press play
 
 :::tip
-# Optional Post-Install Steps
+
+## __Part 4: Optional Post-Install Steps__
 
 - [This](https://docs.google.com/document/d/12QomWYtzGeq62f6MZ-gMKf62Go1AhRFo/mobilebasic) guide can be followed to change some of the included ini's to more performance friendly versions
 - For lower end machines, all LOD output and grass mods can be disabled and the Ugly Skyrim mod can be activated
@@ -80,12 +98,14 @@ description: Halls of Sovngarde Installation Guide
 
 :::
 
-# **Part 2: In Game Guide**
+# **In Game Setup**
 
-### 1.) When you have loaded into your save, press enter and select preset or go into Skyrim Unbound MCM and customize character. Choose to stay in starting area, don't continue.
+### 1.) Loading Into Your Save
+- When you have loaded into your save, press enter and select preset or go into Skyrim Unbound MCM and customize character.
+- Choose to stay in starting area, don't continue.
+- Let the scripts finish running before continuing to the next step.
 
-### 2.) Let scripts finish running
+### 3.) Installing Requiem
+- Go into the inventory and exit to start the Requiem install and distribute 3 perks
 
-### 3.) Go into and exit inventory to start Requiem install and distribute 3 perks
-
-### 4.) Press enter and select continue
+### 4.) Press Enter & Select Continue
