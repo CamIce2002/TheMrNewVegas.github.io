@@ -15,23 +15,46 @@ description: Halls of Sovngarde Installation Guide
 - Page File Size of Skyrim increased to 20-40GB  
 :::
 
-# **Part 1: Installation Guide**
+# **Installation Guide**
+
+## __Part 1: Setting Up Skyrim__
 
 ### 1.) Install a fresh copy of Skyrim SE
 
 > If a copy has already been installed the game can be uninstalled, ini's deleted in User/Documents/My Games/Skyrim Special Edition, and then reinstalled like normal through steam
 
-### 2.) Make sure the game has been ran at least once to the main menu to generate the required fresh ini's and update all CC content through the Creations menu
+### 2.) Run the game once
+- Make sure the game has been ran at least once to the main menu to generate the required fresh ini's and update all CC content through the Creations menu
 
-### 3.) Launch your installed Wabbajack & go to the Cogwheel at the top right. Log into your Nexus account through here
+## __Part 2: Setting Up/Installing Through Wabbajack__
 
-### 4.) If you are installing the list through Wabbajack’s Gallery, go to “Browse Modlists” then search Halls of Sovngarde. Click the download icon,
+### 3.) Download & Launch Wabbajack 
+- Download the Wabbajack program from [here](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe)
+- Launch your installed Wabbajack & go to the Cogwheel at the top right. Log into your Nexus account through here
 
-### 5.) Set your modlist installation location to wherever your would like it (IE: C:/Modlists/HoS) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin
+### 4.) Downloading from the Wabbajack Gallery
+- If you are installing the list through Wabbajack’s Gallery, go to “Browse Modlists” then search Halls of Sovngarde.
+- Select the list, then click the download icon.
+- Wait for it to finish intiliazing, then continue to the next step.
 
-> If the installation fails at Sforzinda Imitations you may download the file from **[here](https://drive.google.com/file/d/1yj9cxN0MAFQVuOpDNg2NJl0BAZHZm7CZ/edit)**. Place this into your populated `Halls of Sovngarde/downloads` folder, then restart the Wabbajack installation
+### 5.) Setting Modlist Installation Locations
+- Set your modlist installation location to wherever your would like it
+- A good location would be something like `C:/Modlists/HoS`.
 
-### 6.) After Wabbajack installation is done make sure in MO2 that all of the application directories in the dropdown match the locations on your system. If they do not, change them so that they do.
+:::note
+ Always put your modlists/steam games on the root of your drive as shown above to avoid issues with protected directories.
+:::
+
+- & it will automatically create the downloads directory for you.
+- Press the play button when you are done and installation will begin.
+
+> If the installation fails at Sforzinda Imitations you may download the file from **[here](https://drive.google.com/file/d/1yj9cxN0MAFQVuOpDNg2NJl0BAZHZm7CZ/edit)**.
+> Place this into your populated `Halls of Sovngarde/downloads` folder, then restart the Wabbajack installation
+
+### 6.) Open Mod Organizer 2
+- After Wabbajack installation is done, go to the modlist's folder and open Mod Organizer 2.
+- When MO2 opens, ensure that all of the application directories in the dropdown match the locations on your system.
+- This dropdown is at the top right of MO2. If the locations do not match, change them so that they do.
 
 ### 7.) At the top left of MO2, go to Tools/Settings/Paths/Managed Game. Make sure that this is set to your Halls of Sovngarde folder & not your Vanilla Skyrim (IE: C:/HoS/Stock Game/SkyrimSE.exe)
 
