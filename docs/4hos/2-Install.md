@@ -21,7 +21,7 @@ description: Halls of Sovngarde Installation Guide
 
 ### 1.) Install a fresh copy of Skyrim SE
 
-::: note
+:::note
 
 If a copy has already been installed the game can be uninstalled.
 - INI should also be deleted in `User/Documents/My Games/Skyrim Special Edition`, and then reinstalled like normal through the below steps.
