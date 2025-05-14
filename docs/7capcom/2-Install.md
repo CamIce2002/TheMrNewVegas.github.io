@@ -21,8 +21,8 @@ description: Capital Commonwealth Installation Guide
 
 ### 3.) Launch Wabbajack & go to the Cogwheel at the top right. Log into your Nexus account through here
 
-### 4.) Find Capitol Commonwealth in the WJ UI, and select install
+### 4.) Find Capital Commonwealth in the WJ UI, and select install
 
-### 5.) Set your modlist installation location to wherever your would like it (IE: C:/Modlists/Capitol Commonwealth) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin
+### 5.) Set your modlist installation location to wherever your would like it (IE: C:/Modlists/Capital Commonwealth) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin
 
 ### 6.) You can now select “Capital Commonwealth” from the right hand dropdown and press play  
