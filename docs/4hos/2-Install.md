@@ -38,20 +38,18 @@ description: Halls of Sovngarde Installation Guide
 - Wait for it to finish intiliazing, then continue to the next step.
 
 ### 5.) Setting Modlist Installation Locations
-- Set your modlist installation location to wherever your would like it
+- Set your modlist installation location to wherever your would like it, it will automatically create the downloads directory for you.
 - A good location would be something like `C:/Modlists/HoS`.
+- Press the play button when you are done and installation will begin.
 
 :::note
 
  Always put your modlists/steam games on the root of your drive as shown above to avoid issues with protected directories.
- 
-:::
 
-- & it will automatically create the downloads directory for you.
-- Press the play button when you are done and installation will begin.
+ Additionally, If the installation fails at Sforzinda Imitations you may download the file from **[here](https://drive.google.com/file/d/1yj9cxN0MAFQVuOpDNg2NJl0BAZHZm7CZ/edit)**.
+ - Place this into your populated `Halls of Sovngarde/downloads` folder, then restart the Wabbajack installation
 
-> If the installation fails at Sforzinda Imitations you may download the file from **[here](https://drive.google.com/file/d/1yj9cxN0MAFQVuOpDNg2NJl0BAZHZm7CZ/edit)**.
-> Place this into your populated `Halls of Sovngarde/downloads` folder, then restart the Wabbajack installation
+:::  
 
 ### 6.) Open Mod Organizer 2
 - After Wabbajack installation is done, go to the modlist's folder and open Mod Organizer 2.
