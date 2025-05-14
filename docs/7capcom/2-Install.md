@@ -2,7 +2,7 @@
 layout: default
 title: Installation Guide
 nav_order: 2
-description: Capitol Commonwealth Installation Guide
+description: Capital Commonwealth Installation Guide
 ---
 
 :::info
@@ -25,4 +25,4 @@ description: Capitol Commonwealth Installation Guide
 
 ### 5.) Set your modlist installation location to wherever your would like it (IE: C:/Modlists/Capitol Commonwealth) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin
 
-### 6.) You can now select “Capitol Commonwealth” from the right hand dropdown and press play  
+### 6.) You can now select “Capital Commonwealth” from the right hand dropdown and press play  
