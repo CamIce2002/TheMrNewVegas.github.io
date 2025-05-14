@@ -42,7 +42,9 @@ description: Halls of Sovngarde Installation Guide
 - A good location would be something like `C:/Modlists/HoS`.
 
 :::note
+
  Always put your modlists/steam games on the root of your drive as shown above to avoid issues with protected directories.
+ 
 :::
 
 - & it will automatically create the downloads directory for you.
