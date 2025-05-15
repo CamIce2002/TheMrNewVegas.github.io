@@ -125,3 +125,49 @@ You can use the Gene Starcher to lock/unlock your current mutations. You will di
 - UNSTABLE ISOTOPE - You have a chance to release a deadly radiation blast when hit in melee at low health, but you take 15% more damage from explosives.
 
 - VENGEFUL RAGE - When you kill an enemy, your companions deal double damage and take half as much damage for 15 seconds, but you have -2 Perception and -2 Agility for the same amount of time.
+
+
+## Reputation
+
+You now accrue a reputation among the various factions and towns of the Commonwealth! This is a highly faithful and dynamic recreation of New Vegas’s reputation system, incorporated into Fallout 4.
+
+
+**Features**
+
+HIT SQUADS
+- Reaching a very negative reputation with some factions may cause hit squads to start spawning, similar to NCR Ranger Squads﻿ or Legionary Assassins﻿ in New Vegas.
+- These hit squads have two variants. Factions will either patrol in search of you, or they will actively pursue and attack you.
+- You can stop these attacks by making peace or amicability with the faction, or by wiping out the faction entirely.
+- Hit Squads have one overall cooldown timer for spawning and an individual cooldown for each hit squad, so you will not be spammed with them while fast traveling around the map.
+
+GIFT GIVERS
+- Reaching a positive reputation with some factions may cause gift givers to start spawning, similar to the Megaton Settler﻿ in Fallout 3.
+- These gift givers will give you whatever their faction can provide. Wealthy factions may attempt to buy your favor with lavish gifts and gear, while poorer factions will give you whatever they can offer to show their gratitude, such as the food that they've grown on their land.
+- Gift Givers have a cooldown timer for triggering, so you won't be harassed every time you visit a faction location.
+
+SUPPLY CRATES
+- Reaching a positive reputation with some factions may provide you with access to their gear, materials, or a tribute chest in your honor. Similar to faction safehouses in New Vegas, such as the NCR Ranger Safehouse﻿ or Brotherhood of Steel Safehouse﻿.
+- Supply crates are placed in conspicuous spots in the faction's "main area".
+- Some factions will lock their crate if you are not eligible for it. Some factions may hide their crate entirely.
+- The loot in each supply crate is relevant to the factions wealth and equipment.
+
+IDOLIZED PERKS
+- Reaching a very positive reputation with factions will reward you with a unique idolized perk for that faction.
+- This perk is only kept if you maintain a very positive reputation with the faction, breaking their trust will cause you to lose the perk.
+- Idolized perks are powerful and unique, but not game-breaking or unbalanced. They serve as little cherries-on-top for specific builds, relevant to the faction.
+- This feature is inspired by Sweet6Shooter﻿'s FNV/TTW mod, Friends With Benefits Perk Pack﻿.
+
+DYNAMIC PRICING
+- Faction vendors will change their prices for buying and selling depending on that faction's overall opinion of you.
+- If you have a positive reputation, buying will be cheaper and selling will be more profitable.
+- If you have a negative reputation, buying will be more expensive and selling will be less profitable.
+
+SALUTES
+- Generic NPCs in the more organized or militaristic factions will have a chance to salute you when you look at them, depending on how liked you are.
+- Each salute-capable faction has a unique salute or set of unique salute animations that will play when eligible.
+- This feature is inspired by pericov1﻿'s mod, NCR Salute - ESPless﻿.
+
+CRIME DETECTION
+- Actions and crimes are dynamically detected in a number of different ways, for responsiveness.
+- Detected crimes include Assault, Murder, Trespassing, Stealing, Intimidations, and more!
+- These actions will cause an appropriate amount of infamy gain for the affected faction... but only if you are detected by a member of that faction.
