@@ -5,6 +5,8 @@ nav_order: 4
 description: Capital Commonwealth Installation Guide
 ---
 
+![image](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/splash.png)
+
 # Quests & Adventures
 
 :::info
