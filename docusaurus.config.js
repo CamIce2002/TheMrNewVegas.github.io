@@ -93,6 +93,12 @@ const config = {
 		  {
 			type: 'doc',
 			position: 'left',
+			docId: '7capcom/Home',
+            label: 'Capital Commonwealth',
+          },
+		  {
+			type: 'doc',
+			position: 'left',
 			docId: '8yotb/Home',
             label: 'Year of the Blight',
           },
