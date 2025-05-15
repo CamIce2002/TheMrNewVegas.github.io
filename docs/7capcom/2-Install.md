@@ -31,4 +31,4 @@ description: Capital Commonwealth Installation Guide
 
 ### 7.) You can now select “Capital Commonwealth” from the right hand dropdown and press play  
 
-### 7.) OPTIONAL: Go into MCM menu and enable Feral Ghoul Infestations for full experience
+### OPTIONAL: Go into MCM menu and enable Feral Ghoul Infestations for full experience
