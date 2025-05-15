@@ -37,7 +37,7 @@ This wiki encompasses the information regarding all modlists developed by member
 
 ![MT4LWeb](https://github.com/user-attachments/assets/738b75cc-4d53-4ccf-8485-86e682019d30)
 ### **Developer:** [McTiddies4Lunch](https://ko-fi.com/boneyard)
-- Co-Founder of the Original BYC Staff Team and author of lists such as Nostalgia for Fallout New Vegas and the Unreleased Lost Runes for Skyrim Special Edition.
+- Co-Founder of the Original BYC Staff Team and author of lists such as Capital Commonwealth for Fallout 4, Nostalgia for Fallout New Vegas, and the Unreleased Lost Runes for Skyrim Special Edition.
 
 ![forgeweb](https://github.com/user-attachments/assets/ae5c9ca4-5c41-43fc-988f-ec128b6259f9)
 ### **Developer:** [Forge](https://ko-fi.com/boneyard)
