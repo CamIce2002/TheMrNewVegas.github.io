@@ -9,4 +9,4 @@ description: Capital Commonwealth
 
 ## What is Capital Commonwealth?
 
-Overhauls the Commonwealth to match the vibes of the Capital Wasteland of Fallout 3, also borrows some systems and gear from New Vegas. This list will be a gritty, tough experience that you will have to use your head to get through alive. From feral ghoul infestations, to realistic, tough, and fear inducing power armor that requires training to use.
+Capital Commonwealth is a modlist inspired by Fallout 3's Capital Wasteland, with some bits of New Vegas sprinkled in, it's a harder list, but not to the point of being a chore to play. It maintains a gritty, unsafe, and dark atmosphere, without sacrificing fun, and playability. This list transforms the commonwealth into a barren, greenish wasteland, adds new PA features such as: Training requirements, PA scarcity, Impenetrable armor plating (until it breaks), and the ability to strike fear into your foes as you walk in the room.. It is now the walking tank it should be. As for other features, we have the FO3 and FNV leveling system, the Karma system, reputation, locational damage, mutations, and ghoul infestations!
