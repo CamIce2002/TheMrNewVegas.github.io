@@ -5,7 +5,7 @@ nav_order: 1
 description: Capital Commonwealth
 ---
 
-![image](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/splash.png)
+![image](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/splash2.png)
 
 ## What is Capital Commonwealth?
 
