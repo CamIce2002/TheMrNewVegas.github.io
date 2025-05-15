@@ -13,6 +13,9 @@ description: Capital Commonwealth Installation Guide
 ### **Original Sources for All Information**
 
 - [Classic Power Armor Training](https://www.nexusmods.com/fallout4/mods/65671)
+- [New Vegas Skill System](https://www.nexusmods.com/fallout4/mods/89337)
+- [Mutation](https://www.nexusmods.com/fallout4/mods/79288)
+- [Reputation](https://www.nexusmods.com/fallout4/mods/79394)
 
 :::
 *** 
