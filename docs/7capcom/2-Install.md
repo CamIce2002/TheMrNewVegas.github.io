@@ -5,6 +5,8 @@ nav_order: 2
 description: Capital Commonwealth Installation Guide
 ---
 
+![image](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/splash.png)
+
 :::info
 ## **Requirements:**
 - ~95 GB of space, 27GB from downloads can be deleted after installation is complete 
