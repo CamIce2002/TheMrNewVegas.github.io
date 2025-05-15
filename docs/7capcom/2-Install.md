@@ -27,4 +27,6 @@ description: Capital Commonwealth Installation Guide
 
 ### 5.) Set your modlist installation location to wherever your would like it (IE: C:/Modlists/Capital Commonwealth) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin
 
-### 6.) You can now select “Capital Commonwealth” from the right hand dropdown and press play  
+### 6.) When Install finishes, navigate to the install location and open ModOrganizer.exe
+
+### 7.) You can now select “Capital Commonwealth” from the right hand dropdown and press play  
