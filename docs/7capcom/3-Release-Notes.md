@@ -4,6 +4,24 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 0.1.1
+
+Save Safe? Yes
+
+**Added**
+- Power Armor Holo hud
+- N99 10mm Pistol
+- Polluted Climate and TS Patch
+- Seasonal winter mods as optional files in MO2
+
+**Removed**
+- Pip-Boy Flashlight
+- Darker Nights
+- Capital Wasteland 10mm Pistol
+
+**Updated**
+
+
 # Release 0.1.0
 
 Save Safe? NO
