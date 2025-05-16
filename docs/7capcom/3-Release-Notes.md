@@ -4,6 +4,31 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 0.1.0
+
+Save Safe? NO
+
+**Added**
+- Pip-Boy Flashlight
+- VUWR Vanilla Unique Weapons Remastered
+- Classic Radscorpion Replacer
+- Classic Melee Replacer
+- Arbitration
+- SCDC - Subjective Cinematic Dialogue Camera
+- F4z Ro D-oh - Silent Voice
+- Faction Housing Overhaul - All In One
+- Do Your Damn Job Codsworth
+- Crafting Highlight Fix
+- Fast Start - Skip Sanctuary Prologue
+- Intro Tweaks
+
+**Removed**
+- Start Me Up Redux
+- Settlments Reborn
+
+**Updated**
+
+
 # Release 0.0.6
 
 Save Safe? YES
