@@ -21,6 +21,7 @@ Save Safe? NO
 - Crafting Highlight Fix
 - Fast Start - Skip Sanctuary Prologue
 - Intro Tweaks
+- Classic UI Sounds
 
 **Removed**
 - Start Me Up Redux
