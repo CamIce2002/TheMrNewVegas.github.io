@@ -9,16 +9,15 @@
 Save Safe? Yes
 
 **Added**
-- Power Armor Holo hud
+- Power Armor Holo Hud
 - N99 10mm Pistol
 - Polluted Climate and TS Patch
-- Seasonal winter mods as optional files in MO2
+- Seasonal winter mods as optional files in MO2 for future use
 
 **Removed**
-- Pip-Boy Flashlight
-- Darker Nights
-- Capital Wasteland 10mm Pistol
-
+- Pip-Boy Flashlight (Messed with pip boy 3000)
+- Darker Nights (polluted climate isn't compatible)
+- Capital Wasteland 10mm Pistol (Found a better one)
 **Updated**
 
 
