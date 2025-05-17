@@ -24,6 +24,7 @@ Save Safe? No
 - LAER
 - 9x39 Project
 - That gun
+- Boston Riot Armor
 
 **Removed**
 - R91
