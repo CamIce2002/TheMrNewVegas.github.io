@@ -40,10 +40,8 @@ Save Safe? No
 - Rifles Rebirth
 
 
-**Updated**
-
-
-
+**Fixed**
+- Bug with pip boy switching back at vault door cutscene
 
 
 # Release 0.1.1
