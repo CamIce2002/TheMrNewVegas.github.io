@@ -4,6 +4,21 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 0.1.3 (Unreleased)
+
+Save Safe? Yes
+
+**Added**
+- 
+
+**Removed**
+-
+
+**Fixed**
+- Issues between G67 Combat Rifle & CWH fixed
+- 
+
+
 # Release 0.1.2
 
 Save Safe? No
