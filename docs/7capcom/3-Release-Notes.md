@@ -4,6 +4,27 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 0.2.0 (Unreleased)
+
+Save Safe? Yes
+
+**Added**
+- Lethal Deathclaws
+- DirectHit
+- Dynamic Helmet
+- Vanillafied - See Through Scopes
+
+**Removed**
+- Better Locational Damage 
+- Better Locational Damage - RobCo Patch
+- Better Power Armor - A Power Armor Overhaul
+
+**Updated**
+- Glock Plasma Defender
+
+**Fixed**
+-
+
 # Release 0.1.3
 
 Save Safe? Yes
