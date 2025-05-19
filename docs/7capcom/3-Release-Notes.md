@@ -17,6 +17,7 @@ Save Safe? Yes
 **Fixed**
 - Issues between G67 Combat Rifle & CWH fixed
 - Fixed invisible creatures
+- Fixed issue with underwear replacer not showing
 
 
 # Release 0.1.2
