@@ -6,7 +6,7 @@
 
 # Release 0.2.0 (Unreleased)
 
-Save Safe? Yes
+Save Safe? No
 
 **Added**
 - Lethal Deathclaws
@@ -14,11 +14,35 @@ Save Safe? Yes
 - Dynamic Helmet
 - Vanillafied - See Through Scopes
 - Gas Mask Hat Fix
+- Simple FOV Slider
+- Workshop Highlight Fix
+- Remove Ammo from Dropped Guns
+- Dogmeat Follow Behind
+- Complex Vendors
+- Loot Logic and Reduction With optional Harvest Restrictions
+- Simple Everyone's Best Friend
+- Targeted Textures
+- Frame Job
+- Fallout 4 Particle Patch
+- WET - Water Enhancement Textures
+- Sniper Scope Overlay And Reticles Replacement
+- Weapon Mod Fixes - WMF
+- X-Cell
+- Weapon Debris Crash Fix
+- Extended Fake Interiors
+- Anom's Sanctuary Hills Overhaul
+- Cannibal Toast's PRP Patch Compendium
+- Previsibines Repair Pack Stable Branch - PRP
 
 **Removed**
 - Better Locational Damage 
 - Better Locational Damage - RobCo Patch
 - Better Power Armor - A Power Armor Overhaul
+- Everyone's Best Friend
+- See-Through-Scopes
+- See Through Scopes - Night Vision
+- Vanillafied - See Through Scopes
+- Do Your Damn Job Codsworth
 
 **Updated**
 - Glock Plasma Defender
