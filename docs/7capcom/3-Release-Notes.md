@@ -32,6 +32,7 @@ Save Safe? No
 - Anom's Sanctuary Hills Overhaul
 - Cannibal Toast's PRP Patch Compendium
 - Previsibines Repair Pack Stable Branch - PRP
+- Fatigue - Enhanced Combat Realism
 
 **Removed**
 - Better Locational Damage 
