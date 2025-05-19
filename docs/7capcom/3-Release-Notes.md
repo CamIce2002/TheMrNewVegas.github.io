@@ -12,7 +12,6 @@ Save Safe? No
 - Lethal Deathclaws
 - DirectHit
 - Dynamic Helmet
-- Vanillafied - See Through Scopes
 - Gas Mask Hat Fix
 - Simple FOV Slider
 - Workshop Highlight Fix
@@ -41,7 +40,6 @@ Save Safe? No
 - Everyone's Best Friend
 - See-Through-Scopes
 - See Through Scopes - Night Vision
-- Vanillafied - See Through Scopes
 - Do Your Damn Job Codsworth
 
 **Updated**
