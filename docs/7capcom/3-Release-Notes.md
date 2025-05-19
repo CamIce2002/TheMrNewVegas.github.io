@@ -13,6 +13,7 @@ Save Safe? Yes
 - DirectHit
 - Dynamic Helmet
 - Vanillafied - See Through Scopes
+- Gas Mask Hat Fix
 
 **Removed**
 - Better Locational Damage 
