@@ -16,7 +16,7 @@ Save Safe? Yes
 
 **Fixed**
 - Issues between G67 Combat Rifle & CWH fixed
-- 
+- Fixed invisible creatures
 
 
 # Release 0.1.2
