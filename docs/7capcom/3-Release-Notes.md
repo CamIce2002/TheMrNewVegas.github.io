@@ -39,7 +39,7 @@ Save Safe? No
 - Better Locational Damage - RobCo Patch
 - Better Power Armor - A Power Armor Overhaul
 - Everyone's Best Friend
-- See-Through-Scopes
+- See-Through-Scopes (Sorta, I still use some files from the mod)
 - See Through Scopes - Night Vision
 - Do Your Damn Job Codsworth
 
