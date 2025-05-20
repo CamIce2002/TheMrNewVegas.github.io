@@ -42,6 +42,7 @@ Save Safe? No
 - See-Through-Scopes (Sorta, I still use some files from the mod)
 - See Through Scopes - Night Vision
 - Do Your Damn Job Codsworth
+- Dak's Assault Rifle - See Through Scopes
 
 **Updated**
 - Glock Plasma Defender
