@@ -33,6 +33,7 @@ Save Safe? No
 - Cannibal Toast's PRP Patch Compendium
 - Previsibines Repair Pack Stable Branch - PRP
 - Fatigue - Enhanced Combat Realism
+- High Resolution Texture Pack 2K and 4K - Valius
 
 **Removed**
 - Better Locational Damage 
