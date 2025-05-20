@@ -9,7 +9,7 @@ description: Capital Commonwealth Installation Guide
 
 :::info
 ## **Requirements:**
-- ~95 GB of space, 27GB from downloads can be deleted after installation is complete 
+- ~105 GB of space, 32GB from downloads can be deleted after installation is complete 
 - A legal copy of Fallout 4, with ALL DLC updated to the most recent version  
 :::
 
