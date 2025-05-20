@@ -49,6 +49,7 @@ Save Safe? No
 
 **Fixed**
 - Looks Menu issues
+- New game loading issue
 
 # Release 0.1.3
 
