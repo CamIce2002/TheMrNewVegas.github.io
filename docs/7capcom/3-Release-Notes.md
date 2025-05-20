@@ -34,6 +34,20 @@ Save Safe? No
 - Previsibines Repair Pack Stable Branch - PRP
 - Fatigue - Enhanced Combat Realism
 - High Resolution Texture Pack 2K and 4K - Valius
+- Automated Loadscreen Replacer (ALR) 21x9
+- Power Armor Intercom Voice
+- No Combat Boundaries - Revised and Renewed
+- Disable Companion Collision
+- Radiation Overhaul - 4x Radiation
+- Real Water HD for ENB
+- Vehicle Retextures - Left To Rot
+- Reptilic DeathClaws
+- Enhanced Vanilla Armor and Clothing - EVAC
+- Hollywood Laser Bolts
+- Hollywood Bullet Tracers
+- Aggressive synth voice overhaul
+- Fallout Priority
+- LOD Resources
 
 **Removed**
 - Better Locational Damage 
@@ -44,6 +58,7 @@ Save Safe? No
 - See Through Scopes - Night Vision
 - Do Your Damn Job Codsworth
 - Dak's Assault Rifle - See Through Scopes
+- Classic Deathclaws Redux
 
 **Updated**
 - Glock Plasma Defender
@@ -51,6 +66,7 @@ Save Safe? No
 **Fixed**
 - Looks Menu issues
 - New game loading issue
+- Generated new LOD's
 
 # Release 0.1.3
 
