@@ -48,6 +48,9 @@ Save Safe? No
 - Aggressive synth voice overhaul
 - Fallout Priority
 - LOD Resources
+- FIS
+- FallUI Icon Library
+- FallUI Sleep Wait
 
 **Removed**
 - Better Locational Damage 
