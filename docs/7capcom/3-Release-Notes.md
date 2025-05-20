@@ -48,7 +48,7 @@ Save Safe? No
 - Glock Plasma Defender
 
 **Fixed**
--
+- Looks Menu issues
 
 # Release 0.1.3
 
