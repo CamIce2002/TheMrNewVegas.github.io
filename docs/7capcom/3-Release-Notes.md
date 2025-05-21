@@ -70,6 +70,7 @@ Save Safe? No
 - Looks Menu issues
 - New game loading issue
 - Generated new LOD's
+- FO4Edit Patch started
 
 # Release 0.1.3
 
