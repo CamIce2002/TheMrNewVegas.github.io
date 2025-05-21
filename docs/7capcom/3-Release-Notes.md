@@ -71,6 +71,7 @@ Save Safe? No
 - New game loading issue
 - Generated new LOD's
 - FO4Edit Patch started
+- Raider armor is patched for CBBE
 
 # Release 0.1.3
 
