@@ -4,7 +4,7 @@
 
 # Releases (Newest to Oldest)  
 
-# Release 0.2.0 (Unreleased)
+# Release 0.2.0
 
 Save Safe? No
 
@@ -72,6 +72,7 @@ Save Safe? No
 - Generated new LOD's
 - FO4Edit Patch started
 - Raider armor is patched for CBBE
+- ENB download issue
 
 # Release 0.1.3
 
