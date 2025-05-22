@@ -16,6 +16,8 @@ Save Safe? No
 
 **Updated**
 - Project Ares
+- CHALLENGES - F4NV
+- Targeted Textures
 
 **Fixed**
 -
