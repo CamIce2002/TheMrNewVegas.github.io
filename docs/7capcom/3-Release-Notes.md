@@ -4,6 +4,22 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 0.2.1 [Unreleased]
+
+Save Safe? No
+
+**Added**
+- Fix camera clipping
+
+**Removed**
+-
+
+**Updated**
+- Project Ares
+
+**Fixed**
+-
+
 # Release 0.2.0
 
 Save Safe? No
