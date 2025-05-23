@@ -4,12 +4,13 @@
 
 # Releases (Newest to Oldest)  
 
-# Release 0.2.1 [Unreleased]
+# Release 0.2.1
 
 Save Safe? No
 
 **Added**
 - Fix camera clipping
+- More loading screen images
 
 **Removed**
 -
@@ -20,7 +21,7 @@ Save Safe? No
 - Targeted Textures
 
 **Fixed**
--
+- America Rising 2 missing heads
 
 # Release 0.2.0
 
