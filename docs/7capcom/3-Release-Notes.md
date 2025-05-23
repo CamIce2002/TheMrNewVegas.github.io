@@ -13,7 +13,7 @@ Save Safe? No
 - More loading screen images
 
 **Removed**
--
+- Nothing
 
 **Updated**
 - Project Ares
