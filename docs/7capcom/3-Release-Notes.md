@@ -4,6 +4,25 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 0.2.2 (UNRELEASED)
+
+Save Safe? Yes
+
+**Added**
+- More loading screen images
+
+**Removed**
+- Nothing Yet
+
+**Updated**
+- Glock Plasma Gun
+- Hunting Shotgun
+
+**Fixed**
+- Nothing Yet
+
+
+
 # Release 0.2.1
 
 Save Safe? Yes
@@ -22,6 +41,7 @@ Save Safe? Yes
 
 **Fixed**
 - America Rising 2 missing heads
+- Virgil glitched head
 
 # Release 0.2.0
 
