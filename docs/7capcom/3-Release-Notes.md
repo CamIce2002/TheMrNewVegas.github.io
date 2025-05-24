@@ -6,13 +6,33 @@
 
 # Release 0.2.2 (UNRELEASED)
 
-Save Safe? Yes
+Save Safe? No
 
 **Added**
 - More loading screen images
+- Power Armors Redone - 2K
+- SavrenX Better Robots and HD Liberty Prime
+- Synthkind Redefined
+- Retro Institute
+- ITO Institute Technology Overhaul
+- Courser Crusher
+- Heavy Institute Armor Corpus Praesidium
+- Phase 4 An Institute Expansion
+- SWITCHBOARD
+- Railroad Heavy Armor
+- Minutemen Marshal Outfits
+- Minutemen Ranger Outfits
+- Minutemen Scout Outfit
+- Who's The General
+- You And What Army 2
+- Minutemen Takeover - Nuka World
+- Buttons - Companion
+- Buffed Minutemen Militia
+- Minutemen Supply Caches
+- Minutemen Manufacturing
 
 **Removed**
-- Nothing Yet
+- We Are The Minutemen
 
 **Updated**
 - Glock Plasma Gun
