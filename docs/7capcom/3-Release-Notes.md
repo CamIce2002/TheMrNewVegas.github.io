@@ -32,7 +32,7 @@ Save Safe? No
 - Minutemen Manufacturing
 
 **Removed**
-- We Are The Minutemen
+- Nothing Yet
 
 **Updated**
 - Glock Plasma Gun
