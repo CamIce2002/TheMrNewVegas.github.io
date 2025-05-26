@@ -10,7 +10,6 @@ Save Safe? No
 
 **Added**
 - More loading screen images
-- Power Armors Redone - 2K
 - SavrenX Better Robots and HD Liberty Prime
 - Synthkind Redefined
 - Retro Institute
@@ -25,13 +24,19 @@ Save Safe? No
 - Buffed Minutemen Militia
 - Minutemen Supply Caches
 - Minutemen Manufacturing
+- AR2 Enclave logo PA
+- AR2 new gas mask
+- PA repair kits
+- Super Alloys PA Textures
+- Unrestrictive PA
 
 **Removed**
-- Nothing Yet
+- Frame Job
 
 **Updated**
 - Glock Plasma Gun
 - Hunting Shotgun
+- Targeted Textures
 
 **Fixed**
 - Nothing Yet
