@@ -7,7 +7,7 @@ description: Capital Commonwealth
 
 ![image](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/splash2.png)
 
-## Modlist Review by our partner [Sven Martin](https://www.youtube.com/@svenmartin69)
+## Modlist Review by BYC partner [Sven Martin](https://www.youtube.com/@svenmartin69)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZJBdJLSkB24?si=wnEyTmOuYG_wkgfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
