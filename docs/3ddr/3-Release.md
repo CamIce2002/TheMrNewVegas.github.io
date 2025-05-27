@@ -12,7 +12,7 @@ description: D&DR Release Notes
 - Optimize Load Order ✔️
 - Patch Modlist ✔️
 - Prepare Modlist Meta Files for Wabbajack ✔️
-- Preliminary Testing/Bug Fixing
+- Preliminary Testing/Bug Fixing ✔️
 
 ### Documentation/Promotionals Checklist
 
