@@ -5,5 +5,24 @@ nav_order: 3
 description: D&DR Release Notes
 ---
 
-# Version 0.01
-- Pending Release on Wabbajack
+# Pre-release Checklist
+
+### Modlist Checklist
+- Create Modlist ✔️
+- Optimize Load Order ✔️
+- Patch Modlist ✔️
+- Prepare Modlist Meta Files for Wabbajack ✔️
+- Preliminary Testing/Bug Fixing
+
+### Documentation/Promotionals Checklist
+
+- Create Graphics for Wabbajack/Documentation ✔️
+- Create Trailer for Modlist
+- Create Baseline Documentation ✔️
+
+### Wabbajack Release Checklist
+
+- Compile .Wabba File for Distribution
+- Upload Wabba File & Resources to Nexus
+- Create Wabbajack Gallery Repository
+- Get List Approved/Placed on Wabba Gallery
