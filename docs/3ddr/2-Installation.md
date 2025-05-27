@@ -87,7 +87,7 @@ CURRENTLY, THE LIST CAN ONLY BE INSTALLED THROUGH OUR WABBAJACK FILE AND IS NOT 
 - If it doesn't, set your Installation Location to a root drive folder that you would like your modlist to be stored in (IE: `C:/Modlists/DNDR`)
 - Your downloads location should autopopulate, but if this doesnt, simply choose the same directory and add downloads to the end (IE: `C:/Modlists/DNDR/downloads`)
 
-**Step 12A:** Press the Install Button at the bottom right and go make a quick cup of coffee!
+**Step 12B:** Press the Install Button at the bottom right and go make a quick cup of coffee!
 
 # Part 4: Post Installation
 
