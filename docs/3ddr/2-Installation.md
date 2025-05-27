@@ -110,7 +110,7 @@ CURRENTLY, THE LIST CAN ONLY BE INSTALLED THROUGH OUR WABBAJACK FILE AND IS NOT 
 
 **Load Order Issues:** If your load or mod order does not seem to be correct, follow the below steps
 - Close out of Mod Organizer
-- Go to our load order library [here]()
+- Go to our Discord and grab the Load Order or Modlist.txt from **here**
 - Download the loadorder.txt and/or modlist.txt
 - Navigate to your modlist location, then to `Profiles/Default`
 - Copy & Paste the LoadOrder.TXT and/or Modlists.TXT you just downloaded into here and overwrite the old ones
