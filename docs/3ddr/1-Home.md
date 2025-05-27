@@ -15,6 +15,7 @@ This list is pending release; Please be on the look out both in our discord and 
 
 ## Support Me
 
-[![image](https://github.com/user-attachments/assets/80cdfcc0-9a41-4a13-8865-33c0b2eebea8)](https://www.paypal.com/donate/?hosted_button_id=B36MGP4BD3VRN)
+[![paypalbutton](https://github.com/user-attachments/assets/0b3d6fba-cf9d-4ab3-8e82-3e5fc4d9236a)](https://www.paypal.com/donate/?hosted_button_id=B36MGP4BD3VRN)
 
 ![Dungeons DaedraMovie](https://github.com/user-attachments/assets/b683b646-5725-47cb-b42a-2be41988a7b4)
+
