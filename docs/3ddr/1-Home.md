@@ -5,7 +5,7 @@ nav_order: 1
 description: Dungeons & Daedra Remastered
 ---
 
-![Dungeons DaedraMovie](https://github.com/user-attachments/assets/ccaa85b5-bd27-4ac6-9846-c19b382bd0f3)
+![D DPNGBanner](https://github.com/user-attachments/assets/b223c757-1385-48cb-b78a-28ae357316fb)
 
 ## What is Dungeons & Daedra: Remastered?
 
