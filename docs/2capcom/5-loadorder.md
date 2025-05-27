@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Load Order
-nav_order: 2
+nav_order: 5
 description: Capital Commonwealth Load Order
 ---
 
