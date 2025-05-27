@@ -21,7 +21,9 @@ D&DR uses rootbuilder to allow for an overall smaller overall download size in a
 
 - A Fresh Copy of Oblivion Remaster: Deluxe Edition in a **NONPROTECTED DIRECTORY** such as `Program Files`.
 > The best place for your steam games is *always* the root of your drive
+> 
 > For example, this would be `C:\Steam\steamapps\common\Oblivion Remastered`
+>
 > You can relocate your Steam Library easily using [Lost Dragonist's Steam Library Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide)
 
 - ~ 120 GB of Space (This does NOT include space needed for Oblivion Remastered)
