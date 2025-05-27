@@ -56,30 +56,34 @@ You can no longer be a Novice Mage/Fighter & also be a leader of the Mages/Fight
 - Magic Skills include Alchemy, Alteration, Conjuration, Destruction, Illusion, Mysticism, and Restoration. Below are the number of skills you will need to have at certain levels to ascend to the next rank.
 - If you are attempting to get through the questline as quickly as possible, it is best that you pick and focus on three skills until they have reached Expert, then focusing on one of these three until it reaches Master.
 
-**Associate:** No Skill Requirements
-**Apprentice:** 3 Apprentice﻿﻿﻿﻿ Skills From List Above
-**Journeyman:** 1 Journeyman﻿﻿﻿﻿ Skill from List Above
-**Evoker:** 2 Journeyman﻿﻿﻿﻿﻿ Skills from List Above
-**Conjurer:** 3 Journeyman﻿﻿﻿﻿﻿ Skills from List Above
-**Magician:** 1 Expert﻿﻿﻿﻿﻿﻿ Skill from List Above
-**Warlock:** 2 Expert﻿﻿﻿﻿﻿﻿ Skills from List Above
-**Wizard:** 3 Expert﻿﻿﻿﻿﻿﻿ Skills from List Above
-**Master Wizard:** 1 Master Skill from List Above
+```
+- **Associate:** No Skill Requirements
+- **Apprentice:** 3 Apprentice﻿﻿﻿﻿ Skills From List Above
+- **Journeyman:** 1 Journeyman﻿﻿﻿﻿ Skill from List Above
+- **Evoker:** 2 Journeyman﻿﻿﻿﻿﻿ Skills from List Above
+- **Conjurer:** 3 Journeyman﻿﻿﻿﻿﻿ Skills from List Above
+- **Magician:** 1 Expert﻿﻿﻿﻿﻿﻿ Skill from List Above
+- **Warlock:** 2 Expert﻿﻿﻿﻿﻿﻿ Skills from List Above
+- **Wizard:** 3 Expert﻿﻿﻿﻿﻿﻿ Skills from List Above
+- **Master Wizard:** 1 Master Skill from List Above
+```
 
 ### **Fighters Guild**
 
 - Fighting Skills include Blade, Blunt, Block, Hand to Hand, Athletics, Heavy Armor, and Armorer. Below are the number of skills you will need to have at certain levels to ascend to the next rank.
 - If you are attempting to get through the questline as quickly as possible, it is best that you pick and focus on three skills until they have reached Expert, then focusing on one of these three until it reaches Master.
 
-**Associate:** No Skill Requirements
-**﻿﻿﻿﻿Apprentice:**  3 Apprentice
-**﻿﻿﻿﻿Journeyman:** 1 Journeyman
-**Swordsman:** 2 Journeyman
-**﻿﻿﻿﻿﻿Protector:** 3 Journeyman
-**Defender:** 1 Expert
-**﻿﻿﻿﻿﻿﻿Warder:** 2 Expert
-**﻿﻿﻿﻿﻿﻿Guardian:** 3 Expert
-**Champion:** 1 Master
+```
+- **Associate:** No Skill Requirements
+- **﻿﻿﻿﻿Apprentice:**  3 Apprentice
+- **﻿﻿﻿﻿Journeyman:** 1 Journeyman
+- **Swordsman:** 2 Journeyman
+- **﻿﻿﻿﻿﻿Protector:** 3 Journeyman
+- **Defender:** 1 Expert
+- **﻿﻿﻿﻿﻿﻿Warden:** 2 Expert
+- **﻿﻿﻿﻿﻿﻿Guardian:** 3 Expert
+- **Champion:** 1 Master
+```
 
 ### Radiant Guild Quests
 
