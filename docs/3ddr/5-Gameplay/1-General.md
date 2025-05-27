@@ -109,7 +109,7 @@ __**Skill Requirements**__
 - The Orrery now provides a smaller, constant +5 Buff/-5 Debuff rather than a daily power.
 
 ### Runestones
-- All races now have one passive and one greater power which can be augmented by the rune stones you find out in the world. Below are said augmentations based upon the Rune Stones selected.
+- All races now have one passive and one greater power which can be augmented by the rune stones you find out in the world (These are known as the Hestra, Reman, and Sidri-Ashak Runestones). Below are said augmentations based upon the Rune Stones selected.
 
 **Argonian**
 ﻿- Passive: Poison Immunity + Waterbreathing.
