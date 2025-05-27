@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Install Guide
+title: Installation
 nav_order: 2
-description: Dungeons & Daedra Remastered
+description: D&DR Install Guide
 ---
 
 # Installation Guide
