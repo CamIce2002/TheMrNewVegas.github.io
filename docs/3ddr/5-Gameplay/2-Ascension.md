@@ -57,3 +57,26 @@ A range of other tweaks balance various aspects of the game to make all play-sty
 - Pickpocketing chances are also more reasonable, and pickpocketing grants more skill experience than in vanilla, making it actually viable.
 
 - Additionally, item value and rarity has been tweaked to make more sense for the game world. This includes a thorough rebalance of magic item costs so that you can't easily get rich by selling weak enchanted items found in dungeons.
+
+## Balanced NPC Level Caps
+
+Copy + Pasted/Edited From [Here](https://www.nexusmods.com/oblivionremastered/mods/182?tab=files)
+
+All NPC levels are capped to the equivalent level of the NPC when the player is level 30, with a few minor alterations to some NPCs. For example, Bandits have level offsets ranging from -4 to +0, so their maximum levels will range from 26 to 30. In general, NPC level caps range from 20-50.
+
+> Azani Blackheart is now the highest level NPC in the game, with a cap of 55 and offset of +25. This is fairly logical, as he's an end-game boss of the Fighter's Guild questline.
+
+## Simple Create Level Caps
+
+Copy + Pasted/Edited From [Here](https://www.nexusmods.com/oblivionremastered/mods/2499)
+
+This mod simply adds a maximum level cap for all creatures that scale indefinitely. The cap is set to the level that the creature would be when the player is level 25. This level was selected because loot scaling tops out around 20-25, so it makes sense that enemies don't continue to get harder if the reward for fighting them does not get any better.
+
+A large number of creatures in Oblivion increase in level with the player indefinitely. This is a problem as the player usually reaches maximum combat effectiveness around level 25-30 when main combat-related skills and attributes are maximised. Consequently, enemies become harder without the player getting any stronger. This mod fixes that.
+
+## Misc. Balances/NPC Changes
+
+- Daedra will now roam the Wilderness during the Oblivion Crisis. If you can go through their gate, why cant they come through and spread havoc more than 10 feet away?
+- Goblin Wars will now occur with more frequency/in a more interesting manner as the little guys fight over whatever useless smooth rock they have found.
+> Every 5 in-game days, a new Goblin War has a 20% chance to trigger rather than Goblin Wars being static events.
+- When a war event is triggered, one clan of Goblins may be found travelling anywhere throughout Cyrodill to reach their enemy's lair, causing havoc in their path.
