@@ -75,6 +75,12 @@ const config = {
 		  {
 			type: 'doc',
 			position: 'left',
+			docId: '1blepmc/Home',
+            label: 'BLEP MC',
+          },
+		  {
+			type: 'doc',
+			position: 'left',
 			docId: '2capcom/Home',
             label: 'Capital Commonwealth',
           },
