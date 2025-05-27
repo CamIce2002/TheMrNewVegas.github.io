@@ -75,6 +75,18 @@ const config = {
 		  {
 			type: 'doc',
 			position: 'left',
+			docId: '2capcom/Home',
+            label: 'Capital Commonwealth',
+          },
+		  {
+			type: 'doc',
+			position: 'left',
+			docId: '3dndr/Home',
+            label: 'Dungeons & Daedra',
+          },
+		  {
+			type: 'doc',
+			position: 'left',
 			docId: '4hos/Home',
             label: 'Halls of Sovngarde',
           },
@@ -89,12 +101,6 @@ const config = {
 			position: 'left',
 			docId: '6poti/Home',
             label: 'Path of the Incarnate',
-          },
-		  {
-			type: 'doc',
-			position: 'left',
-			docId: '7capcom/Home',
-            label: 'Capital Commonwealth',
           },
 		  {
 			type: 'doc',
