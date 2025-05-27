@@ -44,10 +44,8 @@ After leaving the sewers, you will notice that fast travel is disabled and that 
 - **Boats:** There are two useable boats in the world; the one at the Anvil & Bravil docks. These will take you to and from Dunbarrow Cove and Deepscorn Hollow respectively. You must unlock these player homes to have access to their fast travels.
 - **Horse Whistle:** This is a power you can use like any spell/other power. When you use it, it whistles for your horse and your horse appears/starts following you!
 
-## Player Homes
-- Currently, all vanilla player homes and their additions cost the same. The only home that is edited to look and feel different is the Waterfront Shack in the Imperial City
-- Most DLC homes are still very easy to get if you know their locations. Mods will be added to mitigate this as they are released, with only Frostcrag Spire currently having requirements before obtaining.
-> To Obtain Frostcrag, you will need to kill Mannimarco during the Mage's Guild Questline and take the key off of him.
+## Simple Hunting Overhaul
+- Hunting animals will now provide more pelts, meats, and animal materials. This is now a sufficient way to make a living in Cyrodill! 
 
 ## Guild Advancement
 
@@ -82,3 +80,23 @@ You can no longer be a Novice Mage/Fighter & also be a leader of the Mages/Fight
 **﻿﻿﻿﻿﻿﻿Warder:** 2 Expert
 **﻿﻿﻿﻿﻿﻿Guardian:** 3 Expert
 **Champion:** 1 Master
+
+## Guild Progression Post-Completion
+
+- Each guild now has radiant quests which infinitely populate, allowing for infinite replayability and a way to earn gold/rewards for doing simple tasks
+- The gold rewards from these quests also scale with the player's level!
+- In addition to this, radiant dungeon quests have been added to the Mage's Guild to add even more excitement to the radiant system.
+- For more information visit the appropriate nexus pages or the wiki documentation.
+
+## Magic Changes
+
+- Conjurers Rejoice! As you level Conjuring you will now be granted the ability to summon more than one summoned creature.
+> **Level 50 Conjuration** = 2 Summons; **Level 75 Conjuration** = 3 Summons; **Level 100 Conjuration** = 4 Summons
+- On the flip side of this, Necromancy is now **Banned**. Using Undead Summons near Mage's Guild Members will cause for expulsion from the Mage's Guild. Additionally, Undead Summons near guards will cause you to gain a 100 gold bounty.
+- Necromancy has also been overhauled so that the player may participate if they so choose thanks to the [Dark Path of Necromancy](https://www.nexusmods.com/oblivionremastered/mods/2531?tab=description). Please visit the Nexus/Appropriate documentation page on the wiki for more information on this overhaul.
+
+
+## Player Homes
+- Currently, all vanilla player homes and their additions cost the same. The only home that is edited to look and feel different is the Waterfront Shack in the Imperial City
+- Most DLC homes are still very easy to get if you know their locations. Mods will be added to mitigate this as they are released, with only Frostcrag Spire currently having requirements before obtaining.
+> To Obtain Frostcrag, you will need to kill Mannimarco during the Mage's Guild Questline and take the key off of him.
