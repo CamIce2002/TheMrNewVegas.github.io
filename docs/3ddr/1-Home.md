@@ -5,8 +5,10 @@ nav_order: 1
 description: Dungeons & Daedra Remastered
 ---
 
-![image](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/splash2.png)
+![Dungeons DaedraMovie](https://github.com/user-attachments/assets/ccaa85b5-bd27-4ac6-9846-c19b382bd0f3)
 
-## What is Capital Commonwealth?
+## What is Dungeons & Daedra: Remastered?
 
-Capital Commonwealth is a modlist inspired by Fallout 3's Capital Wasteland, with some bits of New Vegas sprinkled in, it's a harder list, but not to the point of being a chore to play. It maintains a gritty, unsafe, and dark atmosphere, without sacrificing fun, and playability. This list transforms the commonwealth into a barren, greenish wasteland, adds new PA features such as: Training requirements, PA scarcity, Impenetrable armor plating (until it breaks), and the ability to strike fear into your foes as you walk in the room.. It is now the walking tank it should be. As for other features, we have the FO3 and FNV leveling system, the Karma system, reputation, locational damage, mutations, and ghoul infestations!
+Dungeons & Daedra: Remastered is an upcoming list for The Elder Scrolls IV : Oblivion Remaster. Based heavily off of its predecessor, Dungeons & Daedra of Oblivion Classic, D&DR attempts to turn the world of Oblivion into a reactive and exciting environment with exploration and thoughtful player choice at the center. You know longer are the center of the universe; Ill preparations and ego will be your downfall. With that in mind, with your character's growth comes immense strength and a much more rewarding experience. Are you truly deserving to hold the title Hero of Kvatch, Divine Crusader, or even Sheogorath?
+
+This list is pending release; Please be on the look out both in our discord and here for updates to our documentation as we continue to develop and eventually release this list! 
