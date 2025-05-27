@@ -10,7 +10,7 @@ description: Capital Commonwealth Installation Guide
 :::info
 ## **Requirements:**
 - ~105 GB of space, 32GB from downloads can be deleted after installation is complete 
-- A legal copy of Fallout 4, with ALL DLC updated to the most recent version  
+- A legal Steam copy of Fallout 4 GOTY updated to the most recent version  
 :::
 
 # **Part 1: Installation Guide**
@@ -23,7 +23,7 @@ description: Capital Commonwealth Installation Guide
 
 ### 3.) Launch Wabbajack & go to the Cogwheel at the top right. Log into your Nexus account through here
 
-### 4.) Find Capital Commonwealth in the WJ UI, and select install
+### 4.) Find Capital Commonwealth in the WJ UI, if you cannot find it make sure to check the box for non-featured, and select install
 
 ### 5.) Set your modlist installation location to wherever your would like it (IE: C:/Modlists/Capital Commonwealth) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin
 
@@ -31,4 +31,4 @@ description: Capital Commonwealth Installation Guide
 
 ### 7.) You can now select “Capital Commonwealth” from the right hand dropdown and press play  
 
-### OPTIONAL: Go into MCM menu and enable Feral Ghoul Infestations for full experience | If an UW user, don't forget to turn on the Ultrawide support mod in MO2
+### OPTIONAL: Go into the pause menu, the Mod Config menu and enable Feral Infestations for full experience | If an UW user, don't forget to turn on the Ultrawide support mods in MO2
