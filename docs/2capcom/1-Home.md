@@ -9,7 +9,7 @@ description: Capital Commonwealth
 
 ## Modlist Review by our partner [Sven Martin](https://www.youtube.com/@svenmartin69)
 
-<iframe class="yt-embed" width="650" height="315" src="https://www.youtube.com/watch?v=ZJBdJLSkB24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZJBdJLSkB24?si=wnEyTmOuYG_wkgfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## What is Capital Commonwealth?
 
