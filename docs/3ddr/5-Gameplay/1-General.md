@@ -89,7 +89,7 @@ __**Skill Requirements**__
 - Each guild now has radiant quests which infinitely populate, allowing for constant replayability and a way to earn gold/rewards for doing simple tasks
 - The gold rewards from these quests also scale with the player's level!
 - In addition to this, radiant dungeon quests have been added to the Mage's Guild to add even more excitement to the radiant system.
-- For more information visit the appropriate nexus pages or the wiki documentation.
+- For more information visit the appropriate Nexus Pages listed [here](https://www.nexusmods.com/oblivionremastered/mods/3790) or our wiki documentation.
 
 ## Magic Changes
 
