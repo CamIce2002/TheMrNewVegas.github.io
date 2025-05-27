@@ -98,8 +98,96 @@ __**Skill Requirements**__
 - On the flip side of this, Necromancy is now **Banned**. Using Undead Summons near Mage's Guild Members will cause for expulsion from the Mage's Guild. Additionally, Undead Summons near guards will cause you to gain a 100 gold bounty.
 - Necromancy has also been overhauled so that the player may participate if they so choose thanks to the [Dark Path of Necromancy](https://www.nexusmods.com/oblivionremastered/mods/2531?tab=description). Please visit the Nexus/Appropriate documentation page on the wiki for more information on this overhaul.
 
-
 ## Player Homes
+
 - Currently, all vanilla player homes and their additions cost the same. The only home that is edited to look and feel different is the Waterfront Shack in the Imperial City
 - Most DLC homes are still very easy to get if you know their locations. Mods will be added to mitigate this as they are released, with only Frostcrag Spire currently having requirements before obtaining.
 > To Obtain Frostcrag, you will need to kill Mannimarco during the Mage's Guild Questline and take the key off of him.
+
+## World Buff Changes
+
+- The Orrery now provides a smaller, constant +5 Buff/-5 Debuff rather than a daily power.
+
+### Runestones
+- All races now have one passive and one greater power which can be augmented by the rune stones you find out in the world. Below are said augmentations based upon the Rune Stones selected.
+
+**Argonian**
+﻿- Passive: Poison Immunity + Waterbreathing.
+﻿- Power: Caustic Spit - Once per day paralyze a target for 10 seconds.
+
+1. ﻿Hestra: Caustic Spit now also makes the target 50% Weaker to Magic for 60 seconds.
+2. Reman: Caustic Spit now also Restores 5 Health per second for 60 seconds.
+﻿3. Sidri-Ashak: Caustic Spit now also Opens expert level locks.
+
+**Breton**
+﻿- Passive: Resist Magic 25% and Fortify Magicka 50 points.
+﻿- Power: Dragon Skin - Once per day Shield yourself 50 points for 120 seconds.
+
+1. ﻿Hestra: Dragon Skin now also gives 50% Magic Resistance for 120 seconds.
+﻿2. Reman: Dragon Skin now Reflects 50% of damage rather than Shield.
+﻿3. Sidri-Ashak: Dragon Skin now also gives 50% Chameleon for 120 seconds.
+
+**Dark Elf**
+- ﻿Passive: Fire Resistance 75%.
+﻿- Power: Ancestor Guardian - Once per day Summon an Ancestor Guardian to protect you for 120s. (Ancestor Guardian now scales 1:1 with the player's level, has Fire Immunity in addition to it's existing Immunities, and casts a leveled fire spell instead of just snowball).
+
+﻿1. Hestra: Ancestor Guardian now also creates a 15 yard radius fire storm that deals 5 damage per second for 10 seconds.
+﻿2. Reman: Ancestor Guardian now also gives you 25 points of Fire Shield for 120 seconds.
+﻿3. Sidri-Ashak: Ancestor Guardian now also Silences all enemies in a 15 yard radius for 120 seconds.
+
+**High Elf**
+- ﻿Passive: Fortify Magicka 100 points, Weakness to Elements 25%
+﻿- Power: Highborn - Dispel 150 points on Self and Fortify Intelligence 50 points for 120s.
+
+﻿1. Hestra: Your Magicka is now Fortified 150 points.
+﻿2. Reman: Highborn now also gives 50 points of Spell Reflection for 120 seconds.
+﻿3. Sidri-Ashak: Highborn is now a lesser power but only Fortifies 25 points of Intelligence and costs 50 Magicka.
+
+**Imperial**
+﻿- Passive: Gain 10 points of Shield.
+﻿- Power: Voice of the Emperor - Charm on target 30 points for 30 seconds.
+
+1. ﻿Hestra: You gain the power Emperor's Madness, causing a target to be frenzied for 120 seconds.
+﻿2. Reman: You gain the power Emperor's Decree, commanding a target to obey for 120 seconds.
+﻿3. Sidri-Ashak: Voice of the Emperor is now a lesser power.
+
+**Khajiit**
+- ﻿Passive: Gain 15 points of Chameleon while out of combat and sneaking.
+﻿- Power: Prowl - Gain Invisibility for 120 seconds.
+﻿- Lesser Power: Eye of Night - Gain Night Eye for 30 seconds.
+
+1. ﻿Hestra: You now gain 35 points of Chameleon while out of combat and sneaking.
+﻿2. Reman: Prowl now also Fortifies your Agility by 50 points for 120 seconds.
+﻿3. Sidri-Ashak: Prowl is now a lesser power, but lasts 10 seconds and costs 75 Fatigue.
+
+**Nord**
+﻿- Passive: Resist Frost 50%.
+﻿- Power: Battle Cry - Demoralize all targets in a 25 yard radius for 60 seconds.
+
+﻿1. Hestra: Battle Cry now also Burdens targets, rendering them unable to move for 60 seconds.
+﻿2. Reman: Battle Cry now also causes 25% Weakness to Normal Weapons for 60 seconds.
+﻿3. Sidri-Ashak: Battle Cry now also Absorbs 5 points of Fatigue/s from all targets for 60 seconds.
+
+**Orc**
+- ﻿Passive: Resist Shock 50%.
+﻿- Power: Berserk - Fortify Strength 50 points and Resist Normal Weapons 25% for 120 seconds.
+
+1. ﻿Hestra: Berserk now also Fortifies Blade and Blunt 50 points for 120 seconds.
+﻿2. Reman: Berserk now also Fortifies Endurance 50 points for 120 seconds.
+﻿3. Sidri-Ashak: Berserk now also Fortifies Personality, Speechcraft, and Mercantile 50 points for 120 seconds.
+
+**Redguard**
+﻿- Passive: Fortify Fatigue 100 points.
+﻿- Power: Adrenaline Rush - Restore 10 points of Fatigue/s for 120 seconds.
+
+﻿1. Hestra: Adrenaline Rush now also Restores 5 points of Magicka/s for 120 seconds.
+﻿2. Reman: Your passive Fatigue is now Fortified by 200 points.
+﻿3. Sidri-Ashak: Adrenaline Rush now also Fortifies your Speed by 50 points for 120 seconds.
+
+**Wood Elf**
+- ﻿Passive: Disease Immunity
+- ﻿Power: Beast Tongue - Command a Creature to fight under your control for 60 seconds.
+
+1. ﻿Hestra: Beast Tongue now lasts 360s, gives 50% Magic Resistance to the creature for the duration, and 25% Magic Resistance to you for 60s.
+﻿2. Reman: Beast Tongue now lasts 360s, Restores 2 points of Health and Fatigue/s to the creature for the duration, and also Restores 2 points of ﻿Health and Fatigue/s to you for 60 seconds.
+﻿3. Sidri-Ashak: Beast Tongue now lasts 360s and is a lesser power.
