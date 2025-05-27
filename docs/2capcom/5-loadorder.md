@@ -1,4 +1,16 @@
+---
+layout: default
+title: Load Order
+nav_order: 2
+description: Capital Commonwealth Load Order
+---
+
+![image](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/splash2.png)
+
+:::info
+
 # Load Order
+:::
 
 ---
 
