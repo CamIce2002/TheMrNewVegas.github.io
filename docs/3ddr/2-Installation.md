@@ -5,6 +5,8 @@ nav_order: 1
 description: Dungeons & Daedra Remastered
 ---
 
+# Installation Guide
+
 # Part 1: Preinstallation
 
 :::tip
