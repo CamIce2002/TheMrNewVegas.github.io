@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gameplay Guides
-nav_order: 5
+nav_order: 6
 description: Capital Commonwealth Installation Guide
 ---
 
