@@ -10,6 +10,10 @@ description: Capital Commonwealth Load Order
 :::info
 
 # Load Order
+
+Below you can find the current load order for the modlist, as well as a download link in case something messes up with yours and you need to fix it!  
+
+*** [Download Here](https://drive.google.com/file/d/1MDoPqAv19doJfO_KiXoy0qOD6WNX0G-r/view?usp=sharing)
 :::
 
 ---
