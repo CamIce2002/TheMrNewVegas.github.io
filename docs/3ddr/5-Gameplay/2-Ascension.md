@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Ascension Overhaul
+title: Ascension & NPC Overhauls
 nav_order: 2
-description: Dungeons & Daedra Remastered
+description: Ascension + NPC Overhauls
 ---
 
-# Ascension
+# Ascension & NPC Overhauls
