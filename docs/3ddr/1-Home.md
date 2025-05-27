@@ -15,6 +15,7 @@ This list is pending release; Please be on the look out both in our discord and 
 
 ## Support Me
 
+[![patreon](https://github.com/user-attachments/assets/cedde1c1-230d-4f8e-957d-0e77e11541ba)](https://www.patreon.com/c/themrnewvegasbyc/membership)
 [![paypalbutton](https://github.com/user-attachments/assets/0b3d6fba-cf9d-4ab3-8e82-3e5fc4d9236a)](https://www.paypal.com/donate/?hosted_button_id=B36MGP4BD3VRN)
 
 ![Dungeons DaedraMovie](https://github.com/user-attachments/assets/b683b646-5725-47cb-b42a-2be41988a7b4)
