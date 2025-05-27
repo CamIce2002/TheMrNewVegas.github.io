@@ -33,8 +33,9 @@ Boss chests also contain various other valuable treasures, ranging from silver c
 ### Creatures and NPCs
 
 ```
-The highest rank of Dremora is the Valkynaz, or 'prince'. This warrior duke is a member of the Valkyn, Mehrunes Dagon's personal guard. The Valkynaz are rarely encountered on Tamriel; normally they remain by Mehrunes Dagon's side, or serve as commanders of operations of particular importance or interest to Dagon.
-Varieties of Daedra
+The highest rank of Dremora is the Valkynaz, or 'prince'. This warrior duke is a member of the Valkyn, Mehrunes Dagon's personal guard.
+The Valkynaz are rarely encountered on Tamriel; normally they remain by Mehrunes Dagon's side, or serve as commanders of operations of
+particular importance or interest to Dagon ~ Varieties of Daedra
 ```
 
 With Ascension, low-level creatures will no longer stop spawning when you get to a certain level. You can now always encounter Zombies, Imps, Scamps, etc regardless of your level. Furthermore, all random spawns points have been capped, so that tough creatures such as Liches, Minotaur Lords, Storm Atronachs, etc will now only spawn at boss-level points, usually at the end of dungeons. Boss chests contain the best loot, but they’re also the best guarded!
