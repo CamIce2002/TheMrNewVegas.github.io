@@ -81,7 +81,7 @@ const config = {
 		  {
 			type: 'doc',
 			position: 'left',
-			docId: '3dndr/Home',
+			docId: '3ddr/Home',
             label: 'Dungeons & Daedra',
           },
 		  {
