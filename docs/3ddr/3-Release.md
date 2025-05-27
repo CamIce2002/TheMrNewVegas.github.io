@@ -22,7 +22,7 @@ description: D&DR Release Notes
 
 ### Wabbajack Release Checklist
 
-- Compile .Wabba File for Distribution
+- Compile .Wabba File for Distribution 
 - Upload Wabba File & Resources to Nexus
-- Create Wabbajack Gallery Repository
+- Create Wabbajack Gallery Git Repository ✔️
 - Get List Approved/Placed on Wabba Gallery
