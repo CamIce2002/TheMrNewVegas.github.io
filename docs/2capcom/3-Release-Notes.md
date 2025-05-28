@@ -14,7 +14,6 @@ Save Safe? Yes/No (Remove your stuff from faction player housing before updating
 - Synthkind Redefined
 - Retro Institute
 - Courser Crusher
-- Heavy Institute Armor Corpus Praesidium
 - Phase 4 An Institute Expansion
 - SWITCHBOARD
 - Who's The General
