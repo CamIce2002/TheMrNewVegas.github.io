@@ -4,9 +4,9 @@
 
 # Releases (Newest to Oldest)  
 
-# Release 0.2.2 (UNRELEASED)
+# Release 0.2.2
 
-Save Safe? No
+Save Safe? Yes/No (Remove your stuff from faction player housing before updating)
 
 **Added**
 - More loading screen images
@@ -29,9 +29,11 @@ Save Safe? No
 - PA repair kits
 - Super Alloys PA Textures
 - Unrestrictive PA
+- Classic Power Armor Training - AR2 PA Training Manual
 
 **Removed**
 - Frame Job
+- Faction Housing Overhaul - All In One
 
 **Updated**
 - Glock Plasma Gun
