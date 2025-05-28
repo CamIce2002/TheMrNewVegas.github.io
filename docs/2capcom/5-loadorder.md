@@ -323,13 +323,14 @@ Below you can find the current load order for the modlist, as well as a download
 301 - Hollywood Bullet Tracers.esp
 302 - PBW-PlasmaPistol.esp
 303 - PhotoMode.esp
-304 - PollutedClimate.esp
-305 - PowerArmorIntercomVoice_Louder.esp
-306 - Project Reality Footsteps FO4.esp
-307 - WattzLaserGun.esp
-308 - prp.esp
-309 - PRP-COTC.esp
-310 - PRP-SanctuaryHillsOverhaul.esp
-311 - prp-compat-pointlookout.esp
-312 - cclistpatch.esp
+304 - EnclavePATraining.esp
+305 - PollutedClimate.esp
+306 - PowerArmorIntercomVoice_Louder.esp
+307 - Project Reality Footsteps FO4.esp
+308 - WattzLaserGun.esp
+309 - prp.esp
+310 - PRP-COTC.esp
+311 - PRP-SanctuaryHillsOverhaul.esp
+312 - prp-compat-pointlookout.esp
+313 - cclistpatch.esp
 ```
