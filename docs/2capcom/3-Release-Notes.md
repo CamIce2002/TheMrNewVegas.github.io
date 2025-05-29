@@ -18,6 +18,7 @@ Save Safe? No
 - Buttons
 - DC Mutants
 - 9x39 Project
+- Modular Kalash Assault Rifle
 
 **Updated**
 - 
