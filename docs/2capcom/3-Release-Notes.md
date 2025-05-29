@@ -18,6 +18,7 @@ Save Safe? No
 - Laser Cannon
 - Tomacuzi
 - AR2 XDI Patch
+- New Textures For Handmade Rifle
 
 **Removed**
 - Buttons
