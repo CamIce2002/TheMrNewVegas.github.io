@@ -13,12 +13,15 @@ Save Safe? No
 - Forced Evolution
 - Transfer Settlements
 - Boston FPS Fix
+- Lore Friendly 5.56 Collection
+- AKM
 
 **Removed**
 - Buttons
 - DC Mutants
 - 9x39 Project
 - Modular Kalash Assault Rifle
+- M14
 
 **Updated**
 - 
