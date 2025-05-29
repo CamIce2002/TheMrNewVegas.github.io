@@ -17,6 +17,7 @@ Save Safe? No
 **Removed**
 - Buttons
 - DC Mutants
+- 9x39 Project
 
 **Updated**
 - 
