@@ -5,6 +5,8 @@ nav_order: 1
 description: Ordo Hereticus
 ---
 
+![2b2b2fe2adc5a00fa4c3856b757c058e](https://github.com/user-attachments/assets/06968721-aca4-4cd7-879a-e728a294ae8f)
+
 _"A heretic may see the truth and seek redemption. He may be forgiven his past and be absolved in death. A Traitor can never be forgiven. A Traitor can never find peace in this world or the next. There is nothing as wretched or as hated in all the world as a Traitor."_
  — _Anonymous_
  
