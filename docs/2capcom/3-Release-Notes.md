@@ -44,7 +44,8 @@ Save Safe? No
 - Lowered weapons
 
 **Updated**
-- 
+- CC Resources
+- CC Patch
 
 **Fixed**
 - 
