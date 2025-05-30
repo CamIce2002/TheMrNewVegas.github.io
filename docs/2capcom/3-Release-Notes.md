@@ -19,6 +19,21 @@ Save Safe? No
 - Tomacuzi
 - AR2 XDI Patch
 - New Textures For Handmade Rifle
+- Fourville
+- AER-15 & Institute rifle replacer
+- CROSS armors & integrations
+- Gunners life armors
+- .38 Machine Pistol
+- Synths spawn synths
+- Lima Detachment
+- Skip Dima's Memory games
+- O&R T5V Patch
+- Forced Evolution Exo patch
+- Disk Cache Enabler
+- Automatically lowered weapons
+- 20 Leagues under the sea
+- Strong PA
+- Attack of the Lobotomites
 
 **Removed**
 - Buttons
@@ -26,6 +41,7 @@ Save Safe? No
 - 9x39 Project
 - Modular Kalash Assault Rifle
 - M14
+- Lowered weapons
 
 **Updated**
 - 
