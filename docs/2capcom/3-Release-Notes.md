@@ -42,13 +42,14 @@ Save Safe? No
 - Modular Kalash Assault Rifle
 - M14
 - Lowered weapons
+- Cannibal Toast's PRP Patch Compendium
 
 **Updated**
 - CC Resources
 - CC Patch
 
 **Fixed**
-- 
+- Greentech Genetics FPS Issue
 
 # Release 0.2.2
 
