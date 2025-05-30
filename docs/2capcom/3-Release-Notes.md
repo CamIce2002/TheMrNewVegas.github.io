@@ -33,6 +33,7 @@ Save Safe? No
 - 20 Leagues under the sea
 - Strong PA
 - Attack of the Lobotomites
+- Extreme Particles Overhaul 2.0
 
 **Removed**
 - Buttons
