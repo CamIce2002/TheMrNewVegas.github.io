@@ -14,7 +14,6 @@ Save Safe? No
 - Transfer Settlements
 - Boston FPS Fix
 - Lore Friendly 5.56 Collection
-- AKM
 - Laser Cannon
 - Tomacuzi
 - AR2 XDI Patch
