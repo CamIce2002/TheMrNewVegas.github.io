@@ -18,6 +18,7 @@ Save Safe? No
 - Tomacuzi
 - AR2 XDI Patch
 - New Textures For Handmade Rifle
+- Right-handed Nukaworld AK Replacer
 - Fourville
 - AER-15 & Institute rifle replacer
 - CROSS armors & integrations
