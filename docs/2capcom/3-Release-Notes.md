@@ -35,6 +35,10 @@ Save Safe? No
 - Strong PA
 - Attack of the Lobotomites
 - Extreme Particles Overhaul 2.0
+- Settlement Menu Manager
+- More Fortifications
+- Snappable Covenant Walls - SMM - Standalone (No More Settlement Keywords Requirement)
+- Snappable Junk Fences
 
 **Removed**
 - Buttons
