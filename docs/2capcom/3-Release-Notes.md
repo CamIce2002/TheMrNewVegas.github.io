@@ -40,6 +40,8 @@ Save Safe? No
 - Snappable Covenant Walls - SMM - Standalone (No More Settlement Keywords Requirement)
 - Snappable Junk Fences
 - AKs of the Wasteland
+- Increased Build Limit Enhanced 4K
+- Place Everywhere
 
 **Removed**
 - Buttons
