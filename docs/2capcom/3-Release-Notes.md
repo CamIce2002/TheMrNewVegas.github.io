@@ -4,12 +4,13 @@
 
 # Releases (Newest to Oldest)  
 
-# Release 0.2.3 (Unreleased)
+# Release 0.3.0 (Unreleased)
 
 Save Safe? No
 
 **Added**
-- HD Mutants and Armor
+- HD Mutant Armor
+- HD Super Mutant Skins with custom changes
 - Forced Evolution
 - Transfer Settlements
 - Boston FPS Fix
