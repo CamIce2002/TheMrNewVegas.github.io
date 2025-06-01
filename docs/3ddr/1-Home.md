@@ -13,6 +13,11 @@ Dungeons & Daedra: Remastered is an upcoming list for The Elder Scrolls IV : Obl
 
 This list is pending release; Please be on the look out both in our discord and here for updates to our documentation as we continue to develop and eventually release this list! 
 
+## Load Order Library
+
+[![image](https://github.com/user-attachments/assets/1879c485-ccf3-469f-a03d-65fd245eaa19)](https://loadorderlibrary.com/lists/dungeons-daedra-2)
+
+
 ## Support Me
 
 [![patreon](https://github.com/user-attachments/assets/cedde1c1-230d-4f8e-957d-0e77e11541ba)](https://www.patreon.com/c/themrnewvegasbyc/membership)
