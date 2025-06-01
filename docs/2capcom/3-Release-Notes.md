@@ -42,6 +42,7 @@ Save Safe? No
 - AKs of the Wasteland
 - Increased Build Limit Enhanced 4K
 - Place Everywhere
+- The Danse Dilemma
 
 **Removed**
 - Buttons
