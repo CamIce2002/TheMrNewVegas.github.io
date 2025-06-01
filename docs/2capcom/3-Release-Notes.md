@@ -39,6 +39,7 @@ Save Safe? No
 - More Fortifications
 - Snappable Covenant Walls - SMM - Standalone (No More Settlement Keywords Requirement)
 - Snappable Junk Fences
+- AKs of the Wasteland
 
 **Removed**
 - Buttons
@@ -48,6 +49,7 @@ Save Safe? No
 - M14
 - Lowered weapons
 - Cannibal Toast's PRP Patch Compendium
+- Chinese Assault Rifle
 
 **Updated**
 - CC Resources
