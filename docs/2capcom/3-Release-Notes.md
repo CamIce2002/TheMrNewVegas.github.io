@@ -28,7 +28,6 @@ Save Safe? No
 - Synths spawn synths
 - Lima Detachment
 - Skip Dima's Memory games
-- O&R T5V Patch
 - Forced Evolution Exo patch
 - Disk Cache Enabler
 - Automatically lowered weapons
@@ -53,6 +52,7 @@ Save Safe? No
 - Lowered weapons
 - Cannibal Toast's PRP Patch Compendium
 - Chinese Assault Rifle
+- Outcasts & Remnants
 
 **Updated**
 - CC Resources
