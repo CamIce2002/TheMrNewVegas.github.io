@@ -52,6 +52,11 @@ Save Safe? No
 - Shield Integration Pack
 - Ballistic Weave Unlocked
 - N99 Overhauled - No Duplicate 10mm
+- The Plasma Defender - Fallout New Vegas Classic
+- Security Armor (Modular Over-Armor)
+- 20mm Anti Power Armor Rifle (PTRD-41)
+- T6M's Standalone AMR
+- HiPoly Faces REDUX
 
 **Removed**
 - Buttons
@@ -64,6 +69,8 @@ Save Safe? No
 - Chinese Assault Rifle
 - Outcasts & Remnants
 - Gas mask hat fix
+- Handmade Anti Mat Rifle
+- Glock Plasma
 
 **Updated**
 - CC Resources
