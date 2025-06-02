@@ -43,6 +43,14 @@ Save Safe? No
 - Increased Build Limit Enhanced 4K
 - Place Everywhere
 - The Danse Dilemma
+- Legendary Modification
+- Craftable Armor Size
+- Gas Mask Upgrades
+- Pip-Boy Flashlight
+- Pip-Boy 3000a Flashlight Patch
+- Shield Framework
+- Shield Integration Pack
+- Ballistic Weave Unlocked
 
 **Removed**
 - Buttons
@@ -54,6 +62,7 @@ Save Safe? No
 - Cannibal Toast's PRP Patch Compendium
 - Chinese Assault Rifle
 - Outcasts & Remnants
+- Gas mask hat fix
 
 **Updated**
 - CC Resources
