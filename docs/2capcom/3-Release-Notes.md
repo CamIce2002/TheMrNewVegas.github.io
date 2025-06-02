@@ -51,6 +51,7 @@ Save Safe? No
 - Shield Framework
 - Shield Integration Pack
 - Ballistic Weave Unlocked
+- N99 Overhauled - No Duplicate 10mm
 
 **Removed**
 - Buttons
