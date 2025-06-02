@@ -5,7 +5,7 @@ nav_order: 6
 description: Capital Commonwealth Installation Guide
 ---
 
-![image](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/splash2.png)
+![image](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/splash.png)
 
 # Gameplay Guides
 
