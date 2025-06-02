@@ -61,6 +61,7 @@ Save Safe? No
 
 **Fixed**
 - Greentech Genetics FPS Issue
+- Changed Varmint Rifle to .22
 
 # Release 0.2.2
 
