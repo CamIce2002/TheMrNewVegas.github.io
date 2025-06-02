@@ -10,7 +10,7 @@ Save Safe? No
 
 **Added**
 - HD Mutant Armor
-- HD Super Mutant Skins with custom changes
+- (ASMR) Another Super Mutant Retexture
 - Forced Evolution
 - Transfer Settlements
 - Boston FPS Fix
