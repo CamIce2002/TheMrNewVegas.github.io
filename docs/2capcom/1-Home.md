@@ -5,7 +5,7 @@ nav_order: 1
 description: Capital Commonwealth
 ---
 
-![image](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/splash2.png)
+![image](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/splash.png)
 
 ## Modlist Review by BYC partner [Sven Martin](https://www.youtube.com/@svenmartin69)
 
