@@ -31,7 +31,7 @@ This wiki encompasses the information regarding all modlists developed by member
 
 ## __Development Team__
 
-![CamWeb](https://github.com/user-attachments/assets/1ed13458-9e4a-4d67-b83e-76a06bd35404)
+![CamWeb](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/cam.png)
 ### **Lead Developer:** [CamBoi](https://ko-fi.com/camboi)
 - Founding Member of BYC Staff and head of list development in addition to development team tasks and operations. Author of [Halls of Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/105520) for Skyrim Special Edition in addition to [Year of the Blight](https://www.modlists.net/docs/category/year-of-the-blight) for Dragon Age: Origins.
 
