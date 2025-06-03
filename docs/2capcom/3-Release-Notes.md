@@ -4,7 +4,7 @@
 
 # Releases (Newest to Oldest)  
 
-# Release 0.3.0 (Unreleased)
+# Release 1.0.0 (Unreleased)
 
 Save Safe? No
 
