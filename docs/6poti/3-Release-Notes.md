@@ -34,6 +34,44 @@ description: Release Notes
    * 1.7f to 1.8
 4. [OAAB Pomegranates](https://www.nexusmods.com/morrowind/mods/50726)
    * 1.1 to 1.2
+5. [Logs on Fire - Skyrim](https://www.nexusmods.com/morrowind/mods/55665)
+   * 1.0 to 1.1
+6. [Better Robes - Updated Tamriel Rebuilt Patch](https://www.nexusmods.com/morrowind/mods/44875)
+   * 2.1 to 2.2
+7. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
+   * 1.14 to 1.15a
+8. [Dynamic Sounds for OpenMW](https://www.nexusmods.com/morrowind/mods/56572)
+   * 0.8.8 to 0.9.1
+9. [MUSE Music Expansion - Ashlander](https://www.nexusmods.com/morrowind/mods/51255)
+    * 1.0 to 2.0
+10. [MUSE Music Expansion - Daedric](https://www.nexusmods.com/morrowind/mods/51993)
+    * 1.0 to 2.0
+11. [MUSE Music Expansion - Dwemer](https://www.nexusmods.com/morrowind/mods/51169)
+    * 1.0 to 2.0
+12. [MUSE Music Expansion - Hlaalu](https://www.nexusmods.com/morrowind/mods/54639)
+    * 1.0 to 2.0
+13. [MUSE Music Expansion - Redoran](https://www.nexusmods.com/morrowind/mods/55082)
+    * 1.0 to 2.0
+14. [MUSE Music Expansion - Telvanni](https://www.nexusmods.com/morrowind/mods/55730)
+    * 1.0 to 2.0
+15. [MUSE Music Expansion - Tomb](https://www.nexusmods.com/morrowind/mods/51407)
+    * 1.0 to 2.0
+16. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
+    * 1.0.4 to 1.1.2
+17. [Holidays Across Tamriel - Morrowind Mainland](https://www.nexusmods.com/morrowind/mods/55249)
+    * 1.1.1 to 1.2
+18. [Playable Game of Ur](https://www.nexusmods.com/morrowind/mods/53914)
+    * 1.0.3 to 1.0.4
+19. [Thirteen Telvanni - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52081)
+    * 1.12 to 1.12.1
+20. [A Lovers' Quarrel](https://www.nexusmods.com/morrowind/mods/52679)
+    * 1.1 to 1.2
+21. [Of Melodies and Moonlight - A Sadrith Mora Artist](https://www.nexusmods.com/morrowind/mods/53307)
+    * 5.8 to 5.8.2
+22. [The Professionals Volume 2](https://www.nexusmods.com/morrowind/mods/54593)
+    * 1.0 to 1.2
+23. [Indoril Mansion](https://www.nexusmods.com/morrowind/mods/53022)
+    * 1.5 to 1.6
 
 **Removed**
 
