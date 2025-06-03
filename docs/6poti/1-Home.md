@@ -5,7 +5,7 @@ nav_order: 1
 description: Path of the Incarnate
 ---
 
-![POTI](https://github.com/clayby99/path-of-the-incarnate/blob/main/POTI_Wabbajack.png?raw=true)
+![POTI](https://github.com/clayby99/path-of-the-incarnate/blob/main/splash.png?raw=true)
 
 ## **[Donations](https://ko-fi.com/clayby)**
 
