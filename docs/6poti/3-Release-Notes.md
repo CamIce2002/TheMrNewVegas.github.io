@@ -118,7 +118,8 @@ description: Release Notes
 11. [Go Home!](https://gitlab.com/modding-openmw/go-home)
 12. [Stormrider](https://www.nexusmods.com/morrowind/mods/53736)
 13. [Transmog Menu](https://gitlab.com/modding-openmw/s3ctors-s3cret-st4sh/-/tree/master/transmog?ref_type=heads)
-
+14. [Project Cyrodiil Grass](https://www.nexusmods.com/morrowind/mods/55612)
+    
 ## POTI 2.0 RC4 - 05/05/2025
 
 ### Save Safe? No
