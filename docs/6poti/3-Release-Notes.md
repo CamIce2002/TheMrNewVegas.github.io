@@ -7,6 +7,24 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
+## POTI 2.0 - TBR
+
+### Save Safe? No
+
+**Added**
+
+**Updated**
+1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
+   * 25.05.09 to 25.06.01
+2. [OpenMW Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/54148)
+   * 1.33a to 1.35
+3. [Rafael's Shader Pack](https://www.nexusmods.com/morrowind/mods/53667)
+   * 1.7f to 1.8
+4. [OAAB Pomegranates](https://www.nexusmods.com/morrowind/mods/50726)
+   * 1.1 to 1.2
+
+**Removed**
+
 ## POTI 2.0 RC4 - 05/05/2025
 
 ### Save Safe? No
