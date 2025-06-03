@@ -12,6 +12,10 @@ description: Release Notes
 ### Save Safe? No
 
 **Added**
+1. [Interesting Outfits - Project Cyrodiil Guards](https://www.nexusmods.com/morrowind/mods/56804)
+2. [Interesting Outfits - SHOTN Guards](https://www.nexusmods.com/morrowind/mods/56803)
+3. [Fantasia Grass Mod](https://www.nexusmods.com/morrowind/mods/56570)
+4. [Sorry We're Closed - Nighttime Service Refusal](https://www.nexusmods.com/morrowind/mods/56629)
 
 **Updated**
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
