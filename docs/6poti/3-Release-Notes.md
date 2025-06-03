@@ -20,7 +20,8 @@ description: Release Notes
 6. [Better Balanced Staff Enchanting Capacity](https://www.nexusmods.com/morrowind/mods/56635)
 7. [Umbra- Blademaster](https://www.nexusmods.com/morrowind/mods/43275)
 8. [Disarmed Umbra Blademaster](https://www.nexusmods.com/morrowind/mods/56528)
-9. 
+9. [Logs on Fire - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/56516)
+10. [Morrowind Extended Cut](https://www.nexusmods.com/morrowind/mods/55615)
 
 **Updated**
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
