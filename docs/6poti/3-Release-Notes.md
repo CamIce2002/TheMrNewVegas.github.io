@@ -16,6 +16,11 @@ description: Release Notes
 2. [Interesting Outfits - SHOTN Guards](https://www.nexusmods.com/morrowind/mods/56803)
 3. [Fantasia Grass Mod](https://www.nexusmods.com/morrowind/mods/56570)
 4. [Sorry We're Closed - Nighttime Service Refusal](https://www.nexusmods.com/morrowind/mods/56629)
+5. [Zerkish AutoSave (For OpenMW)](https://www.nexusmods.com/morrowind/mods/56718)
+6. [Better Balanced Staff Enchanting Capacity](https://www.nexusmods.com/morrowind/mods/56635)
+7. [Umbra- Blademaster](https://www.nexusmods.com/morrowind/mods/43275)
+8. [Disarmed Umbra Blademaster](https://www.nexusmods.com/morrowind/mods/56528)
+9. 
 
 **Updated**
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
