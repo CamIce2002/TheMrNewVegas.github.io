@@ -11,7 +11,9 @@ description: D&DR Install Guide
 
 :::tip
 
-D&DR uses rootbuilder to allow for an overall smaller overall download size in addition to the use of MO2's virtual file system. In short, root builder places files virtually *in* your main Oblivion directory without *actually* editing your existing installation. Please read the below steps to ensure this can work without a hitch!
+Currently, Root Builder has had issues permanently carrying over files from MO2 instances to the root game folder, but otherwise functions normally (At least in my experience/hopefully not a user error). To mitigate this, we have decided to use a mixture of RootBuilder & Stock Game to ensure that your own install of Oblivion will remain untouched when you install this list and for seamless integration of mods that need to affect the Stock Game folder from the Root. Conveniently, we couldn't get Magic Loader 2 to function with Root Builder, so Stock Game was convenient for this reason as well.
+
+Please follow the below instructions to the letter to ensure your base install remains unaffected/you can play the list successfully :). 
 
 :::
 
@@ -102,16 +104,15 @@ CURRENTLY, THE LIST CAN ONLY BE INSTALLED THROUGH OUR WABBAJACK FILE AND IS NOT 
 **Step 15:** Ensure that the beginning of all paths in here match to where your Oblivion is located on your computer. Exit this menu once done.
 > If they do not, change the paths to where your game is located
 
-**Step 16:** In the dropdown again, select MagicLoader. Press Run. When Magic Loader Opens, press "Do Magic" and wait for it to complete. Then close Magic Loader.
+**Step 16:** In the dropdown again, select Dungeons & Daedra - Remastered", then press "Run".
 
-**Step 17:** In the same dropdown, select "Dungeons & Daedra: Remastered", click play, and give yourself a pat on the back because you are done!
+Enjoy playing the list!
 
 # Troubleshooting Installation Issues
 
 **Load Order Issues:** If your load or mod order does not seem to be correct, follow the below steps
 - Close out of Mod Organizer
-- Go to our Discord and grab the Load Order or Modlist.txt from **here**
-- Download the loadorder.txt and/or modlist.txt
+- Grab our loadorder.txt, modlist.txt, mods.txt, & paks.txt from [Load Order Library](https://loadorderlibrary.com/lists/dungeons-daedra-2)
 - Navigate to your modlist location, then to `Profiles/Default`
-- Copy & Paste the LoadOrder.TXT and/or Modlists.TXT you just downloaded into here and overwrite the old ones
+- Copy & Paste the files you just downloaded into here and overwrite the old ones
 
