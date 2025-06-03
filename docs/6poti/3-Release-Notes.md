@@ -23,6 +23,10 @@ description: Release Notes
 9. [Logs on Fire - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/56516)
 10. [Morrowind Extended Cut](https://www.nexusmods.com/morrowind/mods/55615)
 11. [Spell Effects Rebalance](https://www.nexusmods.com/morrowind/mods/52858)
+12. [S3maphore - OpenMW Music Management from the Future](https://www.nexusmods.com/morrowind/mods/56836)
+13. [Mercy - Combat AI Overhaul](https://www.nexusmods.com/morrowind/mods/55064)
+14. [The Corprusarium Experience](https://www.nexusmods.com/morrowind/mods/49738)
+15. [Bardcraft - OpenMW](https://www.nexusmods.com/morrowind/mods/56814)
 
 **Updated**
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
@@ -119,6 +123,7 @@ description: Release Notes
 12. [Stormrider](https://www.nexusmods.com/morrowind/mods/53736)
 13. [Transmog Menu](https://gitlab.com/modding-openmw/s3ctors-s3cret-st4sh/-/tree/master/transmog?ref_type=heads)
 14. [Project Cyrodiil Grass](https://www.nexusmods.com/morrowind/mods/55612)
+15. [Dynamic Music](https://www.nexusmods.com/morrowind/mods/53568)
     
 ## POTI 2.0 RC4 - 05/05/2025
 
