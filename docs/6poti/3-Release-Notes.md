@@ -23,7 +23,6 @@ description: Release Notes
 9. [Logs on Fire - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/56516)
 10. [Morrowind Extended Cut](https://www.nexusmods.com/morrowind/mods/55615)
 11. [Spell Effects Rebalance](https://www.nexusmods.com/morrowind/mods/52858)
-12. 
 
 **Updated**
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
@@ -72,8 +71,53 @@ description: Release Notes
     * 1.0 to 1.2
 23. [Indoril Mansion](https://www.nexusmods.com/morrowind/mods/53022)
     * 1.5 to 1.6
+24. [All Races and Classes Unlocked - Changed Khajiit Names](https://www.nexusmods.com/morrowind/mods/54339)
+    * 1.0 to 1.1
+25. [Bloodmoon Rebalance](https://www.nexusmods.com/morrowind/mods/45714)
+    * 1.2 to 1.3
+26. [Devilish Horse Riding (OpenMW)](https://www.nexusmods.com/morrowind/mods/55479)
+    * 1.2.2 to 1.3
+27. [Devilish Wabbajack (OpenMW](https://www.nexusmods.com/morrowind/mods/56157)
+    * 1.4 to 2.2
+28. [Harder Better Faster Stronger (OpenMW)](https://www.nexusmods.com/morrowind/mods/55542)
+    * 2.1.1 to 2.2.1
+29. [Interesting Outfits - Cultists](https://www.nexusmods.com/morrowind/mods/51922)
+    * 2.6 to 2.6.1
+30. [Interesting Outfits - Imperials](https://www.nexusmods.com/morrowind/mods/53651)
+    * 1.4 to 1.4.2
+31. [Interesting Outfits - Kinsmer](https://www.nexusmods.com/morrowind/mods/52167)
+    * 2.5 to 2.5.3
+32. [Interesting Outfits - Solstheim](https://www.nexusmods.com/morrowind/mods/53124)
+    * 1.6.4 to 1.6.5
+33. [Interesting Outfits - Tamriel Rebuilt Guards](https://www.nexusmods.com/morrowind/mods/55776)
+    * 1.2 to 2.0.1
+34. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
+    * 3.9.2 to 3.9.4
+35. [Fresh Loot (OpenMW)](https://www.nexusmods.com/morrowind/mods/56005)
+    * 2.1.3 to 2.1.4
+36. [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713)
+    * 1.1 to 1.2
+37. [Vampire Masquerade - A Detailed Overhaul](https://www.nexusmods.com/morrowind/mods/56101)
+    * 1.4 to 2.0
+38. [Almalexia's Chamber Overhaul](https://www.nexusmods.com/morrowind/mods/52737)
+    * 1.92 to 1.93
+39. [UnderCity](https://www.nexusmods.com/morrowind/mods/54773)
+    * 1.0.6 to 1.0.7
 
 **Removed**
+1. [Alchemical Hustle](https://www.nexusmods.com/morrowind/mods/51050)
+2. [Lush Synthesis](https://www.nexusmods.com/morrowind/mods/52931)
+3. [Real Disposition](https://www.nexusmods.com/morrowind/mods/51427)
+4. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)
+5. [The Professionals - Pendants](https://www.nexusmods.com/morrowind/mods/53986)
+6. [Collecting the Thirty-Six Lessons of Vivec](https://www.nexusmods.com/morrowind/mods/54257)
+7. [Grass for Tamriel Rebuilt (Aesthesia or Remiros')](https://www.nexusmods.com/morrowind/mods/54362)
+8. [Friendly Autosave](https://gitlab.com/modding-openmw/friendly-autosave)
+9. [Dras the Dunmer Legionnaire](https://www.nexusmods.com/morrowind/mods/51446)
+10. [Attend Me](https://gitlab.com/urm-openmw-mods/attend-me)
+11. [Go Home!](https://gitlab.com/modding-openmw/go-home)
+12. [Stormrider](https://www.nexusmods.com/morrowind/mods/53736)
+13. [Transmog Menu](https://gitlab.com/modding-openmw/s3ctors-s3cret-st4sh/-/tree/master/transmog?ref_type=heads)
 
 ## POTI 2.0 RC4 - 05/05/2025
 
