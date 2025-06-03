@@ -35,7 +35,7 @@ This wiki encompasses the information regarding all modlists developed by member
 ### **Lead Developer:** [CamBoi](https://ko-fi.com/camboi)
 - Founding Member of BYC Staff and head of list development in addition to development team tasks and operations. Author of [Halls of Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/105520) for Skyrim Special Edition in addition to [Year of the Blight](https://www.modlists.net/docs/category/year-of-the-blight) for Dragon Age: Origins.
 
-![MT4LWeb](https://github.com/user-attachments/assets/738b75cc-4d53-4ccf-8485-86e682019d30)
+![MT4LWeb](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/twearobevaultboy%20(1).png)
 ### **Developer:** [McTiddies4Lunch](https://ko-fi.com/boneyard)
 - Co-Founder of the Original BYC Staff Team and author of lists such as Capital Commonwealth for Fallout 4, Nostalgia for Fallout New Vegas, and the Unreleased Lost Runes for Skyrim Special Edition.
 
