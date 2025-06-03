@@ -4,11 +4,8 @@ title: Releases
 nav_order: 3
 description: Release Notes
 ---
-## Welcome to Path of the Incarnate!
 
-## [Load Order Library](https://loadorderlibrary.com/lists/path-of-the-incarnate)
-
-## Releases (Newest to Oldest)  
+# Releases (Newest to Oldest)  
 
 ## POTI 2.0 RC4 - 05/05/2025
 
