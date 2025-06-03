@@ -22,6 +22,8 @@ description: Release Notes
 8. [Disarmed Umbra Blademaster](https://www.nexusmods.com/morrowind/mods/56528)
 9. [Logs on Fire - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/56516)
 10. [Morrowind Extended Cut](https://www.nexusmods.com/morrowind/mods/55615)
+11. [Spell Effects Rebalance](https://www.nexusmods.com/morrowind/mods/52858)
+12. 
 
 **Updated**
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
