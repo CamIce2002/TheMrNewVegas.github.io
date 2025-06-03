@@ -21,7 +21,7 @@ This wiki encompasses the information regarding all modlists developed by member
 ### **Community Manager**: [Bird/Lilly](https://linktr.ee/lillybird69)
 - Co-Founder of the Original BYC Staff Team, author of [Ordo Hereticus](https://www.nexusmods.com/games/warhammer40kdarktide/collections/rzdfo4) for Warhammer 40K: Darktide, and head of all server operations involving community management, staff member onboarding, user help, wiki management, and much more.
 
-![ClayWeb](https://github.com/user-attachments/assets/682fa134-b283-4785-a612-26d5cb631b1a)
+![ClayWeb](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/2069970_SNQtNLYV%20(1).png)
 ### **Assistant to the Community Manager:** [Clayby](https://ko-fi.com/clayby) 
 - Founding Member of BYC Staff and assistant to the community manager. Author of [Path of the Incarnate](https://www.modlists.net/docs/6poti/Home) and helps to fill in roles/duties of Community Management where needed
 
