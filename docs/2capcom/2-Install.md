@@ -31,7 +31,9 @@ description: Capital Commonwealth Installation Guide
 
 ### 7.) You can now select “Capital Commonwealth” from the right hand dropdown and press play  
 
-### OPTIONAL: Go into the pause menu, the Mod Config menu and enable Feral Infestations for full experience 
+### OPTIONALS/ULTRAWIDE: 
+
+Go into the pause menu, the Mod Config menu and enable Feral Infestations for full experience 
 
 If an UW user, don't forget to turn on the Ultrawide support mods in MO2
 
