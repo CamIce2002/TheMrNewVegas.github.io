@@ -69,6 +69,9 @@ Save Safe? No
 - Eyewear and mask texture
 - Eyes of Beauty
 - Raider Armors Retextured
+- 2287 Gas masks
+- Terrain Undersides
+- Godrays Performance Fix
 
 **Removed**
 - Buttons
