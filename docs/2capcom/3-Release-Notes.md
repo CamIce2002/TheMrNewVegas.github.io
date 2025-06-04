@@ -69,7 +69,6 @@ Save Safe? No
 - Eyewear and mask texture
 - Eyes of Beauty
 - Raider Armors Retextured
-- 
 
 **Removed**
 - Buttons
