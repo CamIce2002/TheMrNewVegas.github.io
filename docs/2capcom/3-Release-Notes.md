@@ -91,6 +91,7 @@ Save Safe? No
 **Updated**
 - CC Resources
 - CC Patch
+- Loading Screen Images to FO3 ones
 
 **Fixed**
 - Greentech Genetics FPS Issue
