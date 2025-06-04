@@ -48,6 +48,7 @@ description: Release Notes
 34. [TR Newspapers on Vvardenfell](https://www.nexusmods.com/morrowind/mods/56788)
 35. [Of Pacts and Patrons -- A Religion Mod](https://www.nexusmods.com/morrowind/mods/56830)
 36. [OAAB Odai Plateau](https://www.nexusmods.com/morrowind/mods/56742)
+37. [Expanded Loot - Food and Dishes](https://www.nexusmods.com/morrowind/mods/56699)
 
 **Updated**
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
