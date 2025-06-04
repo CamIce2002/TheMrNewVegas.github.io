@@ -108,7 +108,7 @@ description: Release Notes
 27. [Devilish Wabbajack (OpenMW](https://www.nexusmods.com/morrowind/mods/56157)
     * 1.4 to 2.2
 28. [Harder Better Faster Stronger (OpenMW)](https://www.nexusmods.com/morrowind/mods/55542)
-    * 2.1.1 to 2.2.1
+    * 2.1.1 to 2.2.2
 29. [Interesting Outfits - Cultists](https://www.nexusmods.com/morrowind/mods/51922)
     * 2.6 to 2.6.1
 30. [Interesting Outfits - Imperials](https://www.nexusmods.com/morrowind/mods/53651)
