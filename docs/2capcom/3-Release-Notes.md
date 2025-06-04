@@ -4,7 +4,7 @@
 
 # Releases (Newest to Oldest)  
 
-# Release 1.0.0 (Unreleased)
+# Release 1.0 (Unreleased)
 
 Save Safe? No
 
@@ -57,6 +57,19 @@ Save Safe? No
 - 20mm Anti Power Armor Rifle (PTRD-41)
 - T6M's Standalone AMR
 - HiPoly Faces REDUX
+- Wooden Prefabs Extended
+- Hunter of the Commonwealth
+- Bastion
+- Deadeye
+- Hellfire x-03
+- Improved Factions Collection
+- ITO Institute Overhaul
+- Institute PA
+- SRO Syringer Overhaul
+- Eyewear and mask texture
+- Eyes of Beauty
+- Raider Armors Retextured
+- 
 
 **Removed**
 - Buttons
@@ -71,6 +84,7 @@ Save Safe? No
 - Gas mask hat fix
 - Handmade Anti Mat Rifle
 - Glock Plasma
+- SWITCHBOARD
 
 **Updated**
 - CC Resources
