@@ -51,6 +51,7 @@ description: Release Notes
 37. [Expanded Loot - Food and Dishes](https://www.nexusmods.com/morrowind/mods/56699)
 38. [Rhymer's Lockpicks](https://www.nexusmods.com/morrowind/mods/56502)
 39. [Oblivion-Style Lockpicking (OpenMW)](https://www.nexusmods.com/morrowind/mods/56355)
+40. [Daedric Akaviri Armor](https://www.nexusmods.com/morrowind/mods/56482)
 
 **Updated**
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
