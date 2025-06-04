@@ -135,6 +135,8 @@ description: Release Notes
     * 1.2.1 to 1.3.1
 41. [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/46066)
     * 1.7 to 1.8
+42. [UnderCity](https://www.nexusmods.com/morrowind/mods/54773)
+    * 1.0.7 to 1.0.8.1
 
 **Removed**
 1. [Alchemical Hustle](https://www.nexusmods.com/morrowind/mods/51050)
