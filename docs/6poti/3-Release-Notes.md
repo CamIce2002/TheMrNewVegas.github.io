@@ -143,6 +143,8 @@ description: Release Notes
     * 1.0.7 to 1.0.8.1
 43. [Kogoruhn - Extinct City of Ash and Sulfur](https://www.nexusmods.com/morrowind/mods/51615)
     * 2.9.4 to 2.9.5
+44. [Roaring Arena - Betting and Bloodletting](https://www.nexusmods.com/morrowind/mods/50954)
+    * to 1.1
 
 **Removed**
 1. [Alchemical Hustle](https://www.nexusmods.com/morrowind/mods/51050)
