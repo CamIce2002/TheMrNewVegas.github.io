@@ -15,7 +15,6 @@ description: Capital Commonwealth Installation Guide
 - [Point Lookout](https://www.nexusmods.com/fallout4/mods/60330)
 - [America Rising 2](https://www.nexusmods.com/fallout4/mods/75767)
 - [Project A.R.E.S.](https://www.nexusmods.com/fallout4/mods/93271)
-- [Outcasts & Remnants](https://www.nexusmods.com/fallout4/mods/21469)
 :::
 *** 
 ## Point Lookout
