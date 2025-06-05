@@ -141,6 +141,8 @@ description: Release Notes
     * 1.7 to 1.8
 42. [UnderCity](https://www.nexusmods.com/morrowind/mods/54773)
     * 1.0.7 to 1.0.8.1
+43. [Kogoruhn - Extinct City of Ash and Sulfur](https://www.nexusmods.com/morrowind/mods/51615)
+    * 2.9.4 to 2.9.5
 
 **Removed**
 1. [Alchemical Hustle](https://www.nexusmods.com/morrowind/mods/51050)
@@ -159,6 +161,8 @@ description: Release Notes
 14. [Project Cyrodiil Grass](https://www.nexusmods.com/morrowind/mods/55612)
 15. [Dynamic Music](https://www.nexusmods.com/morrowind/mods/53568)
 16. [Azura's Shrine Overhaul](https://www.nexusmods.com/morrowind/mods/53277)
+17. [Medieval Armor Footstep Sounds](https://www.nexusmods.com/morrowind/mods/54591)
+18. 
     
 ## POTI 2.0 RC4 - 05/05/2025
 
