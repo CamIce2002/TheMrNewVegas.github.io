@@ -74,19 +74,6 @@ to bring it all back? Is it all too good to be true?
 - Repeatable quests
 
 
-## Outcasts and Remnants
-
-To start the mod's main story, head to the B.O.G. bunker, which is built into a hill, located south of Oberland Station, just east of the railroad tracks, and southwest of the alien crash site.  Head there and talk to Chuck Finley.  Once you discover the B.O.G. Bunker, you can fast travel to and from the interior.
-
-For immersion and game-play difficulty purposes, you should first complete the main Fallout 4 quest "Reunions", where you confront Kellogg at Fort Hagen, after which the first quest in this mod, "Initiation", should start automatically the next time you change locations.
-
-
-**Features**
-
-- New quests, locations, factions, and companions.
-- 20 hour story, with repeatable quests
-
-
 ## Project A.R.E.S.
 
 Project A.R.E.S. is a suspenseful and dark quest mod about MedTek Corporation that so far introduces several new quest, two brand-new voiced NPC's, one brand-new handcrafted dungeon, a new store (and vendor), and new medicinal items to give your vault dweller a fighting chance in the wasteland.
