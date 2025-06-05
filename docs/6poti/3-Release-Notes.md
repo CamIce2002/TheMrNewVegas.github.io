@@ -53,6 +53,8 @@ description: Release Notes
 39. [Oblivion-Style Lockpicking (OpenMW)](https://www.nexusmods.com/morrowind/mods/56355)
 40. [Daedric Akaviri Armor](https://www.nexusmods.com/morrowind/mods/56482)
 41. [Tamriel Rebuilt - Narsis Player Home 418](https://www.nexusmods.com/morrowind/mods/56617)
+42. [Devilish Skooma Overhaul (OpenMW 0.49)](https://www.nexusmods.com/morrowind/mods/55869)
+43. [Aspect of Azura](https://www.nexusmods.com/morrowind/mods/51079)
 
 **Updated**
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
@@ -156,6 +158,7 @@ description: Release Notes
 13. [Transmog Menu](https://gitlab.com/modding-openmw/s3ctors-s3cret-st4sh/-/tree/master/transmog?ref_type=heads)
 14. [Project Cyrodiil Grass](https://www.nexusmods.com/morrowind/mods/55612)
 15. [Dynamic Music](https://www.nexusmods.com/morrowind/mods/53568)
+16. [Azura's Shrine Overhaul](https://www.nexusmods.com/morrowind/mods/53277)
     
 ## POTI 2.0 RC4 - 05/05/2025
 
