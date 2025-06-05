@@ -70,7 +70,6 @@ Save Safe? No
 - Eyes of Beauty
 - Raider Armors Retextured
 - 2287 Gas masks
-- Terrain Undersides
 - Godrays Performance Fix
 
 **Removed**
