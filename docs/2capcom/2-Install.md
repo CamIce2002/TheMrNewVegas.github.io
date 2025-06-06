@@ -5,7 +5,7 @@ nav_order: 2
 description: Capital Commonwealth Installation Guide
 ---
 
-![image](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/splash.png)
+![image](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/capcom/download%20(7).gif)
 
 :::info
 ## **Requirements:**
