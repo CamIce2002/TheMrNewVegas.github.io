@@ -15,7 +15,6 @@ Save Safe? No
 - (ASMR) Another Super Mutant Retexture
 - Forced Evolution
 - Transfer Settlements
-- Boston FPS Fix
 - Lore Friendly 5.56 Collection
 - Laser Cannon
 - Tomacuzi
@@ -88,6 +87,7 @@ Save Safe? No
 - Handmade Anti Mat Rifle
 - Glock Plasma
 - SWITCHBOARD
+- FO3 Dart Gun
 
 **Updated**
 - CC Resources
