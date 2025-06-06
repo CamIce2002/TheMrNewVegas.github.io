@@ -2,10 +2,10 @@
 layout: default
 title: Gameplay Guides
 nav_order: 6
-description: Capital Commonwealth Installation Guide
+description: Capital Commonwealth Gameplay Guides
 ---
 
-![image](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/splash.png)
+![image](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/capcom/download.gif)
 
 ## New Vegas Skill System
 
