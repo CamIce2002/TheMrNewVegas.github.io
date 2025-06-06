@@ -31,10 +31,12 @@ description: Capital Commonwealth Installation Guide
 
 ### 7.) You can now select “Capital Commonwealth” from the right hand dropdown and press play  
 
-### OPTIONALS/ULTRAWIDE: 
+### 8.) Go into the pause menu, the Mod Config menu and at the very top will be MCM Settings Manager, go into there and click apply on the saved settings
 
-Go into the pause menu, the Mod Config menu and enable Feral Infestations for full experience 
+### OPTIONALS/ULTRAWIDE: 
 
 If an UW user, don't forget to turn on the Ultrawide support mods in MO2
 
 You also have the option to toggle "Godrays Performance Fix Redux", just make sure to right click, open in explorer, and open the .ini file in the config folder and set your GPU brand | NVIDIA/AMD
+
+Go into the pause menu, the Mod Config menu and enable Feral Infestations for full experience 
