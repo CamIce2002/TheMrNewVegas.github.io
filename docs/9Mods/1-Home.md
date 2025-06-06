@@ -11,7 +11,7 @@ description: Our Mods
 
 [![BalancedLevelCapGuardsRevised](https://github.com/user-attachments/assets/090b263e-f78d-4386-8fd0-1d41aa6bf4de)](https://www.nexusmods.com/oblivionremastered/mods/4008)
 
-[![Locked DLC Homes Banner Nexus](https://github.com/user-attachments/assets/b3c18827-aea9-463d-9902-42ce2d07c071)](https://www.nexusmods.com/oblivionremastered/mods/4263?tab=description)
+[![Locked DLC Homes Banner Nexus](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/Mod%20%26%20Patch%20Image%20Repo/Locked%20DLC%20Homes/LDLCHbycpage.png)](https://www.nexusmods.com/oblivionremastered/mods/4263?tab=description)
 
 
 # Mods by MT4L
