@@ -18,10 +18,10 @@ description: Our Mods
 
 ## Fallout 4
 
-[![ASMRMutantTextures](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/capcom/94181-1748902728-2027523236%20(1).png)](https://www.nexusmods.com/fallout4/mods/94181)
+[![ASMRMutantTextures](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/capcom/ASAP.png)](https://www.nexusmods.com/fallout4/mods/94181)
 
-[![PATrainingManual](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/capcom/Photo87.png)](https://www.nexusmods.com/fallout4/mods/94027)
+[![PATrainingManual](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/capcom/patraining.png)](https://www.nexusmods.com/fallout4/mods/94027)
 
 ## Kingdom Come Deliverance II
 
-[![OBVlStyleLoading](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/capcom/633-1739755171-2039150839%20(1).png)](https://www.nexusmods.com/kingdomcomedeliverance2/mods/633)
+[![OBVlStyleLoading](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/capcom/oblivstyle.png)](https://www.nexusmods.com/kingdomcomedeliverance2/mods/633)
