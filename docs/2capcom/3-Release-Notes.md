@@ -1,6 +1,4 @@
-![image](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/splash.png)
-
-# Release Notes
+![image](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/capcom/download%20(7).gif)
 
 # Releases (Newest to Oldest)  
 
