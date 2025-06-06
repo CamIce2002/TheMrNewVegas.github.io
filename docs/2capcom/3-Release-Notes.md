@@ -72,6 +72,7 @@ Save Safe? No
 - Raider Armors Retextured
 - 2287 Gas masks
 - Godrays Performance Fix
+- Blasted Billboards
 
 **Removed**
 - Buttons
