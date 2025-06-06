@@ -15,7 +15,7 @@ description: Capital Commonwealth Installation Guide
 
 # **Part 1: Installation Guide**
 
-### 1.) Install a fresh copy of Fallout 4
+### 1.) Install a fresh copy of Fallout 4 GOTY (ALL DLC EXCEPT HD DLC)
 
 > If a copy has already been installed the game can be uninstalled, files's deleted in Steam/steamapps/common/Fallout4 and Documents/MyGames/Fallout4, and then reinstalled like normal through Steam
 
