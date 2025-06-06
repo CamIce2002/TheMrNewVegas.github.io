@@ -89,6 +89,7 @@ Save Safe? No
 - Glock Plasma
 - SWITCHBOARD
 - FO3 Dart Gun
+- Fawkes
 
 **Updated**
 - CC Resources
