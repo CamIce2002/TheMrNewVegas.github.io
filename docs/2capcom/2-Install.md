@@ -9,7 +9,7 @@ description: Capital Commonwealth Installation Guide
 
 :::info
 ## **Requirements:**
-- ~140 GB of space, 48GB from downloads can be deleted after installation is complete 
+- 140 GB of space, 48GB from downloads can be deleted after installation is complete 
 - A legal Steam copy of Fallout 4 GOTY updated to the most recent version  
 :::
 
