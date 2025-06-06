@@ -5,7 +5,7 @@ nav_order: 1
 description: Our Mods
 ---
 
-# Mods by TheMrNewVegas
+## Mods by TheMrNewVegas
 
 ## Oblivion Remastered
 
@@ -14,7 +14,7 @@ description: Our Mods
 [![Locked DLC Homes Banner Nexus](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/Mod%20%26%20Patch%20Image%20Repo/Locked%20DLC%20Homes/LDLCHbycpage.png)](https://www.nexusmods.com/oblivionremastered/mods/4263?tab=description)
 
 
-# Mods by MT4L
+## Mods by MT4L
 
 ## Fallout 4
 
