@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Load Order
+title: Power Armor Changes
 nav_order: 5
 description: Capital Commonwealth Power Armor Changes
 ---
