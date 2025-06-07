@@ -7,7 +7,7 @@ description: Dungeons & Daedra Remastered
 
 ![D DPNGBanner](https://github.com/user-attachments/assets/b223c757-1385-48cb-b78a-28ae357316fb)
 
-# Manual Install Guide Found [Here](https://www.nexusmods.com/oblivionremastered/mods/4347?tab=files)
+# Manual Install Guide Pending Wabbajack Integration Found [Here](https://www.nexusmods.com/oblivionremastered/mods/4347?tab=description)
 
 ## What is Dungeons & Daedra: Remastered?
 
