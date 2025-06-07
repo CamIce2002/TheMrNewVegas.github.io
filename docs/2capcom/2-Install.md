@@ -31,7 +31,7 @@ description: Capital Commonwealth Installation Guide
 
 ### 7.) You can now select “Capital Commonwealth” from the right hand dropdown and press play  
 
-### 8.) Go into the pause menu, the Mod Config menu and at the very top will be MCM Settings Manager, go into there and click apply on the saved settings
+### 8.) Go into the pause menu, the Mod Config menu and at the very top will be MCM Settings Manager, go into there and click apply on the saved settings (If you skip this step you will die from radiation when you leave Vault 111)
 
 ### OPTIONALS/ULTRAWIDE: 
 
