@@ -145,6 +145,10 @@ description: Release Notes
     * 2.9.4 to 2.9.5
 44. [Roaring Arena - Betting and Bloodletting](https://www.nexusmods.com/morrowind/mods/50954)
     * to 1.1
+45. [The Search for the White Wave](https://www.nexusmods.com/morrowind/mods/52301)
+    * 1.3 to 1.4
+46. [Unholy Trinity - Dagoth Ur - Vemynal - Odrosal Remade](https://www.nexusmods.com/morrowind/mods/55564)
+    * 1.3.1 to 1.3.2
 
 **Removed**
 1. [Alchemical Hustle](https://www.nexusmods.com/morrowind/mods/51050)
