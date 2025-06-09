@@ -22,7 +22,6 @@ Save Safe? No
 - New Textures For Handmade Rifle
 - Right-handed Nukaworld AK Replacer
 - Fourville
-- AER-15 & Institute rifle replacer
 - CROSS armors & integrations
 - Gunners life armors
 - .38 Machine Pistol
