@@ -13,6 +13,7 @@ Save Safe?: No
 - Optimization Patches
 - Canary
 - CC's Improved Hair Colors
+- Ultrawide Profile
 
 **Removed**
 - Tactical Reload
