@@ -4,6 +4,23 @@
 
 ---
 
+# Release 1.1
+
+Save Safe?: No
+
+**Added**
+- LEO
+- Optimization Patches
+- Canary
+- CC's Improved Hair Colors
+
+**Removed**
+- Tactical Reload
+- Fallout Priority
+- Disk Cache Enabler
+- AER15
+- Legendary Modification
+
 # Release 1.0
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nDR_0SsGZSI?si=IvG04tXy24Zy3637" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
