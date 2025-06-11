@@ -42,12 +42,12 @@ description: Release Notes
 28. [Better Bars (OpenMW)](https://www.nexusmods.com/morrowind/mods/54951)
 29. [Simple Magic Timer HUD](https://www.nexusmods.com/morrowind/mods/56767)
 30. [OpenMW Footsteps](https://modding-openmw.gitlab.io/openmw-footsteps/)
-31. [Higher Faction Requirements](https://www.nexusmods.com/morrowind/mods/56760)
+31. [Higher Faction Requirements - PTR Compatible Version](https://www.nexusmods.com/morrowind/mods/53230)
 32. [Boss Overhaul - Dagoth Ur](https://www.nexusmods.com/morrowind/mods/56809)
 33. [Magical Mainland Homes](https://www.nexusmods.com/morrowind/mods/53681)
 34. [TR Newspapers on Vvardenfell](https://www.nexusmods.com/morrowind/mods/56788)
 35. [Of Pacts and Patrons -- A Religion Mod](https://www.nexusmods.com/morrowind/mods/56830)
-36. [OAAB Odai Plateau](https://www.nexusmods.com/morrowind/mods/56742)
+36. [Dallara Odai Plateau](https://www.nexusmods.com/morrowind/mods/56243)
 37. [Expanded Loot - Food and Dishes](https://www.nexusmods.com/morrowind/mods/56699)
 38. [Rhymer's Lockpicks](https://www.nexusmods.com/morrowind/mods/56502)
 39. [Oblivion-Style Lockpicking (OpenMW)](https://www.nexusmods.com/morrowind/mods/56355)
@@ -55,6 +55,15 @@ description: Release Notes
 41. [Tamriel Rebuilt - Narsis Player Home 418](https://www.nexusmods.com/morrowind/mods/56617)
 42. [Devilish Skooma Overhaul (OpenMW 0.49)](https://www.nexusmods.com/morrowind/mods/55869)
 43. [Aspect of Azura](https://www.nexusmods.com/morrowind/mods/51079)
+44. [Landscape Overhaul for The White Wolf of Lokken Mountain](https://www.nexusmods.com/morrowind/mods/48862)
+45. [Landscape Overhaul for the White Wolf of Lokken Mountain and STOTSP 2.3 Patch](https://www.nexusmods.com/morrowind/mods/56399)
+46. [Tomb of the Snow Prince - Bush Collision Fix](https://www.nexusmods.com/morrowind/mods/56871)
+47. [The Wake of Hanin - Ibar-Dad Overhaul](https://www.nexusmods.com/morrowind/mods/56206)
+48. [Insane Dwemer Armor Replacer](https://www.nexusmods.com/morrowind/mods/56108)
+49. [Glass Revamp](https://www.nexusmods.com/morrowind/mods/56318)
+50. [Ebony Reforge](https://www.nexusmods.com/morrowind/mods/56719)
+51. [Cuirass of the Savior's Hide Replacer](https://www.nexusmods.com/morrowind/mods/56859)
+52. [SM Masque Clavicus Vile Replacer](https://www.nexusmods.com/morrowind/mods/56897)
 
 **Updated**
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
@@ -70,7 +79,7 @@ description: Release Notes
 6. [Better Robes - Updated Tamriel Rebuilt Patch](https://www.nexusmods.com/morrowind/mods/44875)
    * 2.1 to 2.2
 7. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
-   * 1.14 to 1.15a
+   * 1.14 to 1.20a
 8. [Dynamic Sounds for OpenMW](https://www.nexusmods.com/morrowind/mods/56572)
    * 0.8.8 to 0.9.1
 9. [MUSE Music Expansion - Ashlander](https://www.nexusmods.com/morrowind/mods/51255)
@@ -122,19 +131,19 @@ description: Release Notes
 32. [Interesting Outfits - Solstheim](https://www.nexusmods.com/morrowind/mods/53124)
     * 1.6.4 to 1.6.5
 33. [Interesting Outfits - Tamriel Rebuilt Guards](https://www.nexusmods.com/morrowind/mods/55776)
-    * 1.2 to 2.0.1
+    * 1.2 to 2.0.2
 34. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
-    * 3.9.2 to 3.9.4
+    * 3.9.2 to 3.9.5
 35. [Fresh Loot (OpenMW)](https://www.nexusmods.com/morrowind/mods/56005)
-    * 2.1.3 to 2.1.4
+    * 2.1.3 to 2.1.5
 36. [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713)
     * 1.1 to 1.2
 37. [Vampire Masquerade - A Detailed Overhaul](https://www.nexusmods.com/morrowind/mods/56101)
     * 1.4 to 2.0
 38. [Almalexia's Chamber Overhaul](https://www.nexusmods.com/morrowind/mods/52737)
     * 1.92 to 1.93
-39. [UnderCity](https://www.nexusmods.com/morrowind/mods/54773)
-    * 1.0.6 to 1.0.7
+39. [EKM Vanilla-Based Paper Lanterns](https://www.nexusmods.com/morrowind/mods/43837)
+    * 1.0 to 2.0
 40. [Project Cyrodiil - SSQN Patch](https://www.nexusmods.com/morrowind/mods/55688)
     * 1.2.1 to 1.3.1
 41. [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/46066)
@@ -168,7 +177,10 @@ description: Release Notes
 15. [Dynamic Music](https://www.nexusmods.com/morrowind/mods/53568)
 16. [Azura's Shrine Overhaul](https://www.nexusmods.com/morrowind/mods/53277)
 17. [Medieval Armor Footstep Sounds](https://www.nexusmods.com/morrowind/mods/54591)
-18. 
+18. [Skyrim style Masque of Clavicus Vile Replacer](https://www.nexusmods.com/morrowind/mods/53600)
+19. [Subtle Magic Glow](https://www.nexusmods.com/morrowind/mods/4468)
+20. [More Realisitc Dwemer Armor](https://www.nexusmods.com/morrowind/mods/41799)
+21. [Dwemer Lightning Rods](https://www.nexusmods.com/morrowind/mods/50236)
     
 ## POTI 2.0 RC4 - 05/05/2025
 
