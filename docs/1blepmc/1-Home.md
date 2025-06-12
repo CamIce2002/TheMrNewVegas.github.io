@@ -5,7 +5,7 @@ nav_order: 1
 description: BLEP MC
 ---
 
-![image](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/blep/Blep-Fishing-Logo.png)
+![image](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/blep/blep_mc_title.png)
 
 ## What is BLEP?
 
