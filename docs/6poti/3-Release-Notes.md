@@ -64,6 +64,7 @@ description: Release Notes
 50. [Ebony Reforge](https://www.nexusmods.com/morrowind/mods/56719)
 51. [Cuirass of the Savior's Hide Replacer](https://www.nexusmods.com/morrowind/mods/56859)
 52. [SM Masque Clavicus Vile Replacer](https://www.nexusmods.com/morrowind/mods/56897)
+53. [OpenMW Quest Menu](https://www.nexusmods.com/morrowind/mods/56273)
 
 **Updated**
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
@@ -133,7 +134,7 @@ description: Release Notes
 33. [Interesting Outfits - Tamriel Rebuilt Guards](https://www.nexusmods.com/morrowind/mods/55776)
     * 1.2 to 2.0.2
 34. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
-    * 3.9.2 to 3.9.5
+    * 3.9.2 to 3.9.6
 35. [Fresh Loot (OpenMW)](https://www.nexusmods.com/morrowind/mods/56005)
     * 2.1.3 to 2.1.5
 36. [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713)
@@ -158,6 +159,15 @@ description: Release Notes
     * 1.3 to 1.4
 46. [Unholy Trinity - Dagoth Ur - Vemynal - Odrosal Remade](https://www.nexusmods.com/morrowind/mods/55564)
     * 1.3.1 to 1.3.2
+47. [Where's Your Uniform](https://www.nexusmods.com/morrowind/mods/55932)
+    * 1.2 to 1.3
+48. [Concept Art Palace (Vivec City)](https://www.nexusmods.com/morrowind/mods/48136)
+    * 2.6 to 2.8.2
+49. [Drinking and Delving](https://www.nexusmods.com/morrowind/mods/54777)
+    * 1.2 to 1.2.1
+50. [Imperial Employment Office (MD Edit)](https://www.nexusmods.com/morrowind/mods/53845)
+    * 4.0.1 to 4.0.3
+
 
 **Removed**
 1. [Alchemical Hustle](https://www.nexusmods.com/morrowind/mods/51050)
