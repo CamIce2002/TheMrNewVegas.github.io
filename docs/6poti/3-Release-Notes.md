@@ -65,6 +65,8 @@ description: Release Notes
 51. [Cuirass of the Savior's Hide Replacer](https://www.nexusmods.com/morrowind/mods/56859)
 52. [SM Masque Clavicus Vile Replacer](https://www.nexusmods.com/morrowind/mods/56897)
 53. [OpenMW Quest Menu](https://www.nexusmods.com/morrowind/mods/56273)
+54. [For the Right Price](https://www.nexusmods.com/morrowind/mods/52668)
+55. [Better Merchants Skills for OpenMW](https://www.nexusmods.com/morrowind/mods/54337)
 
 **Updated**
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
