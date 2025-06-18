@@ -7,7 +7,7 @@ description: BLEP MC Changelog
 
 # Releases (Newest to Oldest)  
 
-# Release 2.2
+# Release v2.2
 
 **Added**
 
@@ -15,13 +15,17 @@ description: BLEP MC Changelog
 
 * [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful)
 
+* [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) - Shader Support
+
 **Addtional Changes**
 
 * Disabled [Quark's](https://www.curseforge.com/minecraft/mc-mods/quark) Inventory Sorting in Favor of Dedicated [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) Mod
 * Added Custom Imagery to Quest Log
 * Modified Molecular Metamorpher Recipes
+* Added Cognition Armor Set
+* Standardized Bark in Recipes for FarmersDelight and Roots
 
-# Release 2.1
+# Release v2.1
 
 **Added**
 
@@ -47,5 +51,3 @@ description: BLEP MC Changelog
 * Increased Stats from Mowzie Mobs Bosses
 * Made Eyes from [End Remastered](https://www.curseforge.com/minecraft/mc-mods/endremastered) Unbreakable
 * Added In Game Info to JEI for Many Items
-* Added Cognition Armor Set
-* Standardized Bark in Recipes for FarmersDelight and Roots

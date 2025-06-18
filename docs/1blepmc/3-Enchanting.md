@@ -9,7 +9,7 @@ description: BLEP MC Enchanting
 
 ![image](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/blep/enchanting_room.png)
 
-Gone are the days of throwing down 15 bookshelves and having access to every enchantment for the rest of the game! Now enchanting involves the building of a full library decorated with countless objects from your journeys to obtain the most powerful of enchantments.
+Gone are the days of throwing down 15 bookshelves right next to the table and having access to every enchantment for the rest of the game! Now enchanting involves the building of a full library decorated with countless objects from your journeys to obtain the most powerful of enchantments.
 
 ## Enchanting Stats
 
