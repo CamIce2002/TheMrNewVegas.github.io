@@ -11,7 +11,7 @@ description: Path of the Incarnate Installation Guide
 - A legal copy of Morrowind GOTY from Steam or GOG
 - Wabbajack **(It can be found [here](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe))**
 - Visual C++ **(It can be found [here](https://aka.ms/vs/17/release/vc_redist.x64.exe))**
-- OpenMW .49 RC Build **(It can be found [here](https://github.com/OpenMW/openmw/releases/download/openmw-49-rc7/OpenMW-0.49.0-RC7-win64.exe))**
+- OpenMW .49 RC Build **(It can be found [here](https://github.com/OpenMW/openmw/releases/download/openmw-49-rc8/OpenMW-0.49.0-RC8-win64.exe))**
 - A Nexus account **(Premium recommended; drastically increases install speed)**
 :::
 
