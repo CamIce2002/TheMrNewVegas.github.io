@@ -1,13 +1,25 @@
 ---
 layout: default
-title: Release Notes
+title: Changelog
 nav_order: 2
-description: BLEP MC Release Notes
+description: BLEP MC Changelog
 ---
 
-# Release Notes
-
 # Releases (Newest to Oldest)  
+
+# Release 2.2
+
+**Added**
+
+* [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
+
+* [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful)
+
+**Addtional Changes**
+
+* Disabled [Quark's](https://www.curseforge.com/minecraft/mc-mods/quark) Inventory Sorting in Favor of Dedicated [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) Mod
+* Added Custom Imagery to Quest Log
+* Modified Molecular Metamorpher Recipes
 
 # Release 2.1
 
@@ -27,12 +39,13 @@ description: BLEP MC Release Notes
 * [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)
 
 **Additional Changes**
+
+* Created Enchanting Quest Tree
 * Modified Cooking Equipment Recipes to use Cast Iron from Create Big Cannons
 * Added Ambergris as expensive trade to Wandering Traders as alternative to Beaching Whales
 * Added Light Emission to Crystal Seeds from Embers
 * Increased Stats from Mowzie Mobs Bosses
 * Made Eyes from [End Remastered](https://www.curseforge.com/minecraft/mc-mods/endremastered) Unbreakable
 * Added In Game Info to JEI for Many Items
-
-# Release 1.0
-Initial Release
+* Added Cognition Armor Set
+* Standardized Bark in Recipes for FarmersDelight and Roots
