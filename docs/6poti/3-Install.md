@@ -7,7 +7,7 @@ description: Path of the Incarnate Installation Guide
 
 :::info
 ## **Requirements:**
-- ~60GB of space, 20GB from downloads can be deleted after installation is complete 
+- ~68GB of space, 23GB from downloads can be deleted after installation is complete 
 - A legal copy of Morrowind GOTY from Steam or GOG
 - Wabbajack **(It can be found [here](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe))**
 - Visual C++ **(It can be found [here](https://aka.ms/vs/17/release/vc_redist.x64.exe))**
