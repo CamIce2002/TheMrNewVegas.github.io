@@ -74,7 +74,7 @@ description: Release Notes
 2. [OpenMW Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/54148)
    * 1.33a to 1.35
 3. [Rafael's Shader Pack](https://www.nexusmods.com/morrowind/mods/53667)
-   * 1.7f to 1.8
+   * 1.7f to 1.8b
 4. [OAAB Pomegranates](https://www.nexusmods.com/morrowind/mods/50726)
    * 1.1 to 1.2
 5. [Logs on Fire - Skyrim](https://www.nexusmods.com/morrowind/mods/55665)
@@ -168,7 +168,9 @@ description: Release Notes
 49. [Drinking and Delving](https://www.nexusmods.com/morrowind/mods/54777)
     * 1.2 to 1.2.1
 50. [Imperial Employment Office (MD Edit)](https://www.nexusmods.com/morrowind/mods/53845)
-    * 4.0.1 to 4.0.3
+    * 4.0.1 to 4.0.4
+51. [Keytars (OpenMW)](https://www.nexusmods.com/morrowind/mods/56323)
+    * 1.1.0 to 1.2.0
 
 
 **Removed**
