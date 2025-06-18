@@ -21,6 +21,7 @@ description: BLEP MC Changelog
 
 * Disabled [Quark's](https://www.curseforge.com/minecraft/mc-mods/quark) Inventory Sorting in Favor of Dedicated [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) Mod
 * Added Custom Imagery to Quest Log
+* Added Enchantment Quest Tree
 * Modified Molecular Metamorpher Recipes
 * Added Cognition Armor Set
 * Standardized Bark in Recipes for FarmersDelight and Roots
