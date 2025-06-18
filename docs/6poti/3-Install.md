@@ -27,9 +27,7 @@ description: Path of the Incarnate Installation Guide
 
 - If you haven't yet, download the required OpenMW Build [here](https://github.com/OpenMW/openmw/releases/download/openmw-49-rc7/OpenMW-0.49.0-RC7-win64.exe).
 
-- Unzip the OpenMW Build into the folder you would like it to be installed (I.E. C:/Games/OpenMW .49)
-
-- Inside the folder, launch openmw-wizard.exe and follow the steps, **unchecking "Import Bitmap Fonts Setup from Morrowind"** at the Import Settings stage. 
+- Run the .exe and follow the steps, **unchecking "Import Bitmap Fonts Setup from Morrowind"** at the Import Settings stage. 
 
 ### 3.) Wabbajack Setup
 
