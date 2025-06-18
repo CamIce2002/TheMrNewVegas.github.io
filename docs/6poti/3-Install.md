@@ -35,15 +35,15 @@ description: Path of the Incarnate Installation Guide
 
 ### 4.) Installing the Modlist
 
-- If you are installing the list through Wabbajack’s Gallery, go to “Browse Modlists” then search Path of the Incarnate. Click the download icon.
+- If you are installing the list through Wabbajack’s Gallery, go to “Browse lists” then check "Non-featured" and search for Path of the Incarnate. Click the download icon.
 
 - If you are installing the list using a downloaded .wabba file, then click on "Install from Disk" and set the Target Modlist path to your file.
 
-- Set your modlist installation location to wherever your would like it (IE: C:/Modlists/POTI) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin.
+- Set your modlist installation location to wherever your would like it (IE: C:/Modlists/POTI) & it will automatically create the downloads directory for you. Press the Install button when you are done and installation will begin.
 
 ### 5.) Mod Organizer 2 Setup 
 
-- After Wabbajack installation is done, make sure in Mod Organizer that the OpenMW application directories in the dropdown menu match the locations on your system. If they do not, change them so that they do.
+- After Wabbajack installation is done, make sure in Mod Organizer that the OpenMW application directories in the dropdown menu match the locations on your system. If they do not, change them so that they do as detailed below.
 
 - Launch ModOrganizer.exe from your POTI folder, navigate to the dropdown menu at the top right, select it, then select "Edit".
 
