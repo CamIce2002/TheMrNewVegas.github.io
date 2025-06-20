@@ -7,7 +7,7 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
-## POTI 2.0 - TBR
+## POTI 2.0 - 06/18/2025
 
 ### Save Safe? No
 

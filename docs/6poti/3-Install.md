@@ -7,11 +7,11 @@ description: Path of the Incarnate Installation Guide
 
 :::info
 ## **Requirements:**
-- ~60GB of space, 20GB from downloads can be deleted after installation is complete 
+- ~68GB of space, 23GB from downloads can be deleted after installation is complete 
 - A legal copy of Morrowind GOTY from Steam or GOG
 - Wabbajack **(It can be found [here](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe))**
 - Visual C++ **(It can be found [here](https://aka.ms/vs/17/release/vc_redist.x64.exe))**
-- OpenMW .49 RC Build **(It can be found [here](https://github.com/OpenMW/openmw/releases/download/openmw-49-rc7/OpenMW-0.49.0-RC7-win64.exe))**
+- OpenMW .49 RC Build **(It can be found [here](https://github.com/OpenMW/openmw/releases/download/openmw-49-rc8/OpenMW-0.49.0-RC8-win64.exe))**
 - A Nexus account **(Premium recommended; drastically increases install speed)**
 :::
 
@@ -27,9 +27,7 @@ description: Path of the Incarnate Installation Guide
 
 - If you haven't yet, download the required OpenMW Build [here](https://github.com/OpenMW/openmw/releases/download/openmw-49-rc7/OpenMW-0.49.0-RC7-win64.exe).
 
-- Unzip the OpenMW Build into the folder you would like it to be installed (I.E. C:/Games/OpenMW .49)
-
-- Inside the folder, launch openmw-wizard.exe and follow the steps, **unchecking "Import Bitmap Fonts Setup from Morrowind"** at the Import Settings stage. 
+- Run the .exe and follow the steps, **unchecking "Import Bitmap Fonts Setup from Morrowind"** at the Import Settings stage. 
 
 ### 3.) Wabbajack Setup
 
@@ -37,15 +35,15 @@ description: Path of the Incarnate Installation Guide
 
 ### 4.) Installing the Modlist
 
-- If you are installing the list through Wabbajack’s Gallery, go to “Browse Modlists” then search Path of the Incarnate. Click the download icon.
+- If you are installing the list through Wabbajack’s Gallery, go to “Browse lists” then check "Non-featured" and search for Path of the Incarnate. Click the download icon.
 
 - If you are installing the list using a downloaded .wabba file, then click on "Install from Disk" and set the Target Modlist path to your file.
 
-- Set your modlist installation location to wherever your would like it (IE: C:/Modlists/POTI) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin.
+- Set your modlist installation location to wherever your would like it (IE: C:/Modlists/POTI) & it will automatically create the downloads directory for you. Press the Install button when you are done and installation will begin.
 
 ### 5.) Mod Organizer 2 Setup 
 
-- After Wabbajack installation is done, make sure in Mod Organizer that the OpenMW application directories in the dropdown menu match the locations on your system. If they do not, change them so that they do.
+- After Wabbajack installation is done, make sure in Mod Organizer that the OpenMW application directories in the dropdown menu match the locations on your system. If they do not, change them so that they do as detailed below.
 
 - Launch ModOrganizer.exe from your POTI folder, navigate to the dropdown menu at the top right, select it, then select "Edit".
 
