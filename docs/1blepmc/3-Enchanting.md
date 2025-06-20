@@ -14,13 +14,13 @@ Gone are the days of throwing down 15 bookshelves right next to the table and ha
 ## Enchanting Stats
 
 ### Primary
-* <span style="color:MediumSeaGreen"><b>Eterna</b></span>  - A measure of enchanting strength, increases the level cost
-* <span style="color:Salmon"><b>Quanta</b></span> - A measure of randomness, changing just how much RNG is involved
-* <span style="color:Orchid"><b>Arcana</b></span> - A measure of mystical quality, increases the number of enchantments received while making rare enchantments more common
+* Eterna - A measure of enchanting strength, increases the level cost
+* Quanta - A measure of randomness, changing just how much RNG is involved
+* Arcana - A measure of mystical quality, increases the number of enchantments received while making rare enchantments more common
 
 ### Secondary
-* <span style="color:DarkCyan"><b>Enchanting Clues</b></span> - Changes the number of enchantments shown when hovering a slot in the Enchanting Table
-* <span style="color:Gold"><b>Rectification</b></span> - Removes the negative randomness from Quanta
+* Enchanting Clues - Changes the number of enchantments shown when hovering a slot in the Enchanting Table
+* Stability - Removes the negative randomness from Quanta
 
 ## Bookshelves
 
