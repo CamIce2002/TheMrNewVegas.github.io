@@ -28,6 +28,12 @@ Make sure that you have a clean install of Darktide in a non-protected folder. O
 - Paste the Fatshark folder, overwrite if prompted
 - Go back to MO2 and click Run
 
+:::caution
+Game settings and Mod Settings seem to be the same file, so using my included Mod Settings file will overwrite any of your settings. You should be okay to launch into game with these settings, just make sure to check your graphics settings.
+If you're having issues, you can run the launcher through Steam and update your settings there. Just make sure you close the launcher and relaunch through MO2.
+:::
+
+
 ## Updating 
 I recommend checking for mod updates before every time you play just you make sure you're always up to date.
 - To do this, right click on any of the mods in the left panel, mouse over ALL MODS, then click CHECK FOR UPDATES.
