@@ -120,7 +120,9 @@ description: Ordo Hereticus Mods
 * [Weapon FOV](https://www.nexusmods.com/warhammer40kdarktide/mods/222) - Change the FOV of weapons and the zoom of ranged weapons.
 
 :::note
-Weapon Customization can cause game instability, frame drops, and crashes. Comes disabled. All plugins require the main mod enabled and may require each other. Make sure you check the dependencies on the modpage. :::
+Weapon Customization can cause game instability, frame drops, and crashes. Comes disabled. All plugins require the main mod enabled and may require each other. Make sure you check the dependencies on the modpage.
+:::
+
 
 ### Weapon Customization
 * [Extended Weapon Customization](https://www.nexusmods.com/warhammer40kdarktide/mods/277) - Weapon customization, flashlights, sights, scopes, equipment on back.
