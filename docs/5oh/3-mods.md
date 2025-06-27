@@ -89,7 +89,6 @@ description: Ordo Hereticus Mods
 * [Volley Fire Timer](https://www.nexusmods.com/warhammer40kdarktide/mods/124) - See a timer showing how long you have to get your next kill to chain the veteran sharpshooters volley fire ability.
 * [Zealot Fire Particle Swap](https://www.nexusmods.com/warhammer40kdarktide/mods/230) - Replaces the fire lingering particles of the fire grenade to other particles for fun and accessibility. (Also known as BetterFireGrenade)
 
-
 ### Optional
 * [BetterDogTargets](https://www.nexusmods.com/warhammer40kdarktide/mods/542) - Recolor dog target ping outlines
 * [Collectible Finder](https://www.nexusmods.com/warhammer40kdarktide/mods/298) - Displays a notification when collectibles are nearby.
@@ -119,16 +118,16 @@ description: Ordo Hereticus Mods
 * [Valkyrie Blitz-Ingress](https://www.nexusmods.com/warhammer40kdarktide/mods/544) - Reduce time in the Valkyrie when joining an in-progress mission by skipping the mission briefing.
 * [Weapon FOV](https://www.nexusmods.com/warhammer40kdarktide/mods/222) - Change the FOV of weapons and the zoom of ranged weapons.
 
-:::note
-Weapon Customization can cause game instability, frame drops, and crashes. Comes disabled. All plugins require the main mod enabled and may require each other. Make sure you check the dependencies on the modpage.
-:::
-
-
 ### Weapon Customization
 * [Extended Weapon Customization](https://www.nexusmods.com/warhammer40kdarktide/mods/277) - Weapon customization, flashlights, sights, scopes, equipment on back.
 * [The Syndonai Edits - An Extended Weapons Customization Plugin](https://www.nexusmods.com/warhammer40kdarktide/mods/290) - This plugin adds a selection of kit-bashed options to the weapon customization mod, many influenced by items from WH40K and other sci-fi universes.
 * [Weapon Customization MT Plugin](https://www.nexusmods.com/warhammer40kdarktide/mods/276) - Adds a large selection of weapon parts to use.
 * [Ostracized without Objection (OwO) - Extended Weapon Customization Plugin](https://www.nexusmods.com/warhammer40kdarktide/mods/429) - Weapon Customization plugin adding various parts, typically inspired by historical weapons.
+
+:::note
+Weapon Customization can cause game instability, frame drops, and crashes. Comes disabled. All plugins require the main mod enabled and may require each other. Make sure you check the dependencies on the modpage.
+:::
+
 
 ### Waiting for Updates
 * [How Did I Get That (Unlock Requirements Improved)](https://www.nexusmods.com/warhammer40kdarktide/mods/344) - Shows details on how you unlocked/can unlock all cosmetics, including penance rewards, commissary items and Hestia's blessing rewards.
