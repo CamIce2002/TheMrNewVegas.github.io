@@ -25,8 +25,8 @@ description: Ordo Hereticus Release Notes
 
 
 **Waiting For Updates**
-How Did I Get That (Unlock Requirements Improved)
-Character Cosmetics View Improved
-Scoreboard
-Weapon Cosmetics View Improved
-Coherency Keeper 
+- How Did I Get That (Unlock Requirements Improved)
+- Character Cosmetics View Improved
+- Scoreboard
+- Weapon Cosmetics View Improved
+- Coherency Keeper 
