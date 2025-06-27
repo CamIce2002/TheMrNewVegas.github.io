@@ -21,7 +21,7 @@ Make sure that you have a clean install of Darktide in a non-protected folder. O
 
 ## Post-Install
 - Go to the folder you set in Wabbajack and open MO2.exe
-- Scroll down to Mod Settings
+- Scroll down to Mod Settings at the bottom
 - Right Click, Open in Explorer
 - Copy the Fatshark folder
 - Go to C:\Users\USERNAME\AppData\Roaming
@@ -29,7 +29,7 @@ Make sure that you have a clean install of Darktide in a non-protected folder. O
 - Go back to MO2 and click Run
 
 :::caution
-Game settings and Mod Settings seem to be the same file, so using my included Mod Settings file will overwrite any of your settings. You should be okay to launch into game with these settings, just make sure to check your graphics settings.
+Game settings and Mod Settings seem to be the same file, so using my included Mod Settings file will overwrite any of your settings. You should be okay to launch into game with these settings, just make sure to check your game settings.
 If you're having issues, you can run the launcher through Steam and update your settings there. Just make sure you close the launcher and relaunch through MO2.
 :::
 
