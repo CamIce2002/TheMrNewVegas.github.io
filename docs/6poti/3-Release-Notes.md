@@ -14,6 +14,7 @@ description: Release Notes
 **Added**
 1. [Dallara Adamantium Weaponry](https://www.nexusmods.com/morrowind/mods/57008)
 2. [SaintJ's Landscape Replacer Parallax Textures for OpenMW](https://www.nexusmods.com/morrowind/mods/55555)
+3. [Fantasia Grass Mod - POTI Fixes](https://www.nexusmods.com/morrowind/mods/53437)
    
 **Updated**
 1. [Pet the Scribs REVOLUTION - OpenMW](https://www.nexusmods.com/morrowind/mods/56973)
