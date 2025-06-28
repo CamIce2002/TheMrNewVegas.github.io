@@ -7,6 +7,62 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
+## POTI 2.0.1.1 - 06/28/2025
+
+### Save Safe? Yes
+
+**Added**
+1. [Dallara Adamantium Weaponry](https://www.nexusmods.com/morrowind/mods/57008)
+2. [SaintJ's Landscape Replacer Parallax Textures for OpenMW](https://www.nexusmods.com/morrowind/mods/55555)
+   
+**Updated**
+1. [Pet the Scribs REVOLUTION - OpenMW](https://www.nexusmods.com/morrowind/mods/56973)
+   * scrib.0 to scrib.1
+2. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
+   * 25.06.01 to 25.06.28
+3. [OpenMW Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/54148)
+   * 1.35 to 1.36b
+4. [Golden Saint Shrines](https://www.nexusmods.com/morrowind/mods/56400)
+   * 0.2 to 0.4
+5. [OpenMW Animated Pickup and Shop Around](https://www.nexusmods.com/morrowind/mods/54585)
+   * 1.25 to 1.25a
+6. [Ebonheart Underworks](https://www.nexusmods.com/morrowind/mods/47272)
+   * 1.19 to 1.20
+7. [Bardcraft (OpenMW)](https://www.nexusmods.com/morrowind/mods/56814)
+   * 1.1.1 to 1.2.0
+8. [Harder Better Faster Stronger (OpenMW)](https://www.nexusmods.com/morrowind/mods/55542)
+   * 2.3 to 2.3.1
+**Removed**
+1. Tyddy's Landscape Retexture
+   
+## POTI 2.0.1.0 - 06/21/2025
+
+### Save Safe? No
+
+**Added**
+
+**Updated**
+1. [Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
+   * 1.20a to 1.20b
+2. [Devilish Sleep Spell (OpenMW 0.49)](https://www.nexusmods.com/morrowind/mods/54798)
+   * 1.3 to 1.4.1
+     
+**Removed**
+1. [Ownership Overhaul](https://www.nexusmods.com/morrowind/mods/48051)
+2. [Of Pacts and Patrons -- A Religion Mod](https://www.nexusmods.com/morrowind/mods/56830)
+
+## POTI 2.0.0.1 - 06/20/2025
+
+### Save Safe? Yes
+
+**Added**
+1. BO_DagothUr_MusicPatch.ESP from Boss Overhaul - Dagoth Ur
+  
+**Updated**
+
+**Removed**
+1. For the Right Price - Creatures Module
+
 ## POTI 2.0 - 06/18/2025
 
 ### Save Safe? No
