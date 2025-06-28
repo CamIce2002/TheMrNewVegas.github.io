@@ -13,7 +13,7 @@ description: D&DR Install Guide
 
 :::tip
 
-Currently, Root Builder has had issues permanently carrying over files from MO2 instances to the root game folder, but otherwise functions normally (At least in my experience/hopefully not a user error). To mitigate this, we have decided to use a mixture of RootBuilder & Stock Game to ensure that your own install of Oblivion will remain untouched when you install this list and for seamless integration of mods that need to affect the Stock Game folder from the Root. Conveniently, we couldn't get Magic Loader 2 to function with Root Builder, so Stock Game was convenient for this reason as well.
+We currently use rootbuilder. Not only does this save you space, but prevents any overwrites or edits occurring to your base game folder. 
 
 Please follow the below instructions to the letter to ensure your base install remains unaffected/you can play the list successfully :). 
 
@@ -105,7 +105,7 @@ CURRENTLY, THE LIST CAN ONLY BE INSTALLED THROUGH OUR WABBAJACK FILE AND IS NOT 
 **Step 15:** Ensure that the beginning of all paths in here match to where your Oblivion is located on your computer. Exit this menu once done.
 > If they do not, change the paths to where your game is located
 
-**Step 16:** In the dropdown again, select Dungeons & Daedra - Remastered", then press "Run".
+**Step 16:** In the dropdown again, select "Magic Loader", then press "Run".
 
 Enjoy playing the list!
 
