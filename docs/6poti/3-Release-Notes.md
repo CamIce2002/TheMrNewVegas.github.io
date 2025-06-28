@@ -32,6 +32,7 @@ description: Release Notes
    * 1.1.1 to 1.2.0
 8. [Harder Better Faster Stronger (OpenMW)](https://www.nexusmods.com/morrowind/mods/55542)
    * 2.3 to 2.3.1
+
 **Removed**
 1. Tyddy's Landscape Retexture
    
