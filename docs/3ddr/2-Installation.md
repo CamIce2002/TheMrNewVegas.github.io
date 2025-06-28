@@ -30,8 +30,7 @@ Please follow the below instructions to the letter to ensure your base install r
 >
 > You can relocate your Steam Library easily using [Lost Dragonist's Steam Library Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide)
 
-- ~ 120 GB of Space (This does NOT include space needed for Oblivion Remastered)
-> We are currently troubleshooting why rootbuilder is keeping a full copy of the game to minimize this issue
+- ~ 130 GB of Space
 
 - [Net Runtime x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer)
 - [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
@@ -44,7 +43,7 @@ Please follow the below instructions to the letter to ensure your base install r
 
 **Step 2:** Disable any third party anti-virus such as MalwareBytes.
 
-**Step 3:** Ensure you have a clean install of Oblivion. You can do this by doing the following.
+**Step 3:** Ensure you have a clean install of Oblivion Remastered. You can do this by doing the following.
 - If you have installed third party programs or mods, delete your Oblivion Remastered folder (Usually located at `C:\Steam\steamapps\common\Oblivion Remastered`)
 - Additionally, go to your Windows Search Bar, type in `%USERS%`, from there navigate to `[Your Account]/Documents/My Games/Oblivion Remastered` and delete the Oblivion Remastered Folder
 > If you have any saves you wish to keep, please ensure you back them up in a separate location before deleting this folder
