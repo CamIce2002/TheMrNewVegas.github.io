@@ -17,12 +17,12 @@ description: D&DR Release Notes
 ### Documentation/Promotionals Checklist
 
 - Create Graphics for Wabbajack/Documentation ✔️
-- Create Trailer for Modlist
+- Create Trailer for Modlist - In Progress
 - Create Baseline Documentation ✔️
 
 ### Wabbajack Release Checklist
 
-- Compile .Wabba File for Distribution 
-- Upload Wabba File & Resources to Nexus
+- Compile .Wabba File for Distribution ✔️
+- Upload Wabba File & Resources to Nexus ✔️
 - Create Wabbajack Gallery Git Repository ✔️
-- Get List Approved/Placed on Wabba Gallery
+- Get List Approved/Placed on Wabba Gallery ✔️
