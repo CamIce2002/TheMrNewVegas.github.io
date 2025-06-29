@@ -4,7 +4,7 @@ title: Release Notes
 nav_order: 3
 description: D&DR Release Notes
 ---
-# Release: 0.1.5 (Next Update)
+# Release: 0.1.5 (Current)
 
 ### Added
 - [Urban Bypass Plus Anvil AIO Patch](https://www.nexusmods.com/oblivionremastered/mods/4623)
@@ -22,7 +22,7 @@ description: D&DR Release Notes
 ### Bug Fixes
 - Pending
 
-# Release: 0.1.0 (Current)
+# Release: 0.1.0 
 
 - Modlist Released & Awaiting Wabbajack Gallery Integration!✔️
 
