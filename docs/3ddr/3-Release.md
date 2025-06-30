@@ -4,7 +4,22 @@ title: Release Notes
 nav_order: 3
 description: D&DR Release Notes
 ---
-# Release: 0.1.5 (Current)
+# Release: 0.1.6 (Current)
+
+### Added
+- Pending
+  
+### Updated
+- Pending
+  
+### Removed
+- Crash Shield
+> Similar to NVAC in it removes crashes that may be necessary in diagnosing underlying issues
+  
+### Bug Fixes
+- Pending
+
+# Release: 0.1.5
 
 ### Added
 - [Urban Bypass Plus Anvil AIO Patch](https://www.nexusmods.com/oblivionremastered/mods/4623)
