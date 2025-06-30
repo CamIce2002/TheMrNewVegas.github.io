@@ -5,7 +5,7 @@ nav_order: 3
 description: D&DR Release Notes
 ---
 # Release: 0.1.6 (Current)
-## Save Safe?: Yes
+## Save Safe?: No
 
 ### Added
 - Pending
@@ -16,9 +16,11 @@ description: D&DR Release Notes
 ### Removed
 - Crash Shield
 > Similar to NVAC in that it removes crashes that may be necessary in diagnosing underlying issues
+- Simply Swim Up
+> Check Bug Fixes
   
 ### Bug Fixes
-- Pending
+- Fixed Alt Tabbing Causing Random Hangups & Generally Random Hangups when starting a new game.
 
 # Release: 0.1.5
 
