@@ -105,7 +105,7 @@ CURRENTLY, THE LIST CAN ONLY BE INSTALLED THROUGH OUR WABBAJACK FILE AND IS NOT 
 **Step 15:** Ensure that the beginning of all paths in here match to where your Oblivion is located on your computer. Exit this menu once done.
 > If they do not, change the paths to where your game or associated executables are located
 
-**Step 16:** In the dropdown again, select "Magic Loader", then press "Run".
+**Step 16:** In the dropdown again, select "Dungeons & Daedra: Remastered", then press "Run".
 
 Enjoy playing the list!
 
