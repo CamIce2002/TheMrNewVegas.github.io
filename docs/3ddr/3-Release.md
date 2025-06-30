@@ -5,6 +5,7 @@ nav_order: 3
 description: D&DR Release Notes
 ---
 # Release: 0.1.6 (Current)
+## Save Safe?: Yes
 
 ### Added
 - Pending
@@ -14,7 +15,7 @@ description: D&DR Release Notes
   
 ### Removed
 - Crash Shield
-> Similar to NVAC in it removes crashes that may be necessary in diagnosing underlying issues
+> Similar to NVAC in that it removes crashes that may be necessary in diagnosing underlying issues
   
 ### Bug Fixes
 - Pending
