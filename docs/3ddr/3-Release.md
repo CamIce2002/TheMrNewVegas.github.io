@@ -4,6 +4,22 @@ title: Release Notes
 nav_order: 3
 description: D&DR Release Notes
 ---
+# Release: 0.2.0 (Next Update)
+## Save Safe?: No
+
+### Added
+- [Rudy Reshade](https://www.nexusmods.com/oblivionremastered/mods/646?tab=files)
+  
+### Updated
+- Pending
+  
+### Removed
+- No Hud Toggle
+> Now Handled by Rudy Reshade (Press Insert)
+  
+### Bug Fixes
+- 
+
 # Release: 0.1.6 (Current)
 ## Save Safe?: No
 
