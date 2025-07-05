@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2261],{6368:e=>{e.exports=JSON.parse('{"title":"B.L.E.P MC","description":"BLEP For Minecraft - Forge","slug":"/category/blep-mc","permalink":"/docs/category/blep-mc","navigation":{"next":{"title":"Home","permalink":"/docs/1blepmc/Home"}}}')}}]);
