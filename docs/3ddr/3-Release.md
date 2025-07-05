@@ -14,6 +14,10 @@ description: D&DR Release Notes
 - [Bigger Beasts + NPC Patch](https://www.nexusmods.com/oblivionremastered/mods/4594?tab=files)
 - [Smaller Goblins + NPC Patch](https://www.nexusmods.com/oblivionremastered/mods/4711?tab=files)
 - [No Health Regen UE4SS](https://www.nexusmods.com/oblivionremastered/mods/1445)
+- [NPC Overhaul AIO](https://www.nexusmods.com/oblivionremastered/mods/3096?tab=files)
+- [NPC Appearance Manager](https://www.nexusmods.com/oblivionremastered/mods/2345)
+- [RaceMenu Utilities Misc File](https://www.nexusmods.com/oblivionremastered/mods/1458)
+- [Core Survival](https://www.nexusmods.com/oblivionremastered/mods/3037?tab=description)
   
 ### Updated
 - Dark Path of the Necromancer
