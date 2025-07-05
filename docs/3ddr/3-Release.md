@@ -22,6 +22,8 @@ description: D&DR Release Notes
 ### Removed
 - No Hud Toggle
 > Now Handled by our install of Reshade itself (Press Insert)
+- Quaint Roads Lumiere Patch 1.0
+> Now included in the FOMOD for Quaint Roads, still in the list just not its own separate mod anymore
   
 ### Bug Fixes
 - 
