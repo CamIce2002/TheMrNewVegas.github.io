@@ -12,7 +12,12 @@ description: D&DR Release Notes
 - [Rudy Reshade](https://www.nexusmods.com/oblivionremastered/mods/646?tab=files)
   
 ### Updated
-- Pending
+- Dark Path of the Necromancer
+> 2.01 to 2.02
+- Outer Suburbs AIO
+>  1.1 to 1.2
+- Quaint Roads
+> 1.0 to 1.2
   
 ### Removed
 - No Hud Toggle
