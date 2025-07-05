@@ -4,7 +4,7 @@ title: Release Notes
 nav_order: 3
 description: D&DR Release Notes
 ---
-# Release: 0.2.0 (Next Update)
+# Release: 0.2.0 (Current)
 ## Save Safe?: No
 
 ### Added
@@ -30,9 +30,9 @@ description: D&DR Release Notes
 > Now included in the FOMOD for Quaint Roads, still in the list just not its own separate mod anymore
   
 ### Bug Fixes
-- 
+- Updated Patching
 
-# Release: 0.1.6 (Current)
+# Release: 0.1.6 
 ## Save Safe?: No
 
 ### Added
