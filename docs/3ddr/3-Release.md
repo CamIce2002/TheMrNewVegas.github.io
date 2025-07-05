@@ -16,7 +16,7 @@ description: D&DR Release Notes
   
 ### Removed
 - No Hud Toggle
-> Now Handled by Rudy Reshade (Press Insert)
+> Now Handled by our install of Reshade itself (Press Insert)
   
 ### Bug Fixes
 - 
