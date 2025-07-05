@@ -13,8 +13,7 @@ This wiki encompasses the information regarding all modlists developed by member
 
 ![MNVWeb](https://github.com/user-attachments/assets/296fdde3-b4f6-4515-b414-d2af7ca454ac) 
 ### **Head of Staff:** [TheMrNewVegas](https://discord.gg/43EhRjU)
-- Founder of Boneyard Creations & original creator of the Vortex list "FNV True Vegas". This, of course, eventually turned into Capital Punishment for Tale of Two Wastelands (thankfully).
-
+- Founder of Boneyard Creations & author of [Dungeons & Daedra Remastered](https://www.modlists.net/docs/3ddr/Home). Also the original creator of our genesis list, "FNV True Vegas"/later known as Capital Punishment on Wabbajack.
 ## __Help/Community Management Team__
 
 ![BirdWeb](https://github.com/user-attachments/assets/209bf9d4-aeb1-4858-8176-7fbe568bd3a9)
