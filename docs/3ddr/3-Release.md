@@ -11,8 +11,8 @@ description: D&DR Release Notes
 - [Reshade w/ Full Addon Support](https://reshade.me)
 - [Rudy Reshade](https://www.nexusmods.com/oblivionremastered/mods/646?tab=files)
 > Optional and May be Disabled
-- [Bigger Beasts](https://www.nexusmods.com/oblivionremastered/mods/4594?tab=files)
-- [Smaller Goblins](https://www.nexusmods.com/oblivionremastered/mods/4711?tab=files)
+- [Bigger Beasts + NPC Patch](https://www.nexusmods.com/oblivionremastered/mods/4594?tab=files)
+- [Smaller Goblins + NPC Patch](https://www.nexusmods.com/oblivionremastered/mods/4711?tab=files)
 - [No Health Regen UE4SS](https://www.nexusmods.com/oblivionremastered/mods/1445)
   
 ### Updated
