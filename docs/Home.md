@@ -13,7 +13,7 @@ This wiki encompasses the information regarding all modlists developed by member
 
 ![MNVWeb](https://github.com/user-attachments/assets/296fdde3-b4f6-4515-b414-d2af7ca454ac) 
 ### **Head of Staff:** [TheMrNewVegas](https://discord.gg/43EhRjU)
-- Founder of Boneyard Creations & author of [Dungeons & Daedra Remastered](https://www.modlists.net/docs/3ddr/Home). Also the original creator of our genesis list, "FNV True Vegas"/later known as Capital Punishment on Wabbajack.
+- Founder of Boneyard Creations & author of [Dungeons & Daedra Remastered](https://www.modlists.net/docs/3ddr/Home). Also the original creator of our retired genesis list, "FNV True Vegas"/later known as Capital Punishment on Wabbajack.
 ## __Help/Community Management Team__
 
 ![BirdWeb](https://github.com/user-attachments/assets/209bf9d4-aeb1-4858-8176-7fbe568bd3a9)
@@ -36,7 +36,7 @@ This wiki encompasses the information regarding all modlists developed by member
 
 ![MT4LWeb](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/twearobevaultboy%20(1).png)
 ### **Developer:** [McTiddies4Lunch](https://ko-fi.com/boneyard)
-- Co-Founder of the Original BYC Staff Team and author of lists such as Capital Commonwealth for Fallout 4, Nostalgia for Fallout New Vegas, and the Unreleased Lost Runes for Skyrim Special Edition.
+- Co-Founder of the Original BYC Staff Team and author of lists such as [Capital Commonwealth](https://www.modlists.net/docs/2capcom/Home) for Fallout 4, and the retired lists Nostalgia for Fallout New Vegas/Unreleased Lost Runes for Skyrim Special Edition.
 
 ![forgeweb](https://github.com/user-attachments/assets/ae5c9ca4-5c41-43fc-988f-ec128b6259f9)
 ### **Developer:** [Forge](https://ko-fi.com/boneyard)
