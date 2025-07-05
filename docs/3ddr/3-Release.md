@@ -8,6 +8,7 @@ description: D&DR Release Notes
 ## Save Safe?: No
 
 ### Added
+- [Reshade w/ Full Addon Support](https://reshade.me)
 - [Rudy Reshade](https://www.nexusmods.com/oblivionremastered/mods/646?tab=files)
   
 ### Updated
