@@ -4,7 +4,7 @@ title: Release Notes
 nav_order: 3
 description: D&DR Release Notes
 ---
-# Release: 0.0.3.1 (Future)
+# Release: 0.0.4.0 (Future)
 ## Save Safe?: No
 
 ### Added
@@ -12,6 +12,8 @@ description: D&DR Release Notes
 - [Longer Arrow Duration - 15 Minutes](https://www.nexusmods.com/oblivionremastered/mods/3787?tab=files)
 - [Less Arrow Corpse Return 25%](https://www.nexusmods.com/oblivionremastered/mods/3778)
 - [Horses & Livestock](https://www.nexusmods.com/oblivionremastered/mods/2595?tab=files)
+- [Travelling NPC's Carry Torches](https://www.nexusmods.com/oblivionremastered/mods/3689?tab=files)
+- [Guard's Carry Torches](https://www.nexusmods.com/oblivionremastered/mods/3238?tab=files)
   
 ### Updated
 
