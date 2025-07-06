@@ -14,6 +14,7 @@ description: D&DR Release Notes
 - [Horses & Livestock](https://www.nexusmods.com/oblivionremastered/mods/2595?tab=files)
 - [Oblivion Unreal Fixes](https://www.nexusmods.com/oblivionremastered/mods/4676?tab=files)
 - [CRT West Wing Door Fix](https://www.nexusmods.com/oblivionremastered/mods/4712)
+- [Protective Headgear - Orcish](https://www.nexusmods.com/oblivionremastered/mods/4747?tab=files)
   
 ### Updated
 
