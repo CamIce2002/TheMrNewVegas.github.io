@@ -117,3 +117,7 @@ Enjoy playing the list!
 - Navigate to your modlist location, then to `Profiles/Default`
 - Copy & Paste the files you just downloaded into here and overwrite the old ones
 
+**Hanging Loads/Issues with MagicLoader or UE4SS**
+- Close Your Game by ALT-F4ing or whichever way is available
+- Go the the bottom left of the Mod Pane in MO2 and right click "Overwrite". Then press "Clear Overwrite".
+- After this is done, relaunch your game. If the issue persists after multiple attempts, create a bug or help report.
