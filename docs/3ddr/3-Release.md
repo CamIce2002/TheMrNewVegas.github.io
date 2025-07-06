@@ -4,7 +4,7 @@ title: Release Notes
 nav_order: 3
 description: D&DR Release Notes
 ---
-# Release: 0.3.0 (Current)
+# Release: 0.4.0 (Future)
 ## Save Safe?: No
 
 ### Added
