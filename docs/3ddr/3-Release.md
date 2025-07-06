@@ -8,6 +8,19 @@ description: D&DR Release Notes
 ## Save Safe?: No
 
 ### Added
+- [Remove Item Outlines](https://www.nexusmods.com/oblivionremastered/mods/1371?tab=files)
+  
+### Updated
+  
+### Removed
+  
+### Bug Fixes
+- Updated Patching
+
+# Release: 0.3.0 (Current)
+## Save Safe?: No
+
+### Added
 - [NPC Overhaul AIO](https://www.nexusmods.com/oblivionremastered/mods/3096?tab=files)
 - [NPC Appearance Manager](https://www.nexusmods.com/oblivionremastered/mods/2345)
 - [RaceMenu Utilities Misc File](https://www.nexusmods.com/oblivionremastered/mods/1458)
