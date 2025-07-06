@@ -16,7 +16,7 @@ description: D&DR Release Notes
 - **First Zero** - Stable & Completed Releases of a specific version of D&D
 - **Second Zero** - Major Updates bringing large amounts of changes/content & moderate to large bug fixes
 - **Third Zero** - Moderate to large bug fix releases/Minor content updates
-- **Fourth Zero** - Hotfixes/Small-Moderate Bug Fix Updates
+- **Fourth Zero** - Hotfixes/Small-Moderate Bug Fix Updates with minimal to no content 
   
 ### Removed
   
