@@ -14,7 +14,7 @@ description: D&DR Release Notes
 - **Updated how we will be documenting updates.**
 > Now four decimal places (0.0.0.0). Below are the left to right explanations of the 0's
 - **First Zero** - Stable & Completed Releases of a specific version of D&D
-- **Second Zero** - Major Updates bringing large amounts of changes/content
+- **Second Zero** - Major Updates bringing large amounts of changes/content & moderate to large bug fixes
 - **Third Zero** - Moderate to large bug fix releases/Minor content updates
 - **Fourth Zero** - Hotfixes/Small-Moderate Bug Fix Updates
   
