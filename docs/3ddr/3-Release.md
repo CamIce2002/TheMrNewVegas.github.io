@@ -11,6 +11,7 @@ description: D&DR Release Notes
 - [Remove Item Outlines](https://www.nexusmods.com/oblivionremastered/mods/1371?tab=files)
 - [Longer Arrow Duration - 15 Minutes](https://www.nexusmods.com/oblivionremastered/mods/3787?tab=files)
 - [Less Arrow Corpse Return 25%](https://www.nexusmods.com/oblivionremastered/mods/3778)
+- [Horses & Livestock](https://www.nexusmods.com/oblivionremastered/mods/2595?tab=files)
   
 ### Updated
 
