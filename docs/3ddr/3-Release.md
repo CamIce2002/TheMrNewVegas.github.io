@@ -12,7 +12,6 @@ description: D&DR Release Notes
 - [Longer Arrow Duration - 15 Minutes](https://www.nexusmods.com/oblivionremastered/mods/3787?tab=files)
 - [Less Arrow Corpse Return 25%](https://www.nexusmods.com/oblivionremastered/mods/3778)
 - [Horses & Livestock](https://www.nexusmods.com/oblivionremastered/mods/2595?tab=files)
-- [Oblivion Unreal Fixes](https://www.nexusmods.com/oblivionremastered/mods/4676?tab=files)
 - [CRT West Wing Door Fix](https://www.nexusmods.com/oblivionremastered/mods/4712)
 - [Protective Headgear - Orcish](https://www.nexusmods.com/oblivionremastered/mods/4747?tab=files)
   
