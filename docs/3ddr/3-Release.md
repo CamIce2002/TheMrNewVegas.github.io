@@ -25,7 +25,9 @@ description: D&DR Release Notes
 > This is a rudimentary outline and may not be followed 100% of the time at all times. I will try my best to do so but please be patient :)
   
 ### Removed
-  
+- No Player Health Regen
+> Needs UE4SS Game loader and requires an update. This update will remove any mods that have this mod as a dependency
+
 ### Bug Fixes
 - Updated Patching
 
