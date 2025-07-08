@@ -12,6 +12,10 @@ description: D&DR Release Notes
 - [Horses & Livestock](https://www.nexusmods.com/oblivionremastered/mods/2595?tab=files)
 - [CRT West Wing Door Fix](https://www.nexusmods.com/oblivionremastered/mods/4712)
 - [Protective Headgear - Orcish](https://www.nexusmods.com/oblivionremastered/mods/4747?tab=files)
+- [Balanced Unleveled Rewards](https://www.nexusmods.com/oblivionremastered/mods/157)
+- Stronger 2H BUR Patch
+- [Morihaus Might 2h Anim Overhaul - Crowns Point](https://www.nexusmods.com/oblivionremastered/mods/4318)
+- [Pelinal's Edge 1H Anim Overhaul](https://www.nexusmods.com/oblivionremastered/mods/4781)
   
 ### Updated
 
