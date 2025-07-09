@@ -31,9 +31,12 @@ description: D&DR Release Notes
 ### Removed
 - No Player Health Regen
 > Needs UE4SS Game loader and requires an update. This update will remove any mods that have this mod as a dependency
+- Little Quests
+> Was causing a repeated crash on multiple systems at Drunk Dragon Inn + Atatar.
 
 ### Bug Fixes
 - Updated Patching
+- Crash on multiple systems at Drunk Dragon Inn + Atatar. Bug report [here](https://www.nexusmods.com/oblivionremastered/mods/4461?tab=bugs)
 
 # Release: 0.3.0 (Current)
 ## Save Safe?: No
