@@ -7,7 +7,7 @@ description: D&DR Install Guide
 
 # Installation Guide
 
-### [Modlist Oblivion Version](https://steamdb.info/depot/2623191/)
+### [Current Modlist Compatible Oblivion Version](https://steamdb.info/depot/2623191/)
 
 - For steps on how to downgrade your game to match this, please go here.
 
@@ -131,6 +131,7 @@ When Oblivion Remastered updates, there will likely be a window where several in
 - In there enter this command
 ```download_depot appid depotid target manifestid```
 - The game should now downgrade, for inquiries into which update is supported, please check the top of the installation guide here.
+> This may not always be updated in a timely manner. Please do your due dilligence with the guide above to ensure your list works.
 
 # Troubleshooting Installation Issues
 
