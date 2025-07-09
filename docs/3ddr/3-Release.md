@@ -19,6 +19,12 @@ description: D&DR Release Notes
 - [Portals to Hell](https://www.nexusmods.com/oblivionremastered/mods/4796?tab=files)
   
 ### Updated
+- Guild Advancement
+> 2.0.1 to 2.0.2
+- Race Based Runestones
+> 1.2 to 1.2.1
+- Quaint Road Signs
+> 1.2 to 1.3
 
 ### New Update Handling
 - **Updated how we will be documenting updates.**
