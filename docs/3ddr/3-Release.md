@@ -16,6 +16,7 @@ description: D&DR Release Notes
 - Stronger 2H BUR Patch
 - [Morihaus Might 2h Anim Overhaul - Crowns Point](https://www.nexusmods.com/oblivionremastered/mods/4318)
 - [Pelinal's Edge 1H Anim Overhaul](https://www.nexusmods.com/oblivionremastered/mods/4781)
+- [Portals to Hell](https://www.nexusmods.com/oblivionremastered/mods/4796?tab=files)
   
 ### Updated
 
