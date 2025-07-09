@@ -112,7 +112,7 @@ CURRENTLY, THE LIST CAN ONLY BE INSTALLED THROUGH OUR WABBAJACK FILE AND IS NOT 
 
 Enjoy playing the list!
 
-# Part 5 = Downgrading Your Game to Make it Compatible
+# Part 5: Downgrading Your Game to Make it Compatible
 When Oblivion Remastered updates, there will likely be a window where several incompatibilities exist. To prevent this from stopping you from playing your game/the modlist from working, you can do the following.
 
 ### Step 1 - Setting Your Steam Update Preference
