@@ -121,3 +121,10 @@ Enjoy playing the list!
 - Close Your Game by ALT-F4ing or whichever way is available
 - Go the the bottom left of the Mod Pane in MO2 and right click "Overwrite". Then press "Clear Overwrite".
 - After this is done, relaunch your game. If the issue persists after multiple attempts, create a bug or help report.
+
+# Downgrading Your Game to Make it Compatible
+- Go to the [Oblivion Remastered SteamDB Page](https://steamdb.info/app/2623190/)
+- Go to Steam, then at the top go to the "Console" section
+- In there enter this command
+
+```download_depot 2623190 2623191 8581416069319670994```
