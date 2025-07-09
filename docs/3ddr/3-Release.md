@@ -36,7 +36,7 @@ description: D&DR Release Notes
 
 ### Bug Fixes
 - Updated Patching
-- Crash on multiple systems at Drunk Dragon Inn + Atatar. Bug report [here](https://www.nexusmods.com/oblivionremastered/mods/4461?tab=bugs)
+- Crash on multiple systems at Drunk Dragon Inn + Atatar related to Little Quests. Bug report [here](https://www.nexusmods.com/oblivionremastered/mods/4461?tab=bugs) and will readd if resolved
 
 # Release: 0.3.0 (Current)
 ## Save Safe?: No
