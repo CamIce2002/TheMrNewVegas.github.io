@@ -130,7 +130,7 @@ When Oblivion Remastered updates, there will likely be a window where several in
 - Go to Steam, then at the top go to the "Console" section
 - In there enter this command
 ```download_depot appid depotid target manifestid```
-- The game should now downgrade, for inquiries into which update is supported, please check the top of the installation guide here.
+- The game should now downgrade, for inquiries into which update is supported, please check the top of the installation guide [here](https://www.modlists.net/docs/3ddr/Installation).
 > This may not always be updated in a timely manner. Please do your due dilligence with the guide above to ensure your list works.
 
 # Troubleshooting Installation Issues
