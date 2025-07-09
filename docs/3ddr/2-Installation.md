@@ -7,7 +7,10 @@ description: D&DR Install Guide
 
 # Installation Guide
 
-# Manual Install Guide Pending Wabbajack Integration Found [Here](https://www.nexusmods.com/oblivionremastered/mods/4347?tab=description)
+### [Modlist Oblivion Version](https://steamdb.info/depot/2623191/)
+
+- For steps on how to downgrade your game to match this, please go here.
+
 
 # Part 1: Preinstallation
 
