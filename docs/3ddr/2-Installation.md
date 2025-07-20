@@ -127,7 +127,9 @@ When Oblivion Remastered updates, there will likely be a window where several in
 - Copy down the *Depot ID*, *Build ID*, & *Manifest ID* found on this page
 
 ### Step 3 - Downgrading your game
-- Go to Steam, then at the top go to the "Console" section
+- Press the Windows Key + R, then type the following in
+```steam://open/console```
+- This will open steam to the console section.
 - In there enter this command
 ```download_depot appid depotid target manifestid```
 - The game should now downgrade, for inquiries into which update is supported, please check the top of the installation guide [here](https://www.modlists.net/docs/3ddr/Installation).
