@@ -4,6 +4,22 @@ title: Release Notes
 nav_order: 3
 description: D&DR Release Notes
 ---
+# Release: 0.2.4.0 (Current)
+## Save Safe?: No
+
+### Added
+
+  
+### Updated
+- List Currently Being Migrated to Oblivion Update 1.2
+  
+### Removed
+
+
+### Bug Fixes
+
+
+
 # Release: 0.1.4.0 (Current)
 ## Save Safe?: No
 
