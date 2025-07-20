@@ -121,7 +121,7 @@ When Oblivion Remastered updates, there will likely be a window where several in
 - In the "Automatic Updates" dropdown, select "Wait Until I Launch the Game", then you may exit out.
 
 ### Step 2 - Finding the needed information
-- Go to the [Oblivion Remastered SteamDB Page](https://steamdb.info/sub/1235095/depots/)
+- Go to the [Oblivion Remastered SteamDB Page](https://steamdb.info/depot/2623191/manifests/)
 - Once inside of this page, go to Depots. Look through these and identify *the most recent depot* and *the second most recent depot*
 - Now that you have identified the most recent and second most recent update, click the numbers for the second most recent update.
 - Copy down the *Depot ID*, *Build ID*, & *Manifest ID* found on this page
