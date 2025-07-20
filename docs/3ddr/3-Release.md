@@ -4,7 +4,7 @@ title: Release Notes
 nav_order: 3
 description: D&DR Release Notes
 ---
-# Release: 0.1.4.0 (Future)
+# Release: 0.1.4.0 (Current)
 ## Save Safe?: No
 
 ### Added
@@ -45,7 +45,7 @@ description: D&DR Release Notes
 - Updated Patching
 - Crash on multiple systems at Drunk Dragon Inn + Atatar related to Little Quests. Bug report [here](https://www.nexusmods.com/oblivionremastered/mods/4461?tab=bugs) and will readd if resolved
 
-# Release: 0.3.0 (Current)
+# Release: 0.3.0
 ## Save Safe?: No
 
 ### Added
