@@ -10,6 +10,7 @@ description: D&DR Install Guide
 ### [Current Modlist Compatible Oblivion Version (June 5th Manifest))](https://steamdb.info/depot/2623191/manifests/)
 
 - For steps on how to downgrade your game to match this, please go to **Part 5** of the installation guide.
+- If you are installing for the first time and your game is not downgraded to the current supported version, your list will install incorrectly. Ensure you downgrade first before starting this process.
 
 
 # Part 1: Preinstallation
