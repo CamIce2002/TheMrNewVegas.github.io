@@ -7,6 +7,31 @@ description: BLEP MC Changelog
 
 # Releases (Newest to Oldest)  
 
+# Release v2.3
+
+**Added**
+* Official Public Multiplayer Server - Pinned To Multiplayer Menu
+* [Tectonic](https://www.curseforge.com/minecraft/mc-mods/tectonic)
+* [The Sound of Rain](https://www.curseforge.com/minecraft/mc-mods/the-sound-of-rain)
+* [What Are They Up To (Watut)](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to)
+
+**Other**
+* Improved General Tooltips
+* Made Create Items More Expensive
+* Modified Hexerei Blood Sigil Recipe
+* Improved Enchanting Quest Tree
+* Removed Bounty Board and Decree Recipes
+* Added Flavor Text to Lunch Basket to show it is safe from Seagulls
+* Removed Spice of Life's Baskets
+* Modified Evilcraft Recipes
+* Disabled Evilcraft Brooms in Favor of Hexerei
+* Modified Advanced Chimneys Metal Chimney Recipe to use Steel Ingots instead of All Ingots
+* Modified Sophisticated Backpacks Battery Upgrade Recipe
+* Modified PneumaticCraft PCB Recipe
+* All Bullet Recipes Now Use Immersive Engineering's Engineer's Table
+* Added Creoosote Oil Recipes to Create Mixing
+
+
 # Release v2.2
 
 **Added**
@@ -17,7 +42,7 @@ description: BLEP MC Changelog
 
 * [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) - Shader Support
 
-**Addtional Changes**
+**Other**
 
 * Disabled [Quark's](https://www.curseforge.com/minecraft/mc-mods/quark) Inventory Sorting in Favor of Dedicated [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) Mod
 * Added Custom Imagery to Quest Log
@@ -43,7 +68,7 @@ description: BLEP MC Changelog
 * [Natures Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
 * [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)
 
-**Additional Changes**
+**Other**
 
 * Created Enchanting Quest Tree
 * Modified Cooking Equipment Recipes to use Cast Iron from Create Big Cannons
