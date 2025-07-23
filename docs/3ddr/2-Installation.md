@@ -7,6 +7,7 @@ description: D&DR Install Guide
 
 # Installation Guide
 
+## Do I Need to Downgrade?: YES
 ### [Current Modlist Compatible Oblivion Version (OBR V1.1 / June 5th Manifest))](https://steamdb.info/depot/2623191/manifests/)
 - **Command for Steam Console**
 ```
@@ -16,7 +17,7 @@ download_depot 2623190 2623191 3680196445693511195
 
 :::caution
 
-Downgrade your game before starting any list installation steps **if it is required**. Your list will install incorrectly otherwise.
+Downgrade your game before starting any list installation steps **if the list is on a downgraded version of Oblivion Remaster** (See top of page). Your list will install incorrectly otherwise.
 
 :::
 
