@@ -141,7 +141,8 @@ When Oblivion Remastered updates, there will likely be a window where several in
 - This will open steam to the console section.
 - In there enter this command
 ```download_depot appid depotid target manifestid```
-- Once this download has finished, go to your ```steam/steamapps``` folder and look for a file titled ```appmanifest_2623190.acf```
+- Once this download has finished, the files will populate into your ```Steam/steamapps/content``` folder. Simply copy said files and paste them over your Oblivion Remastered's Game folder contents.
+- After you've overwritten your files, go to your ```steam/steamapps``` folder and look for a file titled ```appmanifest_2623190.acf```
 - Right click this, go to properties, then select **"Read Only"**
 - The game should now be downgraded and any forced updates prevented. If you would like to move on to a new update, you will need to disable the read only property in ```appmanifest_2623190.acf```
 
