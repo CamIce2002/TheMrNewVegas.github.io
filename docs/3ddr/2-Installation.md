@@ -13,8 +13,12 @@ description: D&DR Install Guide
 download_depot 2623190 2623191 3680196445693511195
 ```
 - For steps on how to downgrade your game to match this, please go to **Part 5** of the installation guide.
-- Downgrade your game before starting any list installation steps **if it is required**. Your list will install incorrectly otherwise.
 
+:::caution
+
+Downgrade your game before starting any list installation steps **if it is required**. Your list will install incorrectly otherwise.
+
+:::
 
 # Part 1: Preinstallation
 
