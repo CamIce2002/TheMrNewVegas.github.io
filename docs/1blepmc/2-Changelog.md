@@ -7,6 +7,24 @@ description: BLEP MC Changelog
 
 # Releases (Newest to Oldest)  
 
+# Release v2.4
+
+**Added**
+* [Create: The Factory Must Grow](https://www.curseforge.com/minecraft/mc-mods/create-industry)
+* [Create: Hypertubes](https://www.curseforge.com/minecraft/mc-mods/hypertubes)
+* [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control)
+
+**Other**
+* Made Spawners and Bounty Boards Unbreakable
+* Disabled Occultism's Spirit Gem - Captured ANY Mob (temp)
+* Removed Pneumaticcraft Plastic in Favor of TFMG
+* Massively Buffed The Sunbird
+* Removed Legendary Sword Mob Drops
+* Bounties Now Last Minimum of One Hour
+* Buffed Damage on Ludwig's Holy Blade and Excalibur
+* Combined PneumaticCraft's and TFMG's Oil Systems
+
+
 # Release v2.3
 
 **Added**
