@@ -87,20 +87,8 @@ const config = {
 		  {
 			type: 'doc',
 			position: 'left',
-			docId: '3ddr/Home',
-            label: 'Dungeons & Daedra',
-          },
-		  {
-			type: 'doc',
-			position: 'left',
 			docId: '4hos/Home',
             label: 'Halls of Sovngarde',
-          },
-		  {
-			type: 'doc',
-			position: 'left',
-			docId: '5oh/Home',
-            label: 'Ordo Hereticus',
           },
 		  {
 			type: 'doc',
@@ -143,10 +131,6 @@ const config = {
               {
                 label: 'Discord',
                 href: 'https://discord.gg/43EhRjU',
-              },
-              {
-                label: 'Subreddit',
-                href: 'https://www.reddit.com/r/boneyardcreations/',
               },
             ],
           },
