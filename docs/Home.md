@@ -17,7 +17,7 @@ This wiki encompasses the information regarding all modlists developed by member
 
 ![ClayWeb](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/2069970_SNQtNLYV%20(1).png)
 ### **Community Manager:** [Clayby](https://ko-fi.com/clayby) 
-- Founding Member of BYC Staff and assistant to the community manager. Author of [Path of the Incarnate](https://www.modlists.net/docs/6poti/Home) and helps to fill in roles/duties of Community Management where needed
+- Founding Member of BYC Staff and community manager. Author of [Path of the Incarnate](https://www.modlists.net/docs/6poti/Home).
 
 ![OatRexWeb](https://github.com/user-attachments/assets/31c0fc6c-33eb-4ca7-9144-f4ce5a57868f)
 ### **Helper:** [Oat](https://ko-fi.com/boneyard)
