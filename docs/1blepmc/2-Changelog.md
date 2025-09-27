@@ -7,6 +7,17 @@ description: BLEP MC Changelog
 
 # Releases (Newest to Oldest)  
 
+# Release v2.5
+
+**Updates**
+* [Via Romana v2.0](https://www.curseforge.com/minecraft/mc-mods/via-romana) - Massive overhaul of Path Transportation
+* Accessories will now re-equip from gravestones exactly as they were when you died
+* [Immersive Aircraft](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) now have improved HUD
+
+**Added**
+* [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)
+* [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) - Much better compatibility and functionality than OpenParties, at a loss of Xaeros World Map Compatibility
+
 # Release v2.4
 
 **Added**
