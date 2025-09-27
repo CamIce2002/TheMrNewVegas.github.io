@@ -11,17 +11,12 @@ This wiki encompasses the information regarding all modlists developed by member
 
 # __**The Boneyard Creations Staff**__
 
-![MNVWeb](https://github.com/user-attachments/assets/296fdde3-b4f6-4515-b414-d2af7ca454ac) 
-### **Head of Staff:** [TheMrNewVegas](https://discord.gg/43EhRjU)
-- Founder of Boneyard Creations & author of [Dungeons & Daedra Remastered](https://www.modlists.net/docs/3ddr/Home). Also the original creator of our retired genesis list, "FNV True Vegas"/later known as "Capital Punishment" on Wabbajack.
-## __Help/Community Management Team__
-
-![BirdWeb](https://github.com/user-attachments/assets/209bf9d4-aeb1-4858-8176-7fbe568bd3a9)
-### **Community Manager**: [Bird/Lilly](https://linktr.ee/lillybird69)
-- Co-Founder of the Original BYC Staff Team, author of [Ordo Hereticus](https://www.nexusmods.com/games/warhammer40kdarktide/collections/rzdfo4) for Warhammer 40K: Darktide, and head of all server operations involving community management, staff member onboarding, user help, wiki management, and much more.
+![CamWeb](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/cam.png)
+### **Project Lead:** [CamBoi](https://ko-fi.com/camboi)
+- Founding Member of BYC Staff and project lead/development lead over all projects within BYC. Author of [Halls of Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/105520) for Skyrim Special Edition in addition to [Year of the Blight](https://www.modlists.net/docs/category/year-of-the-blight) for Dragon Age: Origins.
 
 ![ClayWeb](https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/2069970_SNQtNLYV%20(1).png)
-### **Assistant to the Community Manager:** [Clayby](https://ko-fi.com/clayby) 
+### **Community Manager:** [Clayby](https://ko-fi.com/clayby) 
 - Founding Member of BYC Staff and assistant to the community manager. Author of [Path of the Incarnate](https://www.modlists.net/docs/6poti/Home) and helps to fill in roles/duties of Community Management where needed
 
 ![OatRexWeb](https://github.com/user-attachments/assets/31c0fc6c-33eb-4ca7-9144-f4ce5a57868f)
@@ -29,10 +24,6 @@ This wiki encompasses the information regarding all modlists developed by member
 - Founding memeber of BYC Staff with a shifted focus from user-list assistance to server development and management. 
 
 ## __Development Team__
-
-![CamWeb](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/cam.png)
-### **Lead Developer:** [CamBoi](https://ko-fi.com/camboi)
-- Founding Member of BYC Staff and head of list development in addition to development team tasks and operations. Author of [Halls of Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/105520) for Skyrim Special Edition in addition to [Year of the Blight](https://www.modlists.net/docs/category/year-of-the-blight) for Dragon Age: Origins.
 
 ![MT4LWeb](https://raw.githubusercontent.com/McTiddies4Lunch/CapitalCommonwealth/refs/heads/main/twearobevaultboy%20(1).png)
 ### **Developer:** [McTiddies4Lunch](https://ko-fi.com/boneyard)
