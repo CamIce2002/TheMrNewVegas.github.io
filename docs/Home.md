@@ -38,12 +38,10 @@ This wiki encompasses the information regarding all modlists developed by member
 
 - **The Wildlander Team:** When we originally released our wiki, our resources were heavily dependent on the hard work put into the [Wildlander Team's Wiki](http://wiki.wildlandermod.com). Without their open and friendly attitude to us using this code to create our own, we would likely not have begun searching for a means to have an open web platform. If you are a fan of Skyrim, please check out their [Wildlander List](https://www.wildlandermod.com). It is the sole reason I got into making mod lists and I attribute nearly all of my ideas, work ethic, and general skillset to their hard work.
 
-- **The Boneyards Creation Team:** Excluding myself (MNV), I want to thank the development & support members of this team. They sacrificed hours of their free time and put those hours into Capital Punishment and our other lists. I am extremely grateful to have both their dedication and support and look forward to our future endeavors as a team. 
+- **The Boneyards Creation Team:** I want to thank the development & support members of this team. They sacrificed hours of their free time and put those hours into Capital Punishment and our other lists. I am extremely grateful to have both their dedication and support and look forward to our future endeavors as a team. 
 
 - **The Donators**
 Whether you have donated through discord, patreon, kofi, or any other mode, we appreciate you immensely! It has allowed the team & myself to give financial recompensation to some of our hardworking team members, helped in running giveaways for the discord, and even helped in obtaining new hardware for streams and ensuring our modlists can be backed up locally!
-
-- [**NutnOff**](https://www.nexusmods.com/users/72170253): Both for shaping Capital Punishment as a list very early and for countless hours of help with other lists. In addition was the primary reason I was able to get Lifetime Premium to make list compilation 10x easier.
 
 - **Countless Mod Authors:** Disagreements and agreements aside, none of this would be possible without the hard work of the mod authors behind each and every mod you find in one of our lists. A large thank you to all of them for providing these resources.
 
