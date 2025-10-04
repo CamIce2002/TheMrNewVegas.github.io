@@ -22,8 +22,17 @@ description: Release Notes
    * 1.8b to 1.8d
 4. [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
    * 1.17 to 1.18
+5. [OpenMW Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/54148)
+   * 1.36b to 1.36d
+6. [White Suran 2 - MD Edition](https://www.nexusmods.com/morrowind/mods/44153)
+   * 3.4 to 4.3
+7. [Logs on Fire - Cyrodiil](https://www.nexusmods.com/morrowind/mods/55647)
+   * 1.0 to 1.1
+8. [Dallara Adamantium Weaponry](https://www.nexusmods.com/morrowind/mods/57008)
+   * 1.1 to 1.2
 
 **Removed**
+1. [Nine-holes - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52093)
 
 ## POTI 2.0.1.1 - 06/28/2025
 
