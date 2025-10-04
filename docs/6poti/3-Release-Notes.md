@@ -18,6 +18,10 @@ description: Release Notes
    * 0.2.0 to 0.3.1
 2. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
    * 25.06.28 to 25.08.12
+3. [Rafael's Shader Pack](https://www.nexusmods.com/morrowind/mods/53667)
+   * 1.8b to 1.8d
+4. [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
+   * 1.17 to 1.18
 
 **Removed**
 
