@@ -14,6 +14,10 @@ description: Release Notes
 **Added**
 
 **Updated**
+1. [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
+   * 0.2.0 to 0.3.1
+2. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
+   * 25.06.28 to 25.08.12
 
 **Removed**
 
