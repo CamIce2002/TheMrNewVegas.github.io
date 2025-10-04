@@ -50,6 +50,34 @@ description: Release Notes
     * 1.1 to 1.2
 18. [Sotha Sil Expanded](https://www.nexusmods.com/morrowind/mods/42347)
     * 3.0 to 3.1
+19. [The Northern Strongholds](https://www.nexusmods.com/morrowind/mods/53171)
+    * 3.6.2 to 3.7.2
+20. [The Wake of Hanin - Ibar-Dad Overhaul](https://www.nexusmods.com/morrowind/mods/56206)
+    * 1.0 to 1.1
+21. [Vennin's Addamasartus Overhaul](https://www.nexusmods.com/morrowind/mods/52420)
+    * 1.1 to 1.3
+22. [Vanilla Friendly Creatures and Undeads Expansion](https://www.nexusmods.com/morrowind/mods/48818)
+    * 3.5 to 3.7
+23. [Ald'Ruhn Outskirts - Ancestral Refuge](https://www.nexusmods.com/morrowind/mods/55944)
+    * 3.2 to 3.4
+24. [Black Soul Gems](https://www.nexusmods.com/morrowind/mods/45902)
+    * 2.2.2 to 2.3.1
+25. [Daedric Akaviri Armor](https://www.nexusmods.com/morrowind/mods/56482)
+    * 1.2 to 1.4
+26. [Greymarch Dawn - Whispers of Jyggalag](https://www.nexusmods.com/morrowind/mods/53679)
+    * 1.2.2 to 1.2.3
+27. [Morrowind Extended Cut](https://www.nexusmods.com/morrowind/mods/55615)
+    * 1.0 to 1.01
+28. [Temple Master](https://www.nexusmods.com/morrowind/mods/52749)
+    * 1.4.3 to 1.5.0
+29. [The Professionals - Volume I](https://www.nexusmods.com/morrowind/mods/53986)
+    * 1.20 to 1.30
+30. [The Professionals - Volume II](https://www.nexusmods.com/morrowind/mods/54593)
+    * 1.20 to 1.40
+31. [The Vestiges of Tukushapal](https://www.nexusmods.com/morrowind/mods/56829)
+    * 1.0 to 1.1
+32. [The Wandering Shield](https://www.nexusmods.com/morrowind/mods/56485)
+    * 1.4 to 1.5
 
 **Removed**
 1. [Nine-holes - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52093)
