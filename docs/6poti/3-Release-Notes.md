@@ -30,9 +30,31 @@ description: Release Notes
    * 1.0 to 1.1
 8. [Dallara Adamantium Weaponry](https://www.nexusmods.com/morrowind/mods/57008)
    * 1.1 to 1.2
+9. [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
+    * 1.7 to 1.7a
+10. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
+    * 1.20b to 1.25
+11. [S3maphore - OpenMW Music Management from the Future](https://www.nexusmods.com/morrowind/mods/56836)
+    * 0.53 to 0.62
+12. [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
+    * 2.1 to 3.0
+13. [OAAB Saplings](https://www.nexusmods.com/morrowind/mods/50334)
+    * 2.1.2 to 2.2.1
+14. [Beautiful Cities of Morrowind](https://www.nexusmods.com/morrowind/mods/49231)
+    * 3.2.5 to 3.2.6
+15. [Caius' Slightly Better Home](https://www.nexusmods.com/morrowind/mods/48635)
+    * 2.0 to 3.0
+16. [Ebonheart Underworks](https://www.nexusmods.com/morrowind/mods/47272)
+    * 1.20 to 1.21
+17. [Tel Branora Expansion](https://www.nexusmods.com/morrowind/mods/55279)
+    * 1.1 to 1.2
+18. [Sotha Sil Expanded](https://www.nexusmods.com/morrowind/mods/42347)
+    * 3.0 to 3.1
 
 **Removed**
 1. [Nine-holes - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52093)
+2. [Wind and Rain](https://www.nexusmods.com/morrowind/mods/56534)
+3. 
 
 ## POTI 2.0.1.1 - 06/28/2025
 
