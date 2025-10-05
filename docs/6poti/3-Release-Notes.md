@@ -15,6 +15,18 @@ description: Release Notes
 1. [Interesting Outfits - Cultists - DB Compatibility Patch](https://www.nexusmods.com/morrowind/mods/51922)
 2. [TimeHUD - A Clock UI Widget](https://www.nexusmods.com/morrowind/mods/57407)
 3. [(OpenMW) Leave The Lights Off](https://www.nexusmods.com/morrowind/mods/57510)
+4. [Imperials Go Home](https://www.nexusmods.com/morrowind/mods/44984)
+5. [Attend Me](https://www.nexusmods.com/morrowind/mods/51232)
+6. [Concept Art Scamp Overhaul](https://www.nexusmods.com/morrowind/mods/57514)
+7. [Fang of Haynekhtnamet Replacer by Articus](https://www.nexusmods.com/morrowind/mods/57490)
+8. [SM Greater Bonewalker Replacer Overhaul](https://www.nexusmods.com/morrowind/mods/57071)
+9. [SM Helm of Oreyn Bearclaw Replacer Overhaul](https://www.nexusmods.com/morrowind/mods/57083)
+10. [Mace Of Slurring Replacer by Articus](https://www.nexusmods.com/morrowind/mods/57529)
+11. [Dagger of Symmachus Replacer by Articus and Hedgehog12](https://www.nexusmods.com/morrowind/mods/57539)
+12. [OpenMW More Dynamic Water Meshes](https://www.nexusmods.com/morrowind/mods/55392)
+13. [OpenMW Vanilla Friendly Animated Basket Edit](https://www.nexusmods.com/morrowind/mods/56931)
+14. [Just a little bit better animations for the mage build (first-person)](https://www.nexusmods.com/morrowind/mods/56109)
+15. [Humble Prayer Hall](https://www.nexusmods.com/morrowind/mods/51625)
 
 **Updated**
 1. [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
@@ -125,11 +137,22 @@ description: Release Notes
     * 1.3 to 1.9
 54. [Skyrim Style Quest Notifications Great Patch Hub](https://www.nexusmods.com/morrowind/mods/55480)
     * 1.12.2 to 1.14.0
+55. [OpenMW Modern UI Overhaul (Mashup)](https://www.nexusmods.com/morrowind/mods/54393)
+    * 1.0 to 1.1
+56. [OpenMW Lua Helper Utility](https://www.nexusmods.com/morrowind/mods/54629)
+    * 0.55a to 0.56
+57. [Dynamic Sounds for OpenMW](https://www.nexusmods.com/morrowind/mods/56572)
+    * 0.9.2 to 1.3
 
 **Removed**
 1. [Nine-holes - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52093)
 2. [Wind and Rain](https://www.nexusmods.com/morrowind/mods/56534)
-3. 
+3. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
+4. [Something in the Water -- A Peryite Daedric Quest](https://www.nexusmods.com/morrowind/mods/53308)
+5. [Minor Plantations Redone](https://www.nexusmods.com/morrowind/mods/54537)
+6. [Mastermind Quests - A Thieves Guild Mod (OpenMW Only)](https://www.nexusmods.com/morrowind/mods/53652)
+7. [Walkable Bamz-Amschend](https://www.nexusmods.com/morrowind/mods/54771)
+8. 
 
 ## POTI 2.0.1.1 - 06/28/2025
 
