@@ -12,6 +12,9 @@ description: Release Notes
 ### Save Safe? No
 
 **Added**
+1. [Interesting Outfits - Cultists - DB Compatibility Patch](https://www.nexusmods.com/morrowind/mods/51922)
+2. [TimeHUD - A Clock UI Widget](https://www.nexusmods.com/morrowind/mods/57407)
+3. [(OpenMW) Leave The Lights Off](https://www.nexusmods.com/morrowind/mods/57510)
 
 **Updated**
 1. [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
