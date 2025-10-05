@@ -78,6 +78,50 @@ description: Release Notes
     * 1.0 to 1.1
 32. [The Wandering Shield](https://www.nexusmods.com/morrowind/mods/56485)
     * 1.4 to 1.5
+33. [Dallara Odai Plateau](https://www.nexusmods.com/morrowind/mods/56243)
+    * 1.1 to 1.2
+34. [Draggle-Tail Shack](https://www.nexusmods.com/morrowind/mods/53305)
+    * 1.4 to 1.6
+35. [Tamriel Rebuilt - Narsis Player Home 418](https://www.nexusmods.com/morrowind/mods/56617)
+    * 1.0 to 1.1
+36. [Ashlander Architect](https://www.nexusmods.com/morrowind/mods/52879)
+    * 1.1 to 1.3
+37. [Better Merchants Skills (OpenMW)](https://www.nexusmods.com/morrowind/mods/54337)
+    * 1.7.1 to 2.1.2
+38. [Boss Overhaul - Dagoth Ur](https://www.nexusmods.com/morrowind/mods/56809)
+    * 1.3.5 to 1.4.1
+39. [Hackle-Lo Pipe](https://www.nexusmods.com/morrowind/mods/56939)
+    * 2.0 to 3.0
+40. [Harder Better Faster Stronger (OpenMW)](https://www.nexusmods.com/morrowind/mods/55542)
+    * 2.3.1 to 2.4.2
+41. [Interesting Outfits - Ashlanders](https://www.nexusmods.com/morrowind/mods/54099)
+    * 1.1.2 to 1.1.4
+42. [Interesting Outfits - Cultists](https://www.nexusmods.com/morrowind/mods/51922)
+    * 2.6.0 to 2.6.2
+43. [Interesting Outfits - Imperials](https://www.nexusmods.com/morrowind/mods/53651)
+    * 1.4.2 to 1.5.0
+44. [Interesting Outfits - Kinsmer](https://www.nexusmods.com/morrowind/mods/52167)
+    * 2.5.3 to 2.6.0
+45. [Interesting Outfits - Tamriel Rebuilt Guards](https://www.nexusmods.com/morrowind/mods/55776)
+    * 2.0.2 to 2.0.3
+46. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
+    * 3.9.6 to 3.9.8
+47. [Fresh Loot (OpenMW)](https://www.nexusmods.com/morrowind/mods/56005)
+    * 2.1.5 to 2.6.1
+48. [Potential Character Progression (OpenMW)](https://www.nexusmods.com/morrowind/mods/55264)
+    * 1.0.2 to 1.1.1
+49. [PTR Weapons and Armor on Vvardenfell](https://www.nexusmods.com/morrowind/mods/53686)
+    * 2.1.0 to 2.1.1
+50. [Take Cover (OpenMW)](https://www.nexusmods.com/morrowind/mods/54976)
+    * 1.4.1 to 1.4.2
+51. [Disarmed Umbra Blademaster](https://www.nexusmods.com/morrowind/mods/56528)
+    * 1.1.1 to 2.0.0
+52. [Daisy's Lua Multimark Mod](https://www.nexusmods.com/morrowind/mods/53260)
+    * 1.5.1 to 1.6.1
+53. [Lord Zarcon's Minor Patches & Fixes Compendium](https://www.nexusmods.com/morrowind/mods/53570)
+    * 1.3 to 1.9
+54. [Skyrim Style Quest Notifications Great Patch Hub](https://www.nexusmods.com/morrowind/mods/55480)
+    * 1.12.2 to 1.14.0
 
 **Removed**
 1. [Nine-holes - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52093)
