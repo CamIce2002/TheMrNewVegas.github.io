@@ -143,6 +143,8 @@ description: Release Notes
     * 0.55a to 0.56
 57. [Dynamic Sounds for OpenMW](https://www.nexusmods.com/morrowind/mods/56572)
     * 0.9.2 to 1.3
+58. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
+    * 3.2.2 to 3.2.3
 
 **Removed**
 1. [Nine-holes - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52093)
