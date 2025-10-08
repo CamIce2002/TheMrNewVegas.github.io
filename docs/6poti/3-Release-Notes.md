@@ -27,6 +27,14 @@ description: Release Notes
 13. [OpenMW Vanilla Friendly Animated Basket Edit](https://www.nexusmods.com/morrowind/mods/56931)
 14. [Just a little bit better animations for the mage build (first-person)](https://www.nexusmods.com/morrowind/mods/56109)
 15. [Humble Prayer Hall](https://www.nexusmods.com/morrowind/mods/51625)
+16. [The Talanian Estate](https://www.nexusmods.com/morrowind/mods/57154)
+17. [Remiros' Ascadian Isles Trees](https://www.nexusmods.com/morrowind/mods/45779)
+18. [Vanilla Friendlier Ascadian Isles Trees](https://www.nexusmods.com/morrowind/mods/57566)
+19. [Raven Rock Enhanced](https://www.nexusmods.com/morrowind/mods/55970)
+20. [West Gash Pines and Parasol Trees](https://www.nexusmods.com/morrowind/mods/57564)
+21. [New Fists of Randagulf](https://www.nexusmods.com/morrowind/mods/41307)
+22. [Vanilla Friendlier Grazelands Acacia](https://www.nexusmods.com/morrowind/mods/57533)
+23. 
 
 **Updated**
 1. [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
