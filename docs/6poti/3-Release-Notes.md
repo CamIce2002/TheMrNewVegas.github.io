@@ -54,6 +54,7 @@ description: Release Notes
 40. [(OpenMW 0.49) HUDMarkers](https://www.nexusmods.com/morrowind/mods/57112)
 41. [The Popular Plague](https://www.nexusmods.com/morrowind/mods/54730)
 42. [Tamrielic Integrations](https://www.nexusmods.com/morrowind/mods/57488)
+43. [Iron Fist for OpenMW](https://www.nexusmods.com/morrowind/mods/57619)
 
 **Updated**
 1. [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
