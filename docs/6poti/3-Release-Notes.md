@@ -110,7 +110,7 @@ description: Release Notes
 36. [Ashlander Architect](https://www.nexusmods.com/morrowind/mods/52879)
     * 1.1 to 1.3
 37. [Better Merchants Skills (OpenMW)](https://www.nexusmods.com/morrowind/mods/54337)
-    * 1.7.1 to 2.1.2
+    * 1.7.1 to 2.1.3
 38. [Boss Overhaul - Dagoth Ur](https://www.nexusmods.com/morrowind/mods/56809)
     * 1.3.5 to 1.4.1
 39. [Hackle-Lo Pipe](https://www.nexusmods.com/morrowind/mods/56939)
@@ -120,7 +120,7 @@ description: Release Notes
 41. [Interesting Outfits - Ashlanders](https://www.nexusmods.com/morrowind/mods/54099)
     * 1.1.2 to 1.1.4
 42. [Interesting Outfits - Cultists](https://www.nexusmods.com/morrowind/mods/51922)
-    * 2.6.0 to 2.6.2
+    * 2.6.0 to 2.6.3
 43. [Interesting Outfits - Imperials](https://www.nexusmods.com/morrowind/mods/53651)
     * 1.4.2 to 1.5.0
 44. [Interesting Outfits - Kinsmer](https://www.nexusmods.com/morrowind/mods/52167)
@@ -150,9 +150,11 @@ description: Release Notes
 56. [OpenMW Lua Helper Utility](https://www.nexusmods.com/morrowind/mods/54629)
     * 0.55a to 0.56
 57. [Dynamic Sounds for OpenMW](https://www.nexusmods.com/morrowind/mods/56572)
-    * 0.9.2 to 1.3
+    * 0.9.2 to 1.3.1
 58. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
     * 3.2.2 to 3.2.3
+59. [Harder Better Faster Stronger (OpenMW)](https://www.nexusmods.com/morrowind/mods/55542)
+    * 2.4.2 to 2.4.3
 
 **Removed**
 1. [Nine-holes - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52093)
