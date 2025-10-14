@@ -55,6 +55,8 @@ description: Release Notes
 41. [The Popular Plague](https://www.nexusmods.com/morrowind/mods/54730)
 42. [Tamrielic Integrations](https://www.nexusmods.com/morrowind/mods/57488)
 43. [Iron Fist for OpenMW](https://www.nexusmods.com/morrowind/mods/57619)
+44. [No Fires in Bad Weather - OpenMW](https://www.nexusmods.com/morrowind/mods/57579)
+45. [Unique Banners and Signs Replacer](https://www.nexusmods.com/morrowind/mods/57577)
 
 **Updated**
 1. [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
@@ -184,7 +186,7 @@ description: Release Notes
 5. [Minor Plantations Redone](https://www.nexusmods.com/morrowind/mods/54537)
 6. [Mastermind Quests - A Thieves Guild Mod (OpenMW Only)](https://www.nexusmods.com/morrowind/mods/53652)
 7. [Walkable Bamz-Amschend](https://www.nexusmods.com/morrowind/mods/54771)
-8. 
+8. [Windbreaker Tomb](https://www.nexusmods.com/morrowind/mods/53180)
 
 ## POTI 2.0.1.1 - 06/28/2025
 
