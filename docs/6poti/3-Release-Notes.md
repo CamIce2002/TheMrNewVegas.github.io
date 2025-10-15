@@ -177,6 +177,8 @@ description: Release Notes
     * 3.2.2 to 3.2.3
 59. [Harder Better Faster Stronger (OpenMW)](https://www.nexusmods.com/morrowind/mods/55542)
     * 2.4.2 to 2.4.3
+60. [Oblivion-Style Lockpicking (OpenMW)](https://www.nexusmods.com/morrowind/mods/56355)
+    * 2.0 to 2.1
 
 **Removed**
 1. [Nine-holes - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52093)
