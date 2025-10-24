@@ -68,6 +68,11 @@ description: Release Notes
 54. [Realistic Spider Webs](https://www.nexusmods.com/morrowind/mods/57668)
 55. [Ald-ruhn Manor District Overhaul Naturalised](https://www.nexusmods.com/morrowind/mods/57656)
 56. [Kvetching Mananaut Music for OpenMW (S3maphore)](https://www.nexusmods.com/morrowind/mods/57505)
+57. [Wardens of Morrowind](https://www.nexusmods.com/morrowind/mods/57616)
+58. [Devilish Sky Render Riding](https://www.nexusmods.com/morrowind/mods/54995)
+59. [A Blasphemer's Blizzard (OpenMW)](https://www.nexusmods.com/morrowind/mods/55709)
+60. [Skylamp Riding](https://www.nexusmods.com/morrowind/mods/56064)
+61. [Strident Runner Riding (OpenMW)](https://www.nexusmods.com/morrowind/mods/57627)
 
 **Updated**
 1. [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
