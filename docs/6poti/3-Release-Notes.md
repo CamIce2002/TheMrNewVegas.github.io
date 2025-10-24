@@ -22,7 +22,7 @@ description: Release Notes
 8. [SM Greater Bonewalker Replacer Overhaul](https://www.nexusmods.com/morrowind/mods/57071)
 9. [SM Helm of Oreyn Bearclaw Replacer Overhaul](https://www.nexusmods.com/morrowind/mods/57083)
 10. [Mace Of Slurring Replacer by Articus](https://www.nexusmods.com/morrowind/mods/57529)
-11. [Dagger of Symmachus Replacer by Articus and Hedgehog12](https://www.nexusmods.com/morrowind/mods/57539)
+11. [Shishi - Redoran Outpost](https://www.nexusmods.com/morrowind/mods/57535)
 12. [OpenMW More Dynamic Water Meshes](https://www.nexusmods.com/morrowind/mods/55392)
 13. [OpenMW Vanilla Friendly Animated Basket Edit](https://www.nexusmods.com/morrowind/mods/56931)
 14. [Just a little bit better animations for the mage build (first-person)](https://www.nexusmods.com/morrowind/mods/56109)
@@ -57,6 +57,17 @@ description: Release Notes
 43. [Iron Fist for OpenMW](https://www.nexusmods.com/morrowind/mods/57619)
 44. [No Fires in Bad Weather - OpenMW](https://www.nexusmods.com/morrowind/mods/57579)
 45. [Unique Banners and Signs Replacer](https://www.nexusmods.com/morrowind/mods/57577)
+46. [Betty Netch Replacer](https://www.nexusmods.com/morrowind/mods/57399)
+47. [Bull Netch Remastered](https://www.nexusmods.com/morrowind/mods/57373)
+48. [Concept Art Ghostfence Enhanced C.A.G.E.](https://www.nexusmods.com/morrowind/mods/57356)
+49. [L.U.S.T. (Luxury Upgrade Sexy Transport)](https://www.nexusmods.com/morrowind/mods/57408)
+50. [Orange Narsis - Shipal-Shin Wall Retexture](https://www.nexusmods.com/morrowind/mods/57199)
+51. [Skylamps](https://www.nexusmods.com/morrowind/mods/57252)
+52. [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
+53. [GRIP (Stance Toggle OpenMW)](https://www.nexusmods.com/morrowind/mods/57640)
+54. [Realistic Spider Webs](https://www.nexusmods.com/morrowind/mods/57668)
+55. [Ald-ruhn Manor District Overhaul Naturalised](https://www.nexusmods.com/morrowind/mods/57656)
+56. [Kvetching Mananaut Music for OpenMW (S3maphore)](https://www.nexusmods.com/morrowind/mods/57505)
 
 **Updated**
 1. [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
@@ -189,6 +200,7 @@ description: Release Notes
 6. [Mastermind Quests - A Thieves Guild Mod (OpenMW Only)](https://www.nexusmods.com/morrowind/mods/53652)
 7. [Walkable Bamz-Amschend](https://www.nexusmods.com/morrowind/mods/54771)
 8. [Windbreaker Tomb](https://www.nexusmods.com/morrowind/mods/53180)
+9. [MUSE Music Expansions](https://next.nexusmods.com/profile/Scipio219/mods?gameId=100)
 
 ## POTI 2.0.1.1 - 06/28/2025
 
