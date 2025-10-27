@@ -117,8 +117,8 @@ description: Release Notes
     * 1.0 to 1.1
 21. [Vennin's Addamasartus Overhaul](https://www.nexusmods.com/morrowind/mods/52420)
     * 1.1 to 1.3
-22. [Vanilla Friendly Creatures and Undeads Expansion](https://www.nexusmods.com/morrowind/mods/48818)
-    * 3.5 to 3.7
+22. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
+    * 4.0.2 to 5.0.3
 23. [Ald'Ruhn Outskirts - Ancestral Refuge](https://www.nexusmods.com/morrowind/mods/55944)
     * 3.2 to 3.4
 24. [Black Soul Gems](https://www.nexusmods.com/morrowind/mods/45902)
@@ -182,13 +182,13 @@ description: Release Notes
 53. [Lord Zarcon's Minor Patches & Fixes Compendium](https://www.nexusmods.com/morrowind/mods/53570)
     * 1.3 to 1.9
 54. [Skyrim Style Quest Notifications Great Patch Hub](https://www.nexusmods.com/morrowind/mods/55480)
-    * 1.12.2 to 1.14.0
+    * 1.12.2 to 1.16
 55. [OpenMW Modern UI Overhaul (Mashup)](https://www.nexusmods.com/morrowind/mods/54393)
     * 1.0 to 1.1
 56. [OpenMW Lua Helper Utility](https://www.nexusmods.com/morrowind/mods/54629)
     * 0.55a to 0.56
 57. [Dynamic Sounds for OpenMW](https://www.nexusmods.com/morrowind/mods/56572)
-    * 0.9.2 to 1.3.1
+    * 0.9.2 to 1.3.2.1
 58. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
     * 3.2.2 to 3.2.3
 59. [Harder Better Faster Stronger (OpenMW)](https://www.nexusmods.com/morrowind/mods/55542)
