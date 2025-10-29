@@ -7,6 +7,23 @@ description: BLEP MC Changelog
 
 # Releases (Newest to Oldest)  
 
+# Release v2.6
+
+**Added**
+* [Thief](https://www.curseforge.com/minecraft/mc-mods/thief) - Villagers won't just sit around and let you steal from them anymore
+
+**Removed**
+* Via Romana - Will be added back next update as soon as a server breaking bug is fixed.
+* Butchery - Will return if the many issues get fixed through their next update
+* TFMG - Added way too much bloat. Plan to add back in the future once I am able to dedicate the time to integrate with other mods
+
+**Updates**
+* Fixed recipe issues with TFMG materials
+* Changed process for Iron Generation in Create
+* Removed duplicate items from Embers
+* Improved Quest Rewards
+
+
 # Release v2.5
 
 **Updates**
