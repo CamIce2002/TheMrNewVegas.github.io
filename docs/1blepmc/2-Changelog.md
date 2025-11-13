@@ -7,6 +7,18 @@ description: BLEP MC Changelog
 
 # Releases (Newest to Oldest)  
 
+# Release v2.7
+
+**Added**
+* [Goblin Traders](https://legacy.curseforge.com/minecraft/mc-mods/goblin-traders) - Goblin Traders can now be found underground, trading precious gold for food
+
+**Updated**
+* Fixed Pestle & Mortar Making BoneMeal From Nothing
+* Pestle & Mortar Recipe Now Uses Polished Diorite Instead of Nether Quartz
+* Disabled Hexerei Dowsing Rod Due To Immense Lag - Replaced in Quests with Pathfinders Quill
+* Improved WitchCraft QuestLine with Candles
+* Updated Magic Broomstick Recipes
+
 # Release v2.6
 
 **Added**
