@@ -74,6 +74,11 @@ description: Release Notes
 60. [Strident Runner Riding (OpenMW)](https://www.nexusmods.com/morrowind/mods/57627)
 61. [Skill Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/57765)
 62. [Stats Window Extender (OpenMW)](https://www.nexusmods.com/morrowind/mods/57727)
+63. [Of Bead and Feather (OpenMW)](https://www.nexusmods.com/morrowind/mods/57782)
+64. [Smaller Potions](https://www.nexusmods.com/morrowind/mods/43451)
+65. [Dubious Concoctions](https://www.nexusmods.com/morrowind/mods/57757)
+66. [SM Telvanni Ceremonial Robe](https://www.nexusmods.com/morrowind/mods/55346)
+67. [Pursuit - Saner Creature Bahaviour](https://www.nexusmods.com/morrowind/mods/56333)
 
 **Updated**
 1. [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
