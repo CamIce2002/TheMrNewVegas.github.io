@@ -9,6 +9,18 @@ description: BLEP MC Changelog
 
 # Release v2.8
 
+**Removed**
+* Roots Classic - Rituals are hardcoded, unable to edit at all
+* [Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info)
+
+**Updated**
+* Updated Blood Magic
+* Removed Old Butchery Recipes That Were Missed
+* Added Hexerei Saplings to Witch Drops
+
+
+# Release v2.8
+
 **Updated**
 * Fixed Enchantment Not Seeing Bookshelves in Extended Radius
 * Removed Old Butchery Recipes
