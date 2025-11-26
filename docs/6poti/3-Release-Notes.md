@@ -207,6 +207,8 @@ description: Release Notes
     * 2.0 to 2.1
 63. [(OpenMW 0.49) Better Bars](https://www.nexusmods.com/morrowind/mods/54951)
     * 1.8 to 1.10
+64. [Barristers Guild - Old Ebonheart Questline](https://www.nexusmods.com/morrowind/mods/55995)
+    * 2.0 to 2.1
 
 **Removed**
 1. [Nine-holes - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52093)
