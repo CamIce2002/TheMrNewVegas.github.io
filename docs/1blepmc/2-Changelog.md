@@ -7,7 +7,22 @@ description: BLEP MC Changelog
 
 # Releases (Newest to Oldest)  
 
-# Release v2.8
+# Release v2.10
+
+**Added**
+* [RightClickHarvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest)
+
+**Updated**
+* Changed Eterna Values of Apotheosis Shelves
+* Removed crafting recipes for End Stone
+* Rebalanced Spartan Weaponry Speeds
+* Added Dried Food Recipes to Drying Rack
+* Fixed broken Villager Names
+* Removed Duplicate weapons from Simply Swords
+* Added Looting to All Golden Spartan Weaponery Weapons
+* Cleaned up SoulsLike Loot Tables
+
+# Release v2.9
 
 **Removed**
 * Roots Classic - Rituals are hardcoded, unable to edit at all
