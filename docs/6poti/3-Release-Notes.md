@@ -86,7 +86,7 @@ description: Release Notes
 2. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
    * 25.06.28 to 25.08.12
 3. [Rafael's Shader Pack](https://www.nexusmods.com/morrowind/mods/53667)
-   * 1.8b to 1.9
+   * 1.8b to 1.9b
 4. [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
    * 1.17 to 1.18
 5. [OpenMW Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/54148)
@@ -160,7 +160,7 @@ description: Release Notes
 39. [Hackle-Lo Pipe](https://www.nexusmods.com/morrowind/mods/56939)
     * 2.0 to 3.0
 40. [Harder Better Faster Stronger (OpenMW)](https://www.nexusmods.com/morrowind/mods/55542)
-    * 2.3.1 to 2.4.2
+    * 2.3.1 to 2.5.2
 41. [Interesting Outfits - Ashlanders](https://www.nexusmods.com/morrowind/mods/54099)
     * 1.1.2 to 1.1.4
 42. [Interesting Outfits - Cultists](https://www.nexusmods.com/morrowind/mods/51922)
@@ -209,6 +209,12 @@ description: Release Notes
     * 1.8 to 1.10
 64. [Barristers Guild - Old Ebonheart Questline](https://www.nexusmods.com/morrowind/mods/55995)
     * 2.0 to 2.1
+65. [Daedric Akaviri Armor](https://www.nexusmods.com/morrowind/mods/56482)
+    1.4 to 1.5
+66. [Morrowind Quests Redux](https://www.nexusmods.com/morrowind/mods/54060)
+    2.2.3 to 2.3
+67. [Tales of Tel Branora and Kumarahaz Patch](https://www.nexusmods.com/morrowind/mods/56060)
+    1.0 to 1.2
 
 **Removed**
 1. [Nine-holes - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52093)
