@@ -7,6 +7,9 @@ description: BLEP MC Changelog
 
 # Releases (Newest to Oldest)  
 
+# Release v2.10.1
+* Fixed Villagers/Guards not Detecting Crime in Villages
+
 # Release v2.10
 
 **Added**
