@@ -136,7 +136,7 @@ description: Release Notes
 27. [Morrowind Extended Cut](https://www.nexusmods.com/morrowind/mods/55615)
     * 1.0 to 1.01
 28. [Temple Master](https://www.nexusmods.com/morrowind/mods/52749)
-    * 1.4.3 to 1.5.0
+    * 1.4.3 to 1.6
 29. [The Professionals - Volume I](https://www.nexusmods.com/morrowind/mods/53986)
     * 1.20 to 1.30
 30. [The Professionals - Volume II](https://www.nexusmods.com/morrowind/mods/54593)
@@ -174,7 +174,7 @@ description: Release Notes
 46. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
     * 3.9.6 to 3.9.8
 47. [Kogoruhn - Extinct City of Ash and Sulfur](https://www.nexusmods.com/morrowind/mods/51615)
-    * 2.9.5 to 2.9.5 Hotfix
+    * 2.9.5 to 2.9.6
 48. [Bardcraft (OpenMW)](https://www.nexusmods.com/morrowind/mods/56814)
     * 1.2 to 1.3
 49. [Where's Your Uniform](https://www.nexusmods.com/morrowind/mods/55932)
@@ -198,7 +198,7 @@ description: Release Notes
 58. [OpenMW Lua Helper Utility](https://www.nexusmods.com/morrowind/mods/54629)
     * 0.55a to 0.56
 59. [Dynamic Sounds for OpenMW](https://www.nexusmods.com/morrowind/mods/56572)
-    * 0.9.2 to 1.3.2.1
+    * 0.9.2 to 1.4.0
 60. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
     * 3.2.2 to 3.2.3
 61. [Harder Better Faster Stronger (OpenMW)](https://www.nexusmods.com/morrowind/mods/55542)
@@ -210,11 +210,15 @@ description: Release Notes
 64. [Barristers Guild - Old Ebonheart Questline](https://www.nexusmods.com/morrowind/mods/55995)
     * 2.0 to 2.1
 65. [Daedric Akaviri Armor](https://www.nexusmods.com/morrowind/mods/56482)
-    1.4 to 1.5
+    * 1.4 to 1.5
 66. [Morrowind Quests Redux](https://www.nexusmods.com/morrowind/mods/54060)
-    2.2.3 to 2.3
+    * 2.2.3 to 2.3
 67. [Tales of Tel Branora and Kumarahaz Patch](https://www.nexusmods.com/morrowind/mods/56060)
-    1.0 to 1.2
+    * 1.0 to 1.2
+68. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
+    * 2.5 to 2.5.1
+69. [Aspect of Azura](https://www.nexusmods.com/morrowind/mods/51079)
+    * 2.1 to 2.2
 
 **Removed**
 1. [Nine-holes - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52093)
