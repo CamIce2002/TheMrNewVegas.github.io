@@ -7,6 +7,23 @@ description: BLEP MC Changelog
 
 # Releases (Newest to Oldest)  
 
+# Release v2.11
+
+**Added**
+* [Horseman](https://www.curseforge.com/minecraft/mc-mods/horseman) - Drastically improved Horse Mechanics
+* [Iris & Oculus Flywheel Compat](https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat) - Improves performance when using shaders
+* [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul)
+* [Illager Invasion](https://www.curseforge.com/minecraft/mc-mods/illager-invasion)
+
+**Updated**
+* Buffed Mowzie Mobs weapons and added BetterCombat compatibility
+* Improved Monk Set
+* Geomancer Beads now buff all Monk Weapons
+* Fixed Owl and Crow Spawns
+* Fixed broken Nether Star Ingredient for Archmage Tome
+* Rebalanced Apotheosis Enchantment Values on Several Items
+* Nerfed Ravager Health
+
 # Release v2.10.1
 * Fixed Villagers/Guards not Detecting Crime in Villages
 
