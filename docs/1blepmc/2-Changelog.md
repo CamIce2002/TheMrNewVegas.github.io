@@ -7,6 +7,20 @@ description: BLEP MC Changelog
 
 # Releases (Newest to Oldest)  
 
+# Release v2.12
+
+**Added**
+* [Butchery](https://www.curseforge.com/minecraft/mc-mods/butchery)
+
+**Updated**
+* Made Blood Magic Living Armor Much More Expensive
+* Made Blood Magic Growth Sigil More Expensive
+* Updated Soulsweapon Overhauling many mechanics with the mod
+* Fixed Create Frogport Recipe
+* Added Mahogany Sapling Recipe
+* Disabled Evilcraft Purifier
+* Modified some recipes to use Butchery Materials
+
 # Release v2.11
 
 **Added**
