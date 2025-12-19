@@ -7,6 +7,20 @@ description: BLEP MC Changelog
 
 # Releases (Newest to Oldest)  
 
+# Release v2.13
+
+**Removed**
+* [Right Click Harvest](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest) - Using Quarks Built In Instead
+
+**Updated**
+* Added Scute to Turtle Drop Tables
+* Added Emeralds and Gold Nuggets to Wandering Trader Drop Table
+* Crops will now auto replant when AOE Harvested with a Hoe
+* Improved details on Occultism Rituals in JEI
+* Removed Supplementaries Quiver
+* Improved Enchanting Quest Description
+* Redesigned Armor Sets Completely
+
 # Release v2.12
 
 **Added**
