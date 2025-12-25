@@ -7,7 +7,7 @@ description: Path of the Incarnate
 
 ![image](https://github.com/clayby99/path-of-the-incarnate/blob/main/splash.png?raw=true)
 
-## **[Donations](https://ko-fi.com/clayby)**
+## **[Support Me](https://ko-fi.com/clayby)**
 
 ## **Join our [Discord](https://discord.gg/43EhRjU)**
 
