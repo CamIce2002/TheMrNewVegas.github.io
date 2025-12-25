@@ -91,6 +91,10 @@ description: Release Notes
 77. [Fantasia Grass Mod - Dark Outline Fix](https://www.nexusmods.com/morrowind/mods/57965)
 78. [Dr. House Head for Imperials](https://www.nexusmods.com/morrowind/mods/57948)
 79. [STOTSP - Patch for Purists Patch](https://www.nexusmods.com/morrowind/mods/46810)
+80. [(OpenMW) Better Elemental Shields](https://www.nexusmods.com/morrowind/mods/57915)
+81. [MorrowSwim - A Simple Aquatics Skill Mod for OpenMW](https://www.nexusmods.com/morrowind/mods/57804)
+82. [The Garden of Dreams](https://www.nexusmods.com/morrowind/mods/57831)
+83. [Fists of Randagulf Replacer by Articus](https://www.nexusmods.com/morrowind/mods/57864)
 
 **Updated**
 1. [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
@@ -250,6 +254,7 @@ description: Release Notes
 9. [MUSE Music Expansions](https://next.nexusmods.com/profile/Scipio219/mods?gameId=100)
 10. [Spell Effects Rebalance](https://www.nexusmods.com/morrowind/mods/52858)
 11. [Daisy's Lua Multimark Mod](https://www.nexusmods.com/morrowind/mods/53260)
+12. [New Fists of Randagulf](https://www.nexusmods.com/morrowind/mods/41307)
 
 ## POTI 2.0.1.1 - 06/28/2025
 
