@@ -95,6 +95,10 @@ description: Release Notes
 81. [MorrowSwim - A Simple Aquatics Skill Mod for OpenMW](https://www.nexusmods.com/morrowind/mods/57804)
 82. [The Garden of Dreams](https://www.nexusmods.com/morrowind/mods/57831)
 83. [Fists of Randagulf Replacer by Articus](https://www.nexusmods.com/morrowind/mods/57864)
+84. [Daedra Use Bound Equipment for OpenMW](https://www.nexusmods.com/morrowind/mods/57698)
+85. [Stormrider Expanded Furnished](https://www.nexusmods.com/morrowind/mods/57927)
+86. [Tamriel Rebuilt Devilish Wabbajack](https://www.nexusmods.com/morrowind/mods/57811)
+87. [Friendlier Fire (OpenMW)](https://www.nexusmods.com/morrowind/mods/57975)
 
 **Updated**
 1. [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
