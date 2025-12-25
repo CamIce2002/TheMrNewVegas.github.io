@@ -38,7 +38,7 @@ description: Release Notes
 24. [Glass Glowset](https://www.nexusmods.com/morrowind/mods/42762)
 25. [Weapons Expansion Project - Glass Glowset Patch](https://www.nexusmods.com/morrowind/mods/53857)
 26. [Glowing Daedric Armor](https://web.archive.org/web/20161103135414/http://mw.modhistory.com/download-4-6132)
-27. [Basic Chargen](https://www.nexusmods.com/morrowind/mods/57525)
+27. [Mutiny - Alternate Start](https://www.nexusmods.com/morrowind/mods/57702)
 28. [Dunirai Town](https://www.nexusmods.com/morrowind/mods/57587)
 29. [Southern Ashlands Overhaul](https://www.nexusmods.com/morrowind/mods/55254)
 30. [Dead Mer Tell No Tales (OpenMW)](https://www.nexusmods.com/morrowind/mods/57431)
