@@ -11,7 +11,7 @@ description: Path of the Incarnate Installation Guide
 - A legal copy of Morrowind GOTY from Steam or GOG
 - Wabbajack **(It can be found [here](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe))**
 - Visual C++ **(It can be found [here](https://aka.ms/vs/17/release/vc_redist.x64.exe))**
-- OpenMW .50 Build **(It can be found [here](https://github.com/OpenMW/openmw/releases/download/openmw-0.50.0/OpenMW-0.50.0-win64.exe))**
+- OpenMW .51 Build **(It can be found [here](https://gitlab.com/OpenMW/openmw/-/jobs/artifacts/master/raw/OpenMW_MSVC2022_64_RelWithDebInfo_master.zip?job=Windows_MSBuild_RelWithDebInfo))**
 - A Nexus account **(Premium recommended; drastically increases install speed)**
 :::
 
@@ -25,7 +25,7 @@ description: Path of the Incarnate Installation Guide
 
 ### 2.) Install OpenMW Development Build 
 
-- If you haven't yet, download the required OpenMW Build [here](https://github.com/OpenMW/openmw/releases/download/openmw-0.50.0/OpenMW-0.50.0-win64.exe).
+- If you haven't yet, download the required OpenMW Build [here](https://gitlab.com/OpenMW/openmw/-/jobs/artifacts/master/raw/OpenMW_MSVC2022_64_RelWithDebInfo_master.zip?job=Windows_MSBuild_RelWithDebInfo).
 
 - Run the .exe and follow the steps, **unchecking "Import Bitmap Fonts Setup from Morrowind"** at the Import Settings stage. 
 
