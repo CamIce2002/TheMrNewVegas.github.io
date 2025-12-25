@@ -7,7 +7,7 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
-## POTI 2.1.0.0 - TBD
+## POTI 2.1.0.0 - 12/25/2025
 
 ### Save Safe? No
 
@@ -75,10 +75,21 @@ description: Release Notes
 61. [Skill Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/57765)
 62. [Stats Window Extender (OpenMW)](https://www.nexusmods.com/morrowind/mods/57727)
 63. [Of Bead and Feather (OpenMW)](https://www.nexusmods.com/morrowind/mods/57782)
-64. [Smaller Potions](https://www.nexusmods.com/morrowind/mods/43451)
-65. [Dubious Concoctions](https://www.nexusmods.com/morrowind/mods/57757)
-66. [SM Telvanni Ceremonial Robe](https://www.nexusmods.com/morrowind/mods/55346)
-67. [Pursuit - Saner Creature Bahaviour](https://www.nexusmods.com/morrowind/mods/56333)
+64. [Dubious Concoctions](https://www.nexusmods.com/morrowind/mods/57757)
+65. [SM Telvanni Ceremonial Robe](https://www.nexusmods.com/morrowind/mods/55346)
+66. [Pursuit - Saner Creature Bahaviour](https://www.nexusmods.com/morrowind/mods/56333)
+67. [Prayer Wheel OpenMW Normalmap Mesh Fix](https://www.nexusmods.com/morrowind/mods/57434)
+68. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
+69. [Natural Character Growth](https://www.nexusmods.com/morrowind/mods/57801)
+70. [Skill Evolution](https://www.nexusmods.com/morrowind/mods/57802)
+71. [Stormrider Expanded (OpenMW)](https://www.nexusmods.com/morrowind/mods/55408)
+72. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
+73. [Forge of Hilbongard Reignited](https://www.nexusmods.com/morrowind/mods/57968)
+74. [Legacy of the Blades](https://www.nexusmods.com/morrowind/mods/57935)
+75. [Gent's Vanilla Spell Rebalance](https://www.nexusmods.com/morrowind/mods/57788)
+76. [(OpenMW) Pure Lua Multi Mark](https://www.nexusmods.com/morrowind/mods/57313)
+77. [Fantasia Grass Mod - Dark Outline Fix](https://www.nexusmods.com/morrowind/mods/57965)
+78. [Dr. House Head for Imperials](https://www.nexusmods.com/morrowind/mods/57948)
 
 **Updated**
 1. [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
@@ -86,11 +97,11 @@ description: Release Notes
 2. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
    * 25.06.28 to 25.08.12
 3. [Rafael's Shader Pack](https://www.nexusmods.com/morrowind/mods/53667)
-   * 1.8b to 1.9b
+   * 1.8b to 1.9c
 4. [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
    * 1.17 to 1.18
 5. [OpenMW Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/54148)
-   * 1.36b to 1.36d
+   * 1.36b to 1.36e
 6. [White Suran 2 - MD Edition](https://www.nexusmods.com/morrowind/mods/44153)
    * 3.4 to 4.3
 7. [Logs on Fire - Cyrodiil](https://www.nexusmods.com/morrowind/mods/55647)
@@ -100,7 +111,7 @@ description: Release Notes
 9. [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
     * 1.7 to 1.7a
 10. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
-    * 1.20b to 1.25
+    * 1.20b to 1.30
 11. [S3maphore - OpenMW Music Management from the Future](https://www.nexusmods.com/morrowind/mods/56836)
     * 0.53 to 0.62
 12. [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
@@ -124,11 +135,11 @@ description: Release Notes
 21. [Vennin's Addamasartus Overhaul](https://www.nexusmods.com/morrowind/mods/52420)
     * 1.1 to 1.3
 22. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
-    * 4.0.2 to 5.0.5
+    * 4.0.2 to 5.0.6
 23. [Ald'Ruhn Outskirts - Ancestral Refuge](https://www.nexusmods.com/morrowind/mods/55944)
     * 3.2 to 3.4
-24. [Black Soul Gems](https://www.nexusmods.com/morrowind/mods/45902)
-    * 2.2.2 to 2.3.1
+24. [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
+    * 2.3.0 to 2.4.1
 25. [Daedric Akaviri Armor](https://www.nexusmods.com/morrowind/mods/56482)
     * 1.2 to 1.4
 26. [Greymarch Dawn - Whispers of Jyggalag](https://www.nexusmods.com/morrowind/mods/53679)
@@ -154,13 +165,13 @@ description: Release Notes
 36. [Ashlander Architect](https://www.nexusmods.com/morrowind/mods/52879)
     * 1.1 to 1.3
 37. [Better Merchants Skills (OpenMW)](https://www.nexusmods.com/morrowind/mods/54337)
-    * 1.7.1 to 2.2
+    * 1.7.1 to 2.3.1
 38. [Boss Overhaul - Dagoth Ur](https://www.nexusmods.com/morrowind/mods/56809)
     * 1.3.5 to 1.4.1
 39. [Hackle-Lo Pipe](https://www.nexusmods.com/morrowind/mods/56939)
     * 2.0 to 3.0
 40. [Harder Better Faster Stronger (OpenMW)](https://www.nexusmods.com/morrowind/mods/55542)
-    * 2.3.1 to 2.5.2
+    * 2.3.1 to 2.5.3
 41. [Interesting Outfits - Ashlanders](https://www.nexusmods.com/morrowind/mods/54099)
     * 1.1.2 to 1.1.4
 42. [Interesting Outfits - Cultists](https://www.nexusmods.com/morrowind/mods/51922)
@@ -187,12 +198,12 @@ description: Release Notes
     * 1.4.1 to 1.4.2
 53. [Disarmed Umbra Blademaster](https://www.nexusmods.com/morrowind/mods/56528)
     * 1.1.1 to 2.0.0
-54. [Daisy's Lua Multimark Mod](https://www.nexusmods.com/morrowind/mods/53260)
-    * 1.5.1 to 1.6.1
+54. [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
+    * 4.6a to 4.7 
 55. [Lord Zarcon's Minor Patches & Fixes Compendium](https://www.nexusmods.com/morrowind/mods/53570)
     * 1.3 to 1.9.1
 56. [Skyrim Style Quest Notifications Great Patch Hub](https://www.nexusmods.com/morrowind/mods/55480)
-    * 1.12.2 to 1.16
+    * 1.12.2 to 1.17
 57. [OpenMW Modern UI Overhaul (Mashup)](https://www.nexusmods.com/morrowind/mods/54393)
     * 1.0 to 1.1
 58. [OpenMW Lua Helper Utility](https://www.nexusmods.com/morrowind/mods/54629)
@@ -200,13 +211,13 @@ description: Release Notes
 59. [Dynamic Sounds for OpenMW](https://www.nexusmods.com/morrowind/mods/56572)
     * 0.9.2 to 1.4.0
 60. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
-    * 3.2.2 to 3.2.3
+    * 3.2.2 to 3.3.0
 61. [Harder Better Faster Stronger (OpenMW)](https://www.nexusmods.com/morrowind/mods/55542)
     * 2.4.2 to 2.4.3
 62. [Oblivion-Style Lockpicking (OpenMW)](https://www.nexusmods.com/morrowind/mods/56355)
     * 2.0 to 2.1
 63. [(OpenMW 0.49) Better Bars](https://www.nexusmods.com/morrowind/mods/54951)
-    * 1.8 to 1.10
+    * 1.8 to 1.13
 64. [Barristers Guild - Old Ebonheart Questline](https://www.nexusmods.com/morrowind/mods/55995)
     * 2.0 to 2.1
 65. [Daedric Akaviri Armor](https://www.nexusmods.com/morrowind/mods/56482)
@@ -219,6 +230,12 @@ description: Release Notes
     * 2.5 to 2.5.1
 69. [Aspect of Azura](https://www.nexusmods.com/morrowind/mods/51079)
     * 2.1 to 2.2
+70. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
+    * 1.1.2 to 1.1.4
+71. [Red Wisdom - An Ashlander Prophecy](https://www.nexusmods.com/morrowind/mods/54525)
+    * 1.1 to 1.1.1
+72. [Vampire Masquerade - A Detailed Overhaul](https://www.nexusmods.com/morrowind/mods/56101)
+    * 2.0 to 2.3
 
 **Removed**
 1. [Nine-holes - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52093)
@@ -230,6 +247,8 @@ description: Release Notes
 7. [Walkable Bamz-Amschend](https://www.nexusmods.com/morrowind/mods/54771)
 8. [Windbreaker Tomb](https://www.nexusmods.com/morrowind/mods/53180)
 9. [MUSE Music Expansions](https://next.nexusmods.com/profile/Scipio219/mods?gameId=100)
+10. [Spell Effects Rebalance](https://www.nexusmods.com/morrowind/mods/52858)
+11. [Daisy's Lua Multimark Mod](https://www.nexusmods.com/morrowind/mods/53260)
 
 ## POTI 2.0.1.1 - 06/28/2025
 
