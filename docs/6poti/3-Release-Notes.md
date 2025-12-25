@@ -90,6 +90,7 @@ description: Release Notes
 76. [(OpenMW) Pure Lua Multi Mark](https://www.nexusmods.com/morrowind/mods/57313)
 77. [Fantasia Grass Mod - Dark Outline Fix](https://www.nexusmods.com/morrowind/mods/57965)
 78. [Dr. House Head for Imperials](https://www.nexusmods.com/morrowind/mods/57948)
+79. [STOTSP - Patch for Purists Patch](https://www.nexusmods.com/morrowind/mods/46810)
 
 **Updated**
 1. [Lyithdonea - The Azurian Isles](https://www.nexusmods.com/morrowind/mods/43749)
