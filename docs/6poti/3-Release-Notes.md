@@ -259,6 +259,7 @@ description: Release Notes
 10. [Spell Effects Rebalance](https://www.nexusmods.com/morrowind/mods/52858)
 11. [Daisy's Lua Multimark Mod](https://www.nexusmods.com/morrowind/mods/53260)
 12. [New Fists of Randagulf](https://www.nexusmods.com/morrowind/mods/41307)
+13. [Fresh Loot](https://www.nexusmods.com/morrowind/mods/56005)
 
 ## POTI 2.0.1.1 - 06/28/2025
 
