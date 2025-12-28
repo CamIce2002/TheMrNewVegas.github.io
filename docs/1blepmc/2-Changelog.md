@@ -7,6 +7,22 @@ description: BLEP MC Changelog
 
 # Releases (Newest to Oldest)  
 
+# Release v2.14
+
+**Updated**
+* Create Steel Mixing now requires SuperHeating
+* Removed duplicate fluids/recipes between PneumaticCraft and ImmersiveEnegineering
+* Added several other fuel options for the Immersive Engineering Drill
+* Made the Immersive Engineering Drill two-handed and Buff Stats
+* Tweaked Ancient Tomes to be more expensive
+* Lowered max level of Fortune Enchantment to 4. 5 obtainable through Quark Ancient Tomes
+* Disabled breaking Gravestones with Ars Nouveau Break Spells to prevent voiding inventories
+* Increase Base Mana Cost of Break and Fortune Glyphs
+* Buffed Enchantability of Ars Nouveau Mage Gear
+* Added Looting 2 to remaining Gold Weapons
+* Seed Pouch will now Bonemeal in a 5x5 if filled
+* Fixed Metal Ore Drops Across Mods
+
 # Release v2.13
 
 **Removed**
