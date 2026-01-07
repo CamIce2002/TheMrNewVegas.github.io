@@ -9,6 +9,8 @@ description: Release Notes
 
 ## POTI 2.1.1 - TBD
 
+### Save Safe? TBD
+
 **Added**
 1. [Actor Interactions - OpenMW](https://www.nexusmods.com/morrowind/mods/57955)
 2. [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
