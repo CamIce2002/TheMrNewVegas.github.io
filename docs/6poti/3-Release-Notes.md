@@ -12,6 +12,8 @@ description: Release Notes
 **Added**
 1. [Actor Interactions - OpenMW](https://www.nexusmods.com/morrowind/mods/57955)
 2. [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
+3. [Incantation - A Spellcrafting Skill Mod for OpenMW](https://www.nexusmods.com/morrowind/mods/58024)
+4. [HUD Weapon Charge (For OpenMW)](https://www.nexusmods.com/morrowind/mods/57856)
 
 **Updated**
 1. [SOV_Data](https://www.nexusmods.com/morrowind/mods/55322)
