@@ -18,6 +18,8 @@ description: Release Notes
 4. [HUD Weapon Charge (For OpenMW)](https://www.nexusmods.com/morrowind/mods/57856)
 5. [Enchanter's Quiver - Arrows and Projectiles Enchant Capacity](https://www.nexusmods.com/morrowind/mods/58121)
 6. [Baths of Vvardenfell](https://www.nexusmods.com/morrowind/mods/57893)
+5. [(OpenMW) Crafting Framework](https://www.nexusmods.com/morrowind/mods/57247)
+6. [Sun's Dusk - Logs on Fire](https://www.nexusmods.com/morrowind/mods/57495)
 
 **Updated**
 1. [SOV_Data](https://www.nexusmods.com/morrowind/mods/55322)
