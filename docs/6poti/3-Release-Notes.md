@@ -25,13 +25,13 @@ description: Release Notes
 3. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
    * 1.30 to 1.31
 4. [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
-   * 1.08 to 1.09
+   * 1.08 to 1.10
 5. [Concept Art Ghostfence Enhanced C.A.G.E.](https://www.nexusmods.com/morrowind/mods/57356)
    * 1.2 to 1.5
 6. [Ebonheart Underworks](https://www.nexusmods.com/morrowind/mods/47272)
    * 1.21 to 1.22
 7. [Dwemer Legacy Reforged - Bthungthumz and Druscashti](https://www.nexusmods.com/morrowind/mods/55073)
-   * 1.6 to 1.7
+   * 1.6 to 1.7.1
 8. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
    * 2.5.2 to 2.5.7
 9. [Legacy of the Blades](https://www.nexusmods.com/morrowind/mods/57935)
@@ -45,34 +45,57 @@ description: Release Notes
 13. [Wishmaster - A Clavicus Vile Daedric Questline](https://www.nexusmods.com/morrowind/mods/55613)
     * 1.2 to 1.3
 14. [Bardcraft (OpenMW)](https://www.nexusmods.com/morrowind/mods/56814)
-    * 1.3 to 1.3.1
+    * 1.3 to 1.3.3
 15. [Better Merchants Skills (OpenMW)](https://www.nexusmods.com/morrowind/mods/54337)
-    * 2.3.1 to 2.4.2
+    * 2.3.1 to 2.4.8
 16. [Bloodmoon Rebalance](https://www.nexusmods.com/morrowind/mods/45714)
     * 1.3 to 1.4.1
 17. [Devilish Guar Riding (OpenMW)](https://www.nexusmods.com/morrowind/mods/55516)
     * 1.0 to 1.1
 18. [Friendlier Fire (OpenMW)](https://www.nexusmods.com/morrowind/mods/57975)
-    * 1.0.2 to 2.0
+    * 1.0.2 to 2.2.1
 19. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
-    * 3.9.8 to 3.9.9
+    * 3.9.8 to 4.2.1
 20. [MorrowSwim - A Simple Aquatics Skill Mod for OpenMW](https://www.nexusmods.com/morrowind/mods/57804)
     * 0.111 to 0.11
 21. [Natural Character Growth (OpenMW)](https://www.nexusmods.com/morrowind/mods/57801)
-    * 1.2.2 to 1.3.1
+    * 1.2.2 to 1.3.2
 22. [(OpenMW) Better Elemental Shields](https://www.nexusmods.com/morrowind/mods/57915)
     * 1.5 to 1.7
 21. [Skill Evolution (OpenMW)](https://www.nexusmods.com/morrowind/mods/57802)
-    * 1.5.3 to 1.6.2
+    * 1.5.3 to 1.7.5
 22. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
-    * 1.6.2 to 1.6.4
+    * 1.6.2 to 1.7.3
 23. [Take Cover (OpenMW)](https://www.nexusmods.com/morrowind/mods/54976)
-    * 1.4.2 to 1.5
+    * 1.4.2 to 1.5.1
 24. [(OpenMW 0.49) Floating Healthbars](https://www.nexusmods.com/morrowind/mods/54954)
     * 1.6 to 1.8
+25. [Stat Window Extender (OpenMW)](https://www.nexusmods.com/morrowind/mods/57727)
+    * 1.2.3 to 1.2.4
+26. [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
+    * 1.07a to 1.07b
+27. [Kogoruhn - Extinct City of Ash and Sulfur](https://www.nexusmods.com/morrowind/mods/51615)
+    * 2.9.6 to 2.9.7
+28. [The Garden of Dreams](https://www.nexusmods.com/morrowind/mods/57831)
+    * 1.3.2 to 1.4.1
+29. [The Wandering Shield](https://www.nexusmods.com/morrowind/mods/56485)
+    * 1.5 to 1.6
+30. [Harder Better Faster Stronger (OpenMW)](https://www.nexusmods.com/morrowind/mods/55542)
+    * 2.5.3 to 2.7
+31. [Mutiny - Alternate Start Extended](https://www.nexusmods.com/morrowind/mods/57702)
+    * 1.4 to 1.5
+32. [(OpenMW) Pure Lua Multimark](https://www.nexusmods.com/morrowind/mods/57313)
+    * 2.3 to 2.4
+33. [Of Bead and Feather (OpenMW)](https://www.nexusmods.com/morrowind/mods/57782)
+    * 1.0 to 1.1
+34. [Sorry We're Closed - Nighttime Service Refusal](https://www.nexusmods.com/morrowind/mods/56629)
+    * 1.1.1 to 1.2
+35. [Skyrim Style Quest Notifications Great Patch Hub](https://www.nexusmods.com/morrowind/mods/55480)
+    * 1.17 to 1.18
 
 **Removed**
 1. [SME - Useful Widgets - Actor Info - Health Bar - Hit Chance](https://www.nexusmods.com/morrowind/mods/53996)
+2. [Quicktrain](https://www.nexusmods.com/morrowind/mods/53771)
 
 ## POTI 2.1.0 - 12/25/2025
 
