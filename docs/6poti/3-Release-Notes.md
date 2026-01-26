@@ -7,7 +7,7 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
-## POTI 2.1.1 - TBD
+## POTI 2.1.1 - 01/26/2026
 
 ### Save Safe? Yes
 
