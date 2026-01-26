@@ -16,6 +16,8 @@ description: Release Notes
 2. [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
 3. [Incantation - A Spellcrafting Skill Mod for OpenMW](https://www.nexusmods.com/morrowind/mods/58024)
 4. [HUD Weapon Charge (For OpenMW)](https://www.nexusmods.com/morrowind/mods/57856)
+5. [Enchanter's Quiver - Arrows and Projectiles Enchant Capacity](https://www.nexusmods.com/morrowind/mods/58121)
+6. [Baths of Vvardenfell](https://www.nexusmods.com/morrowind/mods/57893)
 
 **Updated**
 1. [SOV_Data](https://www.nexusmods.com/morrowind/mods/55322)
