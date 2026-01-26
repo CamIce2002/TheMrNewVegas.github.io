@@ -9,7 +9,7 @@ description: Release Notes
 
 ## POTI 2.1.1 - TBD
 
-### Save Safe? TBD
+### Save Safe? Yes
 
 **Added**
 1. [Actor Interactions - OpenMW](https://www.nexusmods.com/morrowind/mods/57955)
@@ -20,6 +20,7 @@ description: Release Notes
 6. [Baths of Vvardenfell](https://www.nexusmods.com/morrowind/mods/57893)
 5. [(OpenMW) Crafting Framework](https://www.nexusmods.com/morrowind/mods/57247)
 6. [Sun's Dusk - Logs on Fire](https://www.nexusmods.com/morrowind/mods/57495)
+7. [Westly's Faces Refurbished TR_Data Patch](https://www.nexusmods.com/morrowind/mods/55162)
 
 **Updated**
 1. [SOV_Data](https://www.nexusmods.com/morrowind/mods/55322)
