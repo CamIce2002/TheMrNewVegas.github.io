@@ -56,6 +56,7 @@ description: Release Notes
     * 2.0 to 2.2
 21. [TimeHUD - A Clock UI widget](https://www.nexusmods.com/morrowind/mods/57407)
     * 1.5 to 1.6
+
 **Removed**
 1. [Better Merchants Skills (OpenMW)](https://www.nexusmods.com/morrowind/mods/54337)
 2. [Natural Character Growth (OpenMW)](https://www.nexusmods.com/morrowind/mods/57801)
