@@ -12,6 +12,19 @@ description: Release Notes
 ### Save Safe? No
 
 **Added**
+1. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)
+2. [Quickloot](https://www.nexusmods.com/morrowind/mods/54950)
+3. [Pickpocket Overhaul for Quickloot](https://www.nexusmods.com/morrowind/mods/56596)
+4. [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/57062)
+5. [MBSP - Magicka Based Skill Progression](https://www.nexusmods.com/morrowind/mods/54953)
+6. [Disenchanting](https://www.nexusmods.com/morrowind/mods/57068)
+7. [Worthless Soulgems](https://www.nexusmods.com/morrowind/mods/57073)
+8. [Fitting Soulgems](https://www.nexusmods.com/morrowind/mods/57405)
+9. [OpenMW Fortify Health Fix](https://www.nexusmods.com/morrowind/mods/56523)
+10. [Vanilla-Friendly West Gash Tree Replacer](https://www.nexusmods.com/morrowind/mods/44173)
+11. [Kart's Shader Collection for OpenMW](https://www.nexusmods.com/morrowind/mods/58181)
+12. [Time Flies (OpenMW)](https://www.nexusmods.com/morrowind/mods/58252)
+13. [Companion Teleportation (OpenMW)](https://www.nexusmods.com/morrowind/mods/58229)
 
 **Updated**
 1. [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
@@ -62,6 +75,11 @@ description: Release Notes
 2. [Natural Character Growth (OpenMW)](https://www.nexusmods.com/morrowind/mods/57801)
 3. [Skill Evolution (OpenMW)](https://www.nexusmods.com/morrowind/mods/57802)
 4. [Mercy - Combat AI Overhaul](https://www.nexusmods.com/morrowind/mods/55064)
+5. [ReAnimation V2 - Rogue - First-Person Animation Pack](https://www.nexusmods.com/morrowind/mods/52596)
+6. [OpenMW Footsteps](https://modding-openmw.com/mods/openmw-footsteps/)
+7. [Character Sound Overhaul](https://www.nexusmods.com/morrowind/mods/49654)
+8. [Attend Me](https://www.nexusmods.com/morrowind/mods/51232)
+9. [Keytars (OpenMW)](https://www.nexusmods.com/morrowind/mods/56323)
 
 ## POTI 2.1.1 - 01/26/2026
 
