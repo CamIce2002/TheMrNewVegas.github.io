@@ -7,7 +7,7 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
-## POTI 2.1.2 - TBA
+## POTI 2.2 - TBA
 
 ### Save Safe? No
 
@@ -24,51 +24,11 @@ description: Release Notes
 10. [Vanilla-Friendly West Gash Tree Replacer](https://www.nexusmods.com/morrowind/mods/44173)
 11. [Kart's Shader Collection for OpenMW](https://www.nexusmods.com/morrowind/mods/58181)
 12. [Time Flies (OpenMW)](https://www.nexusmods.com/morrowind/mods/58252)
-13. [Companion Teleportation (OpenMW)](https://www.nexusmods.com/morrowind/mods/58229)
+13. [Perk Framework](https://www.nexusmods.com/morrowind/mods/57615)
+14. [(OpenMW) Until Healed Fix](https://www.nexusmods.com/morrowind/mods/57508)
+15. 
 
 **Updated**
-1. [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
-   * 1.1.1 to 1.1.2
-2. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
-   * 1.31 to 1.31b
-3. [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
-   * 1.10 to 1.11
-4. [Dynamic Sounds for OpenMW](https://www.nexusmods.com/morrowind/mods/56572)
-   * 1.4 to 1.4.1
-5. [Beautiful Cities of Morrowind](https://www.nexusmods.com/morrowind/mods/49231)
-   * 3.2.6 to 3.2.7
-6. [Almalexia's Chamber Overhaul](https://www.nexusmods.com/morrowind/mods/52737)
-   * 1.93 to 1.94
-7. [Baths of Vvardenfell](https://www.nexusmods.com/morrowind/mods/57893)
-   * 2.2 to 2.6.1
-8. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
-   * 2.5.7 to 2.5.9
-9. [Legacy of the Blades](https://www.nexusmods.com/morrowind/mods/57935)
-   * 1.2 to 1.3
-10. [Greymarch Dawn - Whispers of Jyggalag](https://www.nexusmods.com/morrowind/mods/53679)
-    * 1.2.3 to 1.2.4
-11. [Morrowind Extended Cut](https://www.nexusmods.com/morrowind/mods/55615)
-    * 1.01 to 1.03
-12. [The Wandering Shield](https://www.nexusmods.com/morrowind/mods/56485)
-    * 1.6 to 1.8.1
-13. [Magical Mainland Homes](https://www.nexusmods.com/morrowind/mods/53681)
-    * 2.1 to 3.0
-14. [Brute Force - Lockpicking for Barbarians (OpenMW)](https://www.nexusmods.com/morrowind/mods/57841)
-    * 1.2.4 to 1.3
-15. [Harder Better Faster Stronger (OpenMW)](https://www.nexusmods.com/morrowind/mods/55542)
-    * 2.7 to 2.8
-16. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
-    * 4.2.1 to 4.2.2
-17. [Of Bead and Feather (OpenMW)](https://www.nexusmods.com/morrowind/mods/57782)
-    * 1.1 to 1.3.2
-18. [Sorry We're Closed - Nighttime Service Refusal](https://www.nexusmods.com/morrowind/mods/56629)
-    * 1.2 to 1.2.1
-19. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
-    * 1.7.3 to 1.8.2
-20. [Umbra - Blademaster Disarmed](https://www.nexusmods.com/morrowind/mods/56528)
-    * 2.0 to 2.2
-21. [TimeHUD - A Clock UI widget](https://www.nexusmods.com/morrowind/mods/57407)
-    * 1.5 to 1.6
 
 **Removed**
 1. [Better Merchants Skills (OpenMW)](https://www.nexusmods.com/morrowind/mods/54337)
@@ -78,8 +38,7 @@ description: Release Notes
 5. [ReAnimation V2 - Rogue - First-Person Animation Pack](https://www.nexusmods.com/morrowind/mods/52596)
 6. [OpenMW Footsteps](https://modding-openmw.com/mods/openmw-footsteps/)
 7. [Character Sound Overhaul](https://www.nexusmods.com/morrowind/mods/49654)
-8. [Attend Me](https://www.nexusmods.com/morrowind/mods/51232)
-9. [Keytars (OpenMW)](https://www.nexusmods.com/morrowind/mods/56323)
+8. [Keytars (OpenMW)](https://www.nexusmods.com/morrowind/mods/56323)
 
 ## POTI 2.1.1 - 01/26/2026
 
