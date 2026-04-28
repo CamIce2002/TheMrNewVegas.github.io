@@ -7,7 +7,7 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
-## POTI 2.2 - TBA
+## POTI 2.2 - 04/01/2026
 
 ### Save Safe? No
 
@@ -484,7 +484,51 @@ description: Release Notes
 231. [Rather Nice Factor's Estate](https://www.nexusmods.com/morrowind/mods/47933)
 232. [Tel Mundnisses](https://www.nexusmods.com/morrowind/mods/52882)
 233. [The Weary Vampire](https://www.nexusmods.com/morrowind/mods/49774)
-234. 
+234. [A Blasphemer's Blizzard (OpenMW)](https://www.nexusmods.com/morrowind/mods/55709)
+235. [Ashlander Architect](https://www.nexusmods.com/morrowind/mods/52879)
+236. [Atronach Rebalance](https://www.nexusmods.com/morrowind/mods/51309)
+237. [Better Balanced Staff Enchanting Capacity](https://www.nexusmods.com/morrowind/mods/56635)
+238. [Better Blight](https://www.nexusmods.com/morrowind/mods/48395)
+239. [Better Merchants Skills for OpenMW](https://www.nexusmods.com/morrowind/mods/54337)
+240. [BTB's Game Improvements - Necro Edit](https://www.nexusmods.com/morrowind/mods/47129)
+241. [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786)
+242. [Corporeal Carryable Containers](https://www.nexusmods.com/morrowind/mods/53772)
+243. [Detect All Keys](https://www.nexusmods.com/morrowind/mods/52778)
+244. [Devilish Sleep Spell (OpenMW 0.49)](https://www.nexusmods.com/morrowind/mods/54798)
+245. [Dubious Concoctions (OpenMW)](https://www.nexusmods.com/morrowind/mods/57757)
+246. [Enchanting Made Possible](https://www.nexusmods.com/morrowind/mods/35622)
+247. [Expansions Integrated](https://www.nexusmods.com/morrowind/mods/47861)
+248. [For the Right Price](https://www.nexusmods.com/morrowind/mods/52668)
+249. [Gent's Vanilla Spell Rebalance](https://www.nexusmods.com/morrowind/mods/57788)
+250. [Gentler Racemenu](https://www.nexusmods.com/morrowind/mods/54142)
+251. [GRIP (Stance Toggle OpenMW)](https://www.nexusmods.com/morrowind/mods/57640)
+252. [Maxar's Timed Attacks (OpenMW)](https://www.nexusmods.com/morrowind/mods/55344)
+253. [Mercy - Combat AI Overhaul](https://www.nexusmods.com/morrowind/mods/55064)
+254. [Natural Character Growth](https://www.nexusmods.com/morrowind/mods/57801)
+255. [No Fires in Bad Weather - OpenMW](https://www.nexusmods.com/morrowind/mods/57579)
+256. [Oblivion-Style Lockpicking (OpenMW)](https://www.nexusmods.com/morrowind/mods/56355)
+257. [Of Bead and Feather (OpenMW)](https://www.nexusmods.com/morrowind/mods/57782)
+258. [Pickpocket Rebalance (OpenMW)](https://www.nexusmods.com/morrowind/mods/53174)
+259. [Projectile Overhaul - Modular](https://www.nexusmods.com/morrowind/mods/43195)
+260. [OMW Achievements](https://www.nexusmods.com/morrowind/mods/56298)
+261. [Skill Evolution](https://www.nexusmods.com/morrowind/mods/57802)
+262. [Skylamp Riding](https://www.nexusmods.com/morrowind/mods/56064)
+263. [Smart Ammo for OpenMW-Lua](https://www.nexusmods.com/morrowind/mods/51274)
+264. [Speechcraft Rebalance (OpenMW)](https://www.nexusmods.com/morrowind/mods/53177)
+265. [Tabletop Alchemy](https://www.nexusmods.com/morrowind/mods/52891)
+266. [Tools of the Secret Master](https://www.nexusmods.com/morrowind/mods/51415)
+267. [Werewolf Delayed Transformations](https://www.nexusmods.com/morrowind/mods/49552)
+268. [Winged Twilight Rebalance](https://www.nexusmods.com/morrowind/mods/53310)
+269. [ZEF Focus Magicka](https://www.nexusmods.com/morrowind/mods/48431)
+270. [OpenMW Modern UI Overhaul (Mashup)](https://www.nexusmods.com/morrowind/mods/54393)
+271. [Actor Interactions - OpenMW](https://www.nexusmods.com/morrowind/mods/57955)
+272. [Classes Neural Kirkbridization](https://www.nexusmods.com/morrowind/mods/52569)
+273. [Detect Map Icons](https://www.nexusmods.com/morrowind/mods/54285)
+274. [Dunmer Saints Constellations (Kirkbridization)](https://www.nexusmods.com/morrowind/mods/52597)
+275. [Holy Divination (HD) Icons](https://www.nexusmods.com/morrowind/mods/55273)
+276. [New Bethesda Intro For OpenMW](https://www.nexusmods.com/morrowind/mods/50268)
+277. [Simple Magic Time HUD (OpenMW)](https://www.nexusmods.com/morrowind/mods/56767)
+278. [OpenMW Quest Menu](https://www.nexusmods.com/morrowind/mods/56273)
 
 ## POTI 2.1.1 - 01/26/2026
 
