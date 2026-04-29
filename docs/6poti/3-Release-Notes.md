@@ -7,7 +7,7 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
-## POTI 2.2 - 04/01/2026
+## POTI 2.2 - 05/01/2026
 
 ### Save Safe? No
 
