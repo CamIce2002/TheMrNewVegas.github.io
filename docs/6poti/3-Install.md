@@ -23,7 +23,7 @@ description: Path of the Incarnate Installation Guide
 
 - Run the game at least once to the main menu to generate the required fresh ini's.
 
-### 2.) Install OpenMW Build 
+### 2.) Install OpenMW 
 
 - If you haven't yet, download the required OpenMW Build [here](https://github.com/OpenMW/openmw/releases/download/openmw-51-rc1/OpenMW-0.51.0-RC1-Windows-x64.exe).
 
