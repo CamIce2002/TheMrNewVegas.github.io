@@ -7,6 +7,19 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
+## POTI 2.2.1 - TBD
+
+### Save Safe? TBD
+
+**Added**
+1. [Spell Tomes - Magic Books of Morrowind to Study and Cast To](https://www.nexusmods.com/morrowind/mods/57432)
+
+**Updated**
+1. [Unofficial Tamriel Rebuilt Spells](https://www.nexusmods.com/morrowind/mods/58693)
+   * 1.3.2 to 1.4
+
+**Removed**
+
 ## POTI 2.2 - 05/01/2026
 
 ### Save Safe? No
