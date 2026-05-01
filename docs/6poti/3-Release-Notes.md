@@ -247,6 +247,8 @@ description: Release Notes
 233. [Retextured Buttons for Journal and Books (OpenMW)](https://www.nexusmods.com/morrowind/mods/55333)
 234. [(OpenMW) trav's Books Enhanced](https://www.nexusmods.com/morrowind/mods/55126)
 235. [Unique Eltonbrand & Fallen One's Goldbrand](https://www.nexusmods.com/morrowind/mods/43528)
+236. [Sea Forts of Morrowind](https://www.nexusmods.com/morrowind/mods/54700)
+237. [Ahnassi - The Ohmes Monk](https://www.nexusmods.com/morrowind/mods/58726)
 
 **Updated**
 
