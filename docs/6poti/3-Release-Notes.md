@@ -251,6 +251,7 @@ description: Release Notes
 237. [Ahnassi - The Ohmes Monk](https://www.nexusmods.com/morrowind/mods/58726)
 
 **Updated**
+1. Everything
 
 **Removed**
 1. [Archive - Enough Does Not Have Enough (Remove Item Charge Message)](https://www.nexusmods.com/morrowind/mods/54176?file_id=1000042971)
