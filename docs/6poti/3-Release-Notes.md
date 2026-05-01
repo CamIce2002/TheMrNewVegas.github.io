@@ -19,6 +19,7 @@ description: Release Notes
    * 1.3.2 to 1.4
 
 **Removed**
+1. [Holidays Across Tamriel Lower Prices](https://www.nexusmods.com/morrowind/mods/50160)
 
 ## POTI 2.2 - 05/01/2026
 
