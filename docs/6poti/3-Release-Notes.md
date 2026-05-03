@@ -17,6 +17,22 @@ description: Release Notes
 **Updated**
 1. [Unofficial Tamriel Rebuilt Spells](https://www.nexusmods.com/morrowind/mods/58693)
    * 1.3.2 to 1.4
+2. [Skill Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/57765)
+   * 1.1 to 1.1.1
+3. [Bullseye - Marksman Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/58511)
+   * 1.1.7 to 1.1.9
+4. [(OpenMW) Dangers of Broken Artifacts](https://www.nexusmods.com/morrowind/mods/58356)
+   * 1.0 to 1.1
+5. [Enchanters Recharge (OpenMW)](https://www.nexusmods.com/morrowind/mods/58757)
+   * 1.1 to 1.2
+6. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
+   * 1.0.8 to 1.0.9
+7. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
+   * 1.8.6 to 1.8.7
+8. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
+   * 2.6.7 to 2.6.9
+9. [Ultimate Animated Morrowind and BCOM OpenMW Patch](https://www.nexusmods.com/morrowind/mods/58206)
+   * 1.0.3 to 1.0.5
 
 **Removed**
 1. [Holidays Across Tamriel Lower Prices](https://www.nexusmods.com/morrowind/mods/50160)
