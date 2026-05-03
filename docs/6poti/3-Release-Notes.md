@@ -13,6 +13,7 @@ description: Release Notes
 
 **Added**
 1. [Spell Tomes - Magic Books of Morrowind to Study and Cast To](https://www.nexusmods.com/morrowind/mods/57432)
+2. [What Thieves Guild - TR Grapsing Fortune](https://www.nexusmods.com/morrowind/mods/47224)
 
 **Updated**
 1. [Unofficial Tamriel Rebuilt Spells](https://www.nexusmods.com/morrowind/mods/58693)
