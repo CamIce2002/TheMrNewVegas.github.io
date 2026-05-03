@@ -26,7 +26,7 @@ description: Release Notes
 5. [Enchanters Recharge (OpenMW)](https://www.nexusmods.com/morrowind/mods/58757)
    * 1.1 to 1.2
 6. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
-   * 1.0.8 to 1.0.9
+   * 1.0.8 to 1.0.10
 7. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
    * 1.8.6 to 1.8.7
 8. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
