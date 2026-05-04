@@ -27,13 +27,15 @@ description: Release Notes
 5. [Enchanters Recharge (OpenMW)](https://www.nexusmods.com/morrowind/mods/58757)
    * 1.1 to 1.2
 6. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
-   * 1.0.8 to 1.0.10
+   * 1.0.8 to 1.0.12
 7. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
    * 1.8.6 to 1.8.7
 8. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
    * 2.6.7 to 2.6.9
 9. [Ultimate Animated Morrowind and BCOM OpenMW Patch](https://www.nexusmods.com/morrowind/mods/58206)
    * 1.0.3 to 1.0.5
+10. [(OpenMW) Disenchanting](https://www.nexusmods.com/morrowind/mods/57068)
+    * 3.9 to 4.1
 
 **Removed**
 1. [Holidays Across Tamriel Lower Prices](https://www.nexusmods.com/morrowind/mods/50160)
