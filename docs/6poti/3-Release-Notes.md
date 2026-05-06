@@ -14,6 +14,12 @@ description: Release Notes
 **Added**
 1. [Spell Tomes - Magic Books of Morrowind to Study and Cast To](https://www.nexusmods.com/morrowind/mods/57432)
 2. [What Thieves Guild - TR Grapsing Fortune](https://www.nexusmods.com/morrowind/mods/47224)
+3. [Bor's Patch Hub - Attend Me - HUD Patch](https://www.nexusmods.com/morrowind/mods/58744)
+4. [Devilish Thu'um (OpenMW)](https://www.nexusmods.com/morrowind/mods/58813)
+5. [Tales of the Mad God - The 16 Accords of Madness](https://www.nexusmods.com/morrowind/mods/58831)
+6. [Dignitas - Reputation Titles and Descriptions (OpenMW)](https://www.nexusmods.com/morrowind/mods/58572)
+7. [Actor Interactions - OpenMW](https://www.nexusmods.com/morrowind/mods/57955)
+8. [Follower Commands (OpenMW)](https://www.nexusmods.com/morrowind/mods/58818)
 
 **Updated**
 1. [Unofficial Tamriel Rebuilt Spells](https://www.nexusmods.com/morrowind/mods/58693)
@@ -23,7 +29,7 @@ description: Release Notes
 3. [Bullseye - Marksman Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/58511)
    * 1.1.7 to 1.1.9
 4. [(OpenMW) Dangers of Broken Artifacts](https://www.nexusmods.com/morrowind/mods/58356)
-   * 1.0 to 1.1
+   * 1.0 to 1.1.1
 5. [Enchanters Recharge (OpenMW)](https://www.nexusmods.com/morrowind/mods/58757)
    * 1.1 to 1.2
 6. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
@@ -35,7 +41,11 @@ description: Release Notes
 9. [Ultimate Animated Morrowind and BCOM OpenMW Patch](https://www.nexusmods.com/morrowind/mods/58206)
    * 1.0.3 to 1.0.5
 10. [(OpenMW) Disenchanting](https://www.nexusmods.com/morrowind/mods/57068)
-    * 3.9 to 4.1
+    * 3.9 to 4.5
+11. [Mazte - Playable Mahjong Card Game](www.nexusmods.com/morrowind/mods/58066)
+    * 1.0 to 1.1
+12. [Pet the Scribs - Lua Edition (OpenMW)](https://www.nexusmods.com/morrowind/mods/58294)
+    * 2.1 to 2.1.1
 
 **Removed**
 1. [Holidays Across Tamriel Lower Prices](https://www.nexusmods.com/morrowind/mods/50160)
@@ -565,6 +575,7 @@ description: Release Notes
 276. [New Bethesda Intro For OpenMW](https://www.nexusmods.com/morrowind/mods/50268)
 277. [Simple Magic Time HUD (OpenMW)](https://www.nexusmods.com/morrowind/mods/56767)
 278. [OpenMW Quest Menu](https://www.nexusmods.com/morrowind/mods/56273)
+279. [Imperial Employment Office (MD Edit](https://www.nexusmods.com/morrowind/mods/53845)
 
 ## POTI 2.1.1 - 01/26/2026
 
