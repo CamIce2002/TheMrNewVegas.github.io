@@ -42,7 +42,7 @@ description: Release Notes
    * 1.0.3 to 1.0.5
 10. [(OpenMW) Disenchanting](https://www.nexusmods.com/morrowind/mods/57068)
     * 3.9 to 4.5
-11. [Mazte - Playable Mahjong Card Game](www.nexusmods.com/morrowind/mods/58066)
+11. [Mazte - Playable Mahjong Card Game](https://www.nexusmods.com/morrowind/mods/58066)
     * 1.0 to 1.1
 12. [Pet the Scribs - Lua Edition (OpenMW)](https://www.nexusmods.com/morrowind/mods/58294)
     * 2.1 to 2.1.1
