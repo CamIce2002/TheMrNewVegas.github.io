@@ -20,12 +20,15 @@ description: Release Notes
 6. [Dignitas - Reputation Titles and Descriptions (OpenMW)](https://www.nexusmods.com/morrowind/mods/58572)
 7. [Actor Interactions - OpenMW](https://www.nexusmods.com/morrowind/mods/57955)
 8. [Follower Commands (OpenMW)](https://www.nexusmods.com/morrowind/mods/58818)
+9. [Fish With Fishing Poles](https://www.nexusmods.com/morrowind/mods/47230)
+10. [Fish With Fishing Poles Expansion](https://www.nexusmods.com/morrowind/mods/50065)
+11. [Fish With Fishing Poles - OpenMW Integrations](https://www.nexusmods.com/morrowind/mods/58930)
 
 **Updated**
 1. [Unofficial Tamriel Rebuilt Spells](https://www.nexusmods.com/morrowind/mods/58693)
    * 1.3.2 to 1.4
 2. [Skill Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/57765)
-   * 1.1 to 1.1.1
+   * 1.1 to 1.1.2
 3. [Bullseye - Marksman Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/58511)
    * 1.1.7 to 1.1.9
 4. [(OpenMW) Dangers of Broken Artifacts](https://www.nexusmods.com/morrowind/mods/58356)
@@ -33,7 +36,7 @@ description: Release Notes
 5. [Enchanters Recharge (OpenMW)](https://www.nexusmods.com/morrowind/mods/58757)
    * 1.1 to 1.2
 6. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
-   * 1.0.8 to 1.0.12
+   * 1.0.8 to 1.2
 7. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
    * 1.8.6 to 1.8.7
 8. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
@@ -46,9 +49,28 @@ description: Release Notes
     * 1.0 to 1.1
 12. [Pet the Scribs - Lua Edition (OpenMW)](https://www.nexusmods.com/morrowind/mods/58294)
     * 2.1 to 2.1.1
+13. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
+    * 0.6c7 to 0.6c9
+14. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
+    * 2.5.1 to 2.6.1
+15. [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
+    * 4.7 to 4.8
+16. [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
+    * 1.11 to 1.11a
+17. [Disobedient Summons (OpenMW)](https://www.nexusmods.com/morrowind/mods/58542)
+    * 1.2.1 to 1.2.2
+18. [Friendlier Fire (OpenMW](https://www.nexusmods.com/morrowind/mods/57975)
+    * 2.3 to 2.4
+19. [Baths of Vvardenfell](https://www.nexusmods.com/morrowind/mods/57893)
+    * 2.7 to 2.8.3
+20. [The Garden of Dreams](https://www.nexusmods.com/morrowind/mods/57831)
+    * 1.4.1 to 1.4.2
+21. [The Mananaut's Message](https://www.nexusmods.com/morrowind/mods/52896)
+    * 1.0 to 1.1
 
 **Removed**
 1. [Holidays Across Tamriel Lower Prices](https://www.nexusmods.com/morrowind/mods/50160)
+2. [Perk Framework](https://www.nexusmods.com/morrowind/mods/57615)
 
 ## POTI 2.2 - 05/01/2026
 
