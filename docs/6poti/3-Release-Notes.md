@@ -72,6 +72,7 @@ description: Release Notes
 **Removed**
 1. [Holidays Across Tamriel Lower Prices](https://www.nexusmods.com/morrowind/mods/50160)
 2. [Perk Framework](https://www.nexusmods.com/morrowind/mods/57615)
+3. [Minor Tukushapal Refit](https://www.nexusmods.com/morrowind/mods/58218)
 
 ## POTI 2.2 - 05/01/2026
 
