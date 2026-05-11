@@ -23,6 +23,7 @@ description: Release Notes
 9. [Fish With Fishing Poles](https://www.nexusmods.com/morrowind/mods/47230)
 10. [Fish With Fishing Poles Expansion](https://www.nexusmods.com/morrowind/mods/50065)
 11. [Fish With Fishing Poles - OpenMW Integrations](https://www.nexusmods.com/morrowind/mods/58930)
+12. [(OpenMW) Crafting Framework](https://www.nexusmods.com/morrowind/mods/57247)
 
 **Updated**
 1. [Unofficial Tamriel Rebuilt Spells](https://www.nexusmods.com/morrowind/mods/58693)
