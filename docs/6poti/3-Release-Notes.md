@@ -37,7 +37,7 @@ description: Release Notes
 5. [Enchanters Recharge (OpenMW)](https://www.nexusmods.com/morrowind/mods/58757)
    * 1.1 to 1.2
 6. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
-   * 1.0.8 to 1.2
+   * 1.0.8 to 1.2.2
 7. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
    * 1.8.6 to 1.8.7
 8. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
@@ -68,6 +68,12 @@ description: Release Notes
     * 1.4.1 to 1.4.2
 21. [The Mananaut's Message](https://www.nexusmods.com/morrowind/mods/52896)
     * 1.0 to 1.1
+22. [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
+    * 1.1.3 to 1.1.4
+23. [(OpenMW) Illegal Necromancy](https://www.nexusmods.com/morrowind/mods/58335)
+    * 1.3.1 to 1.3.2
+24. [Romance Dagoth Ur](https://www.nexusmods.com/morrowind/mods/58423)
+    * 4.5 to 4.6
 
 **Removed**
 1. [Holidays Across Tamriel Lower Prices](https://www.nexusmods.com/morrowind/mods/50160)
