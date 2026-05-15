@@ -28,6 +28,9 @@ description: Release Notes
 14. [Toxicology - Custom Poisoning Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58976)
 15. [Weapon Sheathing - Staff and Spear Flip (OpenMW Only)](https://www.nexusmods.com/morrowind/mods/49043)
 16. [Auto Sheathe Before Drawing (OpenMW)](https://www.nexusmods.com/morrowind/mods/59001)
+17. [Staves - Custom Combat Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58592)
+18. [Throwing - Custom Combat Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58705)
+19. [Evasion - Custom Dodging Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58590)
 
 **Updated**
 1. [Unofficial Tamriel Rebuilt Spells](https://www.nexusmods.com/morrowind/mods/58693)
