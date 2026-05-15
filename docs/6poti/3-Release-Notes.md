@@ -24,6 +24,10 @@ description: Release Notes
 10. [Fish With Fishing Poles Expansion](https://www.nexusmods.com/morrowind/mods/50065)
 11. [Fish With Fishing Poles - OpenMW Integrations](https://www.nexusmods.com/morrowind/mods/58930)
 12. [(OpenMW) Crafting Framework](https://www.nexusmods.com/morrowind/mods/57247)
+13. [Practice Dummies (OpenMW)](https://www.nexusmods.com/morrowind/mods/58992)
+14. [Toxicology - Custom Poisoning Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58976)
+15. [Weapon Sheathing - Staff and Spear Flip (OpenMW Only)](https://www.nexusmods.com/morrowind/mods/49043)
+16. [Auto Sheathe Before Drawing (OpenMW)](https://www.nexusmods.com/morrowind/mods/59001)
 
 **Updated**
 1. [Unofficial Tamriel Rebuilt Spells](https://www.nexusmods.com/morrowind/mods/58693)
@@ -63,17 +67,19 @@ description: Release Notes
 18. [Friendlier Fire (OpenMW](https://www.nexusmods.com/morrowind/mods/57975)
     * 2.3 to 2.4
 19. [Baths of Vvardenfell](https://www.nexusmods.com/morrowind/mods/57893)
-    * 2.7 to 2.8.3
+    * 2.7 to 2.7.9
 20. [The Garden of Dreams](https://www.nexusmods.com/morrowind/mods/57831)
     * 1.4.1 to 1.4.2
 21. [The Mananaut's Message](https://www.nexusmods.com/morrowind/mods/52896)
     * 1.0 to 1.1
 22. [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
-    * 1.1.3 to 1.1.4
+    * 1.1.3 to 1.1.5
 23. [(OpenMW) Illegal Necromancy](https://www.nexusmods.com/morrowind/mods/58335)
     * 1.3.1 to 1.3.2
 24. [Romance Dagoth Ur](https://www.nexusmods.com/morrowind/mods/58423)
     * 4.5 to 4.6
+25. [Truly Constant Effects (OpenMW)](https://www.nexusmods.com/morrowind/mods/57175)
+    * 1.1 to 1.1.1
 
 **Removed**
 1. [Holidays Across Tamriel Lower Prices](https://www.nexusmods.com/morrowind/mods/50160)
