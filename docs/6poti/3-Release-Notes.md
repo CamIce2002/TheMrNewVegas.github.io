@@ -23,7 +23,7 @@ description: Release Notes
 
 ## POTI 2.2.1 - 05/15/2026
 
-### Save Safe? TBD
+### Save Safe? Yes
 
 **Added**
 1. [Spell Tomes - Magic Books of Morrowind to Study and Cast To](https://www.nexusmods.com/morrowind/mods/57432)
