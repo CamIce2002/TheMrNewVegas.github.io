@@ -9,7 +9,7 @@ description: Release Notes
 
 ## POTI 2.2.2 - 05/16/2026
 
-### Save Safe? TBD
+### Save Safe? Yes
 
 **Added**
 1. [Jewelcrafting (OpenMW)](https://www.nexusmods.com/morrowind/mods/59011)
