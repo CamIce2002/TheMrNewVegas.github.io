@@ -7,7 +7,21 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
-## POTI 2.2.1 - TBD
+## POTI 2.2.2 - 05/16/2026
+
+### Save Safe? TBD
+
+**Added**
+1. [Jewelcrafting (OpenMW)](https://www.nexusmods.com/morrowind/mods/59011)
+2. [(OpenMW) Simply Crafting](https://www.nexusmods.com/morrowind/mods/57248)
+
+**Updated**
+1. [Crafting Framework](https://www.nexusmods.com/morrowind/mods/57247)
+   * 3.0 to 4.0
+
+**Removed**
+
+## POTI 2.2.1 - 05/15/2026
 
 ### Save Safe? TBD
 
