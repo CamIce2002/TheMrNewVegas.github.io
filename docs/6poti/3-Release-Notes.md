@@ -40,6 +40,13 @@ description: Release Notes
 26. [Community Traits Ported - Backgrounds (OpenMW)](https://www.nexusmods.com/morrowind/mods/58704)
 27. [Bard Character Background for Bardcraft (OpenMW)](https://www.nexusmods.com/morrowind/mods/58932)
 28. [Scavenger Character Background](https://www.nexusmods.com/morrowind/mods/58983)
+29. [The Soggy Muffin](https://www.nexusmods.com/morrowind/mods/56717)
+30. [Muffinwind Rebaked](https://www.nexusmods.com/morrowind/mods/59081)
+31. [OAAB - Tombs and Towers](https://www.nexusmods.com/morrowind/mods/49131)
+32. [OAAB - Tombs Extended](https://www.nexusmods.com/morrowind/mods/59110)
+33. [Tombs of Zafirbel Bay](https://www.nexusmods.com/morrowind/mods/59029)
+34. [Sound_Data](https://www.nexusmods.com/morrowind/mods/58854)
+35. [Dreloth Ancestral Tomb](https://www.nexusmods.com/morrowind/mods/57450)
 
 **Updated**
 
