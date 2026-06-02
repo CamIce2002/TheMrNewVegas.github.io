@@ -7,6 +7,46 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
+POTI 2.3 - 06-XX-2026
+
+### Save Safe? No
+
+**Added**
+1. [Biz'Kuitz Blissful Mind - Alfiq Scholar Companion](https://www.nexusmods.com/morrowind/mods/59156)
+2. [Caswyn - A Nightmare's Favor](https://www.nexusmods.com/morrowind/mods/55505)
+3. [Fons - Shapeshifting Bard Companion](https://www.nexusmods.com/morrowind/mods/58715)
+4. [Death and Taxes](https://www.nexusmods.com/morrowind/mods/58469)
+5. [The Dark Brotherhood Attacks](https://www.nexusmods.com/morrowind/mods/58514)
+6. [AFFiliates - Guild of Mages](https://www.nexusmods.com/morrowind/mods/58875)
+7. [AATL Official Mods - Samarys - The Sunken Tomb](https://www.nexusmods.com/morrowind/mods/54147)
+8. [Casimir's Legacy](https://www.nexusmods.com/morrowind/mods/59175)
+9. [Inventory Extender (OpenMW)](https://www.nexusmods.com/morrowind/mods/59205)
+10. [Make A Profit (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58836)
+11. [Evening Star - Faiths of Morrowind (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/59173)
+12. [Ceremonial Tea Brewing (OpenMW)](https://www.nexusmods.com/morrowind/mods/59055)
+13. [Promotional Outlanders](https://www.nexusmods.com/morrowind/mods/59086)
+14. [Master Trainers](https://www.nexusmods.com/morrowind/mods/58935)
+15. [MOAR Service Refusal](https://www.nexusmods.com/morrowind/mods/59048)
+16. [Sorry Too Stormy - Bad Weather Service Refusal](https://www.nexusmods.com/morrowind/mods/58941)
+17. [Baths of Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/58936)
+18. [Baths of Project Tamriel](https://www.nexusmods.com/morrowind/mods/59129)
+19. [Dubious Animated Bathing for Sun's Dusk](https://www.nexusmods.com/morrowind/mods/59135)
+20. [(OpenMW) Interactions Animated](https://www.nexusmods.com/morrowind/mods/59117)
+21. [(OpenMW) Consuming Animated](https://www.nexusmods.com/morrowind/mods/59069)
+22. [Unique Uniques](https://www.nexusmods.com/morrowind/mods/58990)
+23. [Menacing Creatures and Bosses](https://www.nexusmods.com/morrowind/mods/59200)
+24. [Dagoth Ur Menace](https://www.nexusmods.com/morrowind/mods/59198)
+25. [Character Traits Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/58703)
+26. [Community Traits Ported - Backgrounds (OpenMW)](https://www.nexusmods.com/morrowind/mods/58704)
+27. [Bard Character Background for Bardcraft (OpenMW)](https://www.nexusmods.com/morrowind/mods/58932)
+28. [Scavenger Character Background](https://www.nexusmods.com/morrowind/mods/58983)
+
+**Updated**
+
+
+**Removed**
+
+
 ## POTI 2.2.2 - 05/16/2026
 
 ### Save Safe? Yes
