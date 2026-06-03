@@ -47,9 +47,37 @@ description: Release Notes
 33. [Tombs of Zafirbel Bay](https://www.nexusmods.com/morrowind/mods/59029)
 34. [Sound_Data](https://www.nexusmods.com/morrowind/mods/58854)
 35. [Dreloth Ancestral Tomb](https://www.nexusmods.com/morrowind/mods/57450)
+36. [Tooltips Complete](https://www.nexusmods.com/morrowind/mods/46842)
+37. [Better Bounties](https://www.nexusmods.com/morrowind/mods/59050)
+38. [Vvardenfell on Vellum](https://www.nexusmods.com/morrowind/mods/59219)
+39. [Cabbage Merchant](https://www.nexusmods.com/morrowind/mods/58886)
+40. [Greater Mournhold Bazaar](https://www.nexusmods.com/morrowind/mods/58898)
 
 **Updated**
-
+1. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
+   * 1.8.7 to 1.9.6
+2. [OpenMW Animated Pickup and Shop Around](https://www.nexusmods.com/morrowind/mods/54585)
+   * 1.29 to 1.29a
+3. [Evasion - Custom Dodging Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58590)
+   * 1.3.1 to 1.4
+4. [Staves - Custom Combat Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58592)
+   * 1.3.1 to 1.6
+5. [Throwing - Custom Combat Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58705)
+   * 1.3.1 to 1.6
+6. [Toxicology - Custom Poisoning Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58976)
+   * 1.2.1 to 1.5
+7. [(OpenMW) Crafting Framework](https://www.nexusmods.com/morrowind/mods/57247)
+   * 4.0 to 5.0
+8. [Bullseye - Marksman Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/58511)
+   * 1.1.10 to 1.2
+9. [Hackle-Lo Pipe](https://www.nexusmods.com/morrowind/mods/56939)
+   * 3.0 to 4.0
+10. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
+    * 1.2.7 to 1.3.0
+11. [Narsis Rickshaw Travel Service](https://www.nexusmods.com/morrowind/mods/58601)
+    * 1.0 to 2.0
+12. [Shelf Control (OpenMW)](https://www.nexusmods.com/morrowind/mods/57441)
+    * 2.1.1 to 2.2
 
 **Removed**
 
