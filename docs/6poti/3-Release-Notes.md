@@ -52,10 +52,19 @@ description: Release Notes
 38. [Vvardenfell on Vellum](https://www.nexusmods.com/morrowind/mods/59219)
 39. [Cabbage Merchant](https://www.nexusmods.com/morrowind/mods/58886)
 40. [Greater Mournhold Bazaar](https://www.nexusmods.com/morrowind/mods/58898)
+41. [So I Tied an Ash Yam to My Belt](https://www.nexusmods.com/morrowind/mods/59232)
+42. [Sheogorath Revoiced](https://www.nexusmods.com/morrowind/mods/59035)
+43. [Underharbor Flat - Anvil Player Home](https://www.nexusmods.com/morrowind/mods/59017)
+44. [Immersive Faction Requirements for TR_Factions.esp](https://www.nexusmods.com/morrowind/mods/58865)
+45. [Meaningful Traps](https://www.nexusmods.com/morrowind/mods/58865)
+46. [Death Warrant Tweaks](https://www.nexusmods.com/morrowind/mods/58865)
+47. [Crime-Based Dialogue Tweaks](https://www.nexusmods.com/morrowind/mods/58865)
+48. [Better Bloodmoon Directions](https://www.nexusmods.com/morrowind/mods/58865)
+49. [Security Tools Rebalance]((https://www.nexusmods.com/morrowind/mods/58865))
 
 **Updated**
 1. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
-   * 1.8.7 to 1.9.6
+   * 1.8.7 to 1.9.7
 2. [OpenMW Animated Pickup and Shop Around](https://www.nexusmods.com/morrowind/mods/54585)
    * 1.29 to 1.29a
 3. [Evasion - Custom Dodging Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58590)
@@ -78,6 +87,40 @@ description: Release Notes
     * 1.0 to 2.0
 12. [Shelf Control (OpenMW)](https://www.nexusmods.com/morrowind/mods/57441)
     * 2.1.1 to 2.2
+13. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
+    * 0.6c9 to 0.7d
+14. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
+    * 2.6.1 to 2.6.2
+15. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
+    * 1.31c to 1.32b
+16. [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
+    * 1.11a to 1.12
+17. [Harder Better Faster Stronger (HBFS)](https://www.nexusmods.com/morrowind/mods/55542)
+    * 2.8.3 to 2.8.4
+18. [Devilishly Peaceful Wildlife (OpenMW)](https://www.nexusmods.com/morrowind/mods/58083)
+    * 1.2.1 to 1.2.3
+19. [Dignitas - Reputation Titles and Descriptions (OpenMW)](https://www.nexusmods.com/morrowind/mods/58572)
+    * 1.2 to 1.3
+20. [Devilish Rocky Red Mountain](https://www.nexusmods.com/morrowind/mods/53473)
+    * 2.3.5 to 2.3.6
+21. [Greymarch Dawn - Whispers of Jyggalag](https://www.nexusmods.com/morrowind/mods/53679)
+    * 1.2.5 to 1.2.7
+22. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
+    * 2.6.9 to 2.7.0
+23. [Ahnassi - The Ohmes Monk](https://www.nexusmods.com/morrowind/mods/58726)
+    * 1.0 to 2.0
+24. [Romance Dagoth Ur](https://www.nexusmods.com/morrowind/mods/58423)
+    * 4.6 to 4.8
+25. [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
+    * 2.4.2 to 2.5.2
+26. [(OpenMW 0.49) Floating Healthbars](https://www.nexusmods.com/morrowind/mods/54954)
+    * 1.9 to 2.0
+27. [OpenMW Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/54148)
+    * 1.37a to 1.38
+28. [TimeHUD - A Clock UI Widget](https://www.nexusmods.com/morrowind/mods/57407)
+    * 1.6 to 1.7
+29. [Additonal Baths for Sun's Dusk](https://www.nexusmods.com/morrowind/mods/57811)
+    * 2.2 to 2.4
 
 **Removed**
 
