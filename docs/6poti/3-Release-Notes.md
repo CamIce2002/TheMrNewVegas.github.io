@@ -61,6 +61,7 @@ description: Release Notes
 47. [Crime-Based Dialogue Tweaks](https://www.nexusmods.com/morrowind/mods/58865)
 48. [Better Bloodmoon Directions](https://www.nexusmods.com/morrowind/mods/58865)
 49. [Security Tools Rebalance](https://www.nexusmods.com/morrowind/mods/58865)
+50. [Ayleid Remnants Redone](https://www.nexusmods.com/morrowind/mods/59199)
 
 **Updated**
 1. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
