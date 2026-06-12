@@ -62,14 +62,15 @@ description: Release Notes
 48. [Better Bloodmoon Directions](https://www.nexusmods.com/morrowind/mods/58865)
 49. [Security Tools Rebalance](https://www.nexusmods.com/morrowind/mods/58865)
 50. [Ayleid Remnants Redone](https://www.nexusmods.com/morrowind/mods/59199)
+51. [Into the Void - Companion and Quests](https://www.nexusmods.com/morrowind/mods/59223)
 
 **Updated**
 1. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
-   * 1.8.7 to 1.9.7
+   * 1.8.7 to 1.9.8
 2. [OpenMW Animated Pickup and Shop Around](https://www.nexusmods.com/morrowind/mods/54585)
    * 1.29 to 1.29a
 3. [Evasion - Custom Dodging Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58590)
-   * 1.3.1 to 1.4
+   * 1.3.1 to 1.4.1
 4. [Staves - Custom Combat Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58592)
    * 1.3.1 to 1.6
 5. [Throwing - Custom Combat Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58705)
@@ -79,11 +80,11 @@ description: Release Notes
 7. [(OpenMW) Crafting Framework](https://www.nexusmods.com/morrowind/mods/57247)
    * 4.0 to 5.0
 8. [Bullseye - Marksman Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/58511)
-   * 1.1.10 to 1.2
+   * 1.1.10 to 1.3
 9. [Hackle-Lo Pipe](https://www.nexusmods.com/morrowind/mods/56939)
    * 3.0 to 4.0
 10. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
-    * 1.2.7 to 1.3.0
+    * 1.2.7 to 1.3.1
 11. [Narsis Rickshaw Travel Service](https://www.nexusmods.com/morrowind/mods/58601)
     * 1.0 to 2.0
 12. [Shelf Control (OpenMW)](https://www.nexusmods.com/morrowind/mods/57441)
@@ -93,11 +94,11 @@ description: Release Notes
 14. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
     * 2.6.1 to 2.6.2
 15. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
-    * 1.31c to 1.32b
+    * 1.31c to 1.32d
 16. [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
     * 1.11a to 1.12
 17. [Harder Better Faster Stronger (HBFS)](https://www.nexusmods.com/morrowind/mods/55542)
-    * 2.8.3 to 2.8.4
+    * 2.8.3 to 2.8.5
 18. [Devilishly Peaceful Wildlife (OpenMW)](https://www.nexusmods.com/morrowind/mods/58083)
     * 1.2.1 to 1.2.3
 19. [Dignitas - Reputation Titles and Descriptions (OpenMW)](https://www.nexusmods.com/morrowind/mods/58572)
@@ -111,7 +112,7 @@ description: Release Notes
 23. [Ahnassi - The Ohmes Monk](https://www.nexusmods.com/morrowind/mods/58726)
     * 1.0 to 2.0
 24. [Romance Dagoth Ur](https://www.nexusmods.com/morrowind/mods/58423)
-    * 4.6 to 4.8
+    * 4.6 to 5.0
 25. [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
     * 2.4.2 to 2.5.2
 26. [(OpenMW 0.49) Floating Healthbars](https://www.nexusmods.com/morrowind/mods/54954)
@@ -122,6 +123,24 @@ description: Release Notes
     * 1.6 to 1.7
 29. [Additonal Baths for Sun's Dusk](https://www.nexusmods.com/morrowind/mods/57811)
     * 2.2 to 2.4
+30. [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
+    * 1.1.5 to 1.1.7
+31. [Unique Velothi Interiors](https://www.nexusmods.com/morrowind/mods/57515)
+    * 0.6 to 0.7
+32. [Westly's Faces Refurbished](https://www.nexusmods.com/morrowind/mods/51214)
+    * 1.0.3 to 1.0.7
+33. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
+    * 4.2.6 to 5.0.1
+34. [Practice Dummies](https://www.nexusmods.com/morrowind/mods/58992)
+    * 1.0 to 1.1
+35. [Take Cover (OpenMW)](https://www.nexusmods.com/morrowind/mods/54976)
+    * 1.5.1 to 1.6
+36. [Mountain of Fear - Simplified](https://www.nexusmods.com/morrowind/mods/56176)
+    * 1.1 to 1.2
+37. [The Stone Halls of Solstheim - Reforged](https://www.nexusmods.com/morrowind/mods/49841)
+    * 1.4 to 1.5
+38. [Animated Morrowind and Weapon Sheathing Patch for OpenMW](https://www.nexusmods.com/morrowind/mods/53479)
+    * 1.2 to 1.3
 
 **Removed**
 
