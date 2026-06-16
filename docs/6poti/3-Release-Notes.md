@@ -77,6 +77,9 @@ description: Release Notes
 63. [Player Combat Voice - Tamriel_Data Patch](https://www.nexusmods.com/morrowind/mods/58227)
 64. [More Accurate Attribute Descriptions](https://www.nexusmods.com/morrowind/mods/58865)
 65. [Service Refusal Block](https://www.nexusmods.com/morrowind/mods/58246)
+66. [Tamrielic Treasures - A Caldera Shop with Mannequins](https://www.nexusmods.com/morrowind/mods/53487)
+67. [Nice Telvanni Council House](https://www.nexusmods.com/morrowind/mods/59265)
+68. [Telvanni Council House Lounge Room](https://www.nexusmods.com/morrowind/mods/49285)
 
 **Updated**
 1. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
