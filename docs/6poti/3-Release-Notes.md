@@ -63,6 +63,7 @@ description: Release Notes
 49. [Security Tools Rebalance](https://www.nexusmods.com/morrowind/mods/58865)
 50. [Ayleid Remnants Redone](https://www.nexusmods.com/morrowind/mods/59199)
 51. [Into the Void - Companion and Quests](https://www.nexusmods.com/morrowind/mods/59223)
+52. [Spell Trader](https://www.nexusmods.com/morrowind/mods/59229)
 
 **Updated**
 1. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
@@ -80,11 +81,11 @@ description: Release Notes
 7. [(OpenMW) Crafting Framework](https://www.nexusmods.com/morrowind/mods/57247)
    * 4.0 to 5.0
 8. [Bullseye - Marksman Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/58511)
-   * 1.1.10 to 1.3
+   * 1.1.10 to 1.3.1
 9. [Hackle-Lo Pipe](https://www.nexusmods.com/morrowind/mods/56939)
    * 3.0 to 4.0
 10. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
-    * 1.2.7 to 1.3.1
+    * 1.2.7 to 1.3.2
 11. [Narsis Rickshaw Travel Service](https://www.nexusmods.com/morrowind/mods/58601)
     * 1.0 to 2.0
 12. [Shelf Control (OpenMW)](https://www.nexusmods.com/morrowind/mods/57441)
@@ -94,9 +95,9 @@ description: Release Notes
 14. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
     * 2.6.1 to 2.6.2
 15. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
-    * 1.31c to 1.32d
+    * 1.31c to 1.33
 16. [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
-    * 1.11a to 1.12
+    * 1.11a to 1.14
 17. [Harder Better Faster Stronger (HBFS)](https://www.nexusmods.com/morrowind/mods/55542)
     * 2.8.3 to 2.8.5
 18. [Devilishly Peaceful Wildlife (OpenMW)](https://www.nexusmods.com/morrowind/mods/58083)
@@ -108,7 +109,7 @@ description: Release Notes
 21. [Greymarch Dawn - Whispers of Jyggalag](https://www.nexusmods.com/morrowind/mods/53679)
     * 1.2.5 to 1.2.7
 22. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
-    * 2.6.9 to 2.7.0
+    * 2.6.9 to 2.7.1
 23. [Ahnassi - The Ohmes Monk](https://www.nexusmods.com/morrowind/mods/58726)
     * 1.0 to 2.0
 24. [Romance Dagoth Ur](https://www.nexusmods.com/morrowind/mods/58423)
@@ -141,6 +142,10 @@ description: Release Notes
     * 1.4 to 1.5
 38. [Animated Morrowind and Weapon Sheathing Patch for OpenMW](https://www.nexusmods.com/morrowind/mods/53479)
     * 1.2 to 1.3
+39. [Sixth House Minor Base Refit](https://www.nexusmods.com/morrowind/mods/58585)
+    * 1.0 to 1.0.1
+40. [Urshilaku Burials Refit](https://www.nexusmods.com/morrowind/mods/58800)
+    * 1.0 to 1.0.1
 
 **Removed**
 
