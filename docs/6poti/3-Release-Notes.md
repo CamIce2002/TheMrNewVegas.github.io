@@ -65,6 +65,12 @@ description: Release Notes
 51. [Into the Void - Companion and Quests](https://www.nexusmods.com/morrowind/mods/59223)
 52. [Spell Trader](https://www.nexusmods.com/morrowind/mods/59229)
 53. [Devilish Touch of Madness (OpenMW)](https://www.nexusmods.com/morrowind/mods/59337)
+54. [Nerevarine Did You Lay This Egg](https://www.nexusmods.com/morrowind/mods/59252)
+55. [Who By Fyr - Give Divayth Fyr A Beautiful Son](https://www.nexusmods.com/morrowind/mods/59341)
+56. [The Vestige of Bethaleft](https://www.nexusmods.com/morrowind/mods/50663)
+57. [Almalexia Redone](https://www.nexusmods.com/morrowind/mods/50265)
+58. [Good Citizens Hand Over Skooma](https://www.nexusmods.com/morrowind/mods/58623)
+59. [City Gate Tax](https://www.nexusmods.com/morrowind/mods/59236)
 
 **Updated**
 1. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
