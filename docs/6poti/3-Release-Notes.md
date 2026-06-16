@@ -71,6 +71,8 @@ description: Release Notes
 57. [Almalexia Redone](https://www.nexusmods.com/morrowind/mods/50265)
 58. [Good Citizens Hand Over Skooma](https://www.nexusmods.com/morrowind/mods/58623)
 59. [City Gate Tax](https://www.nexusmods.com/morrowind/mods/59236)
+60. [OpenMW Holidays and Birthdays](https://www.nexusmods.com/morrowind/mods/58281)
+61. [Daedric Summoning Days](https://www.nexusmods.com/morrowind/mods/59358)
 
 **Updated**
 1. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
@@ -152,6 +154,8 @@ description: Release Notes
 39. [Sixth House Minor Base Refit](https://www.nexusmods.com/morrowind/mods/58585)
     * 1.0 to 1.0.1
 40. [Urshilaku Burials Refit](https://www.nexusmods.com/morrowind/mods/58800)
+    * 1.0 to 1.0.1
+41. [Real Weapon Range Extended - OAAB - TD - TR - PC - SHOTN](https://www.nexusmods.com/morrowind/mods/58753)
     * 1.0 to 1.0.1
 
 **Removed**
