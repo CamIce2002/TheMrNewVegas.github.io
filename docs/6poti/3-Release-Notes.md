@@ -166,7 +166,39 @@ description: Release Notes
     * 1.0 to 1.0.1
 
 **Removed**
-
+1. [Darksun's Eclipse](https://www.nexusmods.com/morrowind/mods/57909)
+2. [FMGS - Unique Items Compilation](https://www.nexusmods.com/morrowind/mods/46433)
+3. [Fang of Haynekhtnamet Replacer by Articus](https://www.nexusmods.com/morrowind/mods/57490)
+4. [Animated Staff of Magnus](https://www.nexusmods.com/morrowind/mods/51402)
+5. [Tamriel Rebuilt - Hall of Justice Overhaul](https://www.nexusmods.com/morrowind/mods/52224)
+6. [Magebane Replacer](https://www.nexusmods.com/morrowind/mods/48748)
+7. [Mace of Molag Bal Replacer](https://www.nexusmods.com/morrowind/mods/56817)
+8. [Archivans Chrysamere Reforged](https://www.nexusmods.com/morrowind/mods/55397)
+9. [Unique Shield of the Undaunted](https://www.nexusmods.com/morrowind/mods/48713)
+10. [Unique Snowy Crown](https://www.nexusmods.com/morrowind/mods/46782)
+11. [Guarded Dungeon Entrances](https://www.nexusmods.com/morrowind/mods/55825)
+12. [Guarded Dungeon Entrances for Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/57676)
+13. [Guarded Dungeon Entrances for Project Cyrodiil](https://www.nexusmods.com/morrowind/mods/58010)
+14. [Guarded Dungeon Entrances for Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/58197)
+15. [Fantasy Sky for Rafael's Shaders](https://www.nexusmods.com/morrowind/mods/56119)
+16. [Umbra - Blademaster](https://www.nexusmods.com/morrowind/mods/43275)
+17. [Main Quest Bounty Hunters](https://www.nexusmods.com/morrowind/mods/56935)
+18. [Bogged](https://www.nexusmods.com/morrowind/mods/58190)
+19. [Wardens of Morrowind](https://www.nexusmods.com/morrowind/mods/57616)
+20. [Boss Overhaul - Dagoth Ur](https://www.nexusmods.com/morrowind/mods/56809)
+21. [Argonian Full Helms Lore Integrated](https://www.nexusmods.com/morrowind/mods/53011)
+22. [Boots for Beasts - Amenophis Revision](https://www.nexusmods.com/morrowind/mods/48726)
+23. [The Will of the Divines](https://www.nexusmods.com/morrowind/mods/55933)
+24. [MDMD - Creatures](https://www.nexusmods.com/morrowind/mods/48745)
+25. [Solstheim Castle Moved and Improved for TOTSP](https://www.nexusmods.com/morrowind/mods/58606)
+26. [Fargoth Says Hello](https://www.nexusmods.com/morrowind/mods/52751)
+27. [Arch-Mage's Staff of Trebonius Replacer](https://www.nexusmods.com/morrowind/mods/58731)
+28. [Unique Mephala's Teacher](https://www.nexusmods.com/morrowind/mods/43528)
+29. [Better Almalexia](https://www.nexusmods.com/morrowind/mods/23388)
+30. [Ice Blade of the Monarch Replacer](https://www.nexusmods.com/morrowind/mods/52122)
+31. [Mehrunes' Razor Replacer](https://www.nexusmods.com/morrowind/mods/52122)
+32. [Drinking and Delving](https://www.nexusmods.com/morrowind/mods/54777)
+33. [Pursuit](https://www.nexusmods.com/morrowind/mods/50271)
 
 ## POTI 2.2.2 - 05/16/2026
 
