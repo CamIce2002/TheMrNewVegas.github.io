@@ -80,6 +80,7 @@ description: Release Notes
 66. [Tamrielic Treasures - A Caldera Shop with Mannequins](https://www.nexusmods.com/morrowind/mods/53487)
 67. [Nice Telvanni Council House](https://www.nexusmods.com/morrowind/mods/59265)
 68. [Telvanni Council House Lounge Room](https://www.nexusmods.com/morrowind/mods/49285)
+69. [OAAB Brother Junipers Twin Lamps](https://www.nexusmods.com/morrowind/mods/51424)
 
 **Updated**
 1. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
