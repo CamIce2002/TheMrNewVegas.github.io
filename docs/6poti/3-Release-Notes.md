@@ -73,6 +73,10 @@ description: Release Notes
 59. [City Gate Tax](https://www.nexusmods.com/morrowind/mods/59236)
 60. [OpenMW Holidays and Birthdays](https://www.nexusmods.com/morrowind/mods/58281)
 61. [Daedric Summoning Days](https://www.nexusmods.com/morrowind/mods/59358)
+62. [The Law of House Telvanni](https://www.nexusmods.com/morrowind/mods/58227)
+63. [Player Combat Voice - Tamriel_Data Patch](https://www.nexusmods.com/morrowind/mods/58227)
+64. [More Accurate Attribute Descriptions](https://www.nexusmods.com/morrowind/mods/58865)
+65. [Service Refusal Block](https://www.nexusmods.com/morrowind/mods/58246)
 
 **Updated**
 1. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
