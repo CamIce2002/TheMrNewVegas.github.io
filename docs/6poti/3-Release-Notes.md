@@ -13,7 +13,7 @@ description: Release Notes
 
 **Added**
 1. [Biz'Kuitz Blissful Mind - Alfiq Scholar Companion](https://www.nexusmods.com/morrowind/mods/59156)
-2. [Caswyn - A Nightmare's Favor](https://www.nexusmods.com/morrowind/mods/55505)
+2. [The Wrath of the Divines](https://www.nexusmods.com/morrowind/mods/58309)
 3. [Fons - Shapeshifting Bard Companion](https://www.nexusmods.com/morrowind/mods/58715)
 4. [Death and Taxes](https://www.nexusmods.com/morrowind/mods/58469)
 5. [The Dark Brotherhood Attacks](https://www.nexusmods.com/morrowind/mods/58514)
@@ -199,7 +199,6 @@ description: Release Notes
 30. [Ice Blade of the Monarch Replacer](https://www.nexusmods.com/morrowind/mods/52122)
 31. [Mehrunes' Razor Replacer](https://www.nexusmods.com/morrowind/mods/52122)
 32. [Drinking and Delving](https://www.nexusmods.com/morrowind/mods/54777)
-33. [Pursuit](https://www.nexusmods.com/morrowind/mods/50271)
 
 ## POTI 2.2.2 - 05/16/2026
 
