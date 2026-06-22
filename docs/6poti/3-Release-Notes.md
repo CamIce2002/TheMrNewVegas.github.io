@@ -102,7 +102,7 @@ description: Release Notes
 9. [Hackle-Lo Pipe](https://www.nexusmods.com/morrowind/mods/56939)
    * 3.0 to 4.0
 10. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
-    * 1.2.7 to 1.3.2
+    * 1.2.7 to 1.3.7
 11. [Narsis Rickshaw Travel Service](https://www.nexusmods.com/morrowind/mods/58601)
     * 1.0 to 2.0
 12. [Shelf Control (OpenMW)](https://www.nexusmods.com/morrowind/mods/57441)
@@ -114,7 +114,7 @@ description: Release Notes
 15. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
     * 1.31c to 1.33
 16. [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
-    * 1.11a to 1.14
+    * 1.11a to 1.14a
 17. [Harder Better Faster Stronger (HBFS)](https://www.nexusmods.com/morrowind/mods/55542)
     * 2.8.3 to 2.8.5
 18. [Devilishly Peaceful Wildlife (OpenMW)](https://www.nexusmods.com/morrowind/mods/58083)
@@ -142,13 +142,13 @@ description: Release Notes
 29. [Additonal Baths for Sun's Dusk](https://www.nexusmods.com/morrowind/mods/57811)
     * 2.2 to 2.4
 30. [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
-    * 1.1.5 to 1.1.7
+    * 1.1.5 to 1.1.8
 31. [Unique Velothi Interiors](https://www.nexusmods.com/morrowind/mods/57515)
     * 0.6 to 0.7
 32. [Westly's Faces Refurbished](https://www.nexusmods.com/morrowind/mods/51214)
     * 1.0.3 to 1.0.7
 33. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
-    * 4.2.6 to 5.0.1
+    * 4.2.6 to 5.0.2
 34. [Practice Dummies](https://www.nexusmods.com/morrowind/mods/58992)
     * 1.0 to 1.1
 35. [Take Cover (OpenMW)](https://www.nexusmods.com/morrowind/mods/54976)
@@ -156,7 +156,7 @@ description: Release Notes
 36. [Mountain of Fear - Simplified](https://www.nexusmods.com/morrowind/mods/56176)
     * 1.1 to 1.2
 37. [The Stone Halls of Solstheim - Reforged](https://www.nexusmods.com/morrowind/mods/49841)
-    * 1.4 to 1.5
+    * 1.4 to 1.6
 38. [Animated Morrowind and Weapon Sheathing Patch for OpenMW](https://www.nexusmods.com/morrowind/mods/53479)
     * 1.2 to 1.3
 39. [Sixth House Minor Base Refit](https://www.nexusmods.com/morrowind/mods/58585)
@@ -165,6 +165,14 @@ description: Release Notes
     * 1.0 to 1.0.1
 41. [Real Weapon Range Extended - OAAB - TD - TR - PC - SHOTN](https://www.nexusmods.com/morrowind/mods/58753)
     * 1.0 to 1.0.1
+42. [Kvetching Mananaut Music for OpenMW (S3maphore)](https://www.nexusmods.com/morrowind/mods/57505)
+    * 3.2 to 4.0
+43. [It Beats (OpenMW)](https://www.nexusmods.com/morrowind/mods/57396)
+    * 2.0.5 to 2.0.6
+44. [Iron Fist for OpenMW](https://www.nexusmods.com/morrowind/mods/57619)
+    * 2.0 to 3.0
+45. [Magical Mainland Homes](https://www.nexusmods.com/morrowind/mods/53681)
+    * 3.0 to 3.2
 
 **Removed**
 1. [Darksun's Eclipse](https://www.nexusmods.com/morrowind/mods/57909)
