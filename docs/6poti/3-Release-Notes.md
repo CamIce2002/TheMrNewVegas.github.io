@@ -81,6 +81,13 @@ description: Release Notes
 67. [Nice Telvanni Council House](https://www.nexusmods.com/morrowind/mods/59265)
 68. [Telvanni Council House Lounge Room](https://www.nexusmods.com/morrowind/mods/49285)
 69. [OAAB Brother Junipers Twin Lamps](https://www.nexusmods.com/morrowind/mods/51424)
+70. [Patches of the Incarnate](https://www.nexusmods.com/morrowind/mods/59410)
+71. [H3lp Yours3lf - OpenMW Helper Interfaces](https://www.nexusmods.com/morrowind/mods/56417)
+72. [Best Friends Forever (OpenMW)](https://www.nexusmods.com/morrowind/mods/59384)
+73. [Unrestricted Beasts (OpenMW)](https://www.nexusmods.com/morrowind/mods/59413)
+74. [Detect Dwemer Puzzle Box Spell (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/59417)
+75. [TD Banks Higher Deposit and Withdraw Options](https://www.nexusmods.com/morrowind/mods/58865)
+76. [L.U.S.T. (Luxury Upgrade Sexy Transport)](https://www.nexusmods.com/morrowind/mods/57408)
 
 **Updated**
 1. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
@@ -102,7 +109,7 @@ description: Release Notes
 9. [Hackle-Lo Pipe](https://www.nexusmods.com/morrowind/mods/56939)
    * 3.0 to 4.0
 10. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
-    * 1.2.7 to 1.3.7
+    * 1.2.7 to 1.3.8
 11. [Narsis Rickshaw Travel Service](https://www.nexusmods.com/morrowind/mods/58601)
     * 1.0 to 2.0
 12. [Shelf Control (OpenMW)](https://www.nexusmods.com/morrowind/mods/57441)
@@ -173,6 +180,8 @@ description: Release Notes
     * 2.0 to 3.0
 45. [Magical Mainland Homes](https://www.nexusmods.com/morrowind/mods/53681)
     * 3.0 to 3.2
+46. [Pursuit (OpenMW)](https://www.nexusmods.com/morrowind/mods/50271)
+    * 1.0 to 2.0
 
 **Removed**
 1. [Darksun's Eclipse](https://www.nexusmods.com/morrowind/mods/57909)
@@ -207,6 +216,8 @@ description: Release Notes
 30. [Ice Blade of the Monarch Replacer](https://www.nexusmods.com/morrowind/mods/52122)
 31. [Mehrunes' Razor Replacer](https://www.nexusmods.com/morrowind/mods/52122)
 32. [Drinking and Delving](https://www.nexusmods.com/morrowind/mods/54777)
+33. [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
+34. [Attend Me](https://www.nexusmods.com/morrowind/mods/51232)
 
 ## POTI 2.2.2 - 05/16/2026
 
