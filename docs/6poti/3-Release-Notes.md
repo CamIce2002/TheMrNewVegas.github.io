@@ -138,8 +138,8 @@ description: Release Notes
     * 1.0 to 2.0
 24. [Romance Dagoth Ur](https://www.nexusmods.com/morrowind/mods/58423)
     * 4.6 to 5.0
-25. [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
-    * 2.4.2 to 2.5.2
+25. [Pursuit (OpenMW)](https://www.nexusmods.com/morrowind/mods/50271)
+    * 1.0 to 2.0
 26. [(OpenMW 0.49) Floating Healthbars](https://www.nexusmods.com/morrowind/mods/54954)
     * 1.9 to 2.0
 27. [OpenMW Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/54148)
@@ -180,8 +180,6 @@ description: Release Notes
     * 2.0 to 3.0
 45. [Magical Mainland Homes](https://www.nexusmods.com/morrowind/mods/53681)
     * 3.0 to 3.2
-46. [Pursuit (OpenMW)](https://www.nexusmods.com/morrowind/mods/50271)
-    * 1.0 to 2.0
 
 **Removed**
 1. [Darksun's Eclipse](https://www.nexusmods.com/morrowind/mods/57909)
