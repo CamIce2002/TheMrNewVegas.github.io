@@ -42,7 +42,7 @@ description: Release Notes
 28. [Scavenger Character Background](https://www.nexusmods.com/morrowind/mods/58983)
 29. [The Soggy Muffin](https://www.nexusmods.com/morrowind/mods/56717)
 30. [Muffinwind Rebaked](https://www.nexusmods.com/morrowind/mods/59081)
-31. [OAAB - Tombs and Towers](https://www.nexusmods.com/morrowind/mods/49131)
+31. [OAAB - Tombs and Towers Separated](https://www.nexusmods.com/morrowind/mods/59402)
 32. [OAAB - Tombs Extended](https://www.nexusmods.com/morrowind/mods/59110)
 33. [Tombs of Zafirbel Bay](https://www.nexusmods.com/morrowind/mods/59029)
 34. [Sound_Data](https://www.nexusmods.com/morrowind/mods/58854)
@@ -88,6 +88,11 @@ description: Release Notes
 74. [Detect Dwemer Puzzle Box Spell (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/59417)
 75. [TD Banks Higher Deposit and Withdraw Options](https://www.nexusmods.com/morrowind/mods/58865)
 76. [L.U.S.T. (Luxury Upgrade Sexy Transport)](https://www.nexusmods.com/morrowind/mods/57408)
+77. [Under Masser's Gaze](https://www.nexusmods.com/morrowind/mods/55445)
+78. [Maren's Misfit Mabrigash](https://www.nexusmods.com/morrowind/mods/48709)
+79. [The Devil's Doorstep](https://www.nexusmods.com/morrowind/mods/55550)
+80. [Move-Like-This - Directional Attacks (OpenMW)](https://www.nexusmods.com/morrowind/mods/59154)
+81. [(OpenMW) Don't Tread on My Ancestors](https://www.nexusmods.com/morrowind/mods/58985)
 
 **Updated**
 1. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
@@ -109,7 +114,7 @@ description: Release Notes
 9. [Hackle-Lo Pipe](https://www.nexusmods.com/morrowind/mods/56939)
    * 3.0 to 4.0
 10. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
-    * 1.2.7 to 1.3.9
+    * 1.2.7 to 1.3.10
 11. [Narsis Rickshaw Travel Service](https://www.nexusmods.com/morrowind/mods/58601)
     * 1.0 to 2.0
 12. [Shelf Control (OpenMW)](https://www.nexusmods.com/morrowind/mods/57441)
