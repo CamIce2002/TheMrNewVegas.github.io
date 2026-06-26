@@ -51,7 +51,7 @@ description: Path of the Incarnate Installation Guide
 - Updating Path of the Incarnate is as simple as repeating steps 3.) through 5.) of the Installation Guide using the same install paths you chose before.
 
 :::danger
-- **Important:** Before updating, back up your saves or they **will** be lost. Saves can be located in your POTI folder in "profiles/Path of the Incarnate/openmw".
+- **Important:** Before updating, back up your saves or they **will** be lost. Saves can be located in your POTI folder in "profiles/Path of the Incarnate - Standard/openmw".
 
 - Once the update process has finished, you may place your saves back in their appropriate location.
 :::
