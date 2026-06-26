@@ -93,6 +93,9 @@ description: Release Notes
 79. [The Devil's Doorstep](https://www.nexusmods.com/morrowind/mods/55550)
 80. [Move-Like-This - Directional Attacks (OpenMW)](https://www.nexusmods.com/morrowind/mods/59154)
 81. [(OpenMW) Don't Tread on My Ancestors](https://www.nexusmods.com/morrowind/mods/58985)
+82. [Caldera Clutter](https://www.nexusmods.com/morrowind/mods/59443)
+83. [Gnisis BCOM Rope Bridge](https://www.nexusmods.com/morrowind/mods/59443)
+84. [Seyda Neen Better Docks](https://www.nexusmods.com/morrowind/mods/49412)
 
 **Updated**
 1. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
