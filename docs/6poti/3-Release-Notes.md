@@ -105,7 +105,7 @@ description: Release Notes
 7. [(OpenMW) Crafting Framework](https://www.nexusmods.com/morrowind/mods/57247)
    * 4.0 to 5.0
 8. [Bullseye - Marksman Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/58511)
-   * 1.1.10 to 1.3.1
+   * 1.1.10 to 1.3.2
 9. [Hackle-Lo Pipe](https://www.nexusmods.com/morrowind/mods/56939)
    * 3.0 to 4.0
 10. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
@@ -218,6 +218,7 @@ description: Release Notes
 32. [Drinking and Delving](https://www.nexusmods.com/morrowind/mods/54777)
 33. [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
 34. [Attend Me](https://www.nexusmods.com/morrowind/mods/51232)
+35. [Arvs-Drelen - The True Telvanni's Code - PHC](https://www.nexusmods.com/morrowind/mods/56177)
 
 ## POTI 2.2.2 - 05/16/2026
 
