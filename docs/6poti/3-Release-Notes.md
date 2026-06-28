@@ -7,7 +7,7 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
-## POTI 2.3 - 06-XX-2026
+## POTI 2.3 - 06-28-2026
 
 ### Save Safe? No
 
@@ -190,6 +190,8 @@ description: Release Notes
     * 3.0 to 3.2
 46. [Interface Reimagined for OpenMW](https://www.nexusmods.com/morrowind/mods/54985)
     * 0.6.6 to 0.6.7
+47. [Unofficial Tamriel Rebuilt Spells (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58693)
+    * 1.4 to 1.5
 
 **Removed**
 1. [Darksun's Eclipse](https://www.nexusmods.com/morrowind/mods/57909)
