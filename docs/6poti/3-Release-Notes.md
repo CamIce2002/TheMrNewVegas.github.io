@@ -32,7 +32,7 @@ description: Release Notes
    * 1.18 to 1.19
 
 **Removed**
-[RR Mod Series - Melchiors Mudcrab Merchant](https://www.nexusmods.com/morrowind/mods/42685)
+1. [RR Mod Series - Melchiors Mudcrab Merchant](https://www.nexusmods.com/morrowind/mods/42685)
 
 ## POTI 2.3.1 - 06-28-2026
 
