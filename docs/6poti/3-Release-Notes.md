@@ -12,17 +12,6 @@ description: Release Notes
 **Added**
 
 **Updated**
-
-**Removed**
-[RR Mod Series - Melchiors Mudcrab Merchant](https://www.nexusmods.com/morrowind/mods/42685)
-
-## POTI 2.3.1 - 06-28-2026
-
-### Save Safe? Yes
-
-**Added**
-
-**Updated**
 1. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
    * 1.33 to 1.33a
 2. [Stormrider Expanded](https://www.nexusmods.com/morrowind/mods/55408)
@@ -41,6 +30,17 @@ description: Release Notes
    * 1.10 to 1.11
 9. [(OpenMW) Better Bars](https://www.nexusmods.com/morrowind/mods/59413)
    * 1.18 to 1.19
+
+**Removed**
+[RR Mod Series - Melchiors Mudcrab Merchant](https://www.nexusmods.com/morrowind/mods/42685)
+
+## POTI 2.3.1 - 06-28-2026
+
+### Save Safe? Yes
+
+**Added**
+
+**Updated**
 
 **Removed**
 
