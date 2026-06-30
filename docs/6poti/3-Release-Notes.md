@@ -7,6 +7,43 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
+## POTI 2.3.2 - XX-XX-2026
+
+**Added**
+
+**Updated**
+
+**Removed**
+[RR Mod Series - Melchiors Mudcrab Merchant](https://www.nexusmods.com/morrowind/mods/42685)
+
+## POTI 2.3.1 - 06-28-2026
+
+### Save Safe? Yes
+
+**Added**
+
+**Updated**
+1. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
+   * 1.33 to 1.33a
+2. [Stormrider Expanded](https://www.nexusmods.com/morrowind/mods/55408)
+   * 1.3 to 1.4
+3. [Unofficial Tamriel Rebuilt Spells (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58693)
+   * 1.5 to 1.6
+4. [Community Traits Ported (OpenMW) - Merlord's Backgrounds](https://www.nexusmods.com/morrowind/mods/58704)
+   * 1.1.9 to 1.1.10
+5. [MorrowSwim - A Simple Aquatics Skill Mod for OpenMW](https://www.nexusmods.com/morrowind/mods/57804)
+   * 1.0 to 1.2
+6. [MOAR Service Refusal](https://www.nexusmods.com/morrowind/mods/59048)
+   * 1.1 to 1.1.1
+7. [Ayleid Remnants Redone](https://www.nexusmods.com/morrowind/mods/59199)
+   * 1.03 to 1.04
+8. [Unrestricted Beasts](https://www.nexusmods.com/morrowind/mods/59413)
+   * 1.10 to 1.11
+9. [(OpenMW) Better Bars](https://www.nexusmods.com/morrowind/mods/59413)
+   * 1.18 to 1.19
+
+**Removed**
+
 ## POTI 2.3 - 06-28-2026
 
 ### Save Safe? No
