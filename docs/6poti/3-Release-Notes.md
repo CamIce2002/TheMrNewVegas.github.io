@@ -137,6 +137,7 @@ description: Release Notes
 82. [Caldera Clutter](https://www.nexusmods.com/morrowind/mods/59443)
 83. [Gnisis BCOM Rope Bridge](https://www.nexusmods.com/morrowind/mods/59443)
 84. [Seyda Neen Better Docks](https://www.nexusmods.com/morrowind/mods/49412)
+85. [(OpenMW) Eating Habits](https://www.nexusmods.com/morrowind/mods/59350)
 
 **Updated**
 1. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
