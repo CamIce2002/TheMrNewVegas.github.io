@@ -10,7 +10,11 @@ description: Release Notes
 ## POTI 2.3.2 - XX-XX-2026
 
 **Added**
-
+1. [Ald'Ruhn Cluttered](https://www.nexusmods.com/morrowind/mods/59443)
+2. [Maintained Redoran Walls BCOM and Skar Face Friendly](https://www.nexusmods.com/morrowind/mods/53878)
+3. [Of Bones and Barbarians - An Ald'Ruhn Blacksmith](https://www.nexusmods.com/morrowind/mods/53732)
+4. [Of Gems and Geodes - An Ald'Ruhn Collector](https://www.nexusmods.com/morrowind/mods/53940)
+   
 **Updated**
 1. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
    * 1.33 to 1.33a
