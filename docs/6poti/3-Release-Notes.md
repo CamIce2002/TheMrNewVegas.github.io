@@ -32,7 +32,7 @@ description: Release Notes
    * 1.03 to 1.04
 8. [Unrestricted Beasts](https://www.nexusmods.com/morrowind/mods/59413)
    * 1.10 to 1.11
-9. [(OpenMW) Better Bars](https://www.nexusmods.com/morrowind/mods/59413)
+9. [(OpenMW) Better Bars](https://www.nexusmods.com/morrowind/mods/54951)
    * 1.18 to 1.19
 
 **Removed**
