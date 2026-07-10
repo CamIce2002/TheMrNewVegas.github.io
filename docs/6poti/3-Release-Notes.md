@@ -13,9 +13,15 @@ description: Release Notes
 1. [Ald'Ruhn Cluttered](https://www.nexusmods.com/morrowind/mods/59443)
 2. [Maintained Redoran Walls BCOM and Skar Face Friendly](https://www.nexusmods.com/morrowind/mods/53878)
 3. [Of Bones and Barbarians - An Ald'Ruhn Blacksmith](https://www.nexusmods.com/morrowind/mods/53732)
-4. [Of Gems and Geodes - An Ald'Ruhn Collector](https://www.nexusmods.com/morrowind/mods/53940)
-5. [Caldera Cluttered](https://www.nexusmods.com/morrowind/mods/59443)
-6. [Suran Cluttered](https://www.nexusmods.com/morrowind/mods/59443)
+4. [Caldera Cluttered](https://www.nexusmods.com/morrowind/mods/59443)
+5. [Suran Cluttered](https://www.nexusmods.com/morrowind/mods/59443)
+6. [Dynamic Sounds Phoenix](https://www.nexusmods.com/morrowind/mods/59481)
+7. [Voice of the Nerevarine - Vanilla Voicelines (OpenMW)](https://www.nexusmods.com/morrowind/mods/59486)
+8. [(OpenMW) Alchemy Redone](https://www.nexusmods.com/morrowind/mods/59559)
+9. [Magic Animations Generally Improved Completely - MAGIC - OpenMW](https://www.nexusmods.com/morrowind/mods/57506)
+10. [Different Types of Local Plants for Ajira's Reports](https://www.nexusmods.com/morrowind/mods/51735)
+11. [Dwarf-style Mage Hat in Morrowind](https://www.nexusmods.com/morrowind/mods/50523)
+12. [Photo Mode for OpenMW](https://www.nexusmods.com/morrowind/mods/57040)
    
 **Updated**
 1. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
