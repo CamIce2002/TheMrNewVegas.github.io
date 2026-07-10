@@ -20,8 +20,7 @@ description: Release Notes
 8. [(OpenMW) Alchemy Redone](https://www.nexusmods.com/morrowind/mods/59559)
 9. [Magic Animations Generally Improved Completely - MAGIC - OpenMW](https://www.nexusmods.com/morrowind/mods/57506)
 10. [Different Types of Local Plants for Ajira's Reports](https://www.nexusmods.com/morrowind/mods/51735)
-11. [Dwarf-style Mage Hat in Morrowind](https://www.nexusmods.com/morrowind/mods/50523)
-12. [Photo Mode for OpenMW](https://www.nexusmods.com/morrowind/mods/57040)
+11. [Photo Mode for OpenMW](https://www.nexusmods.com/morrowind/mods/57040)
    
 **Updated**
 1. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
