@@ -14,12 +14,14 @@ description: Release Notes
 2. [Maintained Redoran Walls BCOM and Skar Face Friendly](https://www.nexusmods.com/morrowind/mods/53878)
 3. [Of Bones and Barbarians - An Ald'Ruhn Blacksmith](https://www.nexusmods.com/morrowind/mods/53732)
 4. [Of Gems and Geodes - An Ald'Ruhn Collector](https://www.nexusmods.com/morrowind/mods/53940)
+5. [Caldera Cluttered](https://www.nexusmods.com/morrowind/mods/59443)
+6. [Suran Cluttered](https://www.nexusmods.com/morrowind/mods/59443)
    
 **Updated**
 1. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
-   * 1.33 to 1.33a
+   * 1.33 to 1.34
 2. [Stormrider Expanded](https://www.nexusmods.com/morrowind/mods/55408)
-   * 1.3 to 1.4
+   * 1.3 to 1.41
 3. [Unofficial Tamriel Rebuilt Spells (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58693)
    * 1.5 to 1.6
 4. [Community Traits Ported (OpenMW) - Merlord's Backgrounds](https://www.nexusmods.com/morrowind/mods/58704)
@@ -34,6 +36,38 @@ description: Release Notes
    * 1.10 to 1.11
 9. [(OpenMW) Better Bars](https://www.nexusmods.com/morrowind/mods/54951)
    * 1.18 to 1.19
+10. [(OpenMW) Leave The Lights Off](https://www.nexusmods.com/morrowind/mods/57510)
+    * 3.0 to 3.1
+11. [Bullseye - Marksman Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/58511)
+    * 1.3.2 to 1.3.3
+12. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
+    * 1.3.10 to 1.3.16
+13. [Toxicology - Custom Poisoning Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58976)
+    * 1.5 to 1.6
+14. [(OpenMW) Don't Tread on My Ancestors](https://www.nexusmods.com/morrowind/mods/58985)
+    * 1.0.4 to 1.0.5
+15. [(OpenMW) Eating Habits](https://www.nexusmods.com/morrowind/mods/59350)
+    * 1.4 to 1.4.2
+16. [(OpenMW) Interactions Animated](https://www.nexusmods.com/morrowind/mods/59117)
+    * 1.0.7 to 1.0.8
+17. [Rock The Boat - Dynamic Camera Rocking for OpenMW](https://www.nexusmods.com/morrowind/mods/59338)
+    * 0.4 to 0.5
+18. [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
+    * 3.1 to 3.2
+19. [Better Bounties](https://www.nexusmods.com/morrowind/mods/59050)
+    * 1.0 to 1.2
+20. [Devilish Touch of Madness](https://www.nexusmods.com/morrowind/mods/59337)
+    * 1.5 to 1.6.3
+21. [The Soggy Muffin](https://www.nexusmods.com/morrowind/mods/56717)
+    * 2.61 to 2.63
+22. [OAAB - Tombs Extended](https://www.nexusmods.com/morrowind/mods/59110)
+    * 1.8 to 1.8.1
+23. [The Stone Halls of Solstheim - Reforged](https://www.nexusmods.com/morrowind/mods/49841)
+    * 1.7 to 1.7.1
+24. [Devilish Thu'um (OpenMW)](https://www.nexusmods.com/morrowind/mods/58813)
+    * 1.1 to 1.2
+25. [Best Friends Forever](https://www.nexusmods.com/morrowind/mods/59384)
+    * 1.1.3 to 1.2.2
 
 **Removed**
 1. [RR Mod Series - Melchiors Mudcrab Merchant](https://www.nexusmods.com/morrowind/mods/42685)
