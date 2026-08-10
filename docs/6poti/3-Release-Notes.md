@@ -44,9 +44,9 @@ description: Release Notes
 10. [(OpenMW) Leave The Lights Off](https://www.nexusmods.com/morrowind/mods/57510)
     * 3.0 to 3.1
 11. [Bullseye - Marksman Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/58511)
-    * 1.3.2 to 1.3.3
+    * 1.3.2 to 1.3.6
 12. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
-    * 1.3.10 to 1.3.16
+    * 1.3.10 to 1.4.1
 13. [Toxicology - Custom Poisoning Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58976)
     * 1.5 to 1.6
 14. [(OpenMW) Don't Tread on My Ancestors](https://www.nexusmods.com/morrowind/mods/58985)
@@ -73,6 +73,50 @@ description: Release Notes
     * 1.1 to 1.2
 25. [Best Friends Forever](https://www.nexusmods.com/morrowind/mods/59384)
     * 1.1.3 to 1.2.2
+26. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
+    * 0.7d to 0.7e
+27. [Follower Detection Util (OpenMW)](https://www.nexusmods.com/morrowind/mods/58053)
+    * 1.1.8 to 2.0
+28. [H3lp Yours3lf - OpenMW Helper Interfaces](https://www.nexusmods.com/morrowind/mods/56417)
+    * 0.7 to 0.82
+29. [Realistic Imperial Forts](https://www.nexusmods.com/morrowind/mods/56112)
+    * 0.1 to 0.3
+30. [Golden Saint Shrines](https://www.nexusmods.com/morrowind/mods/56400)
+    * 0.4 to 0.5
+31. [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219)
+    * 14.0 to 14.1
+32. [Septim Gold and Dwemer Dumacs](https://www.nexusmods.com/morrowind/mods/1634)
+    * 8.1 to 8.2
+33. [Devilish Guar Riding](https://www.nexusmods.com/morrowind/mods/55516)
+    * 1.1 to 2.1
+34. [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
+    * 1.14a to 1.15
+35. [Better Balanced Taunt and Persuasion (BBTaP)](https://www.nexusmods.com/morrowind/mods/58903)
+    * 1.4 to 1.5
+36. [Daedra Equipment OpenMW Lua](https://www.nexusmods.com/morrowind/mods/58440)
+    * 1.1 to 2.0
+37. [Golden Saint Equipment OpenMW Lua](https://www.nexusmods.com/morrowind/mods/58440)
+    * 1.1 to 2.0
+38. [Harder Better Faster Stronger (HBFS)](https://www.nexusmods.com/morrowind/mods/55542)
+    * 2.8.5 to 2.9
+39. [Brute Force - Lockpicking for Barbarians (OpenMW)](https://www.nexusmods.com/morrowind/mods/57841)
+    * 1.3 to 2.0
+40. [Devilish Horse Riding](https://www.nexusmods.com/morrowind/mods/55479)
+    * 1.3 to 2.1
+41. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
+    * 5.0.3 to 5.0.5
+42. [Follower Commands (OpenMW)](https://www.nexusmods.com/morrowind/mods/58818)
+    * 1.1.1 to 1.1.3
+43. [Friendlier Fire (OpenMW)](https://www.nexusmods.com/morrowind/mods/57975)
+    * 2.4 to 2.5
+44. [(OpenMW) Illegal Necromancy](https://www.nexusmods.com/morrowind/mods/58335)
+    * 1.3.2 to 1.3.3
+45. [Move-Like-This - Directional Attacks (OpenMW)](https://www.nexusmods.com/morrowind/mods/59154)
+    * 1.5.1 to 2.0.1
+46. [Practice Dummies (OpenMW)](https://www.nexusmods.com/morrowind/mods/58992)
+    * 1.1 to 1.2
+47. [Shelf Control (OpenMW)](https://www.nexusmods.com/morrowind/mods/57441)
+    * 2.2 to 2.4
 
 **Removed**
 1. [RR Mod Series - Melchiors Mudcrab Merchant](https://www.nexusmods.com/morrowind/mods/42685)
