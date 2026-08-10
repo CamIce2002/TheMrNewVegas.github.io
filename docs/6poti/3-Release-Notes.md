@@ -7,7 +7,7 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
-## POTI 2.3.2 - XX-XX-2026
+## POTI 2.3.2 - 08-XX-2026
 
 **Added**
 1. [Ald'Ruhn Cluttered](https://www.nexusmods.com/morrowind/mods/59443)
@@ -26,11 +26,11 @@ description: Release Notes
 1. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
    * 1.33 to 1.34
 2. [Stormrider Expanded](https://www.nexusmods.com/morrowind/mods/55408)
-   * 1.3 to 1.41
+   * 1.3 to 1.42
 3. [Unofficial Tamriel Rebuilt Spells (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58693)
    * 1.5 to 1.6
 4. [Community Traits Ported (OpenMW) - Merlord's Backgrounds](https://www.nexusmods.com/morrowind/mods/58704)
-   * 1.1.9 to 1.1.10
+   * 1.1.9 to 1.1.12
 5. [MorrowSwim - A Simple Aquatics Skill Mod for OpenMW](https://www.nexusmods.com/morrowind/mods/57804)
    * 1.0 to 1.2
 6. [MOAR Service Refusal](https://www.nexusmods.com/morrowind/mods/59048)
@@ -52,19 +52,19 @@ description: Release Notes
 14. [(OpenMW) Don't Tread on My Ancestors](https://www.nexusmods.com/morrowind/mods/58985)
     * 1.0.4 to 1.0.5
 15. [(OpenMW) Eating Habits](https://www.nexusmods.com/morrowind/mods/59350)
-    * 1.4 to 1.4.2
+    * 1.4 to 1.4.3
 16. [(OpenMW) Interactions Animated](https://www.nexusmods.com/morrowind/mods/59117)
-    * 1.0.7 to 1.0.8
+    * 1.0.7 to 1.2
 17. [Rock The Boat - Dynamic Camera Rocking for OpenMW](https://www.nexusmods.com/morrowind/mods/59338)
-    * 0.4 to 0.5
+    * 0.4 to 0.6
 18. [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
     * 3.1 to 3.2
 19. [Better Bounties](https://www.nexusmods.com/morrowind/mods/59050)
     * 1.0 to 1.2
 20. [Devilish Touch of Madness](https://www.nexusmods.com/morrowind/mods/59337)
-    * 1.5 to 1.6.3
+    * 1.5 to 1.8
 21. [The Soggy Muffin](https://www.nexusmods.com/morrowind/mods/56717)
-    * 2.61 to 2.63
+    * 2.61 to 2.81
 22. [OAAB - Tombs Extended](https://www.nexusmods.com/morrowind/mods/59110)
     * 1.8 to 1.8.1
 23. [The Stone Halls of Solstheim - Reforged](https://www.nexusmods.com/morrowind/mods/49841)
@@ -117,6 +117,56 @@ description: Release Notes
     * 1.1 to 1.2
 47. [Shelf Control (OpenMW)](https://www.nexusmods.com/morrowind/mods/57441)
     * 2.2 to 2.4
+48. [Take Cover (OpenMW)](https://www.nexusmods.com/morrowind/mods/54976)
+    * 1.6 to 1.6.2
+49. [Boons and Burdens - OpenMW Background Pack](https://www.nexusmods.com/morrowind/mods/59130)
+    * 1.0.1 to 2.0
+50. [Community Traits Ported (OpenMW) - The Wretched and The Weird](https://www.nexusmods.com/morrowind/mods/58704)
+    * 1.1.9 to 1.1.11
+51. [Anvil Faction Skiff](https://www.nexusmods.com/morrowind/mods/58450)
+    * 0.3 to 0.4
+52. [OpenMW Holidays and Birthdays](https://www.nexusmods.com/morrowind/mods/58281)
+    * 1.3.1 to 1.4.0
+53. [Nice Telvanni Council House](https://www.nexusmods.com/morrowind/mods/59265)
+    * 1.0 to 1.1
+54. [Molag Mar Outskirts - Bonesaints Temple](https://www.nexusmods.com/morrowind/mods/59215)
+    * 1.0 to 1.1
+55. [Muffinwind Rebaked](https://www.nexusmods.com/morrowind/mods/59081)
+    * 1.42 to 1.52
+56. [Salt Gems of Bensamsi](https://www.nexusmods.com/morrowind/mods/45126)
+    * 1.4 to 1.6
+57. [Talos Cult Conspiracy](https://www.nexusmods.com/morrowind/mods/47576)
+    * 2.00 to 2.01
+58. [Vvardenfell on Vellum](https://www.nexusmods.com/morrowind/mods/59219)
+    * 1.01 to 2.0
+59. [AATL Official Mods](https://www.nexusmods.com/morrowind/mods/54147)
+    * 1.3 to 1.4.2
+60. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
+    * 2.7.1 to 2.7.5
+61. [Marandus Rebuilt](https://www.nexusmods.com/morrowind/mods/49522)
+    * 1.1b to 1.2a
+62. [OAAB - Tombs and Towers Separated](https://www.nexusmods.com/morrowind/mods/59402)
+    * 1.2 to 1.3
+63. [OAAB Tombs - Extended](https://www.nexusmods.com/morrowind/mods/59110)
+    * 1.8.1 to 1.8.2
+64. [Diverse Draugrs](https://www.nexusmods.com/morrowind/mods/56176)
+    * 1.4 to 1.5
+65. [Interesting Outfits - Cultists](https://www.nexusmods.com/morrowind/mods/51922)
+    * 2.6.3 to 2.6.4
+66. [Interesting Outfits - Kinsmer](https://www.nexusmods.com/morrowind/mods/52167)
+    * 2.6.3 to 2.6.5
+67. [Hist Helms - More Argonian Shaped Helms](https://www.nexusmods.com/morrowind/mods/56764)
+    * 1.0 to 1.01
+68. [Indoril Bonesaint Armor](https://www.nexusmods.com/morrowind/mods/58599)
+    * 1.0 to 1.11
+69. [(OpenMW 0.50) QuickLoot](https://www.nexusmods.com/morrowind/mods/54950)
+    *1.4 to 2.05
+70. [Spell Trader (OpenMW)](https://www.nexusmods.com/morrowind/mods/59229)
+    * 1.2.1 to 1.2.2
+71. [Best Friends Forever (OpenMW)](https://www.nexusmods.com/morrowind/mods/59384)
+    * 1.2.2 to 1.2.7
+72. [AATL Compatibility Patches](https://www.nexusmods.com/morrowind/mods/55361)
+    * 1.3 to 1.4.2
 
 **Removed**
 1. [RR Mod Series - Melchiors Mudcrab Merchant](https://www.nexusmods.com/morrowind/mods/42685)
