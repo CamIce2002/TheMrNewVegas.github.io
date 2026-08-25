@@ -24,6 +24,8 @@ description: Release Notes
 12. [Small Business Cat (OpenMW)](https://www.nexusmods.com/morrowind/mods/59557)
 13. [S4V3R - Simple Automatic Saves](https://www.nexusmods.com/morrowind/mods/59665)
 14. [Dissident Ordinators - Baar Dau Ministry of Truth Compatibility Patch](https://www.nexusmods.com/morrowind/mods/59742)
+15. [Dunmer Strongholds Reimagined](https://www.nexusmods.com/morrowind/mods/59857)
+16. [Daedric Ruins Reimagined](https://www.nexusmods.com/morrowind/mods/59800)
    
 **Updated**
 1. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
@@ -192,6 +194,8 @@ description: Release Notes
 **Removed**
 1. [RR Mod Series - Melchiors Mudcrab Merchant](https://www.nexusmods.com/morrowind/mods/42685)
 2. [(OpenMW 0.49) Fix Mercantile Exploit](https://www.nexusmods.com/morrowind/mods/57047)
+3. [Aesthesia - Stronghold Textures](https://www.nexusmods.com/morrowind/mods/46445)
+4. [Daedric Ruins - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43486)
 
 ## POTI 2.3.1 - 06-28-2026
 
