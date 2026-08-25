@@ -23,6 +23,7 @@ description: Release Notes
 11. [Photo Mode for OpenMW](https://www.nexusmods.com/morrowind/mods/57040)
 12. [Small Business Cat (OpenMW)](https://www.nexusmods.com/morrowind/mods/59557)
 13. [S4V3R - Simple Automatic Saves](https://www.nexusmods.com/morrowind/mods/59665)
+14. [Dissident Ordinators - Baar Dau Ministry of Truth Compatibility Patch](https://www.nexusmods.com/morrowind/mods/59742)
    
 **Updated**
 1. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
