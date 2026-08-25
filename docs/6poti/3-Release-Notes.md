@@ -16,6 +16,7 @@ description: Release Notes
    * 0.7e to 0.8a1
 2. [Tamriel_Data HD](https://www.nexusmods.com/morrowind/mods/59927)
    * 25.05 to 26.08
+
 **Removed**
 
 ## POTI 2.3.2 - 08-25-2026
