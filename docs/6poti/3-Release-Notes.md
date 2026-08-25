@@ -7,7 +7,7 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
-## POTI 2.3.2 - 08-XX-2026
+## POTI 2.3.2 - 08-25-2026
 
 **Added**
 1. [Ald'Ruhn Cluttered](https://www.nexusmods.com/morrowind/mods/59443)
