@@ -165,7 +165,7 @@ description: Release Notes
 68. [Indoril Bonesaint Armor](https://www.nexusmods.com/morrowind/mods/58599)
     * 1.0 to 1.11
 69. [(OpenMW 0.50) QuickLoot](https://www.nexusmods.com/morrowind/mods/54950)
-    *1.4 to 2.05
+    * 1.4 to 2.05
 70. [Spell Trader (OpenMW)](https://www.nexusmods.com/morrowind/mods/59229)
     * 1.2.1 to 1.2.2
 71. [Best Friends Forever (OpenMW)](https://www.nexusmods.com/morrowind/mods/59384)
