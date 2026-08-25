@@ -21,6 +21,8 @@ description: Release Notes
 9. [Magic Animations Generally Improved Completely - MAGIC - OpenMW](https://www.nexusmods.com/morrowind/mods/57506)
 10. [Different Types of Local Plants for Ajira's Reports](https://www.nexusmods.com/morrowind/mods/51735)
 11. [Photo Mode for OpenMW](https://www.nexusmods.com/morrowind/mods/57040)
+12. [Small Business Cat (OpenMW)](https://www.nexusmods.com/morrowind/mods/59557)
+13. [S4V3R - Simple Automatic Saves](https://www.nexusmods.com/morrowind/mods/59665)
    
 **Updated**
 1. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
@@ -36,7 +38,7 @@ description: Release Notes
 6. [MOAR Service Refusal](https://www.nexusmods.com/morrowind/mods/59048)
    * 1.1 to 1.1.1
 7. [Ayleid Remnants Redone](https://www.nexusmods.com/morrowind/mods/59199)
-   * 1.03 to 1.04
+   * 1.03 to 1.05
 8. [Unrestricted Beasts](https://www.nexusmods.com/morrowind/mods/59413)
    * 1.10 to 1.11
 9. [(OpenMW) Better Bars](https://www.nexusmods.com/morrowind/mods/54951)
@@ -46,17 +48,17 @@ description: Release Notes
 11. [Bullseye - Marksman Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/58511)
     * 1.3.2 to 1.3.6
 12. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
-    * 1.3.10 to 1.4.1
+    * 1.3.10 to 1.4.3
 13. [Toxicology - Custom Poisoning Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58976)
     * 1.5 to 1.6
 14. [(OpenMW) Don't Tread on My Ancestors](https://www.nexusmods.com/morrowind/mods/58985)
-    * 1.0.4 to 1.0.5
+    * 1.0.4 to 1.0.6
 15. [(OpenMW) Eating Habits](https://www.nexusmods.com/morrowind/mods/59350)
-    * 1.4 to 1.4.3
+    * 1.4 to 1.4.6
 16. [(OpenMW) Interactions Animated](https://www.nexusmods.com/morrowind/mods/59117)
-    * 1.0.7 to 1.2
+    * 1.0.7 to 1.2.2
 17. [Rock The Boat - Dynamic Camera Rocking for OpenMW](https://www.nexusmods.com/morrowind/mods/59338)
-    * 0.4 to 0.6
+    * 0.4 to 0.7
 18. [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
     * 3.1 to 3.2
 19. [Better Bounties](https://www.nexusmods.com/morrowind/mods/59050)
@@ -64,7 +66,7 @@ description: Release Notes
 20. [Devilish Touch of Madness](https://www.nexusmods.com/morrowind/mods/59337)
     * 1.5 to 1.8
 21. [The Soggy Muffin](https://www.nexusmods.com/morrowind/mods/56717)
-    * 2.61 to 2.81
+    * 2.61 to 2.9
 22. [OAAB - Tombs Extended](https://www.nexusmods.com/morrowind/mods/59110)
     * 1.8 to 1.8.1
 23. [The Stone Halls of Solstheim - Reforged](https://www.nexusmods.com/morrowind/mods/49841)
@@ -92,15 +94,15 @@ description: Release Notes
 34. [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
     * 1.14a to 1.15
 35. [Better Balanced Taunt and Persuasion (BBTaP)](https://www.nexusmods.com/morrowind/mods/58903)
-    * 1.4 to 1.5
+    * 1.4 to 1.5.1
 36. [Daedra Equipment OpenMW Lua](https://www.nexusmods.com/morrowind/mods/58440)
     * 1.1 to 2.0
 37. [Golden Saint Equipment OpenMW Lua](https://www.nexusmods.com/morrowind/mods/58440)
     * 1.1 to 2.0
 38. [Harder Better Faster Stronger (HBFS)](https://www.nexusmods.com/morrowind/mods/55542)
-    * 2.8.5 to 2.9
+    * 2.8.5 to 2.9.1
 39. [Brute Force - Lockpicking for Barbarians (OpenMW)](https://www.nexusmods.com/morrowind/mods/57841)
-    * 1.3 to 2.0
+    * 1.3 to 2.0.1
 40. [Devilish Horse Riding](https://www.nexusmods.com/morrowind/mods/55479)
     * 1.3 to 2.1
 41. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
@@ -110,13 +112,13 @@ description: Release Notes
 43. [Friendlier Fire (OpenMW)](https://www.nexusmods.com/morrowind/mods/57975)
     * 2.4 to 2.5
 44. [(OpenMW) Illegal Necromancy](https://www.nexusmods.com/morrowind/mods/58335)
-    * 1.3.2 to 1.3.3
+    * 1.3.2 to 1.4
 45. [Move-Like-This - Directional Attacks (OpenMW)](https://www.nexusmods.com/morrowind/mods/59154)
-    * 1.5.1 to 2.0.1
+    * 1.5.1 to 2.1.1
 46. [Practice Dummies (OpenMW)](https://www.nexusmods.com/morrowind/mods/58992)
     * 1.1 to 1.2
 47. [Shelf Control (OpenMW)](https://www.nexusmods.com/morrowind/mods/57441)
-    * 2.2 to 2.4
+    * 2.2 to 3.0
 48. [Take Cover (OpenMW)](https://www.nexusmods.com/morrowind/mods/54976)
     * 1.6 to 1.6.2
 49. [Boons and Burdens - OpenMW Background Pack](https://www.nexusmods.com/morrowind/mods/59130)
@@ -132,7 +134,7 @@ description: Release Notes
 54. [Molag Mar Outskirts - Bonesaints Temple](https://www.nexusmods.com/morrowind/mods/59215)
     * 1.0 to 1.1
 55. [Muffinwind Rebaked](https://www.nexusmods.com/morrowind/mods/59081)
-    * 1.42 to 1.52
+    * 1.42 to 1.6
 56. [Salt Gems of Bensamsi](https://www.nexusmods.com/morrowind/mods/45126)
     * 1.4 to 1.6
 57. [Talos Cult Conspiracy](https://www.nexusmods.com/morrowind/mods/47576)
@@ -167,9 +169,28 @@ description: Release Notes
     * 1.2.2 to 1.2.7
 72. [AATL Compatibility Patches](https://www.nexusmods.com/morrowind/mods/55361)
     * 1.3 to 1.4.2
+73. [Rafael's Shader Pack](https://www.nexusmods.com/morrowind/mods/53667)
+    * 2.0d to 2.1
+74. [S3maphore - OpenMW Music Management from the Future](https://www.nexusmods.com/morrowind/mods/56836)
+    * 0.62 to 0.95
+75. [Security Tools Rebalance](https://www.nexusmods.com/morrowind/mods/58865)
+    * 1.0 to 1.1
+76. [Weight Of Small Things (OpenMW)](https://www.nexusmods.com/morrowind/mods/57720)
+    * 1.0 to 1.1
+77. [Arrow Stick (OpenMW)](https://www.nexusmods.com/morrowind/mods/58299)
+    * 1.6.1 to 1.6.2
+78. [Community Traits Ported (OpenMW) - Sage's Backgrounds](https://www.nexusmods.com/morrowind/mods/58704)
+    * 1.1.5 to 1.1.13
+79. [(OpenMW) Consuming Animated](https://www.nexusmods.com/morrowind/mods/59069)
+    * 1.5.1 to 2.0.2.1
+80. [Justice for Khartag (J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
+    * 1.6 to 1.6.1
+81. [QuickSelect Ultimate - OpenMW](https://www.nexusmods.com/morrowind/mods/57590)
+    * 1.6 to 1.7
 
 **Removed**
 1. [RR Mod Series - Melchiors Mudcrab Merchant](https://www.nexusmods.com/morrowind/mods/42685)
+2. [(OpenMW 0.49) Fix Mercantile Exploit](https://www.nexusmods.com/morrowind/mods/57047)
 
 ## POTI 2.3.1 - 06-28-2026
 
@@ -289,7 +310,7 @@ description: Release Notes
 7. [(OpenMW) Crafting Framework](https://www.nexusmods.com/morrowind/mods/57247)
    * 4.0 to 5.0
 8. [Bullseye - Marksman Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/58511)
-   * 1.1.10 to 1.3.2
+   * 1.1.10 to 1.3.8
 9. [Hackle-Lo Pipe](https://www.nexusmods.com/morrowind/mods/56939)
    * 3.0 to 4.0
 10. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
