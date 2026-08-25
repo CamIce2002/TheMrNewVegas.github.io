@@ -196,6 +196,11 @@ description: Release Notes
 2. [(OpenMW 0.49) Fix Mercantile Exploit](https://www.nexusmods.com/morrowind/mods/57047)
 3. [Aesthesia - Stronghold Textures](https://www.nexusmods.com/morrowind/mods/46445)
 4. [Daedric Ruins - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/43486)
+5. [Player Combat Voice](https://www.nexusmods.com/morrowind/mods/56128)
+6. [FSR - Footsteps Retrofication](https://www.nexusmods.com/morrowind/mods/58532)
+7. [Ashlander Camps Tents and Yurts - Arkitektora of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52782)
+8. [Ashlander Lanterns Retexture - Aestetika of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52723)
+9. [Necrom - Arkitektora of Morrowind](https://www.nexusmods.com/morrowind/mods/46289)
 
 ## POTI 2.3.1 - 06-28-2026
 
