@@ -7,6 +7,14 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
+## POTI 2.4 - XX-XX-2026
+
+**Added**
+
+**Updated**
+
+**Removed**
+
 ## POTI 2.3.2 - 08-25-2026
 
 **Added**
