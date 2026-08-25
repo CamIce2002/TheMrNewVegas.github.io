@@ -16,6 +16,36 @@ description: Release Notes
    * 0.7e to 0.8a1
 2. [Tamriel_Data HD](https://www.nexusmods.com/morrowind/mods/59927)
    * 25.05 to 26.08
+3. [Clayby's Cream Cheese and Cherry Cake](https://www.nexusmods.com/morrowind/mods/55915)
+   * 1.0 to 2.1
+4. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
+   * 25.08.12 to 26.08.23
+5. [Signposts Replacer for Tamriel Rebuilt and Vvardenfell](https://www.nexusmods.com/morrowind/mods/55496)
+   * 25.05 to 26.08
+6. [Tamrielic Integrations](https://www.nexusmods.com/morrowind/mods/57488)
+   * 1.2 to 1.3
+7. [Cat-Catchers](https://www.nexusmods.com/morrowind/mods/56869)
+   * 1.2 to 1.3
+8. [Cutting Room Floor](https://www.nexusmods.com/morrowind/mods/47307)
+   * 1.7 to 1.8
+9. [Daedric Summoning Days](https://www.nexusmods.com/morrowind/mods/59358)
+   * 1.0 to 1.2
+10. [MOAR Service Refusal](https://www.nexusmods.com/morrowind/mods/59048)
+    * 1.1.1 to 1.1.2
+11. [Morag Tong Attacks](https://www.nexusmods.com/morrowind/mods/54524)
+    * 1.5 to 2.2
+12. [OpenMW Holidays and Birthdays](https://www.nexusmods.com/morrowind/mods/58281)
+    * 1.4 to 1.5
+13. [Pet the Scribs - Lua Edition (OpenMW)](https://www.nexusmods.com/morrowind/mods/58294)
+    * 2.1.1 to 2.2
+14. [Vampire Hunters](https://www.nexusmods.com/morrowind/mods/57367)
+    * 1.0 to 2.1
+15. [Temple Balmora OAAB-ified and TR'd](https://www.nexusmods.com/morrowind/mods/57596)
+    * 1.0 to 1.1
+16. [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
+    * 3.2 to 3.3
+17. [Morrowind Extended Cut](https://www.nexusmods.com/morrowind/mods/55615)
+    * 1.03 to 1.13
 
 **Removed**
 
