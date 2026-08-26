@@ -24,6 +24,8 @@ description: Release Notes
 12. [Port Telvannis - Mountain Tower of the Archmagister](https://www.nexusmods.com/morrowind/mods/59449)
 13. [LOD Meshes](https://www.nexusmods.com/morrowind/mods/59714)
 14. [Diverse Blood OpenMW Lua](https://www.nexusmods.com/morrowind/mods/59776)
+15. [Logs on Fire OpenMW Lua](https://www.nexusmods.com/morrowind/mods/59899)
+16. [Suran Towers and Roofs](https://www.nexusmods.com/morrowind/mods/59879)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
