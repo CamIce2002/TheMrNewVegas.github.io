@@ -10,6 +10,18 @@ description: Release Notes
 ## POTI 2.4 - XX-XX-2026
 
 **Added**
+1. [Inventory Camera (OpenMW)](https://www.nexusmods.com/morrowind/mods/59968)
+2. [Pactmaker - Masque of Clavicus Vile Overhaul](https://www.nexusmods.com/morrowind/mods/59907)
+3. [Dunmer Ronin Hairstyle](https://www.nexusmods.com/morrowind/mods/59971)
+4. [Whimsical Arquebald Vene](https://www.nexusmods.com/morrowind/mods/59970)
+5. [Herders (OpenMW)](https://www.nexusmods.com/morrowind/mods/56176)
+6. [Diverse Corprus Stalkers](https://www.nexusmods.com/morrowind/mods/56176)
+7. [Moved to the Mainland - Tel Chendzel](https://www.nexusmods.com/morrowind/mods/59932)
+8. [Moved to the Mainland - Drinking and Delving](https://www.nexusmods.com/morrowind/mods/59894)
+9. [Moved to the Mainland - Old Ebonheart Outskirts and Lighthouse](https://www.nexusmods.com/morrowind/mods/59885)
+10. [TaiyakaJade's Mournhold Courtiers - Tamriel Data Edition](https://www.nexusmods.com/morrowind/mods/59985)
+11. [Old Ebonheart Slum Sprawl - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/59807)
+12. [Port Telvannis - Mountain Tower of the Archmagister](https://www.nexusmods.com/morrowind/mods/59449)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
