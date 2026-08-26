@@ -92,6 +92,8 @@ description: Release Notes
     * 1.1 to 1.2
 33. [Diverse Skeletons](https://www.nexusmods.com/morrowind/mods/56176)
     * 1.8 to 1.9
+34. [Immersive Faction Requirements for TR Factions](https://www.nexusmods.com/morrowind/mods/58865)
+    * 1.01 to 1.1
 
 **Removed**
 
