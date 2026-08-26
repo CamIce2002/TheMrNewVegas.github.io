@@ -47,7 +47,7 @@ description: Release Notes
 11. [Morag Tong Attacks](https://www.nexusmods.com/morrowind/mods/54524)
     * 1.5 to 2.2
 12. [OpenMW Holidays and Birthdays](https://www.nexusmods.com/morrowind/mods/58281)
-    * 1.4 to 1.5
+    * 1.4 to 1.5.1
 13. [Pet the Scribs - Lua Edition (OpenMW)](https://www.nexusmods.com/morrowind/mods/58294)
     * 2.1.1 to 2.2
 14. [Vampire Hunters](https://www.nexusmods.com/morrowind/mods/57367)
@@ -58,6 +58,38 @@ description: Release Notes
     * 3.2 to 3.3
 17. [Morrowind Extended Cut](https://www.nexusmods.com/morrowind/mods/55615)
     * 1.03 to 1.13
+18. [Indoril and Mournhold Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56300)
+    * 0.2 to 0.4
+19. [Unique Uniques](https://www.nexusmods.com/morrowind/mods/58990)
+    * 1.01 to 1.11
+20. [Move-Like-This - Directional Attacks (OpenMW)](https://www.nexusmods.com/morrowind/mods/59154)
+    * 2.1.1 to 2.1.2
+21. [Muffinwind Rebaked](https://www.nexusmods.com/morrowind/mods/59081)
+    * 1.6 to 1.61
+22. [The Old Lie](https://www.nexusmods.com/morrowind/mods/58403)
+    * 1.2 to 1.3
+23. [Death and Taxes](https://www.nexusmods.com/morrowind/mods/58469)
+    * 1.18 to 1.22
+24. [AATL Official Mods](https://www.nexusmods.com/morrowind/mods/54147)
+    * 1.4.2 to 1.5.4
+25. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
+    * 2.7.5 to 2.7.7
+26. [Magical Mainland Homes](https://www.nexusmods.com/morrowind/mods/53681)
+    * 3.2 to 3.3
+27. [Diverse Khajiit](https://www.nexusmods.com/morrowind/mods/48832)
+    * 2.2 to 3.0
+28. [AATL Compatibility Patches](https://www.nexusmods.com/morrowind/mods/55361)
+    * 1.4.2 to 1.5.4
+29. [Real Weapon Range Extended - Cutting Room Floor TR](https://www.nexusmods.com/morrowind/mods/58753)
+    * 1.0 to 1.1
+30. [The Mananaut's Message TD Set](https://www.nexusmods.com/morrowind/mods/58194)
+    * 1.0 to 1.1
+31. [Diverse Draugrs](https://www.nexusmods.com/morrowind/mods/56176)
+    * 1.5 to 1.9
+32. [Mushroom Crabs](https://www.nexusmods.com/morrowind/mods/56176)
+    * 1.1 to 1.2
+33. [Diverse Skeletons](https://www.nexusmods.com/morrowind/mods/56176)
+    * 1.8 to 1.9
 
 **Removed**
 
