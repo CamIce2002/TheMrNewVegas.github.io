@@ -22,6 +22,8 @@ description: Release Notes
 10. [TaiyakaJade's Mournhold Courtiers - Tamriel Data Edition](https://www.nexusmods.com/morrowind/mods/59985)
 11. [Old Ebonheart Slum Sprawl - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/59807)
 12. [Port Telvannis - Mountain Tower of the Archmagister](https://www.nexusmods.com/morrowind/mods/59449)
+13. [LOD Meshes](https://www.nexusmods.com/morrowind/mods/59714)
+14. [Diverse Blood OpenMW Lua](https://www.nexusmods.com/morrowind/mods/59776)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
