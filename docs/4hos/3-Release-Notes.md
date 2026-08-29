@@ -29,6 +29,9 @@ Save Safe? NO
 * [LoreBox - Item and Spell Tooltips](https://www.nexusmods.com/skyrimspecialedition/mods/156534)
 * [Lorebox - Requiem armor bonus addon](https://www.nexusmods.com/skyrimspecialedition/mods/158069)
 * [Lorebox - Dear Diary Dark Mode UI Reskin](https://www.nexusmods.com/skyrimspecialedition/mods/158388)
+* [Common Clothing Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/142188)
+* [Faction Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/169281)
+* [Dwemer Metals Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/181444)
 
 **Removed**
 
