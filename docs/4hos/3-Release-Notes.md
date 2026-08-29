@@ -29,8 +29,6 @@ Save Safe? NO
 * [LoreBox - Item and Spell Tooltips](https://www.nexusmods.com/skyrimspecialedition/mods/156534)
 * [Lorebox - Requiem armor bonus addon](https://www.nexusmods.com/skyrimspecialedition/mods/158069)
 * [Lorebox - Dear Diary Dark Mode UI Reskin](https://www.nexusmods.com/skyrimspecialedition/mods/158388)
-* [HDT-SMP Vanilla Armors](https://www.nexusmods.com/skyrimspecialedition/mods/142450)
-* [Modernize - Vanilla Version (SMP)](https://www.nexusmods.com/skyrimspecialedition/mods/64776)
 
 **Removed**
 
