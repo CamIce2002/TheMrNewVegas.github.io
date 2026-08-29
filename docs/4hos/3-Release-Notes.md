@@ -9,6 +9,11 @@ Save Safe? YES
 
 * [Lightened JK's Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/111896)
 * [Lightened JK's Riverwood](https://www.nexusmods.com/skyrimspecialedition/mods/111895)
+* [Lightened JK's Dragonsreach](https://www.nexusmods.com/skyrimspecialedition/mods/152031)
+* [Lightened JK's The Bannered Mare](https://www.nexusmods.com/skyrimspecialedition/mods/152198)
+* [Lightened JK's Blue Palace](https://www.nexusmods.com/skyrimspecialedition/mods/152335)
+* [Lightened JK's Whiterun Outskirts](https://www.nexusmods.com/skyrimspecialedition/mods/167169)
+* [Lightened JK's High Hrothgar](https://www.nexusmods.com/skyrimspecialedition/mods/181891)
 * [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)
 * [eFPS - Official Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/54998)
 * [Unofficial eFPS patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176)
