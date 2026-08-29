@@ -7,6 +7,38 @@ Save Safe? YES
 
 **Added**
 
+* [Lightened JK's Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/111896)
+* [Lightened JK's Riverwood](https://www.nexusmods.com/skyrimspecialedition/mods/111895)
+* [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)
+* [eFPS - Official Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/54998)
+* [Unofficial eFPS patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176)
+* [USSEP Nemesis or Pandora Patch - Death after Hug and Dagger Attack Speed Fix](https://www.nexusmods.com/skyrimspecialedition/mods/139572)
+* [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839)
+* [Neutral Whiterun Guards](https://www.nexusmods.com/skyrimspecialedition/mods/70197)
+* [Immersive Aggressive Opponents - Armor-Based Opposite Faction Aggression (Imperials Stormcloaks Thalmor Forsworn Guards)](https://www.nexusmods.com/skyrimspecialedition/mods/70236)
+* [No Food or Ingredients in Barrels and Sacks](https://www.nexusmods.com/skyrimspecialedition/mods/129616)
+* [Skyrim Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/163710)
+* [Medieval Markets](https://www.nexusmods.com/skyrimspecialedition/mods/161479)
+* [Medieval Markets - Patches Collection](https://www.nexusmods.com/skyrimspecialedition/mods/161664)
+* [Medieval Markets Animated](https://www.nexusmods.com/skyrimspecialedition/mods/161927)
+* [LoreBox - Item and Spell Tooltips](https://www.nexusmods.com/skyrimspecialedition/mods/156534)
+* [Lorebox - Requiem armor bonus addon](https://www.nexusmods.com/skyrimspecialedition/mods/158069)
+* [Lorebox - Dear Diary Dark Mode UI Reskin](https://www.nexusmods.com/skyrimspecialedition/mods/158388)
+* [HDT-SMP Vanilla Armors](https://www.nexusmods.com/skyrimspecialedition/mods/142450)
+* [Modernize - Vanilla Version (SMP)](https://www.nexusmods.com/skyrimspecialedition/mods/64776)
+
+**Removed**
+
+* [AddItemMenu - Ultimate Mod Explorer](https://www.nexusmods.com/skyrimspecialedition/mods/17563)
+* [AddItemMenu - NG](https://www.nexusmods.com/skyrimspecialedition/mods/71409)
+
+**Updated**
+
+# Release 1.3.3
+Save Safe? YES
+
+**Added**
+
 * [Skylighting](https://www.nexusmods.com/skyrimspecialedition/mods/139352)
 * [Cloud Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/139185)
 * [Terrain Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/135817)
