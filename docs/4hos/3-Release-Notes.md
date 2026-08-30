@@ -32,6 +32,10 @@ Save Safe? NO
 * [Common Clothing Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/142188)
 * [Faction Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/169281)
 * [Dwemer Metals Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/181444)
+* [Hair Specular - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/149011)
+* [Terrain Helper](https://www.nexusmods.com/skyrimspecialedition/mods/143149)
+* [Terrain Blending - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/157076)
+* [Upscaling - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/156952)
 
 **Removed**
 
@@ -135,6 +139,16 @@ Save Safe? NO
   > 0.13.0.1 to 0.13.0.4
 * Next-Gen Decapitations
   > 1.2 to 1.4.3
+* Community Shaders
+  >1.1.15 to 1.7.3
+* Screen Space Global Illumination (SSGI) - Community Shaders
+  > 3.0.3 to 4.2.0
+* Skylighting - Community Shaders
+  > 1.0.1 to 1.4
+* Wetness Effects - Community Shaders
+  > 2.0 to 3.1.0
+* NAT.CS III
+  > 1.0.2 to 2.0
 
 # Release 1.3.3
 Save Safe? YES
