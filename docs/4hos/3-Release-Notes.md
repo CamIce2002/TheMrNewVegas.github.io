@@ -44,6 +44,10 @@ Save Safe? NO
 * [Acheron - Death Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/108159)
 * [Death Alternative - Your Money or Your Life](https://www.nexusmods.com/skyrimspecialedition/mods/13264)
 * [Acheron - Your Money or Your Life](https://www.nexusmods.com/skyrimspecialedition/mods/111212)
+* [Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
+* [Precision magic trails](https://www.nexusmods.com/skyrimspecialedition/mods/120445)
+* [Precision Trail Replacer - Simple](https://www.nexusmods.com/skyrimspecialedition/mods/83544)
+* [Precision Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/74887)
 
 **Updated**
 
@@ -149,6 +153,20 @@ Save Safe? NO
   > 2.0 to 3.1.0
 * NAT.CS III
   > 1.0.2 to 2.0
+* Nirn Necessities - Generic Distribution Add-on
+  >1.1.1 to 1.3
+* Helmet Toggle 2
+  > 3.2.2 to 3.6.2
+* Interesting Follower Requirements for Interesting NPCs
+  > 2.02 to 2.04
+* A Cat's Life
+  > 2.0 to 3.0
+* Lucien - Immersive Fully Voiced Male Follower
+  > 1.6.3 to 1.7.2
+* NPCs Take Cover - Smarter Anti-Cheese AI
+  > 1.01 to 1.02
+* Song of the Green (Auri Follower)
+  > 1.4 to 2.2
 
 # Release 1.3.3
 Save Safe? YES
