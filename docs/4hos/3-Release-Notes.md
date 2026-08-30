@@ -37,8 +37,44 @@ Save Safe? NO
 
 * [AddItemMenu - Ultimate Mod Explorer](https://www.nexusmods.com/skyrimspecialedition/mods/17563)
 * [AddItemMenu - NG](https://www.nexusmods.com/skyrimspecialedition/mods/71409)
+* [Acheron - Death Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/108159)
+* [Death Alternative - Your Money or Your Life](https://www.nexusmods.com/skyrimspecialedition/mods/13264)
+* [Acheron - Your Money or Your Life](https://www.nexusmods.com/skyrimspecialedition/mods/111212)
 
 **Updated**
+
+* Address Library for SKSE Plugins
+  > 11 to 13
+* Face Discoloration Fix
+  > 1.0.3 to 1.0.4
+* powerofthree's Papyrus Extender
+  > 5.9 to 6.4.3
+* Spell Perk Item Distributor (SPID)
+  > 7.1.3 to 7.3.3
+* Essential Favorites
+  > 2.3 to 2.4.1
+* Favorite Misc Items
+  > 3.7.1 to 4.0
+* Splashes Of Skyrim
+  > 1.4 to 1.5
+* Keyword Item Distributor (KID)
+  > 3.4 to 4.0.6
+* Base Object Swapper
+  > 3.3.1 to 3.4.1
+* Enhanced Invisibility
+  > 1.3 to 1.4.1
+* ConsolePlusPlus
+  > 1.4 to 1.5
+* Floating Ash Pile Fix
+  > 0.2 to 0.3
+* Water Effects Brightness and Reflection Fix
+  > 0.5 to 0.6
+* Motionless Rocks Killing People Fix
+  > 1.2 to 1.3
+* Auto Input Switch
+  > 1.2.3 to 1.3.1
+* Better Combat Escape - NG
+  > 1.0.1 to 1.0.4
 
 # Release 1.3.3
 Save Safe? YES
