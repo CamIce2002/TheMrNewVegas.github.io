@@ -75,6 +75,66 @@ Save Safe? NO
   > 1.2.3 to 1.3.1
 * Better Combat Escape - NG
   > 1.0.1 to 1.0.4
+* dTry Plugin Updates
+  > 1.0.3 to 1.0.4
+* Hunters Not Bandits
+  > 4.1 to 4.2
+* Papyrus Ini Manipulator
+  > 1.9.7 to 1.9.9
+* Open Animation Replacer
+  > 2.3.6 to 3.2.0
+* Sound Record Distributor
+  > 1.5.1 to 1.5.4
+* NPC Stuck in Bleedout fix
+  > 0.1.3 to 0.2
+* Simplicity of Seeding - Better Hearthfires and Farming CC Planter Scripts
+  > 0.5 to 0.7.1
+* Fish Plaque Fixes and Improvements
+  > 0.2 to 0.3
+* Simple Offence Suppression
+  > 2.2.1 to 2.3.0
+* Simple Offence Suppression MCM - Block Friendly Fire
+  > 0.4 to 0.6
+* Photo Mode
+  > 1.7.1 to 3.0.0
+* Zero Bounty Hostility Fix - Now as a unnecessary SKSE plugin
+  > 0.4 to 0.5
+* Switch Camera During Dialogue
+  > 1.0 to 1.1
+* Stuck on Screen Load Door Prompt Fix
+  > 0.0.1 to 0.2
+* MergeMapper
+  > 1.5 to 1.6.1
+* Crash Logger SSE AE VR - PDB support
+  > 1.15 to 1.25
+* Papyrus Tweaks NG
+  > 4.1 to 4.1.1
+* SkyPatcher
+  > 3.3.1 to 7.0.3
+* Subtitles
+  > 0.6.1 to 0.6.2
+* ImGui Icons
+  > 1.0 to 1.2
+* Persistent Favorites
+  > 0.3.1 to 1.0.6
+* Combat Music Fix NG Updated
+  > 1.1 to 1.2
+* Grab And Throw
+  > 2.0 to 2.1.1
+* Container Distribution Framework
+  > 2.2.1 to 3.0.2
+* Container Distribution Framework - 1.6.640 1.6.659 Backport
+  > 2.1-backport640 to 3.0.2-backport640-fix1
+* Andrealletius' Papyrus Functions
+  > 1.4.3 to 1.7.3
+* Dylbills Papyrus Functions
+  > 7.4 to 10.4
+* Dynamic String Distributor (DSD)
+  > 1.2.4 to 1.4.3
+* Behavior Data Injector Universal Support
+  > 0.13.0.1 to 0.13.0.4
+* Next-Gen Decapitations
+  > 1.2 to 1.4.3
 
 # Release 1.3.3
 Save Safe? YES
