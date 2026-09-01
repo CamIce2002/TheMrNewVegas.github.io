@@ -48,6 +48,13 @@ Save Safe? NO
 * [Precision magic trails](https://www.nexusmods.com/skyrimspecialedition/mods/120445)
 * [Precision Trail Replacer - Simple](https://www.nexusmods.com/skyrimspecialedition/mods/83544)
 * [Precision Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/74887)
+* [Wolf Armor and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/87926)
+* [Nightingale Armor and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/91723)
+* [Dawnguard Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/92161)
+* [Dark Brotherhood Armors Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/93890)
+* [Vampire Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/96855)
+* [Thieves Guild Armors Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/98561)
+* [Forsworn Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/99610)
 
 **Updated**
 
@@ -167,6 +174,20 @@ Save Safe? NO
   > 1.01 to 1.02
 * Song of the Green (Auri Follower)
   > 1.4 to 2.2
+* Follower Dialogue Expansion - Brelyna Maryon
+  > 2.2.1 to 3.0.1
+* Follower Dialogue Expansion - Aela the Huntress
+  > 3.0.2 to 9.0
+* Follower Dialogue Expansion - Mjoll the Lioness
+  > 1.2 to 2.0.2
+* Follower Dialogue Expansion - Erik the Slayer
+  > 2.0 to 2.0.1.1
+* Follower Dialogue Expansion - Lydia
+  > 1.3 to 1.5
+* Follower Dialogue Expansion - Jenassa
+  > 3.0 to 8.0
+* Remiel-Custom Voiced Dwemer Specialist and Companion
+  > 1.7.4 to 1.7.6
 
 # Release 1.3.3
 Save Safe? YES
