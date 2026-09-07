@@ -42,8 +42,8 @@ description: Release Notes
    * 1.2 to 1.3
 7. [Cat-Catchers](https://www.nexusmods.com/morrowind/mods/56869)
    * 1.2 to 1.3
-8. [Cutting Room Floor](https://www.nexusmods.com/morrowind/mods/47307)
-   * 1.7 to 1.8
+8. [Arrow Stick (OpenMW)](https://www.nexusmods.com/morrowind/mods/58299)
+   * 1.6.2 to 1.6.3
 9. [Daedric Summoning Days](https://www.nexusmods.com/morrowind/mods/59358)
    * 1.0 to 1.2
 10. [MOAR Service Refusal](https://www.nexusmods.com/morrowind/mods/59048)
