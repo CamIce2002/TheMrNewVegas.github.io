@@ -100,7 +100,20 @@ description: Release Notes
     * 4.8 to 4.9
 36. [Improved Dunmer Ashpits](https://www.nexusmods.com/morrowind/mods/52438)
     * 1.5 to 1.6
-37. 
+37. [OpenMW Dynamic Ambient Visual Effects](https://www.nexusmods.com/morrowind/mods/55572)
+    * 1.18 to 1.18a
+38. [Better Robes - Updated Tamriel Rebuilt Patch](https://www.nexusmods.com/morrowind/mods/44875)
+    * 2.2 to 2.3
+39. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
+    * 1.35 to 1.36
+40. [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
+    * 1.15 to 1.15b
+41. [S3maphore - Music That Moves With the World](https://www.nexusmods.com/morrowind/mods/56836)
+    * 0.95 to 0.96
+42. [Harder Better Faster Stronger (HBFS)](https://www.nexusmods.com/morrowind/mods/55542)
+    * 2.9.1 to 3.0
+43. [Weight of Small Things](https://www.nexusmods.com/morrowind/mods/57720)
+    * 1.1 to 2.0
 
 **Removed**
 
