@@ -37,7 +37,7 @@ description: Release Notes
 4. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
    * 25.08.12 to 26.08.23
 5. [Signposts Replacer for Tamriel Rebuilt and Vvardenfell](https://www.nexusmods.com/morrowind/mods/55496)
-   * 25.05 to 26.08
+   * 25.05 to 26.08b
 6. [Tamrielic Integrations](https://www.nexusmods.com/morrowind/mods/57488)
    * 1.2 to 1.3
 7. [Cat-Catchers](https://www.nexusmods.com/morrowind/mods/56869)
@@ -96,6 +96,11 @@ description: Release Notes
     * 1.8 to 1.9
 34. [Immersive Faction Requirements for TR Factions](https://www.nexusmods.com/morrowind/mods/58865)
     * 1.01 to 1.1
+35. [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
+    * 4.8 to 4.9
+36. [Improved Dunmer Ashpits](https://www.nexusmods.com/morrowind/mods/52438)
+    * 1.5 to 1.6
+37. 
 
 **Removed**
 
