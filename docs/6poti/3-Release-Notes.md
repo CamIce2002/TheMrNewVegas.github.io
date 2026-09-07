@@ -126,6 +126,14 @@ description: Release Notes
     * 3.0 to 3.0.1
 49. [Tamrielic Integrations](https://www.nexusmods.com/morrowind/mods/57488)
     * 1.3 to 1.4
+50. [(OpenMW) Consuming Animated](https://www.nexusmods.com/morrowind/mods/59069)
+    * 2.0.2.1 to 2.0.3
+51. [(OpenMW) Eating Habits](https://www.nexusmods.com/morrowind/mods/59350)
+    * 1.4.6 to 1.4.7
+52. [Devilishly Peaceful Wildlife - Borok's Patch](https://www.nexusmods.com/morrowind/mods/56176)
+    * 1.4.1 to 1.1
+53. [Morag Tong Attacks](https://www.nexusmods.com/morrowind/mods/54524)
+    * 2.2 to 2.3
 
 **Removed**
 
