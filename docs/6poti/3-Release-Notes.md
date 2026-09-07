@@ -114,6 +114,8 @@ description: Release Notes
     * 2.9.1 to 3.0
 43. [Weight of Small Things](https://www.nexusmods.com/morrowind/mods/57720)
     * 1.1 to 2.0
+44. [Arrow Stick (OpenMW)](https://www.nexusmods.com/morrowind/mods/58299)
+    * 1.6.2 to 1.6.3
 
 **Removed**
 
