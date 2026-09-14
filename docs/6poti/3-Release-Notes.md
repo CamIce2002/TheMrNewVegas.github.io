@@ -28,6 +28,13 @@ description: Release Notes
 16. [Suran Towers and Roofs](https://www.nexusmods.com/morrowind/mods/59879)
 17. [Morag Tong Writs Cost Tweak](https://www.nexusmods.com/morrowind/mods/58865)
 18. [Questman - Modern Quest Journal (OpenMW)](https://www.nexusmods.com/morrowind/mods/59493)
+19. [(Open MW) Hidden Traps](https://www.nexusmods.com/morrowind/mods/59667)
+20. [Helnim Redux (Tamriel Rebuilt) - Wooden Walls and Clutter](https://www.nexusmods.com/morrowind/mods/59382)
+21. [The Grand Inquisitor's Ring](https://www.nexusmods.com/morrowind/mods/48808)
+22. [The Grand Inquisitor's Ring - Baar Dau Ministry of Truth Patch](https://www.nexusmods.com/morrowind/mods/60137)
+23. [Gorne Conservatory - A Player Home for TR](https://www.nexusmods.com/morrowind/mods/60082)
+24. [Dubdilla Remade](https://www.nexusmods.com/morrowind/mods/59953)
+25. [Indoril Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/60079)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -205,7 +212,8 @@ description: Release Notes
 5. [Kolka the Wolf](https://www.nexusmods.com/morrowind/mods/49765)
 6. [Tetra the Pack Guar](https://www.nexusmods.com/morrowind/mods/47928)
 7. [Henwen the Pack Piglet](https://www.nexusmods.com/morrowind/mods/50423)
-8. [Shishi - Redoran Outpost)
+8. [Shishi - Redoran Outpost](https://www.nexusmods.com/morrowind/mods/57535)
+9. [The Tea Shop in Old Ebonheart](https://www.nexusmods.com/morrowind/mods/54507)
    
 ## POTI 2.3.2 - 08-25-2026
 
