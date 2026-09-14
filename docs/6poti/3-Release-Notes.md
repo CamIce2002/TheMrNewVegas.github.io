@@ -52,6 +52,11 @@ description: Release Notes
 40. [(OpenMW) Everyday Life of Caius Cosades](https://www.nexusmods.com/morrowind/mods/59345)
 41. [Embassy of the Root - An Argonian Mission Overhaul](https://www.nexusmods.com/morrowind/mods/59991)
 42. [Horiz0n - OpenMW View Distance Manager](https://www.nexusmods.com/morrowind/mods/59668)
+43. [Tamriel ReBalanced - Deadlier Denizens](https://www.nexusmods.com/morrowind/mods/60060)
+44. [Mortal Ties - Yesamsi Overhaul](https://www.nexusmods.com/morrowind/mods/59961)
+45. [Marry Ajira Redux](https://www.nexusmods.com/morrowind/mods/60247)
+46. [Telvanni Mouth Robe Uniforms](https://www.nexusmods.com/morrowind/mods/60244)
+47. [Telvanni Magister Robes - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/60106)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
