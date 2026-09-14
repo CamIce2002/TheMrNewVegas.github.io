@@ -194,11 +194,17 @@ description: Release Notes
     * 1.0.1 to 1.0.2
 82. [Skyrim Style Quest Notifications Great Patch Hub](https://www.nexusmods.com/morrowind/mods/55480)
     * 1.18 to 1.19
+83. [The Mananaut's Message Tamriel_Data Set](https://www.nexusmods.com/morrowind/mods/58194)
+    * 1.1 to 1.2
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
 2. [Holidays Across Tamriel - Mainland](https://www.nexusmods.com/morrowind/mods/55249)
-3. [Cutting Room Floor]
+3. [Cutting Room Floor](https://www.nexusmods.com/morrowind/mods/47307)
+4. [Paxon the Pack Rat](https://www.nexusmods.com/morrowind/mods/45669)
+5. [Kolka the Wolf](https://www.nexusmods.com/morrowind/mods/49765)
+6. [Tetra the Pack Guar](https://www.nexusmods.com/morrowind/mods/47928)
+7. [Henwen the Pack Piglet](https://www.nexusmods.com/morrowind/mods/50423)
    
 ## POTI 2.3.2 - 08-25-2026
 
