@@ -27,6 +27,7 @@ description: Release Notes
 15. [Logs on Fire OpenMW Lua](https://www.nexusmods.com/morrowind/mods/59899)
 16. [Suran Towers and Roofs](https://www.nexusmods.com/morrowind/mods/59879)
 17. [Morag Tong Writs Cost Tweak](https://www.nexusmods.com/morrowind/mods/58865)
+18. [Questman - Modern Quest Journal (OpenMW)](https://www.nexusmods.com/morrowind/mods/59493)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -74,19 +75,19 @@ description: Release Notes
 22. [The Old Lie](https://www.nexusmods.com/morrowind/mods/58403)
     * 1.2 to 1.3
 23. [Death and Taxes](https://www.nexusmods.com/morrowind/mods/58469)
-    * 1.18 to 1.22
+    * 1.18 to 1.3.1
 24. [AATL Official Mods](https://www.nexusmods.com/morrowind/mods/54147)
     * 1.4.2 to 1.5.4
 25. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
-    * 2.7.5 to 2.7.7
+    * 2.7.5 to 2.8.0
 26. [Magical Mainland Homes](https://www.nexusmods.com/morrowind/mods/53681)
     * 3.2 to 3.3
 27. [Diverse Khajiit](https://www.nexusmods.com/morrowind/mods/48832)
-    * 2.2 to 3.0
+    * 2.2 to 3.1
 28. [AATL Compatibility Patches](https://www.nexusmods.com/morrowind/mods/55361)
     * 1.4.2 to 1.5.4
-29. [Real Weapon Range Extended - Cutting Room Floor TR](https://www.nexusmods.com/morrowind/mods/58753)
-    * 1.0 to 1.1
+29. [OAAB - Tombs Extended](https://www.nexusmods.com/morrowind/mods/59110)
+    * 1.8.2 to 1.9
 30. [The Mananaut's Message TD Set](https://www.nexusmods.com/morrowind/mods/58194)
     * 1.0 to 1.1
 31. [Diverse Draugrs](https://www.nexusmods.com/morrowind/mods/56176)
@@ -94,7 +95,7 @@ description: Release Notes
 32. [Mushroom Crabs](https://www.nexusmods.com/morrowind/mods/56176)
     * 1.1 to 1.2
 33. [Diverse Skeletons](https://www.nexusmods.com/morrowind/mods/56176)
-    * 1.8 to 1.9
+    * 1.8 to 1.9.1
 34. [Immersive Faction Requirements for TR Factions](https://www.nexusmods.com/morrowind/mods/58865)
     * 1.01 to 1.1
 35. [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
@@ -165,6 +166,34 @@ description: Release Notes
     * 1.8 to 2.0
 68. [Help a Khajiit reach the City of Good People](https://www.nexusmods.com/morrowind/mods/50445)
     * 2.0 to 3.1
+69. [The Soggy Muffin](https://www.nexusmods.com/morrowind/mods/56717)
+    * 2.9 to 2.93
+70. [Vvardenfell on Vellum](https://www.nexusmods.com/morrowind/mods/59219)
+    * 2.0 to 2.0.1
+71. [Roaring Arena - Betting and Bloodletting](https://www.nexusmods.com/morrowind/mods/50954)
+    * 1.1 to 1.2
+72. [The Corprusarium Experience](https://www.nexusmods.com/morrowind/mods/49738)
+    * 1.3 to 1.10
+73. [Interesting Outfits - Imperials](https://www.nexusmods.com/morrowind/mods/53651)
+    * 1.5.1 to 1.5.2
+74. [Interesting Outfits - Kinsmer](https://www.nexusmods.com/morrowind/mods/52167)
+    * 2.6.5 to 2.6.7
+75. [Interesting Outfits - Tamriel Rebuilt Guards](https://www.nexusmods.com/morrowind/mods/55776)
+    * 2.0.3 to 2.0.5
+76. [DeFemme for Tamriel_Data](https://www.nexusmods.com/morrowind/mods/55990)
+    * 1.1.1 to 1.1.2
+77. [Dreugh Man o' War Armor](https://www.nexusmods.com/morrowind/mods/57869)
+    * 1.0 to 1.1
+78. [Dreugh Man o' War Armor - Tamriel Rebuilt Distribution](https://www.nexusmods.com/morrowind/mods/57869)
+    * 1.0 to 1.1
+79. [QuickSelect Ultimate - OpenMW](https://www.nexusmods.com/morrowind/mods/57590)
+    * 1.7 to 1.8
+80. [Spell Trader (OpenMW)](https://www.nexusmods.com/morrowind/mods/59229)
+    * 1.2.2 to 1.2.3
+81. [Real Weapon Range Extended - OAAB - TR - PC - SHOTN](https://www.nexusmods.com/morrowind/mods/58753)
+    * 1.0.1 to 1.0.2
+82. [Skyrim Style Quest Notifications Great Patch Hub](https://www.nexusmods.com/morrowind/mods/55480)
+    * 1.18 to 1.19
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
