@@ -21,7 +21,7 @@ description: Release Notes
 9. [Moved to the Mainland - Old Ebonheart Outskirts and Lighthouse](https://www.nexusmods.com/morrowind/mods/59885)
 10. [TaiyakaJade's Mournhold Courtiers - Tamriel Data Edition](https://www.nexusmods.com/morrowind/mods/59985)
 11. [Old Ebonheart Slum Sprawl - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/59807)
-12. [Port Telvannis - Mountain Tower of the Archmagister](https://www.nexusmods.com/morrowind/mods/59449)
+12. [Port Telvannis - Redux](https://www.nexusmods.com/morrowind/mods/59449)
 13. [Plaguebearers](https://www.nexusmods.com/morrowind/mods/56176)
 14. [Diverse Blood OpenMW Lua](https://www.nexusmods.com/morrowind/mods/59776)
 15. [Logs on Fire OpenMW Lua](https://www.nexusmods.com/morrowind/mods/59899)
@@ -155,9 +155,19 @@ description: Release Notes
     * 1.6.2 to 1.7.1
 63. [Canonical Gear (OpenMW)](https://www.nexusmods.com/morrowind/mods/57661)
     * 1.1.1 to 2.0
+64. [Baths of Project Cyrodiil](https://www.nexusmods.com/morrowind/mods/59129)
+    * 1.01 to 1.02
+65. [Baths of Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/59129)
+    * 1.02 to 1.03
+66. [Baths of Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/58936)
+    * 1.04 to 2.01
+67. [Devilish Touch of Madness (OpenMW)](https://www.nexusmods.com/morrowind/mods/59337)
+    * 1.8 to 2.0
 
 **Removed**
-
+1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
+2. [Holidays Across Tamriel - Mainland](https://www.nexusmods.com/morrowind/mods/55249)
+   
 ## POTI 2.3.2 - 08-25-2026
 
 **Added**
