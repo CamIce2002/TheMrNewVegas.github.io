@@ -35,6 +35,14 @@ description: Release Notes
 23. [Gorne Conservatory - A Player Home for TR](https://www.nexusmods.com/morrowind/mods/60082)
 24. [Dubdilla Remade](https://www.nexusmods.com/morrowind/mods/59953)
 25. [Indoril Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/60079)
+26. [Stranger in a Hostile Land (OpenMW)](https://www.nexusmods.com/morrowind/mods/59550)
+27. [Wrack and Ruin - A Gnaar Mok Overhaul](https://www.nexusmods.com/morrowind/mods/59766)
+28. [Seyda Neen - Swamp Fever Capital](https://www.nexusmods.com/morrowind/mods/59845)
+29. [Scum and Villainy - A Hla Oad Overhaul](https://www.nexusmods.com/morrowind/mods/60077)
+30. [Moved to the Mainland - Tamrielic Treasures](https://www.nexusmods.com/morrowind/mods/60013)
+31. [Urshilaku Are Serious - Burial Caverns (OpenMW)](https://www.nexusmods.com/morrowind/mods/59826)
+32. [This Isn't the Guar](https://www.nexusmods.com/morrowind/mods/59650)
+33. [Imperial Business](https://www.nexusmods.com/morrowind/mods/54455)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -214,6 +222,8 @@ description: Release Notes
 7. [Henwen the Pack Piglet](https://www.nexusmods.com/morrowind/mods/50423)
 8. [Shishi - Redoran Outpost](https://www.nexusmods.com/morrowind/mods/57535)
 9. [The Tea Shop in Old Ebonheart](https://www.nexusmods.com/morrowind/mods/54507)
+10. [Hlaalu Seyda Neen - Lighthouse Only](https://www.nexusmods.com/morrowind/mods/58163)
+11. [Seyda Neen Better Docks](https://www.nexusmods.com/morrowind/mods/49412)
    
 ## POTI 2.3.2 - 08-25-2026
 
