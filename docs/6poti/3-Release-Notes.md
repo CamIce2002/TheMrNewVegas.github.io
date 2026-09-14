@@ -22,10 +22,11 @@ description: Release Notes
 10. [TaiyakaJade's Mournhold Courtiers - Tamriel Data Edition](https://www.nexusmods.com/morrowind/mods/59985)
 11. [Old Ebonheart Slum Sprawl - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/59807)
 12. [Port Telvannis - Mountain Tower of the Archmagister](https://www.nexusmods.com/morrowind/mods/59449)
-13. [LOD Meshes](https://www.nexusmods.com/morrowind/mods/59714)
+13. [Plaguebearers](https://www.nexusmods.com/morrowind/mods/56176)
 14. [Diverse Blood OpenMW Lua](https://www.nexusmods.com/morrowind/mods/59776)
 15. [Logs on Fire OpenMW Lua](https://www.nexusmods.com/morrowind/mods/59899)
 16. [Suran Towers and Roofs](https://www.nexusmods.com/morrowind/mods/59879)
+17. [Morag Tong Writs Cost Tweak](https://www.nexusmods.com/morrowind/mods/58865)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -33,7 +34,7 @@ description: Release Notes
 2. [Tamriel_Data HD](https://www.nexusmods.com/morrowind/mods/59927)
    * 25.05 to 26.08
 3. [Clayby's Cream Cheese and Cherry Cake](https://www.nexusmods.com/morrowind/mods/55915)
-   * 1.0 to 2.1
+   * 1.0 to 2.2
 4. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
    * 25.08.12 to 26.08.23
 5. [Signposts Replacer for Tamriel Rebuilt and Vvardenfell](https://www.nexusmods.com/morrowind/mods/55496)
@@ -99,19 +100,19 @@ description: Release Notes
 35. [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348)
     * 4.8 to 4.9
 36. [Improved Dunmer Ashpits](https://www.nexusmods.com/morrowind/mods/52438)
-    * 1.5 to 1.6
+    * 1.5 to 2.0
 37. [OpenMW Dynamic Ambient Visual Effects](https://www.nexusmods.com/morrowind/mods/55572)
     * 1.18 to 1.18a
 38. [Better Robes - Updated Tamriel Rebuilt Patch](https://www.nexusmods.com/morrowind/mods/44875)
     * 2.2 to 2.3
 39. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
-    * 1.35 to 1.36
+    * 1.35 to 1.37
 40. [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
     * 1.15 to 1.15b
 41. [S3maphore - Music That Moves With the World](https://www.nexusmods.com/morrowind/mods/56836)
-    * 0.95 to 0.96
+    * 0.95 to 0.963
 42. [Harder Better Faster Stronger (HBFS)](https://www.nexusmods.com/morrowind/mods/55542)
-    * 2.9.1 to 3.0
+    * 2.9.1 to 3.0.1
 43. [Weight of Small Things](https://www.nexusmods.com/morrowind/mods/57720)
     * 1.1 to 2.0
 44. [Devilish Horse Riding (OpenMW)](https://www.nexusmods.com/morrowind/mods/55479)
@@ -134,6 +135,20 @@ description: Release Notes
     * 1.4.1 to 1.1
 53. [Morag Tong Attacks](https://www.nexusmods.com/morrowind/mods/54524)
     * 2.2 to 2.3
+54. [Static Switching System](https://www.nexusmods.com/morrowind/mods/57282)
+    * 0.51 to 1.0
+55. [Character Traits Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/58703)
+    * 1.1 to 1.1.1
+56. [Project Cyrodiil](https://www.nexusmods.com/morrowind/mods/44922)
+    * 25.05a to 26.09a
+57. [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921)
+    * 25.05 to 26.09a
+58. [OpenMW Vanilla Candles Patched with Enlightened Flames and ILFAS](https://www.nexusmods.com/morrowind/mods/54155)
+    * 1.02 to 1.03
+59. [Better Balanced Taunt and Persuasion](https://www.nexusmods.com/morrowind/mods/58903)
+    * 1.6 to 1.6.1
+60. [Meaningful Traps](https://www.nexusmods.com/morrowind/mods/58865)
+    * 1.0 to 1.1.1
 
 **Removed**
 
