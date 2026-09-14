@@ -205,6 +205,7 @@ description: Release Notes
 5. [Kolka the Wolf](https://www.nexusmods.com/morrowind/mods/49765)
 6. [Tetra the Pack Guar](https://www.nexusmods.com/morrowind/mods/47928)
 7. [Henwen the Pack Piglet](https://www.nexusmods.com/morrowind/mods/50423)
+8. [Shishi - Redoran Outpost)
    
 ## POTI 2.3.2 - 08-25-2026
 
