@@ -163,10 +163,13 @@ description: Release Notes
     * 1.04 to 2.01
 67. [Devilish Touch of Madness (OpenMW)](https://www.nexusmods.com/morrowind/mods/59337)
     * 1.8 to 2.0
+68. [Help a Khajiit reach the City of Good People](https://www.nexusmods.com/morrowind/mods/50445)
+    * 2.0 to 3.1
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
 2. [Holidays Across Tamriel - Mainland](https://www.nexusmods.com/morrowind/mods/55249)
+3. [Cutting Room Floor]
    
 ## POTI 2.3.2 - 08-25-2026
 
