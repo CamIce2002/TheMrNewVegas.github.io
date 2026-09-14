@@ -29,7 +29,7 @@ description: Release Notes
 17. [Morag Tong Writs Cost Tweak](https://www.nexusmods.com/morrowind/mods/58865)
 18. [Questman - Modern Quest Journal (OpenMW)](https://www.nexusmods.com/morrowind/mods/59493)
 19. [(Open MW) Hidden Traps](https://www.nexusmods.com/morrowind/mods/59667)
-20. [Helnim Redux (Tamriel Rebuilt) - Wooden Walls and Clutter](https://www.nexusmods.com/morrowind/mods/59382)
+20. [Helnim - Wooden Walls and Docks](https://www.nexusmods.com/morrowind/mods/59382)
 21. [The Grand Inquisitor's Ring](https://www.nexusmods.com/morrowind/mods/48808)
 22. [The Grand Inquisitor's Ring - Baar Dau Ministry of Truth Patch](https://www.nexusmods.com/morrowind/mods/60137)
 23. [Gorne Conservatory - A Player Home for TR](https://www.nexusmods.com/morrowind/mods/60082)
