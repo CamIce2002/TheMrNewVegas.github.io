@@ -52,7 +52,7 @@ description: Release Notes
 11. [Morag Tong Attacks](https://www.nexusmods.com/morrowind/mods/54524)
     * 1.5 to 2.2
 12. [OpenMW Holidays and Birthdays](https://www.nexusmods.com/morrowind/mods/58281)
-    * 1.4 to 1.5.1
+    * 1.4 to 1.5.7
 13. [Pet the Scribs - Lua Edition (OpenMW)](https://www.nexusmods.com/morrowind/mods/58294)
     * 2.1.1 to 2.2
 14. [Vampire Hunters](https://www.nexusmods.com/morrowind/mods/57367)
@@ -128,7 +128,7 @@ description: Release Notes
 49. [Tamrielic Integrations](https://www.nexusmods.com/morrowind/mods/57488)
     * 1.3 to 1.4
 50. [(OpenMW) Consuming Animated](https://www.nexusmods.com/morrowind/mods/59069)
-    * 2.0.2.1 to 2.0.3
+    * 2.0.2.1 to 2.0.3.1
 51. [(OpenMW) Eating Habits](https://www.nexusmods.com/morrowind/mods/59350)
     * 1.4.6 to 1.4.7
 52. [Devilishly Peaceful Wildlife - Borok's Patch](https://www.nexusmods.com/morrowind/mods/56176)
@@ -153,6 +153,8 @@ description: Release Notes
     * 1.3.8 to 1.3.9
 62. [Take Cover (OpenMW)](https://www.nexusmods.com/morrowind/mods/54976)
     * 1.6.2 to 1.7.1
+63. [Canonical Gear (OpenMW)](https://www.nexusmods.com/morrowind/mods/57661)
+    * 1.1.1 to 2.0
 
 **Removed**
 
