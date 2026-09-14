@@ -68,7 +68,7 @@ description: Release Notes
 19. [Unique Uniques](https://www.nexusmods.com/morrowind/mods/58990)
     * 1.01 to 1.11
 20. [Move-Like-This - Directional Attacks (OpenMW)](https://www.nexusmods.com/morrowind/mods/59154)
-    * 2.1.1 to 2.2
+    * 2.1.1 to 2.2.2
 21. [Muffinwind Rebaked](https://www.nexusmods.com/morrowind/mods/59081)
     * 1.6 to 1.61
 22. [The Old Lie](https://www.nexusmods.com/morrowind/mods/58403)
@@ -118,7 +118,7 @@ description: Release Notes
 44. [Devilish Horse Riding (OpenMW)](https://www.nexusmods.com/morrowind/mods/55479)
     * 2.1 to 2.2
 45. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
-    * 5.0.5 to 5.1
+    * 5.0.5 to 5.2.2
 46. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
     * 1.4.3 to 1.4.7
 47. [Protective Guards (OpenMW)](https://www.nexusmods.com/morrowind/mods/46992)
@@ -149,6 +149,10 @@ description: Release Notes
     * 1.6 to 1.6.1
 60. [Meaningful Traps](https://www.nexusmods.com/morrowind/mods/58865)
     * 1.0 to 1.1.1
+61. [Bullseye - Marksman Overhaul (OpenMW)](https://www.nexusmods.com/morrowind/mods/58511)
+    * 1.3.8 to 1.3.9
+62. [Take Cover (OpenMW)](https://www.nexusmods.com/morrowind/mods/54976)
+    * 1.6.2 to 1.7.1
 
 **Removed**
 
