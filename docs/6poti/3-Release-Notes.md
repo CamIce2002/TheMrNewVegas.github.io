@@ -43,6 +43,15 @@ description: Release Notes
 31. [Urshilaku Are Serious - Burial Caverns (OpenMW)](https://www.nexusmods.com/morrowind/mods/59826)
 32. [This Isn't the Guar](https://www.nexusmods.com/morrowind/mods/59650)
 33. [Imperial Business](https://www.nexusmods.com/morrowind/mods/54455)
+34. [Vvardenfell On Vellum - Death and Taxes Addon](https://www.nexusmods.com/morrowind/mods/59727)
+35. [AFFresh Kishni Quest Fixes](https://www.nexusmods.com/morrowind/mods/59645)
+36. [Seyda Neen Census and Excise Office Window Fix](https://www.nexusmods.com/morrowind/mods/59534)
+37. [Goldbrand Reforged - The Quest for Eltonbrand](https://www.nexusmods.com/morrowind/mods/52277)
+38. [Forge of Hilbongard Reignited - Goldbrand Reforged Patch](https://www.nexusmods.com/morrowind/mods/59565)
+39. [Judgemental Ancestor Ghost](https://www.nexusmods.com/morrowind/mods/59267)
+40. [(OpenMW) Everyday Life of Caius Cosades](https://www.nexusmods.com/morrowind/mods/59345)
+41. [Embassy of the Root - An Argonian Mission Overhaul](https://www.nexusmods.com/morrowind/mods/59991)
+42. [Horiz0n - OpenMW View Distance Manager](https://www.nexusmods.com/morrowind/mods/59668)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
