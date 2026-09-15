@@ -29,7 +29,7 @@ description: Release Notes
 17. [Morag Tong Writs Cost Tweak](https://www.nexusmods.com/morrowind/mods/58865)
 18. [Questman - Modern Quest Journal (OpenMW)](https://www.nexusmods.com/morrowind/mods/59493)
 19. [(Open MW) Hidden Traps](https://www.nexusmods.com/morrowind/mods/59667)
-20. [Helnim - Wooden Walls and Docks](https://www.nexusmods.com/morrowind/mods/59382)
+20. [Alternate Bound Armor](https://www.nexusmods.com/morrowind/mods/55678)
 21. [The Grand Inquisitor's Ring](https://www.nexusmods.com/morrowind/mods/48808)
 22. [The Grand Inquisitor's Ring - Baar Dau Ministry of Truth Patch](https://www.nexusmods.com/morrowind/mods/60137)
 23. [Gorne Conservatory - A Player Home for TR](https://www.nexusmods.com/morrowind/mods/60082)
@@ -65,7 +65,7 @@ description: Release Notes
 53. [FlexTag - The Tagging Framework That HOLDS](https://www.nexusmods.com/morrowind/mods/59488)
 54. [Telvanni Sea Beacons - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/60063)
 55. [Naga Argonians of Vvardenfell](https://www.nexusmods.com/morrowind/mods/60001)
-56. [Alternate Bound Armor](https://www.nexusmods.com/morrowind/mods/55678)
+56. 
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
