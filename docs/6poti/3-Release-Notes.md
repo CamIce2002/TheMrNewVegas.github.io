@@ -62,6 +62,8 @@ description: Release Notes
 50. [Ghostfence Zone - Levitation Restriction (OpenMW)](https://www.nexusmods.com/morrowind/mods/60166)
 51. [Lawful Grievance - The Coin-Patcher of Caldera](https://www.nexusmods.com/morrowind/mods/59890)
 52. [Distant Flame for Concept Art Place (Vivec City) (OpenMW)](https://www.nexusmods.com/morrowind/mods/60162)
+53. [FlexTag - The Tagging Framework That HOLDS](https://www.nexusmods.com/morrowind/mods/59488)
+54. [Telvanni Sea Beacons - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/60063)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -230,6 +232,8 @@ description: Release Notes
     * 1.18 to 1.19
 83. [The Mananaut's Message Tamriel_Data Set](https://www.nexusmods.com/morrowind/mods/58194)
     * 1.1 to 1.2
+84. [Iron Fist for OpenMW](https://www.nexusmods.com/morrowind/mods/57619)
+    * 3.0 to 3.1
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
