@@ -79,6 +79,8 @@ description: Release Notes
 67. [The South Wall Brawler](https://www.nexusmods.com/morrowind/mods/59856)
 68. [Thieves Guild Quest Revisions](https://www.nexusmods.com/morrowind/mods/59744)
 69. [Vennin's Vandus Tomb Overhaul](https://www.nexusmods.com/morrowind/mods/59698)
+70. [Verdant Bitter Coast - Fern Trees](https://www.nexusmods.com/morrowind/mods/59602)
+71. [Solstheim Region-Lock QoL Fixes](https://www.nexusmods.com/morrowind/mods/59159)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
