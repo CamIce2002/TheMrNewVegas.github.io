@@ -61,6 +61,7 @@ description: Release Notes
 49. [Twilots Poison Song Heads and Hairs Unlocked](https://www.nexusmods.com/morrowind/mods/59958)
 50. [Ghostfence Zone - Levitation Restriction (OpenMW)](https://www.nexusmods.com/morrowind/mods/60166)
 51. [Lawful Grievance - The Coin-Patcher of Caldera](https://www.nexusmods.com/morrowind/mods/59890)
+52. [Distant Flame for Concept Art Place (Vivec City) (OpenMW)](https://www.nexusmods.com/morrowind/mods/60162)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
