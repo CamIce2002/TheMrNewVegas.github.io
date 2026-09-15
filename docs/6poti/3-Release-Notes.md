@@ -64,6 +64,8 @@ description: Release Notes
 52. [Distant Flame for Concept Art Place (Vivec City) (OpenMW)](https://www.nexusmods.com/morrowind/mods/60162)
 53. [FlexTag - The Tagging Framework That HOLDS](https://www.nexusmods.com/morrowind/mods/59488)
 54. [Telvanni Sea Beacons - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/60063)
+55. [Naga Argonians of Vvardenfell](https://www.nexusmods.com/morrowind/mods/60001)
+56. [Alternate Bound Armor](https://www.nexusmods.com/morrowind/mods/55678)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -234,6 +236,13 @@ description: Release Notes
     * 1.1 to 1.2
 84. [Iron Fist for OpenMW](https://www.nexusmods.com/morrowind/mods/57619)
     * 3.0 to 3.1
+85. [Pursuit](https://www.nexusmods.com/morrowind/mods/50271)
+    * 2.0 to 2.1
+86. [Unofficial Tamriel Rebuilt Spells (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58693)
+    * 1.6 to 1.7
+87. [Biz'Kuitz Blissful Mind - Alfiq Scholar Companion](https://www.nexusmods.com/morrowind/mods/59156)
+    * 1.0.4 to 1.1
+88. 
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
