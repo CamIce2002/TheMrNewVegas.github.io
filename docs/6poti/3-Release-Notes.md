@@ -90,7 +90,7 @@ description: Release Notes
 2. [Tamriel_Data HD](https://www.nexusmods.com/morrowind/mods/59927)
    * 25.05 to 26.08
 3. [Clayby's Cream Cheese and Cherry Cake](https://www.nexusmods.com/morrowind/mods/55915)
-   * 1.0 to 2.2
+   * 1.0 to 2.3
 4. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
    * 25.08.12 to 26.08.23
 5. [Signposts Replacer for Tamriel Rebuilt and Vvardenfell](https://www.nexusmods.com/morrowind/mods/55496)
@@ -174,7 +174,7 @@ description: Release Notes
 44. [Devilish Horse Riding (OpenMW)](https://www.nexusmods.com/morrowind/mods/55479)
     * 2.1 to 2.2
 45. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
-    * 5.0.5 to 5.2.2
+    * 5.0.5 to 5.2.3
 46. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
     * 1.4.3 to 1.4.7
 47. [Protective Guards (OpenMW)](https://www.nexusmods.com/morrowind/mods/46992)
@@ -228,7 +228,7 @@ description: Release Notes
 71. [Roaring Arena - Betting and Bloodletting](https://www.nexusmods.com/morrowind/mods/50954)
     * 1.1 to 1.2
 72. [The Corprusarium Experience](https://www.nexusmods.com/morrowind/mods/49738)
-    * 1.3 to 1.10
+    * 1.3 to 1.2
 73. [Interesting Outfits - Imperials](https://www.nexusmods.com/morrowind/mods/53651)
     * 1.5.1 to 1.5.2
 74. [Interesting Outfits - Kinsmer](https://www.nexusmods.com/morrowind/mods/52167)
@@ -256,7 +256,17 @@ description: Release Notes
 85. [Pursuit](https://www.nexusmods.com/morrowind/mods/50271)
     * 2.0 to 2.1
 86. [Unofficial Tamriel Rebuilt Spells (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58693)
-    * 1.6 to 1.7 
+    * 1.6 to 1.7
+87. [Evasion - Custom Dodging Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58590)
+    * 1.4.1 to 1.5
+88. [Throwing - Custom Combat Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58705)
+    * 1.6 to 1.7
+89. [Toxicology - Custom Poisoning Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58976)
+    * 1.6 to 1.7
+90. [Dignitas - Reputation Titles and Descriptions (OpenMW)](https://www.nexusmods.com/morrowind/mods/58572)
+    * 1.3 to 1.4
+91. [Mutiny - Alternate Start](https://www.nexusmods.com/morrowind/mods/57702)
+    * 1.5 to 1.6
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
