@@ -76,6 +76,9 @@ description: Release Notes
 64. [Blessings](https://www.nexusmods.com/morrowind/mods/56176)
 65. [Telvanni Rootmaster's Boat](https://www.nexusmods.com/morrowind/mods/59934)
 66. [Configurable Gold Weight (OpenMW)](https://www.nexusmods.com/morrowind/mods/59902)
+67. [The South Wall Brawler](https://www.nexusmods.com/morrowind/mods/59856)
+68. [Thieves Guild Quest Revisions](https://www.nexusmods.com/morrowind/mods/59744)
+69. [Vennin's Vandus Tomb Overhaul](https://www.nexusmods.com/morrowind/mods/59698)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
