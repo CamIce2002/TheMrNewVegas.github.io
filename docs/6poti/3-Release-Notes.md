@@ -242,7 +242,6 @@ description: Release Notes
     * 1.6 to 1.7
 87. [Biz'Kuitz Blissful Mind - Alfiq Scholar Companion](https://www.nexusmods.com/morrowind/mods/59156)
     * 1.0.4 to 1.1
-88. 
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
@@ -256,6 +255,9 @@ description: Release Notes
 9. [The Tea Shop in Old Ebonheart](https://www.nexusmods.com/morrowind/mods/54507)
 10. [Hlaalu Seyda Neen - Lighthouse Only](https://www.nexusmods.com/morrowind/mods/58163)
 11. [Seyda Neen Better Docks](https://www.nexusmods.com/morrowind/mods/49412)
+12. [Ashfront - Sheogorad](https://www.nexusmods.com/morrowind/mods/57944)
+13. [Ashfront - Rotheran Rebuilt](https://www.nexusmods.com/morrowind/mods/57943)
+14. [Ashfront - Ruined Redaynia](https://www.nexusmods.com/morrowind/mods/57947)
    
 ## POTI 2.3.2 - 08-25-2026
 
