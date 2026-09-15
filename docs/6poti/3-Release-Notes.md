@@ -60,7 +60,7 @@ description: Release Notes
 48. [Moved to the Mainland - OAAB Tel Raloran](https://www.nexusmods.com/morrowind/mods/60171)
 49. [Twilots Poison Song Heads and Hairs Unlocked](https://www.nexusmods.com/morrowind/mods/59958)
 50. [Ghostfence Zone - Levitation Restriction (OpenMW)](https://www.nexusmods.com/morrowind/mods/60166)
-51. [Lawful Grievance - The Coin-Patcher of Caldera](https://www.nexusmods.com/morrowind/mods/59890)
+51. [Earnest Vivec - Vanilla Style Replacer](https://www.nexusmods.com/morrowind/mods/60194)
 52. [Distant Flame for Concept Art Place (Vivec City) (OpenMW)](https://www.nexusmods.com/morrowind/mods/60162)
 53. [FlexTag - The Tagging Framework That HOLDS](https://www.nexusmods.com/morrowind/mods/59488)
 54. [Telvanni Sea Beacons - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/60063)
@@ -76,12 +76,13 @@ description: Release Notes
 64. [Blessings](https://www.nexusmods.com/morrowind/mods/56176)
 65. [Telvanni Rootmaster's Boat](https://www.nexusmods.com/morrowind/mods/59934)
 66. [Configurable Gold Weight (OpenMW)](https://www.nexusmods.com/morrowind/mods/59902)
-67. [The South Wall Brawler](https://www.nexusmods.com/morrowind/mods/59856)
+67. [Mortal Ties - Yesamsi Overhaul](https://www.nexusmods.com/morrowind/mods/59961)
 68. [Thieves Guild Quest Revisions](https://www.nexusmods.com/morrowind/mods/59744)
 69. [Vennin's Vandus Tomb Overhaul](https://www.nexusmods.com/morrowind/mods/59698)
 70. [Verdant Bitter Coast - Fern Trees](https://www.nexusmods.com/morrowind/mods/59602)
 71. [Solstheim Region-Lock QoL Fixes](https://www.nexusmods.com/morrowind/mods/59159)
 72. [Rocky Sundered Scar - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/60251)
+73. [Fortune Tellers](https://www.nexusmods.com/morrowind/mods/59962)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -255,8 +256,7 @@ description: Release Notes
 85. [Pursuit](https://www.nexusmods.com/morrowind/mods/50271)
     * 2.0 to 2.1
 86. [Unofficial Tamriel Rebuilt Spells (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58693)
-    * 1.6 to 1.7
-87. 
+    * 1.6 to 1.7 
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
@@ -275,6 +275,7 @@ description: Release Notes
 14. [Ashfront - Ruined Redaynia](https://www.nexusmods.com/morrowind/mods/57947)
 15. [Realistic Imperial Forts](https://www.nexusmods.com/morrowind/mods/56112)
 16. [Weight of Small Things](https://www.nexusmods.com/morrowind/mods/57720)
+17. [Divine Vivec](https://www.nexusmods.com/morrowind/mods/46342)
    
 ## POTI 2.3.2 - 08-25-2026
 
