@@ -71,6 +71,11 @@ description: Release Notes
 59. [Dres Saltplains Armor](https://www.nexusmods.com/morrowind/mods/60167)
 60. [Great House Dres on Vvardenfell](https://www.nexusmods.com/morrowind/mods/60031)
 61. [Great House Indoril on Vvardenfell](https://www.nexusmods.com/morrowind/mods/60111)
+62. [No Fires in Bad Weather - Updated](https://www.nexusmods.com/morrowind/mods/56176)
+63. [Unique Uniques - Patches](https://www.nexusmods.com/morrowind/mods/56176)
+64. [Blessings](https://www.nexusmods.com/morrowind/mods/56176)
+65. [Telvanni Rootmaster's Boat](https://www.nexusmods.com/morrowind/mods/59934)
+66. [Configurable Gold Weight (OpenMW)](https://www.nexusmods.com/morrowind/mods/59902)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -157,8 +162,8 @@ description: Release Notes
     * 0.95 to 0.963
 42. [Harder Better Faster Stronger (HBFS)](https://www.nexusmods.com/morrowind/mods/55542)
     * 2.9.1 to 3.0.1
-43. [Weight of Small Things](https://www.nexusmods.com/morrowind/mods/57720)
-    * 1.1 to 2.0
+43. [Biz'Kuitz Blissful Mind - Alfiq Scholar Companion](https://www.nexusmods.com/morrowind/mods/59156)
+    * 1.0.4 to 1.1
 44. [Devilish Horse Riding (OpenMW)](https://www.nexusmods.com/morrowind/mods/55479)
     * 2.1 to 2.2
 45. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
@@ -245,8 +250,7 @@ description: Release Notes
     * 2.0 to 2.1
 86. [Unofficial Tamriel Rebuilt Spells (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58693)
     * 1.6 to 1.7
-87. [Biz'Kuitz Blissful Mind - Alfiq Scholar Companion](https://www.nexusmods.com/morrowind/mods/59156)
-    * 1.0.4 to 1.1
+87. 
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
@@ -264,6 +268,7 @@ description: Release Notes
 13. [Ashfront - Rotheran Rebuilt](https://www.nexusmods.com/morrowind/mods/57943)
 14. [Ashfront - Ruined Redaynia](https://www.nexusmods.com/morrowind/mods/57947)
 15. [Realistic Imperial Forts](https://www.nexusmods.com/morrowind/mods/56112)
+16. [Weight of Small Things](https://www.nexusmods.com/morrowind/mods/57720)
    
 ## POTI 2.3.2 - 08-25-2026
 
