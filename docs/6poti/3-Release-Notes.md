@@ -55,8 +55,12 @@ description: Release Notes
 43. [Tamriel ReBalanced - Deadlier Denizens](https://www.nexusmods.com/morrowind/mods/60060)
 44. [Mortal Ties - Yesamsi Overhaul](https://www.nexusmods.com/morrowind/mods/59961)
 45. [Marry Ajira Redux](https://www.nexusmods.com/morrowind/mods/60247)
-46. [Telvanni Mouth Robe Uniforms](https://www.nexusmods.com/morrowind/mods/60244)
+46. [Telvanni Mouth Robes](https://www.nexusmods.com/morrowind/mods/60244)
 47. [Telvanni Magister Robes - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/60106)
+48. [Moved to the Mainland - OAAB Tel Raloran](https://www.nexusmods.com/morrowind/mods/60171)
+49. [Twilots Poison Song Heads and Hairs Unlocked](https://www.nexusmods.com/morrowind/mods/59958)
+50. [Ghostfence Zone - Levitation Restriction (OpenMW)](https://www.nexusmods.com/morrowind/mods/60166)
+51. [Lawful Grievance - The Coin-Patcher of Caldera](https://www.nexusmods.com/morrowind/mods/59890)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
