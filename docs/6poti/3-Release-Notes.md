@@ -65,7 +65,12 @@ description: Release Notes
 53. [FlexTag - The Tagging Framework That HOLDS](https://www.nexusmods.com/morrowind/mods/59488)
 54. [Telvanni Sea Beacons - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/60063)
 55. [Naga Argonians of Vvardenfell](https://www.nexusmods.com/morrowind/mods/60001)
-56. 
+56. [Boss Overhaul - Dagoth Ur](https://www.nexusmods.com/morrowind/mods/56809)
+57. [Imperial Forts Reimagined](https://www.nexusmods.com/morrowind/mods/59631)
+58. [Simplified Grove of Ben'Abi](https://www.nexusmods.com/morrowind/mods/48683)\
+59. [Dres Saltplains Armor](https://www.nexusmods.com/morrowind/mods/60167)
+60. [Great House Dres on Vvardenfell](https://www.nexusmods.com/morrowind/mods/60031)
+61. [Great House Indoril on Vvardenfell](https://www.nexusmods.com/morrowind/mods/60111)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -258,6 +263,7 @@ description: Release Notes
 12. [Ashfront - Sheogorad](https://www.nexusmods.com/morrowind/mods/57944)
 13. [Ashfront - Rotheran Rebuilt](https://www.nexusmods.com/morrowind/mods/57943)
 14. [Ashfront - Ruined Redaynia](https://www.nexusmods.com/morrowind/mods/57947)
+15. [Realistic Imperial Forts](https://www.nexusmods.com/morrowind/mods/56112)
    
 ## POTI 2.3.2 - 08-25-2026
 
