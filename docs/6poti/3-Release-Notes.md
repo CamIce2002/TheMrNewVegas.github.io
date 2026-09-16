@@ -87,6 +87,7 @@ description: Release Notes
 75. [SM Bitter Coast Bark Replacer](https://www.nexusmods.com/morrowind/mods/55426)
 76. [Red Vos](https://www.nexusmods.com/morrowind/mods/44729)
 77. [Red Vos - OAAB Grazelands Patch](https://www.nexusmods.com/morrowind/mods/57811)
+78. [Silent Magic Equip (OpenMW)](https://www.nexusmods.com/morrowind/mods/60259)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
