@@ -298,6 +298,7 @@ description: Release Notes
 19. [Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/50151)
 20. [Suran Dancer Randomized](https://www.nexusmods.com/morrowind/mods/53389)
 21. [Imperial Knights Faction](https://www.nexusmods.com/morrowind/mods/50643)
+22. [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/57856)
    
 ## POTI 2.3.2 - 08-25-2026
 
