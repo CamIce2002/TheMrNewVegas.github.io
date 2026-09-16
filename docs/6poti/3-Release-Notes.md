@@ -83,6 +83,8 @@ description: Release Notes
 71. [Solstheim Region-Lock QoL Fixes](https://www.nexusmods.com/morrowind/mods/59159)
 72. [Rocky Sundered Scar - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/60251)
 73. [Fortune Tellers](https://www.nexusmods.com/morrowind/mods/59962)
+74. [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
+75. [SM Bitter Coast Bark Replacer](https://www.nexusmods.com/morrowind/mods/55426)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -286,6 +288,8 @@ description: Release Notes
 15. [Realistic Imperial Forts](https://www.nexusmods.com/morrowind/mods/56112)
 16. [Weight of Small Things](https://www.nexusmods.com/morrowind/mods/57720)
 17. [Divine Vivec](https://www.nexusmods.com/morrowind/mods/46342)
+18. [Swamp Rocks](https://www.nexusmods.com/morrowind/mods/45673)
+19. [Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/50151)
    
 ## POTI 2.3.2 - 08-25-2026
 
