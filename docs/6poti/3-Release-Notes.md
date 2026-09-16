@@ -270,7 +270,7 @@ description: Release Notes
 88. [Throwing - Custom Combat Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58705)
     * 1.6 to 1.7
 89. [Toxicology - Custom Poisoning Skill (OpenMW)](https://www.nexusmods.com/morrowind/mods/58976)
-    * 1.6 to 1.7
+    * 1.6 to 1.7.1
 90. [Dignitas - Reputation Titles and Descriptions (OpenMW)](https://www.nexusmods.com/morrowind/mods/58572)
     * 1.3 to 1.4
 91. [Mutiny - Alternate Start](https://www.nexusmods.com/morrowind/mods/57702)
