@@ -89,6 +89,8 @@ description: Release Notes
 77. [Red Vos - OAAB Grazelands Patch](https://www.nexusmods.com/morrowind/mods/57811)
 78. [Silent Magic Equip (OpenMW)](https://www.nexusmods.com/morrowind/mods/60259)
 79. [Expanding Blight (OpenMW)](https://www.nexusmods.com/morrowind/mods/60258)
+80. [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
+81. [Mage Robes for OpenMW-Lua](https://modding-openmw.gitlab.io/mage-robes-for-openmw-lua/)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
