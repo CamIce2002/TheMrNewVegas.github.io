@@ -296,6 +296,7 @@ description: Release Notes
 17. [Divine Vivec](https://www.nexusmods.com/morrowind/mods/46342)
 18. [Swamp Rocks](https://www.nexusmods.com/morrowind/mods/45673)
 19. [Morrowind Swamp Trees](https://www.nexusmods.com/morrowind/mods/50151)
+20. [Suran Dancer Randomized](https://www.nexusmods.com/morrowind/mods/53389)
    
 ## POTI 2.3.2 - 08-25-2026
 
