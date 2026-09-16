@@ -85,6 +85,8 @@ description: Release Notes
 73. [Fortune Tellers](https://www.nexusmods.com/morrowind/mods/59962)
 74. [SM Bitter Coast Tree Replacer](https://www.nexusmods.com/morrowind/mods/49883)
 75. [SM Bitter Coast Bark Replacer](https://www.nexusmods.com/morrowind/mods/55426)
+76. [Red Vos](https://www.nexusmods.com/morrowind/mods/44729)
+77. [Red Vos - OAAB Grazelands Patch](https://www.nexusmods.com/morrowind/mods/57811)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
