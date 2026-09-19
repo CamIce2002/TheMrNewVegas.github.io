@@ -91,6 +91,7 @@ description: Release Notes
 79. [Expanding Blight (OpenMW)](https://www.nexusmods.com/morrowind/mods/60258)
 80. [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
 81. [Mage Robes for OpenMW-Lua](https://modding-openmw.gitlab.io/mage-robes-for-openmw-lua/)
+82. [(OpenMW) UI Toolkit](https://www.nexusmods.com/morrowind/mods/60303)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -142,7 +143,7 @@ description: Release Notes
 24. [AATL Official Mods](https://www.nexusmods.com/morrowind/mods/54147)
     * 1.4.2 to 1.5.4
 25. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
-    * 2.7.5 to 2.8.0
+    * 2.7.5 to 2.8.1
 26. [Magical Mainland Homes](https://www.nexusmods.com/morrowind/mods/53681)
     * 3.2 to 3.3
 27. [Diverse Khajiit](https://www.nexusmods.com/morrowind/mods/48832)
@@ -150,7 +151,7 @@ description: Release Notes
 28. [AATL Compatibility Patches](https://www.nexusmods.com/morrowind/mods/55361)
     * 1.4.2 to 1.5.4
 29. [OAAB - Tombs Extended](https://www.nexusmods.com/morrowind/mods/59110)
-    * 1.8.2 to 1.9
+    * 1.8.2 to 1.10
 30. [The Mananaut's Message TD Set](https://www.nexusmods.com/morrowind/mods/58194)
     * 1.0 to 1.1
 31. [Diverse Draugrs](https://www.nexusmods.com/morrowind/mods/56176)
@@ -172,7 +173,7 @@ description: Release Notes
 39. [OpenMW Dynamic Actors](https://www.nexusmods.com/morrowind/mods/54782)
     * 1.35 to 1.37
 40. [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
-    * 1.15 to 1.15b
+    * 1.15 to 1.15c
 41. [S3maphore - Music That Moves With the World](https://www.nexusmods.com/morrowind/mods/56836)
     * 0.95 to 0.963
 42. [Harder Better Faster Stronger (HBFS)](https://www.nexusmods.com/morrowind/mods/55542)
@@ -182,9 +183,9 @@ description: Release Notes
 44. [Devilish Horse Riding (OpenMW)](https://www.nexusmods.com/morrowind/mods/55479)
     * 2.1 to 2.2
 45. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
-    * 5.0.5 to 5.2.3
+    * 5.0.5 to 5.2.4
 46. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
-    * 1.4.3 to 1.4.7
+    * 1.4.3 to 1.4.11
 47. [Protective Guards (OpenMW)](https://www.nexusmods.com/morrowind/mods/46992)
     * 0.18 to 2.0
 48. [Shelf Control (OpenMW)](https://www.nexusmods.com/morrowind/mods/57441)
@@ -254,7 +255,7 @@ description: Release Notes
 80. [Spell Trader (OpenMW)](https://www.nexusmods.com/morrowind/mods/59229)
     * 1.2.2 to 1.2.3
 81. [Real Weapon Range Extended - OAAB - TR - PC - SHOTN](https://www.nexusmods.com/morrowind/mods/58753)
-    * 1.0.1 to 1.0.2
+    * 1.0.1 to 1.0.3
 82. [Skyrim Style Quest Notifications Great Patch Hub](https://www.nexusmods.com/morrowind/mods/55480)
     * 1.18 to 1.19
 83. [The Mananaut's Message Tamriel_Data Set](https://www.nexusmods.com/morrowind/mods/58194)
@@ -275,6 +276,14 @@ description: Release Notes
     * 1.3 to 1.4
 91. [Mutiny - Alternate Start](https://www.nexusmods.com/morrowind/mods/57702)
     * 1.5 to 1.6
+92. [Voice of the Nerevarine - Vanilla Voicelines (OpenMW)](https://www.nexusmods.com/morrowind/mods/59486)
+    * 3.14 to 3.22
+93. [(OpenMW) Alchemy Redone](https://www.nexusmods.com/morrowind/mods/59559)
+    * 1.4.2 to 2.0
+94. [Community Traits Ported (OpenMW) - Merlord's Backgrounds](https://www.nexusmods.com/morrowind/mods/58704)
+    * 1.1.12 to 1.1.14
+95. [Dreamwalking - A Vaermina Shrine Add-on](https://www.nexusmods.com/morrowind/mods/58725)
+    * 1.1 to 1.2
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
