@@ -92,6 +92,8 @@ description: Release Notes
 80. [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
 81. [Mage Robes for OpenMW-Lua](https://modding-openmw.gitlab.io/mage-robes-for-openmw-lua/)
 82. [(OpenMW) UI Toolkit](https://www.nexusmods.com/morrowind/mods/60303)
+83. [Tale of Blinding Speed - Replacer and Quest](https://www.nexusmods.com/morrowind/mods/60289)
+84. [Urshilaku's Incarnate Hut - Player Home](https://www.nexusmods.com/morrowind/mods/60300)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
