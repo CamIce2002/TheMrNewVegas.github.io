@@ -9,6 +9,8 @@ description: Release Notes
 
 ## POTI 2.4 - XX-XX-2026
 
+### Save Safe? No
+
 **Added**
 1. [Inventory Camera (OpenMW)](https://www.nexusmods.com/morrowind/mods/59968)
 2. [Pactmaker - Masque of Clavicus Vile Overhaul](https://www.nexusmods.com/morrowind/mods/59907)
@@ -310,8 +312,11 @@ description: Release Notes
 20. [Suran Dancer Randomized](https://www.nexusmods.com/morrowind/mods/53389)
 21. [Imperial Knights Faction](https://www.nexusmods.com/morrowind/mods/50643)
 22. [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/57856)
+23. [Early Transport to Mournhold](https://www.nexusmods.com/morrowind/mods/47985)
    
 ## POTI 2.3.2 - 08-25-2026
+
+### Save Safe? Yes
 
 **Added**
 1. [Ald'Ruhn Cluttered](https://www.nexusmods.com/morrowind/mods/59443)
