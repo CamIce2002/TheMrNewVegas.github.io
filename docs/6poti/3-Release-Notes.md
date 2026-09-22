@@ -143,7 +143,7 @@ description: Release Notes
 20. [Move-Like-This - Directional Attacks (OpenMW)](https://www.nexusmods.com/morrowind/mods/59154)
     * 2.1.1 to 2.2.2
 21. [Muffinwind Rebaked](https://www.nexusmods.com/morrowind/mods/59081)
-    * 1.6 to 1.61
+    * 1.6 to 1.71
 22. [The Old Lie](https://www.nexusmods.com/morrowind/mods/58403)
     * 1.2 to 1.3
 23. [Death and Taxes](https://www.nexusmods.com/morrowind/mods/58469)
@@ -235,11 +235,11 @@ description: Release Notes
 66. [Baths of Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/58936)
     * 1.04 to 2.01
 67. [Devilish Touch of Madness (OpenMW)](https://www.nexusmods.com/morrowind/mods/59337)
-    * 1.8 to 2.0
+    * 1.8 to 2.2
 68. [Help a Khajiit reach the City of Good People](https://www.nexusmods.com/morrowind/mods/50445)
     * 2.0 to 3.1
 69. [The Soggy Muffin](https://www.nexusmods.com/morrowind/mods/56717)
-    * 2.9 to 2.93
+    * 2.9 to 2.95
 70. [Vvardenfell on Vellum](https://www.nexusmods.com/morrowind/mods/59219)
     * 2.0 to 2.0.1
 71. [Roaring Arena - Betting and Bloodletting](https://www.nexusmods.com/morrowind/mods/50954)
@@ -287,11 +287,17 @@ description: Release Notes
 92. [Voice of the Nerevarine - Vanilla Voicelines (OpenMW)](https://www.nexusmods.com/morrowind/mods/59486)
     * 3.14 to 3.22
 93. [(OpenMW) Alchemy Redone](https://www.nexusmods.com/morrowind/mods/59559)
-    * 1.4.2 to 2.0
+    * 1.4.2 to 2.0.1
 94. [Community Traits Ported (OpenMW) - Merlord's Backgrounds](https://www.nexusmods.com/morrowind/mods/58704)
     * 1.1.12 to 1.1.14
 95. [Dreamwalking - A Vaermina Shrine Add-on](https://www.nexusmods.com/morrowind/mods/58725)
     * 1.1 to 1.2
+96. [(OpenMW) Dangers of Broken Artifacts](https://www.nexusmods.com/morrowind/mods/58356)
+    * 1.1.1 to 1.1.2
+97. [Interesting Outfits - Project Cyrodiil Guards](https://www.nexusmods.com/morrowind/mods/56804)
+    * 1.0 to 1.2
+98. [Interesting Outfits - SHOTN Guards](https://www.nexusmods.com/morrowind/mods/56803)
+    * 1.0 to 1.1
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
