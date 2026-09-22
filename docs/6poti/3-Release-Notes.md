@@ -99,6 +99,7 @@ description: Release Notes
 85. [Devilish Guar Riding Price Patch](https://www.nexusmods.com/morrowind/mods/60328)
 86. [Devilish Horse Riding Price Patch](https://www.nexusmods.com/morrowind/mods/60312)
 87. [Harsh Measures (OpenMW)](https://www.nexusmods.com/morrowind/mods/60316)
+88. [Debtor Background (OpenMW)](https://www.nexusmods.com/morrowind/mods/58863)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
