@@ -20,9 +20,9 @@ description: Release Notes
 6. [Diverse Corprus Stalkers](https://www.nexusmods.com/morrowind/mods/56176)
 7. [Moved to the Mainland - Tel Chendzel](https://www.nexusmods.com/morrowind/mods/59932)
 8. [Moved to the Mainland - Drinking and Delving](https://www.nexusmods.com/morrowind/mods/59894)
-9. [Moved to the Mainland - Old Ebonheart Outskirts and Lighthouse](https://www.nexusmods.com/morrowind/mods/59885)
+9. [Slightly Better Nordic Silver Claymore](https://www.nexusmods.com/morrowind/mods/60333)
 10. [TaiyakaJade's Mournhold Courtiers - Tamriel Data Edition](https://www.nexusmods.com/morrowind/mods/59985)
-11. [Old Ebonheart Slum Sprawl - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/59807)
+11. [Harsh Measures (OpenMW)](https://www.nexusmods.com/morrowind/mods/60316)
 12. [Port Telvannis - Redux](https://www.nexusmods.com/morrowind/mods/59449)
 13. [Plaguebearers](https://www.nexusmods.com/morrowind/mods/56176)
 14. [Diverse Blood OpenMW Lua](https://www.nexusmods.com/morrowind/mods/59776)
@@ -41,7 +41,7 @@ description: Release Notes
 27. [Wrack and Ruin - A Gnaar Mok Overhaul](https://www.nexusmods.com/morrowind/mods/59766)
 28. [Seyda Neen - Swamp Fever Capital](https://www.nexusmods.com/morrowind/mods/59845)
 29. [Scum and Villainy - A Hla Oad Overhaul](https://www.nexusmods.com/morrowind/mods/60077)
-30. [Moved to the Mainland - Tamrielic Treasures](https://www.nexusmods.com/morrowind/mods/60013)
+30. [Debtor Background (OpenMW)](https://www.nexusmods.com/morrowind/mods/58863)
 31. [Urshilaku Are Serious - Burial Caverns (OpenMW)](https://www.nexusmods.com/morrowind/mods/59826)
 32. [This Isn't the Guar](https://www.nexusmods.com/morrowind/mods/59650)
 33. [Imperial Business](https://www.nexusmods.com/morrowind/mods/54455)
@@ -98,8 +98,6 @@ description: Release Notes
 84. [Urshilaku's Incarnate Hut - Player Home](https://www.nexusmods.com/morrowind/mods/60300)
 85. [Devilish Guar Riding Price Patch](https://www.nexusmods.com/morrowind/mods/60328)
 86. [Devilish Horse Riding Price Patch](https://www.nexusmods.com/morrowind/mods/60312)
-87. [Harsh Measures (OpenMW)](https://www.nexusmods.com/morrowind/mods/60316)
-88. [Debtor Background (OpenMW)](https://www.nexusmods.com/morrowind/mods/58863)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -323,6 +321,7 @@ description: Release Notes
 21. [Imperial Knights Faction](https://www.nexusmods.com/morrowind/mods/50643)
 22. [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/57856)
 23. [Early Transport to Mournhold](https://www.nexusmods.com/morrowind/mods/47985)
+24. [Morag Tong Attacks](https://www.nexusmods.com/morrowind/mods/54524)
    
 ## POTI 2.3.2 - 08-25-2026
 
