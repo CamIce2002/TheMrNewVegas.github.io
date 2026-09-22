@@ -96,6 +96,9 @@ description: Release Notes
 82. [(OpenMW) UI Toolkit](https://www.nexusmods.com/morrowind/mods/60303)
 83. [Tale of Blinding Speed - Replacer and Quest](https://www.nexusmods.com/morrowind/mods/60289)
 84. [Urshilaku's Incarnate Hut - Player Home](https://www.nexusmods.com/morrowind/mods/60300)
+85. [Devilish Guar Riding Price Patch](https://www.nexusmods.com/morrowind/mods/60328)
+86. [Devilish Horse Riding Price Patch](https://www.nexusmods.com/morrowind/mods/60312)
+87. [Harsh Measures (OpenMW)](https://www.nexusmods.com/morrowind/mods/60316)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
