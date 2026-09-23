@@ -32,23 +32,17 @@ description: Path of the Incarnate Installation Guide
 
 - If you are installing the list using a downloaded .wabba file, such as from the POTI Nexus page, then click on "Install from Disk" and set the Target Modlist path to your file.
 
-- Set your modlist installation location to an unprotected folder outside of Program Files (IE: C:/Modlists/POTI) & it will automatically create the downloads directory for you. Press the Install button when you are done and installation will begin.
+- Set your modlist installation location to an unprotected folder outside of Program Files (IE: C:/Modlists/POTI) & it will automatically create the downloads directory for you. Press the Install button when you are ready and installation will begin.
 
-### 4.) Mod Organizer 2 Setup 
+### 4.) Time to Play 
 
-- After the Wabbajack installation is done, make sure in Mod Organizer that the OpenMW application directories in the dropdown menu match the locations on your system. If they do not, change them so that they do as detailed below.
+- After the Wabbajack installation process is finished, launch the ModOrganizer.exe from your POTI folder.
 
-- Launch ModOrganizer.exe from your POTI folder, navigate to the dropdown menu at the top right, select it, then select "Edit".
+- Click "Run" on the upper right-hand side.
 
-- Set the binary paths for "Path of the Incarnate" to openmw.exe, and the OpenMW Launcher to OpenMW-Launcher.exe, both of which can be found in the .OpenMW folder within your Path of the Incarnate folder. 
+### 5.) Updating the Modlist
 
-### 5.) Time to Play
-
-- You can now select “Path of the Incarnate” from the right hand dropdown in MO2 and press play.
-
-### 6.) Updating the Modlist
-
-- Updating Path of the Incarnate is as simple as repeating steps 3.) through 5.) of the Installation Guide using the same install paths you chose before.
+- Updating Path of the Incarnate is as simple as repeating step 3.) of the Installation Guide using the same install paths you chose before.
 
 :::danger
 - **Important:** Before updating, back up your saves or they **will** be lost. Saves can be located in your POTI folder in "profiles/Path of the Incarnate - Standard/openmw".
@@ -56,7 +50,7 @@ description: Path of the Incarnate Installation Guide
 - Once the update process has finished, you may place your saves back in their appropriate location.
 :::
 
-### 7.) Uninstalling the Modlist
+### 6.) Uninstalling the Modlist
 
 - To uninstall Path of the Incarnate, delete your POTI folder.
 
