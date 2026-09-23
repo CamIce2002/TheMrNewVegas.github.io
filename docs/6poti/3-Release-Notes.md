@@ -66,13 +66,13 @@ description: Release Notes
 52. [Distant Flame for Concept Art Place (Vivec City) (OpenMW)](https://www.nexusmods.com/morrowind/mods/60162)
 53. [FlexTag - The Tagging Framework That HOLDS](https://www.nexusmods.com/morrowind/mods/59488)
 54. [Telvanni Sea Beacons - Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/60063)
-55. [Naga Argonians of Vvardenfell](https://www.nexusmods.com/morrowind/mods/60001)
+55. [Basic Chargen - Alternate Start](https://www.nexusmods.com/morrowind/mods/57525)
 56. [Boss Overhaul - Dagoth Ur](https://www.nexusmods.com/morrowind/mods/56809)
 57. [Imperial Forts Reimagined](https://www.nexusmods.com/morrowind/mods/59631)
 58. [Simplified Grove of Ben'Abi](https://www.nexusmods.com/morrowind/mods/48683)
 59. [Dres Saltplains Armor](https://www.nexusmods.com/morrowind/mods/60167)
-60. [Great House Dres on Vvardenfell](https://www.nexusmods.com/morrowind/mods/60031)
-61. [Great House Indoril on Vvardenfell](https://www.nexusmods.com/morrowind/mods/60111)
+60. [Devilish Guar Riding Price Patch](https://www.nexusmods.com/morrowind/mods/60328)
+61. [Devilish Horse Riding Price Patch](https://www.nexusmods.com/morrowind/mods/60312)
 62. [No Fires in Bad Weather - Updated](https://www.nexusmods.com/morrowind/mods/56176)
 63. [Unique Uniques - Patches](https://www.nexusmods.com/morrowind/mods/56176)
 64. [Blessings](https://www.nexusmods.com/morrowind/mods/56176)
@@ -96,8 +96,6 @@ description: Release Notes
 82. [(OpenMW) UI Toolkit](https://www.nexusmods.com/morrowind/mods/60303)
 83. [Tale of Blinding Speed - Replacer and Quest](https://www.nexusmods.com/morrowind/mods/60289)
 84. [Urshilaku's Incarnate Hut - Player Home](https://www.nexusmods.com/morrowind/mods/60300)
-85. [Devilish Guar Riding Price Patch](https://www.nexusmods.com/morrowind/mods/60328)
-86. [Devilish Horse Riding Price Patch](https://www.nexusmods.com/morrowind/mods/60312)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -322,6 +320,7 @@ description: Release Notes
 22. [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/57856)
 23. [Early Transport to Mournhold](https://www.nexusmods.com/morrowind/mods/47985)
 24. [Morag Tong Attacks](https://www.nexusmods.com/morrowind/mods/54524)
+25. [Mutiny - Alternate Start](https://www.nexusmods.com/morrowind/mods/57702)
    
 ## POTI 2.3.2 - 08-25-2026
 
