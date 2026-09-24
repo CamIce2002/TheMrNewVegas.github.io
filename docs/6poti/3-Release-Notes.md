@@ -181,7 +181,7 @@ description: Release Notes
 41. [S3maphore - Music That Moves With the World](https://www.nexusmods.com/morrowind/mods/56836)
     * 0.95 to 0.963
 42. [Harder Better Faster Stronger (HBFS)](https://www.nexusmods.com/morrowind/mods/55542)
-    * 2.9.1 to 3.0.1
+    * 2.9.1 to 3.0.2
 43. [Biz'Kuitz Blissful Mind - Alfiq Scholar Companion](https://www.nexusmods.com/morrowind/mods/59156)
     * 1.0.4 to 1.1
 44. [Devilish Horse Riding (OpenMW)](https://www.nexusmods.com/morrowind/mods/55479)
@@ -207,7 +207,7 @@ description: Release Notes
 54. [Static Switching System](https://www.nexusmods.com/morrowind/mods/57282)
     * 0.51 to 1.0
 55. [Character Traits Framework (OpenMW)](https://www.nexusmods.com/morrowind/mods/58703)
-    * 1.1 to 1.1.1
+    * 1.1 to 1.2
 56. [Project Cyrodiil](https://www.nexusmods.com/morrowind/mods/44922)
     * 25.05a to 26.09a
 57. [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921)
@@ -229,7 +229,7 @@ description: Release Notes
 65. [Baths of Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/59129)
     * 1.02 to 1.03
 66. [Baths of Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/58936)
-    * 1.04 to 2.01
+    * 1.04 to 3.0
 67. [Devilish Touch of Madness (OpenMW)](https://www.nexusmods.com/morrowind/mods/59337)
     * 1.8 to 2.2
 68. [Help a Khajiit reach the City of Good People](https://www.nexusmods.com/morrowind/mods/50445)
@@ -237,7 +237,7 @@ description: Release Notes
 69. [The Soggy Muffin](https://www.nexusmods.com/morrowind/mods/56717)
     * 2.9 to 2.95
 70. [Vvardenfell on Vellum](https://www.nexusmods.com/morrowind/mods/59219)
-    * 2.0 to 2.0.1
+    * 2.0 to 2.0.2
 71. [Roaring Arena - Betting and Bloodletting](https://www.nexusmods.com/morrowind/mods/50954)
     * 1.1 to 1.2
 72. [The Corprusarium Experience](https://www.nexusmods.com/morrowind/mods/49738)
@@ -285,7 +285,7 @@ description: Release Notes
 93. [(OpenMW) Alchemy Redone](https://www.nexusmods.com/morrowind/mods/59559)
     * 1.4.2 to 2.0.1
 94. [Community Traits Ported (OpenMW) - Merlord's Backgrounds](https://www.nexusmods.com/morrowind/mods/58704)
-    * 1.1.12 to 1.1.14
+    * 1.1.12 to 2.0
 95. [Dreamwalking - A Vaermina Shrine Add-on](https://www.nexusmods.com/morrowind/mods/58725)
     * 1.1 to 1.2
 96. [(OpenMW) Dangers of Broken Artifacts](https://www.nexusmods.com/morrowind/mods/58356)
@@ -294,6 +294,22 @@ description: Release Notes
     * 1.0 to 1.2
 98. [Interesting Outfits - SHOTN Guards](https://www.nexusmods.com/morrowind/mods/56803)
     * 1.0 to 1.1
+99. [Practice Dummies](https://www.nexusmods.com/morrowind/mods/58992)
+    * 1.2 to 1.3
+100. [Boons and Burdens - OpenMW Background Pack](https://www.nexusmods.com/morrowind/mods/59130)
+     * 2.0 to 3.0
+101. [Community Traits Ported (OpenMW) - Sage's Backgrounds](https://www.nexusmods.com/morrowind/mods/58704)
+     * 1.1.13 to 2.0
+102. [Community Traits Ported (OpenMW) - The Wretched and The Weird](https://www.nexusmods.com/morrowind/mods/58704)
+     * 1.1.11 to 2.0
+103. [Baths of Vvardenfell](https://www.nexusmods.com/morrowind/mods/57893)
+     * 2.7.9 to 2.8.4
+104. [Justice for Khartag (J.F.K.)](https://www.nexusmods.com/morrowind/mods/49832)
+     * 1.6.1 to 1.7
+105. [OAAB - Tombs and Towers Separated](https://www.nexusmods.com/morrowind/mods/59402)
+     * 1.3 to 1.4
+106. [The Stone Halls of Solstheim - Reforged](https://www.nexusmods.com/morrowind/mods/49841)
+     * 1.7.1 to 1.7.2
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
