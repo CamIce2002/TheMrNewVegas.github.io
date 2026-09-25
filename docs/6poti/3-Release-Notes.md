@@ -321,6 +321,8 @@ description: Release Notes
      * 1.01 to 1.02
 110. [Death Warrant Tweaks](https://www.nexusmods.com/morrowind/mods/58865)
      * 1.0 to 1.1
+111. [Improved Inns Expanded](https://www.nexusmods.com/morrowind/mods/48610)
+     * 1.7.4 to 1.8.0
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
