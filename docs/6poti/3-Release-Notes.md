@@ -237,7 +237,7 @@ description: Release Notes
 68. [Help a Khajiit reach the City of Good People](https://www.nexusmods.com/morrowind/mods/50445)
     * 2.0 to 3.1
 69. [The Soggy Muffin](https://www.nexusmods.com/morrowind/mods/56717)
-    * 2.9 to 2.95
+    * 2.9 to 2.96
 70. [Vvardenfell on Vellum](https://www.nexusmods.com/morrowind/mods/59219)
     * 2.0 to 2.0.2
 71. [Roaring Arena - Betting and Bloodletting](https://www.nexusmods.com/morrowind/mods/50954)
@@ -312,6 +312,12 @@ description: Release Notes
      * 1.3 to 1.4
 106. [The Stone Halls of Solstheim - Reforged](https://www.nexusmods.com/morrowind/mods/49841)
      * 1.7.1 to 1.7.2
+107. [Menacing Creatures and Bosses - Base Creatures](https://www.nexusmods.com/morrowind/mods/59200)
+     * 1.2.2 to 1.3
+108. [Menacing Creatures and Bosses - TR & PT](https://www.nexusmods.com/morrowind/mods/59200)
+     * 1.2.2 to 1.3
+109. [Menacing Creatures and Bosses - Special Creatures](https://www.nexusmods.com/morrowind/mods/59200)
+     * 1.01 to 1.02
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
