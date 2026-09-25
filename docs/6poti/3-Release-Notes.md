@@ -96,7 +96,7 @@ description: Release Notes
 82. [(OpenMW) UI Toolkit](https://www.nexusmods.com/morrowind/mods/60303)
 83. [Tale of Blinding Speed - Replacer and Quest](https://www.nexusmods.com/morrowind/mods/60289)
 84. [Urshilaku's Incarnate Hut - Player Home](https://www.nexusmods.com/morrowind/mods/60300)
-85. [Master Index Reloaded - An Updated Take on the Master Index Plugin](https://www.nexusmods.com/morrowind/mods/47301)
+85. [Master Index Reloaded - An Updated Take on the Master Index Plugin](https://www.nexusmods.com/morrowind/mods/60066)
 86. [Distant Landscapes of Tamriel](https://www.nexusmods.com/morrowind/mods/58155)
 87. [Ammo Count HUD (OpenMW)](https://www.nexusmods.com/morrowind/mods/58307)
 
