@@ -96,6 +96,8 @@ description: Release Notes
 82. [(OpenMW) UI Toolkit](https://www.nexusmods.com/morrowind/mods/60303)
 83. [Tale of Blinding Speed - Replacer and Quest](https://www.nexusmods.com/morrowind/mods/60289)
 84. [Urshilaku's Incarnate Hut - Player Home](https://www.nexusmods.com/morrowind/mods/60300)
+85. [Master Index Reloaded - An Updated Take on the Master Index Plugin](https://www.nexusmods.com/morrowind/mods/47301)
+86. [Distant Landscapes of Tamriel](https://www.nexusmods.com/morrowind/mods/58155)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -337,6 +339,7 @@ description: Release Notes
 23. [Early Transport to Mournhold](https://www.nexusmods.com/morrowind/mods/47985)
 24. [Morag Tong Attacks](https://www.nexusmods.com/morrowind/mods/54524)
 25. [Mutiny - Alternate Start](https://www.nexusmods.com/morrowind/mods/57702)
+26. [Master Index Redux](https://www.nexusmods.com/morrowind/mods/48977)
    
 ## POTI 2.3.2 - 08-25-2026
 
