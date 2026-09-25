@@ -98,6 +98,7 @@ description: Release Notes
 84. [Urshilaku's Incarnate Hut - Player Home](https://www.nexusmods.com/morrowind/mods/60300)
 85. [Master Index Reloaded - An Updated Take on the Master Index Plugin](https://www.nexusmods.com/morrowind/mods/47301)
 86. [Distant Landscapes of Tamriel](https://www.nexusmods.com/morrowind/mods/58155)
+87. [Ammo Count HUD (OpenMW)](https://www.nexusmods.com/morrowind/mods/58307)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -145,7 +146,7 @@ description: Release Notes
 22. [The Old Lie](https://www.nexusmods.com/morrowind/mods/58403)
     * 1.2 to 1.3
 23. [Death and Taxes](https://www.nexusmods.com/morrowind/mods/58469)
-    * 1.18 to 1.3.1
+    * 1.18 to 1.3.2
 24. [AATL Official Mods](https://www.nexusmods.com/morrowind/mods/54147)
     * 1.4.2 to 1.5.4
 25. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
@@ -318,6 +319,8 @@ description: Release Notes
      * 1.2.2 to 1.3
 109. [Menacing Creatures and Bosses - Special Creatures](https://www.nexusmods.com/morrowind/mods/59200)
      * 1.01 to 1.02
+110. [Death Warrant Tweaks](https://www.nexusmods.com/morrowind/mods/58865)
+     * 1.0 to 1.1
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
