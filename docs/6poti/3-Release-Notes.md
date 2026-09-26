@@ -99,6 +99,8 @@ description: Release Notes
 85. [Master Index Reloaded - An Updated Take on the Master Index Plugin](https://www.nexusmods.com/morrowind/mods/60066)
 86. [Distant Landscapes of Tamriel](https://www.nexusmods.com/morrowind/mods/58155)
 87. [Ammo Count HUD (OpenMW)](https://www.nexusmods.com/morrowind/mods/58307)
+88. [Beneath the Permafrost](https://www.nexusmods.com/morrowind/mods/58870)
+89. [A Strange Plant](https://www.nexusmods.com/morrowind/mods/42009)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -134,7 +136,7 @@ description: Release Notes
 16. [OAAB Shipwrecks](https://www.nexusmods.com/morrowind/mods/51364)
     * 3.2 to 3.3
 17. [Morrowind Extended Cut](https://www.nexusmods.com/morrowind/mods/55615)
-    * 1.03 to 1.13
+    * 1.03 to 1.14
 18. [Indoril and Mournhold Architecture Reimagined](https://www.nexusmods.com/morrowind/mods/56300)
     * 0.2 to 0.4
 19. [Unique Uniques](https://www.nexusmods.com/morrowind/mods/58990)
@@ -323,6 +325,16 @@ description: Release Notes
      * 1.0 to 1.1
 111. [Improved Inns Expanded](https://www.nexusmods.com/morrowind/mods/48610)
      * 1.7.4 to 1.8.0
+112. [OAAB _Data](https://www.nexusmods.com/morrowind/mods/49042)
+     * 2.6.2 to 2.7.0
+113. [S4V3R - Simple Automatic Saves](https://www.nexusmods.com/morrowind/mods/59665)
+     * 1.32 to 1.4
+114. [Sun's Dusk - Needs and Survival (OpenMW)](https://www.nexusmods.com/morrowind/mods/57526)
+     * 1.9.8 to 1.9.9
+115. [Jewelcrafting (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/59011)
+     * 1.0 to 1.1
+116. [Mazte - Playable Mahjong Card Game](https://www.nexusmods.com/morrowind/mods/58066)
+     * 1.1.1 to 1.1.2
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
