@@ -7,7 +7,7 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
-## POTI 2.4 - 09-XX-2026
+## POTI 2.4 - 09-26-2026
 
 ### Save Safe? No
 
@@ -124,8 +124,8 @@ description: Release Notes
    * 1.0 to 1.2
 10. [MOAR Service Refusal](https://www.nexusmods.com/morrowind/mods/59048)
     * 1.1.1 to 1.1.2
-11. [Morag Tong Attacks](https://www.nexusmods.com/morrowind/mods/54524)
-    * 1.5 to 2.2
+11. [Utility Spells (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58288)
+    * 1.5 to 1.6
 12. [OpenMW Holidays and Birthdays](https://www.nexusmods.com/morrowind/mods/58281)
     * 1.4 to 1.5.7
 13. [Pet the Scribs - Lua Edition (OpenMW)](https://www.nexusmods.com/morrowind/mods/58294)
@@ -336,8 +336,6 @@ description: Release Notes
      * 1.0 to 1.1
 116. [Mazte - Playable Mahjong Card Game](https://www.nexusmods.com/morrowind/mods/58066)
      * 1.1.1 to 1.1.2
-117. [Utility Spells (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58288)
-     * 1.5 to 1.6
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
