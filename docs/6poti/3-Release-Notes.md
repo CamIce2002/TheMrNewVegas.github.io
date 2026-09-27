@@ -7,7 +7,7 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
-## POTI 2.4 - XX-XX-2026
+## POTI 2.4 - 09-XX-2026
 
 ### Save Safe? No
 
@@ -101,6 +101,7 @@ description: Release Notes
 87. [Ammo Count HUD (OpenMW)](https://www.nexusmods.com/morrowind/mods/58307)
 88. [Beneath the Permafrost](https://www.nexusmods.com/morrowind/mods/58870)
 89. [A Strange Plant](https://www.nexusmods.com/morrowind/mods/42009)
+90. [A Hermits Request](https://www.nexusmods.com/morrowind/mods/23714)
 
 **Updated**
 1. [AATL_Data](https://www.nexusmods.com/morrowind/mods/50647)
@@ -335,6 +336,8 @@ description: Release Notes
      * 1.0 to 1.1
 116. [Mazte - Playable Mahjong Card Game](https://www.nexusmods.com/morrowind/mods/58066)
      * 1.1.1 to 1.1.2
+117. [Utility Spells (OpenMW 0.51)](https://www.nexusmods.com/morrowind/mods/58288)
+     * 1.5 to 1.6
 
 **Removed**
 1. [Holidays Across Tamriel - Vvardenfell](https://www.nexusmods.com/morrowind/mods/43131)
