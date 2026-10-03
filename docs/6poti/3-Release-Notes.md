@@ -12,7 +12,9 @@ description: Release Notes
 ### Save Safe? Yes
 
 **Added**
-
+1. [Cut-Throats and Low-Lifes - A Bandit Overhaul](https://www.nexusmods.com/morrowind/mods/60401)
+2. [Loot n Dump - Mark as Junk and Autosell Items (OpenMW)](https://www.nexusmods.com/morrowind/mods/60373)
+   
 **Updated**
 1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
    * 2.7 to 2.7.2
