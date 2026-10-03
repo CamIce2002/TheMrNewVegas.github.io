@@ -7,6 +7,42 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
+## POTI 2.4.1 - XX-XX-XXXX
+
+### Save Safe? Yes
+
+**Added**
+
+**Updated**
+1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
+   * 2.7 to 2.7.2
+2. [S4V3R - Simple Automatic Saves](https://www.nexusmods.com/morrowind/mods/59665)
+   * 1.4 to 1.5
+3. [(OpenMW) UI Toolkit](https://www.nexusmods.com/morrowind/mods/60303)
+   * 1.1 to 1.2
+4. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
+   * 26.08.23 to 26.09.27
+5. [Unique Velothi Interiors](https://www.nexusmods.com/morrowind/mods/57515)
+   * 0.7 to 0.8
+6. [Diverse Blood OpenMW Lua](https://www.nexusmods.com/morrowind/mods/59776)
+   * 2.4 to 2.4.1
+7. [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
+   * 1.15c to 1.16
+8. [Voice of the Nerevarine - Vanilla Voicelines (OpenMW)](https://www.nexusmods.com/morrowind/mods/59486)
+   * 3.22 to 3.23
+9. [Better Balanced Taunt and Persuasion (BBTaP) (OpenMW)](https://www.nexusmods.com/morrowind/mods/58903)
+   * 1.6.1 to 2.0
+10. [Ultimate Umbra](https://www.nexusmods.com/morrowind/mods/58973)
+    * 2.1 to 2.2
+11. [(OpenMW) Alchemy Redone](https://www.nexusmods.com/morrowind/mods/59559)
+    * 2.0.1 to 2.0.2
+12. [Basic Chargen - Alternate Start](https://www.nexusmods.com/morrowind/mods/57525)
+    * 3.10 to 3.11
+13. [Brute Force - Lockpicking for Barbarians (OpenMW)](https://www.nexusmods.com/morrowind/mods/57841)
+    * 2.0.1 to 2.0.2
+
+**Removed**
+
 ## POTI 2.4 - 09-26-2026
 
 ### Save Safe? No
