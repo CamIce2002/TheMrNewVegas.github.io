@@ -7,7 +7,7 @@ description: Release Notes
 
 # Releases (Newest to Oldest)  
 
-## POTI 2.4.1 - XX-XX-XXXX
+## POTI 2.4.1 - 10-XX-2026
 
 ### Save Safe? Yes
 
