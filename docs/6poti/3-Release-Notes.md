@@ -40,6 +40,22 @@ description: Release Notes
     * 3.10 to 3.11
 13. [Brute Force - Lockpicking for Barbarians (OpenMW)](https://www.nexusmods.com/morrowind/mods/57841)
     * 2.0.1 to 2.0.2
+14. [Fresh Loot (OpenMW)](https://www.nexusmods.com/morrowind/mods/56005)
+    * 3.5.4 to 3.6.2
+15. [Harsh Measures (OpenMW)](https://www.nexusmods.com/morrowind/mods/60316)
+    * 1.02 to 1.04
+16. [Iron Fist for OpenMW](https://www.nexusmods.com/morrowind/mods/57619)
+    * 3.1 to 3.2
+17. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
+    * 5.0.6 to 5.2.5
+18. [(OpenMW) Interactions Animated](https://www.nexusmods.com/morrowind/mods/59117)
+    * 1.2.3 to 1.2.3.1
+19. [Casimir's Legacy](https://www.nexusmods.com/morrowind/mods/59175)
+    * 1.0 to 1.01
+20. [Diverse Draugrs](https://www.nexusmods.com/morrowind/mods/56176)
+    * 1.9 to 1.9.4
+21. [Telvanni Mouth Robes](https://www.nexusmods.com/morrowind/mods/60244)
+    * 2.0 to 4.0
 
 **Removed**
 
