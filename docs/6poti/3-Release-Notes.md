@@ -60,6 +60,14 @@ description: Release Notes
     * 2.0 to 4.0
 22. [Inventory Camera (OpenMW)](https://www.nexusmods.com/morrowind/mods/59968)
     * 2.1 to 3.0.1
+23. [Devilish Horse Riding - Price Patch](https://www.nexusmods.com/morrowind/mods/60312)
+    * 1.1 to 1.2
+24. [Interesting Outfits - Tamriel Rebuilt Guards](https://www.nexusmods.com/morrowind/mods/55776)
+    * 2.0.5 to 2.0.6
+25. [Master Index Reloaded - A Better Take on the Master Index Plugin](https://www.nexusmods.com/morrowind/mods/60066)
+    * 1.3 to 1.4
+26. [Interesting Outfits - Cultists](https://www.nexusmods.com/morrowind/mods/51922)
+    * 2.6.4 to 2.6.5
 
 **Removed**
 
