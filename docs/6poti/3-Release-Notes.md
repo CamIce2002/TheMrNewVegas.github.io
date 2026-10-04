@@ -21,7 +21,7 @@ description: Release Notes
 2. [S4V3R - Simple Automatic Saves](https://www.nexusmods.com/morrowind/mods/59665)
    * 1.4 to 1.5
 3. [(OpenMW) UI Toolkit](https://www.nexusmods.com/morrowind/mods/60303)
-   * 1.1 to 1.2
+   * 1.1 to 1.3
 4. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
    * 26.08.23 to 26.09.27
 5. [Unique Velothi Interiors](https://www.nexusmods.com/morrowind/mods/57515)
