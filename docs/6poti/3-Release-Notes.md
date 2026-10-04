@@ -58,6 +58,8 @@ description: Release Notes
     * 1.9 to 1.9.4
 21. [Telvanni Mouth Robes](https://www.nexusmods.com/morrowind/mods/60244)
     * 2.0 to 4.0
+22. [Inventory Camera (OpenMW)](https://www.nexusmods.com/morrowind/mods/59968)
+    * 2.1 to 3.0.1
 
 **Removed**
 
