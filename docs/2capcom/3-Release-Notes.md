@@ -6,19 +6,27 @@
 
 # Release 1.2
 
-Save Safe?: Yes
-
-Updated install instructions to include downgrading steps
+Save Safe?: No
 
 **Added**
 - Vintage Repeater
+- Hydra
+- Fallout 3New Vegas Font Replacer
+- Disable Creation Club - Remove Main Menu News
+- FallUI - Confirm Boxes
+- Workshop Framework
+- Addictol Crash Logger
 
 **Removed**
 - ODW Winchester Rifle
 - Raider Armors Retextured
+- Papyrus Common Library
+- Modofonto
+- MCM Booster
 
 **Fixed**
 - Solved issues with deleted mods from Nexus
+- Updated to newest Fallout 4 version!
 
 # Release 1.1
 
