@@ -21,7 +21,7 @@ description: Capital Commonwealth Installation Guide
 
 ### 2.) Make sure the game has been ran at least once and your video settings have been configured
 
-### 3.) Downgrade your Fallout 4 to version 1.10.163.0 [Link to downgrader](https://www.nexusmods.com/fallout4/mods/81630?tab=description)
+### 3.) Downgrade your Fallout 4 to version 1.10.163.0 [Link to downgrader](https://www.nexusmods.com/fallout4/mods/81933?tab=description)
 
 ### 4.) Launch Wabbajack & go to the Cogwheel at the top right. Log into your Nexus account through here
 
