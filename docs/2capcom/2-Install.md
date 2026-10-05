@@ -21,17 +21,19 @@ description: Capital Commonwealth Installation Guide
 
 ### 2.) Make sure the game has been ran at least once and your video settings have been configured
 
-### 3.) Launch Wabbajack & go to the Cogwheel at the top right. Log into your Nexus account through here
+### 3.) Downgrade your Fallout 4 to version 1.10.163.0 [Link to downgrader](https://www.nexusmods.com/fallout4/mods/81630?tab=description)
 
-### 4.) Find Capital Commonwealth in the WJ UI, if you cannot find it make sure to check the box for non-featured, and select install
+### 4.) Launch Wabbajack & go to the Cogwheel at the top right. Log into your Nexus account through here
 
-### 5.) Set your modlist installation location to wherever your would like it (IE: C:/Modlists/Capital Commonwealth) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin
+### 5.) Find Capital Commonwealth in the WJ UI, if you cannot find it make sure to check the box for non-featured, and select install
 
-### 6.) When Install finishes, navigate to the install location and open ModOrganizer.exe
+### 6.) Set your modlist installation location to wherever your would like it (IE: C:/Modlists/Capital Commonwealth) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin
 
-### 7.) You can now select “Capital Commonwealth” from the right hand dropdown and press play  
+### 7.) When Install finishes, navigate to the install location and open ModOrganizer.exe
 
-### 8.) Go into the pause menu, the Mod Config menu and at the very top will be MCM Settings Manager, go into there and click apply on the saved settings (If you skip this step you will die from radiation when you leave Vault 111)
+### 8.) You can now select “Capital Commonwealth” from the right hand dropdown and press play  
+
+### 9.) Go into the pause menu, the Mod Config menu and at the very top will be MCM Settings Manager, go into there and click apply on the saved settings (If you skip this step you will die from radiation when you leave Vault 111)
 
 ### OPTIONALS/ULTRAWIDE: 
 
