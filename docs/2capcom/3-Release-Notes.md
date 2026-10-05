@@ -4,6 +4,22 @@
 
 ---
 
+**# Release 1.2
+
+Save Safe?: Yes
+
+Updated install instructiions to include downgrading steps
+
+**Added**
+- Vintage Repeater
+
+**Removed**
+- ODW Winchester Rifle
+- Raider Armors Retextured
+
+**Fixed**
+- Solved issues with deleted mods from Nexus
+
 # Release 1.1
 
 Save Safe?: No
