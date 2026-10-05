@@ -8,7 +8,7 @@
 
 Save Safe?: Yes
 
-Updated install instructiions to include downgrading steps
+Updated install instructions to include downgrading steps
 
 **Added**
 - Vintage Repeater
