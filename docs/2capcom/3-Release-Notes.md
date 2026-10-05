@@ -4,7 +4,7 @@
 
 ---
 
-**# Release 1.2
+# Release 1.2
 
 Save Safe?: Yes
 
