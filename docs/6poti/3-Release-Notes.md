@@ -15,7 +15,9 @@ description: Release Notes
 1. [Cut-Throats and Low-Lifes - A Bandit Overhaul](https://www.nexusmods.com/morrowind/mods/60401)
 2. [Loot n Dump - Mark as Junk and Autosell Items (OpenMW)](https://www.nexusmods.com/morrowind/mods/60373)
 3. [Death and Taxes - Uniques Unlocked](https://www.nexusmods.com/morrowind/mods/60402)
-4. [Verdant Bitter Coast Fern Trees - Animated](https://www.nexusmods.com/morrowind/mods/59602)
+4. [Akadayna - An Indoril Tower Player Home](https://www.nexusmods.com/morrowind/mods/60485)
+5. [Enchanting Remastered (OpenMW)](https://www.nexusmods.com/morrowind/mods/59279)
+6. [TD Bretonic Integrations](https://www.nexusmods.com/morrowind/mods/60475)
    
 **Updated**
 1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
@@ -45,13 +47,13 @@ description: Release Notes
 13. [Brute Force - Lockpicking for Barbarians (OpenMW)](https://www.nexusmods.com/morrowind/mods/57841)
     * 2.0.1 to 2.0.2
 14. [Fresh Loot (OpenMW)](https://www.nexusmods.com/morrowind/mods/56005)
-    * 3.5.4 to 3.6.2
+    * 3.5.4 to 3.7.3
 15. [Harsh Measures (OpenMW)](https://www.nexusmods.com/morrowind/mods/60316)
-    * 1.02 to 1.04
+    * 1.02 to 1.05
 16. [Iron Fist for OpenMW](https://www.nexusmods.com/morrowind/mods/57619)
     * 3.1 to 3.2
 17. [Fair Care (OpenMW)](https://www.nexusmods.com/morrowind/mods/55293)
-    * 5.0.6 to 5.2.5
+    * 5.0.6 to 5.3
 18. [(OpenMW) Interactions Animated](https://www.nexusmods.com/morrowind/mods/59117)
     * 1.2.3 to 1.2.3.1
 19. [Casimir's Legacy](https://www.nexusmods.com/morrowind/mods/59175)
@@ -65,7 +67,7 @@ description: Release Notes
 23. [Devilish Horse Riding - Price Patch](https://www.nexusmods.com/morrowind/mods/60312)
     * 1.1 to 1.2
 24. [Interesting Outfits - Tamriel Rebuilt Guards](https://www.nexusmods.com/morrowind/mods/55776)
-    * 2.0.5 to 2.0.6
+    * 2.0.5 to 2.0.7
 25. [Master Index Reloaded - A Better Take on the Master Index Plugin](https://www.nexusmods.com/morrowind/mods/60066)
     * 1.3 to 1.4
 26. [Interesting Outfits - Cultists](https://www.nexusmods.com/morrowind/mods/51922)
@@ -80,6 +82,18 @@ description: Release Notes
     * 1.94 to 1.95
 31. [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
     * 1.08 to 1.8b
+32. [Muffinwind Rebaked](https://www.nexusmods.com/morrowind/mods/59081)
+    * 1.71 to 1.72
+33. [Sorry Too Stormy - Bad Weather Service Refusal](https://www.nexusmods.com/morrowind/mods/58941)
+    * 1.1 to 1.2
+34. [Merits of Service (OpenMW)](https://www.nexusmods.com/morrowind/mods/57952)
+    * 3.0 to 3.0.1
+35. [Cat Catchers](https://www.nexusmods.com/morrowind/mods/56869)
+    * 1.4 to 1.4.1
+36. [Westly's Faces Refurbished](https://www.nexusmods.com/morrowind/mods/51214)
+    * 1.0.7 to 1.0.8
+37. [Interesting Outfits - Ashlanders](https://www.nexusmods.com/morrowind/mods/54099)
+    * 1.1.4 to 1.1.5
 
 **Removed**
 1. [SM Telvanni Ceremonial Robe](https://www.nexusmods.com/morrowind/mods/55346)
