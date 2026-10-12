@@ -15,14 +15,15 @@ description: Release Notes
 1. [Cut-Throats and Low-Lifes - A Bandit Overhaul](https://www.nexusmods.com/morrowind/mods/60401)
 2. [Loot n Dump - Mark as Junk and Autosell Items (OpenMW)](https://www.nexusmods.com/morrowind/mods/60373)
 3. [Death and Taxes - Uniques Unlocked](https://www.nexusmods.com/morrowind/mods/60402)
+4. [Verdant Bitter Coast Fern Trees - Animated](https://www.nexusmods.com/morrowind/mods/59602)
    
 **Updated**
 1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
-   * 2.7 to 2.7.2
+   * 2.7 to 2.7.3
 2. [S4V3R - Simple Automatic Saves](https://www.nexusmods.com/morrowind/mods/59665)
    * 1.4 to 1.5
 3. [(OpenMW) UI Toolkit](https://www.nexusmods.com/morrowind/mods/60303)
-   * 1.1 to 1.3
+   * 1.1 to 1.4
 4. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
    * 26.08.23 to 26.09.27
 5. [Unique Velothi Interiors](https://www.nexusmods.com/morrowind/mods/57515)
@@ -69,8 +70,19 @@ description: Release Notes
     * 1.3 to 1.4
 26. [Interesting Outfits - Cultists](https://www.nexusmods.com/morrowind/mods/51922)
     * 2.6.4 to 2.6.5
+27. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
+    * 1.4.11 to 1.5.3
+28. [Library of Vivec Enhanced](https://www.nexusmods.com/morrowind/mods/50181)
+    * 1.6 to 1.10
+29. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
+    * 2.8.1 to 2.8.2
+30. [Almalexia's Chamber Overhaul](https://www.nexusmods.com/morrowind/mods/52737)
+    * 1.94 to 1.95
+31. [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
+    * 1.08 to 1.8b
 
 **Removed**
+1. [SM Telvanni Ceremonial Robe](https://www.nexusmods.com/morrowind/mods/55346)
 
 ## POTI 2.4 - 09-26-2026
 
