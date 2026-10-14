@@ -4,6 +4,45 @@
 
 ---
 
+# Release 1.2.1
+
+Save Safe?: No
+
+**Added**
+- Less Trees prp patch
+- Modern Combat AI
+- Fallout 4 ReIntro
+- Face to Face Dialogue Camera
+- Base Object Swapper
+- Skeletons Outfits to BOS (Adds variety to the random skeletons around the wastes)
+- Bodycam
+- True Third Person
+- Modern Weapon Behaior
+- BREACH
+- Immersive Diamond City
+- Synth Armor Replacment
+- Settlement Labor
+- Dear Modding UI
+- Visible Favorites
+- Custom Discord Rich Presence (Now everyone can see how what you're up to in Fallout 4, specifically that you're playing Capital Commonwealth!)
+- Archive Limit Breaker
+- Flutter Fixer
+- This Made My Spline Stiff
+- Runtime Databases
+- Upscaling
+- Frame Generation
+- Previs and Precombine Guardian
+- Commonwealth Ballistics
+- Munitions
+
+**Removed**
+- Capital Wasteland Hunting Rifle (Didn't work with StS)
+- Synth Overhaul C.A.S.T
+
+**Updated**
+- Ultra Wide Interface (21x9)
+- See Through Scopes
+
 # Release 1.2
 
 Save Safe?: No
