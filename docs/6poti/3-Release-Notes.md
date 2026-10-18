@@ -110,6 +110,7 @@ description: Release Notes
 
 **Removed**
 1. [SM Telvanni Ceremonial Robe](https://www.nexusmods.com/morrowind/mods/55346)
+2. [Indoril and Her Hand Armor Privileges - OpenMW](https://www.nexusmods.com/morrowind/mods/57666)
 
 ## POTI 2.4 - 09-26-2026
 
