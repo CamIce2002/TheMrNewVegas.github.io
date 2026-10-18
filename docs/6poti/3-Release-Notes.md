@@ -19,6 +19,9 @@ description: Release Notes
 5. [Enchanting Remastered (OpenMW)](https://www.nexusmods.com/morrowind/mods/59279)
 6. [TD Bretonic Integrations](https://www.nexusmods.com/morrowind/mods/60475)
 7. [Enchanting Remastered (OpenMW)](https://www.nexusmods.com/morrowind/mods/59279)
+8. [Aegis - OnHit Shield Enchantments (OpenMW)](https://www.nexusmods.com/morrowind/mods/60588)
+9. [Arcane Miscasts](https://www.nexusmods.com/morrowind/mods/60494)
+10. [Fence it (OpenMW)](https://www.nexusmods.com/morrowind/mods/60561)
    
 **Updated**
 1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
