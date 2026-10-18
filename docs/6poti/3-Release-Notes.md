@@ -22,6 +22,7 @@ description: Release Notes
 8. [Aegis - OnHit Shield Enchantments (OpenMW)](https://www.nexusmods.com/morrowind/mods/60588)
 9. [Arcane Miscasts](https://www.nexusmods.com/morrowind/mods/60494)
 10. [Fence it (OpenMW)](https://www.nexusmods.com/morrowind/mods/60561)
+11. [Pelagiad Quest Pack - Adanja](https://www.nexusmods.com/morrowind/mods/60644)
    
 **Updated**
 1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
