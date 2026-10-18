@@ -18,14 +18,15 @@ description: Release Notes
 4. [Akadayna - An Indoril Tower Player Home](https://www.nexusmods.com/morrowind/mods/60485)
 5. [Enchanting Remastered (OpenMW)](https://www.nexusmods.com/morrowind/mods/59279)
 6. [TD Bretonic Integrations](https://www.nexusmods.com/morrowind/mods/60475)
+7. [Enchanting Remastered (OpenMW)](https://www.nexusmods.com/morrowind/mods/59279)
    
 **Updated**
 1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
-   * 2.7 to 2.7.3
+   * 2.7 to 2.7.4
 2. [S4V3R - Simple Automatic Saves](https://www.nexusmods.com/morrowind/mods/59665)
    * 1.4 to 1.5
 3. [(OpenMW) UI Toolkit](https://www.nexusmods.com/morrowind/mods/60303)
-   * 1.1 to 1.4
+   * 1.1 to 1.4.3
 4. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
    * 26.08.23 to 26.09.27
 5. [Unique Velothi Interiors](https://www.nexusmods.com/morrowind/mods/57515)
@@ -33,7 +34,7 @@ description: Release Notes
 6. [Diverse Blood OpenMW Lua](https://www.nexusmods.com/morrowind/mods/59776)
    * 2.4 to 2.4.1
 7. [OpenMW Dynamic Animations](https://www.nexusmods.com/morrowind/mods/57633)
-   * 1.15c to 1.16
+   * 1.15c to 1.16a
 8. [Voice of the Nerevarine - Vanilla Voicelines (OpenMW)](https://www.nexusmods.com/morrowind/mods/59486)
    * 3.22 to 3.23
 9. [Better Balanced Taunt and Persuasion (BBTaP) (OpenMW)](https://www.nexusmods.com/morrowind/mods/58903)
@@ -73,17 +74,17 @@ description: Release Notes
 26. [Interesting Outfits - Cultists](https://www.nexusmods.com/morrowind/mods/51922)
     * 2.6.4 to 2.6.5
 27. [N'Garde - Active Block and Parry (OpenMW)](https://www.nexusmods.com/morrowind/mods/58658)
-    * 1.4.11 to 1.5.3
+    * 1.4.11 to 1.5.8
 28. [Library of Vivec Enhanced](https://www.nexusmods.com/morrowind/mods/50181)
-    * 1.6 to 1.10
+    * 1.6 to 1.9.9.9
 29. [Dwemer Legacy Reforged - Arkngthunch-Sturdumz](https://www.nexusmods.com/morrowind/mods/54807)
-    * 2.8.1 to 2.8.2
+    * 2.8.1 to 2.8.3a
 30. [Almalexia's Chamber Overhaul](https://www.nexusmods.com/morrowind/mods/52737)
     * 1.94 to 1.95
 31. [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
     * 1.08 to 1.8b
 32. [Muffinwind Rebaked](https://www.nexusmods.com/morrowind/mods/59081)
-    * 1.71 to 1.72
+    * 1.71 to 1.73
 33. [Sorry Too Stormy - Bad Weather Service Refusal](https://www.nexusmods.com/morrowind/mods/58941)
     * 1.1 to 1.2
 34. [Merits of Service (OpenMW)](https://www.nexusmods.com/morrowind/mods/57952)
@@ -94,6 +95,14 @@ description: Release Notes
     * 1.0.7 to 1.0.8
 37. [Interesting Outfits - Ashlanders](https://www.nexusmods.com/morrowind/mods/54099)
     * 1.1.4 to 1.1.5
+38. [Move-Like-This - Directional Attacks (OpenMW)](https://www.nexusmods.com/morrowind/mods/59154)
+    * 2.2.2 to 2.2.3
+39. [(OpenMW) Eating Habits](https://www.nexusmods.com/morrowind/mods/59350)
+    * 1.4.7 to 1.4.8
+40. [Baths of Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/59129)
+    * 1.03 to 2.0
+41. [The Soggy Muffin](https://www.nexusmods.com/morrowind/mods/56717)
+    * 2.96 to 2.98
 
 **Removed**
 1. [SM Telvanni Ceremonial Robe](https://www.nexusmods.com/morrowind/mods/55346)
