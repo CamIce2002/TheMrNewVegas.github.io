@@ -2,7 +2,7 @@
 
 # Releases (Newest to Oldest)  
 
-# Release 1.4
+# Release 1.5
 Save Safe? NO
 
 **Added**
@@ -188,6 +188,42 @@ Save Safe? NO
   > 3.0 to 8.0
 * Remiel-Custom Voiced Dwemer Specialist and Companion
   > 1.7.4 to 1.7.6
+
+# Release 1.4
+Save Safe? NO
+
+**Added**
+
+* [Lightened JK's Whiterun](https://www.nexusmods.com/skyrimspecialedition/mods/111896)
+* [Lightened JK's Riverwood](https://www.nexusmods.com/skyrimspecialedition/mods/111895)
+* [Lightened JK's Dragonsreach](https://www.nexusmods.com/skyrimspecialedition/mods/152031)
+* [Lightened JK's The Bannered Mare](https://www.nexusmods.com/skyrimspecialedition/mods/152198)
+* [Lightened JK's Blue Palace](https://www.nexusmods.com/skyrimspecialedition/mods/152335)
+* [Lightened JK's Whiterun Outskirts](https://www.nexusmods.com/skyrimspecialedition/mods/167169)
+* [Lightened JK's High Hrothgar](https://www.nexusmods.com/skyrimspecialedition/mods/181891)
+* [USSEP Nemesis or Pandora Patch - Death after Hug and Dagger Attack Speed Fix](https://www.nexusmods.com/skyrimspecialedition/mods/139572)
+* [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839)
+* [Neutral Whiterun Guards](https://www.nexusmods.com/skyrimspecialedition/mods/70197)
+* [Immersive Aggressive Opponents - Armor-Based Opposite Faction Aggression (Imperials Stormcloaks Thalmor Forsworn Guards)](https://www.nexusmods.com/skyrimspecialedition/mods/70236)
+* [No Food or Ingredients in Barrels and Sacks](https://www.nexusmods.com/skyrimspecialedition/mods/129616)
+* [LoreBox - Item and Spell Tooltips](https://www.nexusmods.com/skyrimspecialedition/mods/156534)
+* [Lorebox - Requiem armor bonus addon](https://www.nexusmods.com/skyrimspecialedition/mods/158069)
+* [Lorebox - Dear Diary Dark Mode UI Reskin](https://www.nexusmods.com/skyrimspecialedition/mods/158388)
+
+**Removed**
+
+* [AddItemMenu - Ultimate Mod Explorer](https://www.nexusmods.com/skyrimspecialedition/mods/17563)
+* [AddItemMenu - NG](https://www.nexusmods.com/skyrimspecialedition/mods/71409)
+* [Acheron - Death Alternative](https://www.nexusmods.com/skyrimspecialedition/mods/108159)
+* [Death Alternative - Your Money or Your Life](https://www.nexusmods.com/skyrimspecialedition/mods/13264)
+* [Acheron - Your Money or Your Life](https://www.nexusmods.com/skyrimspecialedition/mods/111212)
+* [Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
+* [Precision magic trails](https://www.nexusmods.com/skyrimspecialedition/mods/120445)
+* [Precision Trail Replacer - Simple](https://www.nexusmods.com/skyrimspecialedition/mods/83544)
+* [Precision Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/74887)
+
+**Updated**
+
 
 # Release 1.3.3
 Save Safe? YES
