@@ -184,7 +184,7 @@ Save Safe? NO
 * [No Food or Ingredients in Barrels and Sacks](https://www.nexusmods.com/skyrimspecialedition/mods/129616)
 * [LoreBox - Item and Spell Tooltips](https://www.nexusmods.com/skyrimspecialedition/mods/156534)
 * [Lorebox - Requiem armor bonus addon](https://www.nexusmods.com/skyrimspecialedition/mods/158069)
-* [Lorebox - Dear Diary Dark Mode UI Reskin](https://www.nexusmods.com/skyrimspecialedition/mods/158388)
+* [LoreBox Dear Diary - Paper SkyUI Patch](https://www.nexusmods.com/skyrimspecialedition/mods/165511)
 
 **Removed**
 
