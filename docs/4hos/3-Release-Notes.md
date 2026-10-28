@@ -200,6 +200,9 @@ Save Safe? NO
 
 **Updated**
 
+* Immersive Weapon Switch - SKSE plugin
+  > 2.2 to 3.3.4
+
 
 # Release 1.3.3
 Save Safe? YES
