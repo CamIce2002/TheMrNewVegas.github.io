@@ -185,6 +185,7 @@ Save Safe? NO
 * [LoreBox - Item and Spell Tooltips](https://www.nexusmods.com/skyrimspecialedition/mods/156534)
 * [Lorebox - Requiem armor bonus addon](https://www.nexusmods.com/skyrimspecialedition/mods/158069)
 * [LoreBox Dear Diary - Paper SkyUI Patch](https://www.nexusmods.com/skyrimspecialedition/mods/165511)
+* [1.6.1170 Missing Files](https://www.nexusmods.com/skyrimspecialedition/mods/189279)
 
 **Removed**
 
